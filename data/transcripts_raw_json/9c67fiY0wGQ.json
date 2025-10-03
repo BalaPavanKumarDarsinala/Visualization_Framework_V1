@@ -1,0 +1,1291 @@
+{
+  "segments": [
+    {
+      "start": 3.79,
+      "end": 15.43,
+      "text": " Hi! The Smurfs are back and in 3D. I like this movie. At first I thought the movie would appeal more to a younger audience, but I actually found myself enjoying the movie and laughing.",
+      "words": [
+        {
+          "start": 3.79,
+          "end": 4.43,
+          "word": " Hi!"
+        },
+        {
+          "start": 4.91,
+          "end": 5.09,
+          "word": " The"
+        },
+        {
+          "start": 5.09,
+          "end": 5.47,
+          "word": " Smurfs"
+        },
+        {
+          "start": 5.47,
+          "end": 5.67,
+          "word": " are"
+        },
+        {
+          "start": 5.67,
+          "end": 5.97,
+          "word": " back"
+        },
+        {
+          "start": 5.97,
+          "end": 6.29,
+          "word": " and"
+        },
+        {
+          "start": 6.29,
+          "end": 6.49,
+          "word": " in"
+        },
+        {
+          "start": 6.49,
+          "end": 7.03,
+          "word": " 3D."
+        },
+        {
+          "start": 7.47,
+          "end": 7.69,
+          "word": " I"
+        },
+        {
+          "start": 7.69,
+          "end": 7.89,
+          "word": " like"
+        },
+        {
+          "start": 7.89,
+          "end": 8.17,
+          "word": " this"
+        },
+        {
+          "start": 8.17,
+          "end": 8.63,
+          "word": " movie."
+        },
+        {
+          "start": 9.09,
+          "end": 9.27,
+          "word": " At"
+        },
+        {
+          "start": 9.27,
+          "end": 9.55,
+          "word": " first"
+        },
+        {
+          "start": 9.55,
+          "end": 9.81,
+          "word": " I"
+        },
+        {
+          "start": 9.81,
+          "end": 9.97,
+          "word": " thought"
+        },
+        {
+          "start": 9.97,
+          "end": 10.21,
+          "word": " the"
+        },
+        {
+          "start": 10.21,
+          "end": 10.47,
+          "word": " movie"
+        },
+        {
+          "start": 10.47,
+          "end": 10.67,
+          "word": " would"
+        },
+        {
+          "start": 10.67,
+          "end": 10.97,
+          "word": " appeal"
+        },
+        {
+          "start": 10.97,
+          "end": 11.23,
+          "word": " more"
+        },
+        {
+          "start": 11.23,
+          "end": 11.49,
+          "word": " to"
+        },
+        {
+          "start": 11.49,
+          "end": 11.63,
+          "word": " a"
+        },
+        {
+          "start": 11.63,
+          "end": 11.85,
+          "word": " younger"
+        },
+        {
+          "start": 11.85,
+          "end": 12.37,
+          "word": " audience,"
+        },
+        {
+          "start": 12.55,
+          "end": 12.69,
+          "word": " but"
+        },
+        {
+          "start": 12.69,
+          "end": 12.85,
+          "word": " I"
+        },
+        {
+          "start": 12.85,
+          "end": 13.25,
+          "word": " actually"
+        },
+        {
+          "start": 13.25,
+          "end": 13.57,
+          "word": " found"
+        },
+        {
+          "start": 13.57,
+          "end": 13.93,
+          "word": " myself"
+        },
+        {
+          "start": 13.93,
+          "end": 14.33,
+          "word": " enjoying"
+        },
+        {
+          "start": 14.33,
+          "end": 14.61,
+          "word": " the"
+        },
+        {
+          "start": 14.61,
+          "end": 14.85,
+          "word": " movie"
+        },
+        {
+          "start": 14.85,
+          "end": 15.07,
+          "word": " and"
+        },
+        {
+          "start": 15.07,
+          "end": 15.43,
+          "word": " laughing."
+        }
+      ]
+    },
+    {
+      "start": 15.99,
+      "end": 25.31,
+      "text": " If you haven't seen the Smurfs TV series, the movie is about how a group of little blue people come to New York after trying to escape from the evil Gargamel.",
+      "words": [
+        {
+          "start": 15.99,
+          "end": 16.19,
+          "word": " If"
+        },
+        {
+          "start": 16.19,
+          "end": 16.35,
+          "word": " you"
+        },
+        {
+          "start": 16.35,
+          "end": 16.69,
+          "word": " haven't"
+        },
+        {
+          "start": 16.69,
+          "end": 16.93,
+          "word": " seen"
+        },
+        {
+          "start": 16.93,
+          "end": 17.15,
+          "word": " the"
+        },
+        {
+          "start": 17.15,
+          "end": 17.53,
+          "word": " Smurfs"
+        },
+        {
+          "start": 17.53,
+          "end": 17.79,
+          "word": " TV"
+        },
+        {
+          "start": 17.79,
+          "end": 18.37,
+          "word": " series,"
+        },
+        {
+          "start": 18.75,
+          "end": 18.93,
+          "word": " the"
+        },
+        {
+          "start": 18.93,
+          "end": 19.13,
+          "word": " movie"
+        },
+        {
+          "start": 19.13,
+          "end": 19.35,
+          "word": " is"
+        },
+        {
+          "start": 19.35,
+          "end": 19.59,
+          "word": " about"
+        },
+        {
+          "start": 19.59,
+          "end": 19.85,
+          "word": " how"
+        },
+        {
+          "start": 19.85,
+          "end": 19.99,
+          "word": " a"
+        },
+        {
+          "start": 19.99,
+          "end": 20.15,
+          "word": " group"
+        },
+        {
+          "start": 20.15,
+          "end": 20.39,
+          "word": " of"
+        },
+        {
+          "start": 20.39,
+          "end": 20.63,
+          "word": " little"
+        },
+        {
+          "start": 20.63,
+          "end": 20.97,
+          "word": " blue"
+        },
+        {
+          "start": 20.97,
+          "end": 21.37,
+          "word": " people"
+        },
+        {
+          "start": 21.37,
+          "end": 21.91,
+          "word": " come"
+        },
+        {
+          "start": 21.91,
+          "end": 22.23,
+          "word": " to"
+        },
+        {
+          "start": 22.23,
+          "end": 22.41,
+          "word": " New"
+        },
+        {
+          "start": 22.41,
+          "end": 22.69,
+          "word": " York"
+        },
+        {
+          "start": 22.69,
+          "end": 23.07,
+          "word": " after"
+        },
+        {
+          "start": 23.07,
+          "end": 23.45,
+          "word": " trying"
+        },
+        {
+          "start": 23.45,
+          "end": 23.67,
+          "word": " to"
+        },
+        {
+          "start": 23.67,
+          "end": 23.97,
+          "word": " escape"
+        },
+        {
+          "start": 23.97,
+          "end": 24.25,
+          "word": " from"
+        },
+        {
+          "start": 24.25,
+          "end": 24.41,
+          "word": " the"
+        },
+        {
+          "start": 24.41,
+          "end": 24.77,
+          "word": " evil"
+        },
+        {
+          "start": 24.77,
+          "end": 25.31,
+          "word": " Gargamel."
+        }
+      ]
+    },
+    {
+      "start": 25.95,
+      "end": 30.85,
+      "text": " They befriend a couple named Patrick and Grace, since they let them stay at their apartment.",
+      "words": [
+        {
+          "start": 25.95,
+          "end": 26.21,
+          "word": " They"
+        },
+        {
+          "start": 26.21,
+          "end": 26.51,
+          "word": " befriend"
+        },
+        {
+          "start": 26.51,
+          "end": 26.85,
+          "word": " a"
+        },
+        {
+          "start": 26.85,
+          "end": 27.09,
+          "word": " couple"
+        },
+        {
+          "start": 27.09,
+          "end": 27.41,
+          "word": " named"
+        },
+        {
+          "start": 27.41,
+          "end": 27.83,
+          "word": " Patrick"
+        },
+        {
+          "start": 27.83,
+          "end": 28.13,
+          "word": " and"
+        },
+        {
+          "start": 28.13,
+          "end": 28.43,
+          "word": " Grace,"
+        },
+        {
+          "start": 28.77,
+          "end": 29.11,
+          "word": " since"
+        },
+        {
+          "start": 29.11,
+          "end": 29.35,
+          "word": " they"
+        },
+        {
+          "start": 29.35,
+          "end": 29.55,
+          "word": " let"
+        },
+        {
+          "start": 29.55,
+          "end": 29.83,
+          "word": " them"
+        },
+        {
+          "start": 29.83,
+          "end": 30.07,
+          "word": " stay"
+        },
+        {
+          "start": 30.07,
+          "end": 30.27,
+          "word": " at"
+        },
+        {
+          "start": 30.27,
+          "end": 30.43,
+          "word": " their"
+        },
+        {
+          "start": 30.43,
+          "end": 30.85,
+          "word": " apartment."
+        }
+      ]
+    },
+    {
+      "start": 30.85,
+      "end": 38.57,
+      "text": " If you're wondering how the Smurfs will avoid Gargamel and get back to their magical world, watch the movie to find out.",
+      "words": [
+        {
+          "start": 30.85,
+          "end": 31.63,
+          "word": " If"
+        },
+        {
+          "start": 31.63,
+          "end": 31.87,
+          "word": " you're"
+        },
+        {
+          "start": 31.87,
+          "end": 32.17,
+          "word": " wondering"
+        },
+        {
+          "start": 32.17,
+          "end": 32.49,
+          "word": " how"
+        },
+        {
+          "start": 32.49,
+          "end": 32.69,
+          "word": " the"
+        },
+        {
+          "start": 32.69,
+          "end": 33.05,
+          "word": " Smurfs"
+        },
+        {
+          "start": 33.05,
+          "end": 33.31,
+          "word": " will"
+        },
+        {
+          "start": 33.31,
+          "end": 33.71,
+          "word": " avoid"
+        },
+        {
+          "start": 33.71,
+          "end": 34.29,
+          "word": " Gargamel"
+        },
+        {
+          "start": 34.29,
+          "end": 34.97,
+          "word": " and"
+        },
+        {
+          "start": 34.97,
+          "end": 35.17,
+          "word": " get"
+        },
+        {
+          "start": 35.17,
+          "end": 35.41,
+          "word": " back"
+        },
+        {
+          "start": 35.41,
+          "end": 35.65,
+          "word": " to"
+        },
+        {
+          "start": 35.65,
+          "end": 35.83,
+          "word": " their"
+        },
+        {
+          "start": 35.83,
+          "end": 36.21,
+          "word": " magical"
+        },
+        {
+          "start": 36.21,
+          "end": 36.69,
+          "word": " world,"
+        },
+        {
+          "start": 36.93,
+          "end": 37.19,
+          "word": " watch"
+        },
+        {
+          "start": 37.19,
+          "end": 37.45,
+          "word": " the"
+        },
+        {
+          "start": 37.45,
+          "end": 37.67,
+          "word": " movie"
+        },
+        {
+          "start": 37.67,
+          "end": 37.95,
+          "word": " to"
+        },
+        {
+          "start": 37.95,
+          "end": 38.21,
+          "word": " find"
+        },
+        {
+          "start": 38.21,
+          "end": 38.57,
+          "word": " out."
+        }
+      ]
+    },
+    {
+      "start": 38.85,
+      "end": 44.99,
+      "text": " I think the movie really depicted the liveliness of New York City well since I'm a New Yorker myself.",
+      "words": [
+        {
+          "start": 38.85,
+          "end": 39.11,
+          "word": " I"
+        },
+        {
+          "start": 39.11,
+          "end": 39.33,
+          "word": " think"
+        },
+        {
+          "start": 39.33,
+          "end": 39.55,
+          "word": " the"
+        },
+        {
+          "start": 39.55,
+          "end": 39.81,
+          "word": " movie"
+        },
+        {
+          "start": 39.81,
+          "end": 40.17,
+          "word": " really"
+        },
+        {
+          "start": 40.17,
+          "end": 40.67,
+          "word": " depicted"
+        },
+        {
+          "start": 40.67,
+          "end": 40.95,
+          "word": " the"
+        },
+        {
+          "start": 40.95,
+          "end": 41.49,
+          "word": " liveliness"
+        },
+        {
+          "start": 41.49,
+          "end": 41.77,
+          "word": " of"
+        },
+        {
+          "start": 41.77,
+          "end": 41.97,
+          "word": " New"
+        },
+        {
+          "start": 41.97,
+          "end": 42.19,
+          "word": " York"
+        },
+        {
+          "start": 42.19,
+          "end": 42.49,
+          "word": " City"
+        },
+        {
+          "start": 42.49,
+          "end": 42.77,
+          "word": " well"
+        },
+        {
+          "start": 42.77,
+          "end": 43.35,
+          "word": " since"
+        },
+        {
+          "start": 43.35,
+          "end": 43.79,
+          "word": " I'm"
+        },
+        {
+          "start": 43.79,
+          "end": 43.91,
+          "word": " a"
+        },
+        {
+          "start": 43.91,
+          "end": 44.11,
+          "word": " New"
+        },
+        {
+          "start": 44.11,
+          "end": 44.49,
+          "word": " Yorker"
+        },
+        {
+          "start": 44.49,
+          "end": 44.99,
+          "word": " myself."
+        }
+      ]
+    },
+    {
+      "start": 46.3,
+      "end": 53.42,
+      "text": " I also liked how the storyline of the movie worked together smoothly. The movie also delivers many meaningful messages.",
+      "words": [
+        {
+          "start": 46.3,
+          "end": 46.58,
+          "word": " I"
+        },
+        {
+          "start": 46.58,
+          "end": 47.0,
+          "word": " also"
+        },
+        {
+          "start": 47.0,
+          "end": 47.3,
+          "word": " liked"
+        },
+        {
+          "start": 47.3,
+          "end": 47.56,
+          "word": " how"
+        },
+        {
+          "start": 47.56,
+          "end": 47.74,
+          "word": " the"
+        },
+        {
+          "start": 47.74,
+          "end": 48.16,
+          "word": " storyline"
+        },
+        {
+          "start": 48.16,
+          "end": 48.52,
+          "word": " of"
+        },
+        {
+          "start": 48.52,
+          "end": 48.66,
+          "word": " the"
+        },
+        {
+          "start": 48.66,
+          "end": 48.94,
+          "word": " movie"
+        },
+        {
+          "start": 48.94,
+          "end": 49.22,
+          "word": " worked"
+        },
+        {
+          "start": 49.22,
+          "end": 49.76,
+          "word": " together"
+        },
+        {
+          "start": 49.76,
+          "end": 50.32,
+          "word": " smoothly."
+        },
+        {
+          "start": 50.82,
+          "end": 51.04,
+          "word": " The"
+        },
+        {
+          "start": 51.04,
+          "end": 51.3,
+          "word": " movie"
+        },
+        {
+          "start": 51.3,
+          "end": 51.66,
+          "word": " also"
+        },
+        {
+          "start": 51.66,
+          "end": 52.18,
+          "word": " delivers"
+        },
+        {
+          "start": 52.18,
+          "end": 52.6,
+          "word": " many"
+        },
+        {
+          "start": 52.6,
+          "end": 53.12,
+          "word": " meaningful"
+        },
+        {
+          "start": 53.12,
+          "end": 53.42,
+          "word": " messages."
+        }
+      ]
+    },
+    {
+      "start": 54.44,
+      "end": 60.64,
+      "text": " Though Smurfs learned the importance of teamwork and Patrick learned to believe in himself and follow his heart.",
+      "words": [
+        {
+          "start": 54.44,
+          "end": 54.66,
+          "word": " Though"
+        },
+        {
+          "start": 54.66,
+          "end": 55.08,
+          "word": " Smurfs"
+        },
+        {
+          "start": 55.08,
+          "end": 55.34,
+          "word": " learned"
+        },
+        {
+          "start": 55.34,
+          "end": 55.56,
+          "word": " the"
+        },
+        {
+          "start": 55.56,
+          "end": 56.0,
+          "word": " importance"
+        },
+        {
+          "start": 56.0,
+          "end": 56.34,
+          "word": " of"
+        },
+        {
+          "start": 56.34,
+          "end": 56.84,
+          "word": " teamwork"
+        },
+        {
+          "start": 56.84,
+          "end": 57.46,
+          "word": " and"
+        },
+        {
+          "start": 57.46,
+          "end": 57.92,
+          "word": " Patrick"
+        },
+        {
+          "start": 57.92,
+          "end": 58.18,
+          "word": " learned"
+        },
+        {
+          "start": 58.18,
+          "end": 58.5,
+          "word": " to"
+        },
+        {
+          "start": 58.5,
+          "end": 58.78,
+          "word": " believe"
+        },
+        {
+          "start": 58.78,
+          "end": 59.02,
+          "word": " in"
+        },
+        {
+          "start": 59.02,
+          "end": 59.4,
+          "word": " himself"
+        },
+        {
+          "start": 59.4,
+          "end": 59.74,
+          "word": " and"
+        },
+        {
+          "start": 59.74,
+          "end": 60.06,
+          "word": " follow"
+        },
+        {
+          "start": 60.06,
+          "end": 60.38,
+          "word": " his"
+        },
+        {
+          "start": 60.38,
+          "end": 60.64,
+          "word": " heart."
+        }
+      ]
+    },
+    {
+      "start": 60.64,
+      "end": 67.84,
+      "text": " I also thought some parts of the movie were funny. For example, Gargamel's cat's facial expressions.",
+      "words": [
+        {
+          "start": 60.64,
+          "end": 61.68,
+          "word": " I"
+        },
+        {
+          "start": 61.74,
+          "end": 62.04,
+          "word": " also"
+        },
+        {
+          "start": 62.04,
+          "end": 62.34,
+          "word": " thought"
+        },
+        {
+          "start": 62.34,
+          "end": 62.66,
+          "word": " some"
+        },
+        {
+          "start": 62.66,
+          "end": 62.9,
+          "word": " parts"
+        },
+        {
+          "start": 62.9,
+          "end": 63.08,
+          "word": " of"
+        },
+        {
+          "start": 63.08,
+          "end": 63.18,
+          "word": " the"
+        },
+        {
+          "start": 63.18,
+          "end": 63.36,
+          "word": " movie"
+        },
+        {
+          "start": 63.36,
+          "end": 63.62,
+          "word": " were"
+        },
+        {
+          "start": 63.62,
+          "end": 64.04,
+          "word": " funny."
+        },
+        {
+          "start": 64.62,
+          "end": 64.72,
+          "word": " For"
+        },
+        {
+          "start": 64.72,
+          "end": 65.16,
+          "word": " example,"
+        },
+        {
+          "start": 65.82,
+          "end": 66.36,
+          "word": " Gargamel's"
+        },
+        {
+          "start": 66.36,
+          "end": 66.88,
+          "word": " cat's"
+        },
+        {
+          "start": 66.88,
+          "end": 67.14,
+          "word": " facial"
+        },
+        {
+          "start": 67.14,
+          "end": 67.84,
+          "word": " expressions."
+        }
+      ]
+    },
+    {
+      "start": 68.52,
+      "end": 76.62,
+      "text": " They're so hilarious and similar to how a person would act. I recommend this film to children 6 and up. It is a fun family film.",
+      "words": [
+        {
+          "start": 68.52,
+          "end": 68.72,
+          "word": " They're"
+        },
+        {
+          "start": 68.72,
+          "end": 68.96,
+          "word": " so"
+        },
+        {
+          "start": 68.96,
+          "end": 69.52,
+          "word": " hilarious"
+        },
+        {
+          "start": 69.52,
+          "end": 69.98,
+          "word": " and"
+        },
+        {
+          "start": 69.98,
+          "end": 70.32,
+          "word": " similar"
+        },
+        {
+          "start": 70.32,
+          "end": 70.6,
+          "word": " to"
+        },
+        {
+          "start": 70.6,
+          "end": 70.8,
+          "word": " how"
+        },
+        {
+          "start": 70.8,
+          "end": 70.98,
+          "word": " a"
+        },
+        {
+          "start": 70.98,
+          "end": 71.22,
+          "word": " person"
+        },
+        {
+          "start": 71.22,
+          "end": 71.46,
+          "word": " would"
+        },
+        {
+          "start": 71.46,
+          "end": 71.7,
+          "word": " act."
+        },
+        {
+          "start": 72.16,
+          "end": 72.36,
+          "word": " I"
+        },
+        {
+          "start": 72.36,
+          "end": 72.74,
+          "word": " recommend"
+        },
+        {
+          "start": 72.74,
+          "end": 73.06,
+          "word": " this"
+        },
+        {
+          "start": 73.06,
+          "end": 73.28,
+          "word": " film"
+        },
+        {
+          "start": 73.28,
+          "end": 73.56,
+          "word": " to"
+        },
+        {
+          "start": 73.56,
+          "end": 73.9,
+          "word": " children"
+        },
+        {
+          "start": 73.9,
+          "end": 74.28,
+          "word": " 6"
+        },
+        {
+          "start": 74.28,
+          "end": 74.54,
+          "word": " and"
+        },
+        {
+          "start": 74.54,
+          "end": 74.78,
+          "word": " up."
+        },
+        {
+          "start": 75.04,
+          "end": 75.24,
+          "word": " It"
+        },
+        {
+          "start": 75.24,
+          "end": 75.38,
+          "word": " is"
+        },
+        {
+          "start": 75.38,
+          "end": 75.56,
+          "word": " a"
+        },
+        {
+          "start": 75.56,
+          "end": 75.78,
+          "word": " fun"
+        },
+        {
+          "start": 75.78,
+          "end": 76.26,
+          "word": " family"
+        },
+        {
+          "start": 76.26,
+          "end": 76.62,
+          "word": " film."
+        }
+      ]
+    },
+    {
+      "start": 77.2,
+      "end": 87.44,
+      "text": " Parents will find themselves laughing as they reminisce their childhood and children will like the movie since the Smurfs are so adorable and they go on thrilling adventures.",
+      "words": [
+        {
+          "start": 77.2,
+          "end": 77.4,
+          "word": " Parents"
+        },
+        {
+          "start": 77.4,
+          "end": 77.68,
+          "word": " will"
+        },
+        {
+          "start": 77.68,
+          "end": 77.92,
+          "word": " find"
+        },
+        {
+          "start": 77.92,
+          "end": 78.38,
+          "word": " themselves"
+        },
+        {
+          "start": 78.38,
+          "end": 78.96,
+          "word": " laughing"
+        },
+        {
+          "start": 78.96,
+          "end": 79.58,
+          "word": " as"
+        },
+        {
+          "start": 79.58,
+          "end": 79.76,
+          "word": " they"
+        },
+        {
+          "start": 79.76,
+          "end": 80.3,
+          "word": " reminisce"
+        },
+        {
+          "start": 80.3,
+          "end": 80.5,
+          "word": " their"
+        },
+        {
+          "start": 80.5,
+          "end": 81.02,
+          "word": " childhood"
+        },
+        {
+          "start": 81.02,
+          "end": 81.7,
+          "word": " and"
+        },
+        {
+          "start": 81.7,
+          "end": 82.02,
+          "word": " children"
+        },
+        {
+          "start": 82.02,
+          "end": 82.48,
+          "word": " will"
+        },
+        {
+          "start": 82.48,
+          "end": 82.7,
+          "word": " like"
+        },
+        {
+          "start": 82.7,
+          "end": 82.9,
+          "word": " the"
+        },
+        {
+          "start": 82.9,
+          "end": 83.28,
+          "word": " movie"
+        },
+        {
+          "start": 83.28,
+          "end": 83.88,
+          "word": " since"
+        },
+        {
+          "start": 83.88,
+          "end": 84.22,
+          "word": " the"
+        },
+        {
+          "start": 84.22,
+          "end": 84.56,
+          "word": " Smurfs"
+        },
+        {
+          "start": 84.56,
+          "end": 84.72,
+          "word": " are"
+        },
+        {
+          "start": 84.72,
+          "end": 85.04,
+          "word": " so"
+        },
+        {
+          "start": 85.04,
+          "end": 85.54,
+          "word": " adorable"
+        },
+        {
+          "start": 85.54,
+          "end": 85.92,
+          "word": " and"
+        },
+        {
+          "start": 85.92,
+          "end": 86.1,
+          "word": " they"
+        },
+        {
+          "start": 86.1,
+          "end": 86.24,
+          "word": " go"
+        },
+        {
+          "start": 86.24,
+          "end": 86.44,
+          "word": " on"
+        },
+        {
+          "start": 86.44,
+          "end": 86.78,
+          "word": " thrilling"
+        },
+        {
+          "start": 86.78,
+          "end": 87.44,
+          "word": " adventures."
+        }
+      ]
+    },
+    {
+      "start": 87.44,
+      "end": 91.82,
+      "text": " This has been a review from Gabriella Chu for Kids First. Bye!",
+      "words": [
+        {
+          "start": 87.44,
+          "end": 88.28,
+          "word": " This"
+        },
+        {
+          "start": 88.28,
+          "end": 88.54,
+          "word": " has"
+        },
+        {
+          "start": 88.54,
+          "end": 88.78,
+          "word": " been"
+        },
+        {
+          "start": 88.78,
+          "end": 88.9,
+          "word": " a"
+        },
+        {
+          "start": 88.9,
+          "end": 89.2,
+          "word": " review"
+        },
+        {
+          "start": 89.2,
+          "end": 89.58,
+          "word": " from"
+        },
+        {
+          "start": 89.58,
+          "end": 90.16,
+          "word": " Gabriella"
+        },
+        {
+          "start": 90.16,
+          "end": 90.42,
+          "word": " Chu"
+        },
+        {
+          "start": 90.42,
+          "end": 90.68,
+          "word": " for"
+        },
+        {
+          "start": 90.68,
+          "end": 90.92,
+          "word": " Kids"
+        },
+        {
+          "start": 90.92,
+          "end": 91.26,
+          "word": " First."
+        },
+        {
+          "start": 91.56,
+          "end": 91.82,
+          "word": " Bye!"
+        }
+      ]
+    }
+  ]
+}

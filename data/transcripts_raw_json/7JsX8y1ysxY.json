@@ -1,0 +1,3263 @@
+{
+  "segments": [
+    {
+      "start": 9.65,
+      "end": 15.27,
+      "text": " Alright, I just watched The Watchman. Yes, I was watching The Watchman.",
+      "words": [
+        {
+          "start": 9.65,
+          "end": 10.09,
+          "word": " Alright,"
+        },
+        {
+          "start": 10.21,
+          "end": 10.23,
+          "word": " I"
+        },
+        {
+          "start": 10.23,
+          "end": 10.37,
+          "word": " just"
+        },
+        {
+          "start": 10.37,
+          "end": 10.63,
+          "word": " watched"
+        },
+        {
+          "start": 10.63,
+          "end": 10.83,
+          "word": " The"
+        },
+        {
+          "start": 10.83,
+          "end": 11.31,
+          "word": " Watchman."
+        },
+        {
+          "start": 11.67,
+          "end": 12.01,
+          "word": " Yes,"
+        },
+        {
+          "start": 12.39,
+          "end": 13.13,
+          "word": " I"
+        },
+        {
+          "start": 13.13,
+          "end": 13.29,
+          "word": " was"
+        },
+        {
+          "start": 13.29,
+          "end": 13.77,
+          "word": " watching"
+        },
+        {
+          "start": 13.77,
+          "end": 14.43,
+          "word": " The"
+        },
+        {
+          "start": 14.43,
+          "end": 15.27,
+          "word": " Watchman."
+        }
+      ]
+    },
+    {
+      "start": 16.95,
+      "end": 20.05,
+      "text": " Let's see, it was... few words, describe it.",
+      "words": [
+        {
+          "start": 16.95,
+          "end": 17.11,
+          "word": " Let's"
+        },
+        {
+          "start": 17.11,
+          "end": 17.31,
+          "word": " see,"
+        },
+        {
+          "start": 17.59,
+          "end": 17.59,
+          "word": " it"
+        },
+        {
+          "start": 17.59,
+          "end": 18.83,
+          "word": " was..."
+        },
+        {
+          "start": 18.83,
+          "end": 18.85,
+          "word": " few"
+        },
+        {
+          "start": 18.85,
+          "end": 19.23,
+          "word": " words,"
+        },
+        {
+          "start": 19.31,
+          "end": 19.71,
+          "word": " describe"
+        },
+        {
+          "start": 19.71,
+          "end": 20.05,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 20.83,
+      "end": 22.01,
+      "text": " Graphics were incredible.",
+      "words": [
+        {
+          "start": 20.83,
+          "end": 21.21,
+          "word": " Graphics"
+        },
+        {
+          "start": 21.21,
+          "end": 21.63,
+          "word": " were"
+        },
+        {
+          "start": 21.63,
+          "end": 22.01,
+          "word": " incredible."
+        }
+      ]
+    },
+    {
+      "start": 23.07,
+      "end": 26.53,
+      "text": " Some really good acting, some really sucky acting.",
+      "words": [
+        {
+          "start": 23.07,
+          "end": 23.59,
+          "word": " Some"
+        },
+        {
+          "start": 23.59,
+          "end": 23.89,
+          "word": " really"
+        },
+        {
+          "start": 23.89,
+          "end": 24.17,
+          "word": " good"
+        },
+        {
+          "start": 24.17,
+          "end": 24.65,
+          "word": " acting,"
+        },
+        {
+          "start": 24.95,
+          "end": 25.17,
+          "word": " some"
+        },
+        {
+          "start": 25.17,
+          "end": 25.45,
+          "word": " really"
+        },
+        {
+          "start": 25.45,
+          "end": 26.05,
+          "word": " sucky"
+        },
+        {
+          "start": 26.05,
+          "end": 26.53,
+          "word": " acting."
+        }
+      ]
+    },
+    {
+      "start": 27.63,
+      "end": 32.07,
+      "text": " Blue penis. You're like, what? What did you just say? Uh, yeah, blue penis.",
+      "words": [
+        {
+          "start": 27.63,
+          "end": 27.97,
+          "word": " Blue"
+        },
+        {
+          "start": 27.97,
+          "end": 28.31,
+          "word": " penis."
+        },
+        {
+          "start": 28.91,
+          "end": 29.11,
+          "word": " You're"
+        },
+        {
+          "start": 29.11,
+          "end": 29.27,
+          "word": " like,"
+        },
+        {
+          "start": 29.29,
+          "end": 29.49,
+          "word": " what?"
+        },
+        {
+          "start": 29.67,
+          "end": 29.75,
+          "word": " What"
+        },
+        {
+          "start": 29.75,
+          "end": 29.85,
+          "word": " did"
+        },
+        {
+          "start": 29.85,
+          "end": 29.99,
+          "word": " you"
+        },
+        {
+          "start": 29.99,
+          "end": 30.17,
+          "word": " just"
+        },
+        {
+          "start": 30.17,
+          "end": 30.41,
+          "word": " say?"
+        },
+        {
+          "start": 30.85,
+          "end": 31.05,
+          "word": " Uh,"
+        },
+        {
+          "start": 31.23,
+          "end": 31.45,
+          "word": " yeah,"
+        },
+        {
+          "start": 31.69,
+          "end": 31.77,
+          "word": " blue"
+        },
+        {
+          "start": 31.77,
+          "end": 32.07,
+          "word": " penis."
+        }
+      ]
+    },
+    {
+      "start": 32.85,
+      "end": 34.83,
+      "text": " Alright, let me explain. Okay.",
+      "words": [
+        {
+          "start": 32.85,
+          "end": 33.17,
+          "word": " Alright,"
+        },
+        {
+          "start": 33.47,
+          "end": 33.63,
+          "word": " let"
+        },
+        {
+          "start": 33.63,
+          "end": 33.75,
+          "word": " me"
+        },
+        {
+          "start": 33.75,
+          "end": 34.21,
+          "word": " explain."
+        },
+        {
+          "start": 34.61,
+          "end": 34.83,
+          "word": " Okay."
+        }
+      ]
+    },
+    {
+      "start": 36.06,
+      "end": 38.6,
+      "text": " The guy that's blue in the movie, Dr. Manhattan.",
+      "words": [
+        {
+          "start": 36.06,
+          "end": 36.28,
+          "word": " The"
+        },
+        {
+          "start": 36.28,
+          "end": 36.58,
+          "word": " guy"
+        },
+        {
+          "start": 36.58,
+          "end": 37.02,
+          "word": " that's"
+        },
+        {
+          "start": 37.02,
+          "end": 37.26,
+          "word": " blue"
+        },
+        {
+          "start": 37.26,
+          "end": 37.5,
+          "word": " in"
+        },
+        {
+          "start": 37.5,
+          "end": 37.6,
+          "word": " the"
+        },
+        {
+          "start": 37.6,
+          "end": 37.84,
+          "word": " movie,"
+        },
+        {
+          "start": 38.02,
+          "end": 38.2,
+          "word": " Dr."
+        },
+        {
+          "start": 38.4,
+          "end": 38.6,
+          "word": " Manhattan."
+        }
+      ]
+    },
+    {
+      "start": 40.55,
+      "end": 47.35,
+      "text": " He's naked. So it was pretty funny because people were like eating popcorn and you see the first shot of them and people,",
+      "words": [
+        {
+          "start": 40.55,
+          "end": 41.03,
+          "word": " He's"
+        },
+        {
+          "start": 41.03,
+          "end": 41.33,
+          "word": " naked."
+        },
+        {
+          "start": 41.69,
+          "end": 41.85,
+          "word": " So"
+        },
+        {
+          "start": 41.85,
+          "end": 41.99,
+          "word": " it"
+        },
+        {
+          "start": 41.99,
+          "end": 41.99,
+          "word": " was"
+        },
+        {
+          "start": 41.99,
+          "end": 42.15,
+          "word": " pretty"
+        },
+        {
+          "start": 42.15,
+          "end": 42.41,
+          "word": " funny"
+        },
+        {
+          "start": 42.41,
+          "end": 42.65,
+          "word": " because"
+        },
+        {
+          "start": 42.65,
+          "end": 42.87,
+          "word": " people"
+        },
+        {
+          "start": 42.87,
+          "end": 43.11,
+          "word": " were"
+        },
+        {
+          "start": 43.11,
+          "end": 43.69,
+          "word": " like"
+        },
+        {
+          "start": 43.69,
+          "end": 44.15,
+          "word": " eating"
+        },
+        {
+          "start": 44.15,
+          "end": 44.63,
+          "word": " popcorn"
+        },
+        {
+          "start": 44.63,
+          "end": 45.41,
+          "word": " and"
+        },
+        {
+          "start": 45.41,
+          "end": 45.77,
+          "word": " you"
+        },
+        {
+          "start": 45.77,
+          "end": 45.95,
+          "word": " see"
+        },
+        {
+          "start": 45.95,
+          "end": 46.09,
+          "word": " the"
+        },
+        {
+          "start": 46.09,
+          "end": 46.33,
+          "word": " first"
+        },
+        {
+          "start": 46.33,
+          "end": 46.59,
+          "word": " shot"
+        },
+        {
+          "start": 46.59,
+          "end": 46.73,
+          "word": " of"
+        },
+        {
+          "start": 46.73,
+          "end": 46.91,
+          "word": " them"
+        },
+        {
+          "start": 46.91,
+          "end": 47.07,
+          "word": " and"
+        },
+        {
+          "start": 47.07,
+          "end": 47.35,
+          "word": " people,"
+        }
+      ]
+    },
+    {
+      "start": 47.49,
+      "end": 52.87,
+      "text": " you hear like this ripple effect of whisperings. Oh my god. Is that uh,",
+      "words": [
+        {
+          "start": 47.49,
+          "end": 47.57,
+          "word": " you"
+        },
+        {
+          "start": 47.57,
+          "end": 47.85,
+          "word": " hear"
+        },
+        {
+          "start": 47.85,
+          "end": 48.09,
+          "word": " like"
+        },
+        {
+          "start": 48.09,
+          "end": 48.61,
+          "word": " this"
+        },
+        {
+          "start": 48.61,
+          "end": 49.23,
+          "word": " ripple"
+        },
+        {
+          "start": 49.23,
+          "end": 49.59,
+          "word": " effect"
+        },
+        {
+          "start": 49.59,
+          "end": 49.79,
+          "word": " of"
+        },
+        {
+          "start": 49.79,
+          "end": 50.43,
+          "word": " whisperings."
+        },
+        {
+          "start": 50.77,
+          "end": 51.01,
+          "word": " Oh"
+        },
+        {
+          "start": 51.01,
+          "end": 51.21,
+          "word": " my"
+        },
+        {
+          "start": 51.21,
+          "end": 51.51,
+          "word": " god."
+        },
+        {
+          "start": 52.27,
+          "end": 52.35,
+          "word": " Is"
+        },
+        {
+          "start": 52.35,
+          "end": 52.55,
+          "word": " that"
+        },
+        {
+          "start": 52.55,
+          "end": 52.87,
+          "word": " uh,"
+        }
+      ]
+    },
+    {
+      "start": 53.25,
+      "end": 55.75,
+      "text": " is that... am I looking at this right?",
+      "words": [
+        {
+          "start": 53.25,
+          "end": 53.73,
+          "word": " is"
+        },
+        {
+          "start": 53.73,
+          "end": 54.77,
+          "word": " that..."
+        },
+        {
+          "start": 54.77,
+          "end": 54.83,
+          "word": " am"
+        },
+        {
+          "start": 54.83,
+          "end": 54.97,
+          "word": " I"
+        },
+        {
+          "start": 54.97,
+          "end": 55.19,
+          "word": " looking"
+        },
+        {
+          "start": 55.19,
+          "end": 55.39,
+          "word": " at"
+        },
+        {
+          "start": 55.39,
+          "end": 55.51,
+          "word": " this"
+        },
+        {
+          "start": 55.51,
+          "end": 55.75,
+          "word": " right?"
+        }
+      ]
+    },
+    {
+      "start": 57.77,
+      "end": 63.93,
+      "text": " I thought it was really funny. Um, there could have been less blue nudity because what was weird was the fact that in",
+      "words": [
+        {
+          "start": 57.77,
+          "end": 58.05,
+          "word": " I"
+        },
+        {
+          "start": 58.05,
+          "end": 58.15,
+          "word": " thought"
+        },
+        {
+          "start": 58.15,
+          "end": 58.21,
+          "word": " it"
+        },
+        {
+          "start": 58.21,
+          "end": 58.29,
+          "word": " was"
+        },
+        {
+          "start": 58.29,
+          "end": 58.45,
+          "word": " really"
+        },
+        {
+          "start": 58.45,
+          "end": 58.75,
+          "word": " funny."
+        },
+        {
+          "start": 59.13,
+          "end": 59.27,
+          "word": " Um,"
+        },
+        {
+          "start": 59.47,
+          "end": 59.59,
+          "word": " there"
+        },
+        {
+          "start": 59.59,
+          "end": 59.75,
+          "word": " could"
+        },
+        {
+          "start": 59.75,
+          "end": 59.83,
+          "word": " have"
+        },
+        {
+          "start": 59.83,
+          "end": 59.93,
+          "word": " been"
+        },
+        {
+          "start": 59.93,
+          "end": 60.29,
+          "word": " less"
+        },
+        {
+          "start": 60.29,
+          "end": 60.97,
+          "word": " blue"
+        },
+        {
+          "start": 60.97,
+          "end": 61.27,
+          "word": " nudity"
+        },
+        {
+          "start": 61.27,
+          "end": 61.75,
+          "word": " because"
+        },
+        {
+          "start": 61.75,
+          "end": 61.95,
+          "word": " what"
+        },
+        {
+          "start": 61.95,
+          "end": 62.09,
+          "word": " was"
+        },
+        {
+          "start": 62.09,
+          "end": 62.29,
+          "word": " weird"
+        },
+        {
+          "start": 62.29,
+          "end": 62.47,
+          "word": " was"
+        },
+        {
+          "start": 62.47,
+          "end": 62.61,
+          "word": " the"
+        },
+        {
+          "start": 62.61,
+          "end": 62.83,
+          "word": " fact"
+        },
+        {
+          "start": 62.83,
+          "end": 63.19,
+          "word": " that"
+        },
+        {
+          "start": 63.19,
+          "end": 63.93,
+          "word": " in"
+        }
+      ]
+    },
+    {
+      "start": 63.93,
+      "end": 66.21,
+      "text": " part of the movie, he's wearing like a blue",
+      "words": [
+        {
+          "start": 63.93,
+          "end": 64.57,
+          "word": " part"
+        },
+        {
+          "start": 64.57,
+          "end": 64.71,
+          "word": " of"
+        },
+        {
+          "start": 64.71,
+          "end": 64.81,
+          "word": " the"
+        },
+        {
+          "start": 64.81,
+          "end": 65.03,
+          "word": " movie,"
+        },
+        {
+          "start": 65.05,
+          "end": 65.31,
+          "word": " he's"
+        },
+        {
+          "start": 65.31,
+          "end": 65.51,
+          "word": " wearing"
+        },
+        {
+          "start": 65.51,
+          "end": 65.73,
+          "word": " like"
+        },
+        {
+          "start": 65.73,
+          "end": 65.93,
+          "word": " a"
+        },
+        {
+          "start": 65.93,
+          "end": 66.21,
+          "word": " blue"
+        }
+      ]
+    },
+    {
+      "start": 67.39,
+      "end": 69.95,
+      "text": " overall thong thing, metal thong thing.",
+      "words": [
+        {
+          "start": 67.39,
+          "end": 67.87,
+          "word": " overall"
+        },
+        {
+          "start": 67.87,
+          "end": 68.35,
+          "word": " thong"
+        },
+        {
+          "start": 68.35,
+          "end": 68.73,
+          "word": " thing,"
+        },
+        {
+          "start": 68.99,
+          "end": 69.25,
+          "word": " metal"
+        },
+        {
+          "start": 69.25,
+          "end": 69.61,
+          "word": " thong"
+        },
+        {
+          "start": 69.61,
+          "end": 69.95,
+          "word": " thing."
+        }
+      ]
+    },
+    {
+      "start": 69.95,
+      "end": 74.65,
+      "text": " So I was like, why not wear it the whole time? You know, why you got to go commando on us?",
+      "words": [
+        {
+          "start": 69.95,
+          "end": 70.53,
+          "word": " So"
+        },
+        {
+          "start": 70.53,
+          "end": 70.65,
+          "word": " I"
+        },
+        {
+          "start": 70.65,
+          "end": 70.67,
+          "word": " was"
+        },
+        {
+          "start": 70.67,
+          "end": 70.83,
+          "word": " like,"
+        },
+        {
+          "start": 70.99,
+          "end": 71.03,
+          "word": " why"
+        },
+        {
+          "start": 71.03,
+          "end": 71.19,
+          "word": " not"
+        },
+        {
+          "start": 71.19,
+          "end": 71.37,
+          "word": " wear"
+        },
+        {
+          "start": 71.37,
+          "end": 71.45,
+          "word": " it"
+        },
+        {
+          "start": 71.45,
+          "end": 71.57,
+          "word": " the"
+        },
+        {
+          "start": 71.57,
+          "end": 71.67,
+          "word": " whole"
+        },
+        {
+          "start": 71.67,
+          "end": 72.17,
+          "word": " time?"
+        },
+        {
+          "start": 72.45,
+          "end": 72.51,
+          "word": " You"
+        },
+        {
+          "start": 72.51,
+          "end": 72.67,
+          "word": " know,"
+        },
+        {
+          "start": 72.87,
+          "end": 72.89,
+          "word": " why"
+        },
+        {
+          "start": 72.89,
+          "end": 73.29,
+          "word": " you"
+        },
+        {
+          "start": 73.29,
+          "end": 73.43,
+          "word": " got"
+        },
+        {
+          "start": 73.43,
+          "end": 73.53,
+          "word": " to"
+        },
+        {
+          "start": 73.53,
+          "end": 73.69,
+          "word": " go"
+        },
+        {
+          "start": 73.69,
+          "end": 74.15,
+          "word": " commando"
+        },
+        {
+          "start": 74.15,
+          "end": 74.31,
+          "word": " on"
+        },
+        {
+          "start": 74.31,
+          "end": 74.65,
+          "word": " us?"
+        }
+      ]
+    },
+    {
+      "start": 75.31,
+      "end": 79.63,
+      "text": " It was funny though. It was funny. Um, there is other nudity in it with like people that aren't blue.",
+      "words": [
+        {
+          "start": 75.31,
+          "end": 75.43,
+          "word": " It"
+        },
+        {
+          "start": 75.43,
+          "end": 75.59,
+          "word": " was"
+        },
+        {
+          "start": 75.59,
+          "end": 75.79,
+          "word": " funny"
+        },
+        {
+          "start": 75.79,
+          "end": 76.01,
+          "word": " though."
+        },
+        {
+          "start": 76.13,
+          "end": 76.17,
+          "word": " It"
+        },
+        {
+          "start": 76.17,
+          "end": 76.29,
+          "word": " was"
+        },
+        {
+          "start": 76.29,
+          "end": 76.47,
+          "word": " funny."
+        },
+        {
+          "start": 76.89,
+          "end": 76.97,
+          "word": " Um,"
+        },
+        {
+          "start": 77.09,
+          "end": 77.21,
+          "word": " there"
+        },
+        {
+          "start": 77.21,
+          "end": 77.33,
+          "word": " is"
+        },
+        {
+          "start": 77.33,
+          "end": 77.53,
+          "word": " other"
+        },
+        {
+          "start": 77.53,
+          "end": 77.79,
+          "word": " nudity"
+        },
+        {
+          "start": 77.79,
+          "end": 78.03,
+          "word": " in"
+        },
+        {
+          "start": 78.03,
+          "end": 78.21,
+          "word": " it"
+        },
+        {
+          "start": 78.21,
+          "end": 78.47,
+          "word": " with"
+        },
+        {
+          "start": 78.47,
+          "end": 78.75,
+          "word": " like"
+        },
+        {
+          "start": 78.75,
+          "end": 79.01,
+          "word": " people"
+        },
+        {
+          "start": 79.01,
+          "end": 79.19,
+          "word": " that"
+        },
+        {
+          "start": 79.19,
+          "end": 79.35,
+          "word": " aren't"
+        },
+        {
+          "start": 79.35,
+          "end": 79.63,
+          "word": " blue."
+        }
+      ]
+    },
+    {
+      "start": 80.79,
+      "end": 84.27,
+      "text": " That's alright. I don't know. It's kind of weird. They get out in a spaceship.",
+      "words": [
+        {
+          "start": 80.79,
+          "end": 81.15,
+          "word": " That's"
+        },
+        {
+          "start": 81.15,
+          "end": 81.37,
+          "word": " alright."
+        },
+        {
+          "start": 81.57,
+          "end": 81.65,
+          "word": " I"
+        },
+        {
+          "start": 81.65,
+          "end": 81.75,
+          "word": " don't"
+        },
+        {
+          "start": 81.75,
+          "end": 81.99,
+          "word": " know."
+        },
+        {
+          "start": 82.37,
+          "end": 82.49,
+          "word": " It's"
+        },
+        {
+          "start": 82.49,
+          "end": 82.61,
+          "word": " kind"
+        },
+        {
+          "start": 82.61,
+          "end": 82.71,
+          "word": " of"
+        },
+        {
+          "start": 82.71,
+          "end": 82.87,
+          "word": " weird."
+        },
+        {
+          "start": 83.43,
+          "end": 83.53,
+          "word": " They"
+        },
+        {
+          "start": 83.53,
+          "end": 83.61,
+          "word": " get"
+        },
+        {
+          "start": 83.61,
+          "end": 83.73,
+          "word": " out"
+        },
+        {
+          "start": 83.73,
+          "end": 83.81,
+          "word": " in"
+        },
+        {
+          "start": 83.81,
+          "end": 83.89,
+          "word": " a"
+        },
+        {
+          "start": 83.89,
+          "end": 84.27,
+          "word": " spaceship."
+        }
+      ]
+    },
+    {
+      "start": 85.33,
+      "end": 89.31,
+      "text": " I don't know. Classic superhero, kind of getting an on kind of thing.",
+      "words": [
+        {
+          "start": 85.33,
+          "end": 85.33,
+          "word": " I"
+        },
+        {
+          "start": 85.33,
+          "end": 85.43,
+          "word": " don't"
+        },
+        {
+          "start": 85.43,
+          "end": 85.73,
+          "word": " know."
+        },
+        {
+          "start": 86.11,
+          "end": 86.29,
+          "word": " Classic"
+        },
+        {
+          "start": 86.29,
+          "end": 86.95,
+          "word": " superhero,"
+        },
+        {
+          "start": 87.27,
+          "end": 87.37,
+          "word": " kind"
+        },
+        {
+          "start": 87.37,
+          "end": 87.57,
+          "word": " of"
+        },
+        {
+          "start": 87.57,
+          "end": 88.21,
+          "word": " getting"
+        },
+        {
+          "start": 88.21,
+          "end": 88.47,
+          "word": " an"
+        },
+        {
+          "start": 88.47,
+          "end": 88.57,
+          "word": " on"
+        },
+        {
+          "start": 88.57,
+          "end": 88.83,
+          "word": " kind"
+        },
+        {
+          "start": 88.83,
+          "end": 88.99,
+          "word": " of"
+        },
+        {
+          "start": 88.99,
+          "end": 89.31,
+          "word": " thing."
+        }
+      ]
+    },
+    {
+      "start": 90.3,
+      "end": 94.0,
+      "text": " Alright, so enough of the nudity. Let's talk about the story. Let's talk about the acting.",
+      "words": [
+        {
+          "start": 90.3,
+          "end": 90.66,
+          "word": " Alright,"
+        },
+        {
+          "start": 90.86,
+          "end": 90.92,
+          "word": " so"
+        },
+        {
+          "start": 90.92,
+          "end": 91.12,
+          "word": " enough"
+        },
+        {
+          "start": 91.12,
+          "end": 91.26,
+          "word": " of"
+        },
+        {
+          "start": 91.26,
+          "end": 91.38,
+          "word": " the"
+        },
+        {
+          "start": 91.38,
+          "end": 91.7,
+          "word": " nudity."
+        },
+        {
+          "start": 92.36,
+          "end": 92.36,
+          "word": " Let's"
+        },
+        {
+          "start": 92.36,
+          "end": 92.48,
+          "word": " talk"
+        },
+        {
+          "start": 92.48,
+          "end": 92.64,
+          "word": " about"
+        },
+        {
+          "start": 92.64,
+          "end": 92.78,
+          "word": " the"
+        },
+        {
+          "start": 92.78,
+          "end": 93.04,
+          "word": " story."
+        },
+        {
+          "start": 93.26,
+          "end": 93.26,
+          "word": " Let's"
+        },
+        {
+          "start": 93.26,
+          "end": 93.38,
+          "word": " talk"
+        },
+        {
+          "start": 93.38,
+          "end": 93.52,
+          "word": " about"
+        },
+        {
+          "start": 93.52,
+          "end": 93.66,
+          "word": " the"
+        },
+        {
+          "start": 93.66,
+          "end": 94.0,
+          "word": " acting."
+        }
+      ]
+    },
+    {
+      "start": 96.1,
+      "end": 102.34,
+      "text": " Um, what sucked, what was bad was Meline Ackerman, the girl who plays the Silk Spectre 2",
+      "words": [
+        {
+          "start": 96.1,
+          "end": 96.58,
+          "word": " Um,"
+        },
+        {
+          "start": 96.58,
+          "end": 97.06,
+          "word": " what"
+        },
+        {
+          "start": 97.06,
+          "end": 97.58,
+          "word": " sucked,"
+        },
+        {
+          "start": 98.08,
+          "end": 98.12,
+          "word": " what"
+        },
+        {
+          "start": 98.12,
+          "end": 98.3,
+          "word": " was"
+        },
+        {
+          "start": 98.3,
+          "end": 98.72,
+          "word": " bad"
+        },
+        {
+          "start": 98.72,
+          "end": 99.74,
+          "word": " was"
+        },
+        {
+          "start": 99.74,
+          "end": 100.08,
+          "word": " Meline"
+        },
+        {
+          "start": 100.08,
+          "end": 100.48,
+          "word": " Ackerman,"
+        },
+        {
+          "start": 100.66,
+          "end": 100.68,
+          "word": " the"
+        },
+        {
+          "start": 100.68,
+          "end": 100.82,
+          "word": " girl"
+        },
+        {
+          "start": 100.82,
+          "end": 100.94,
+          "word": " who"
+        },
+        {
+          "start": 100.94,
+          "end": 101.14,
+          "word": " plays"
+        },
+        {
+          "start": 101.14,
+          "end": 101.42,
+          "word": " the"
+        },
+        {
+          "start": 101.42,
+          "end": 101.6,
+          "word": " Silk"
+        },
+        {
+          "start": 101.6,
+          "end": 101.88,
+          "word": " Spectre"
+        },
+        {
+          "start": 101.88,
+          "end": 102.34,
+          "word": " 2"
+        }
+      ]
+    },
+    {
+      "start": 102.96,
+      "end": 105.08,
+      "text": " junior lady girl. I",
+      "words": [
+        {
+          "start": 102.96,
+          "end": 103.44,
+          "word": " junior"
+        },
+        {
+          "start": 103.44,
+          "end": 103.84,
+          "word": " lady"
+        },
+        {
+          "start": 103.84,
+          "end": 104.24,
+          "word": " girl."
+        },
+        {
+          "start": 105.0,
+          "end": 105.08,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 105.64,
+      "end": 111.7,
+      "text": " mean, she looked fantastic. She looked phenomenal. She looked like a superhero, but she acted like a Power Ranger.",
+      "words": [
+        {
+          "start": 105.64,
+          "end": 106.12,
+          "word": " mean,"
+        },
+        {
+          "start": 106.2,
+          "end": 106.3,
+          "word": " she"
+        },
+        {
+          "start": 106.3,
+          "end": 106.5,
+          "word": " looked"
+        },
+        {
+          "start": 106.5,
+          "end": 107.36,
+          "word": " fantastic."
+        },
+        {
+          "start": 107.72,
+          "end": 107.76,
+          "word": " She"
+        },
+        {
+          "start": 107.76,
+          "end": 107.98,
+          "word": " looked"
+        },
+        {
+          "start": 107.98,
+          "end": 108.68,
+          "word": " phenomenal."
+        },
+        {
+          "start": 108.98,
+          "end": 109.18,
+          "word": " She"
+        },
+        {
+          "start": 109.18,
+          "end": 109.34,
+          "word": " looked"
+        },
+        {
+          "start": 109.34,
+          "end": 109.5,
+          "word": " like"
+        },
+        {
+          "start": 109.5,
+          "end": 109.64,
+          "word": " a"
+        },
+        {
+          "start": 109.64,
+          "end": 110.02,
+          "word": " superhero,"
+        },
+        {
+          "start": 110.28,
+          "end": 110.54,
+          "word": " but"
+        },
+        {
+          "start": 110.54,
+          "end": 110.68,
+          "word": " she"
+        },
+        {
+          "start": 110.68,
+          "end": 110.84,
+          "word": " acted"
+        },
+        {
+          "start": 110.84,
+          "end": 111.04,
+          "word": " like"
+        },
+        {
+          "start": 111.04,
+          "end": 111.2,
+          "word": " a"
+        },
+        {
+          "start": 111.2,
+          "end": 111.38,
+          "word": " Power"
+        },
+        {
+          "start": 111.38,
+          "end": 111.7,
+          "word": " Ranger."
+        }
+      ]
+    },
+    {
+      "start": 112.1,
+      "end": 115.98,
+      "text": " And there's a vast difference between those two things, but I'll tell you what.",
+      "words": [
+        {
+          "start": 112.1,
+          "end": 112.22,
+          "word": " And"
+        },
+        {
+          "start": 112.22,
+          "end": 112.42,
+          "word": " there's"
+        },
+        {
+          "start": 112.42,
+          "end": 112.54,
+          "word": " a"
+        },
+        {
+          "start": 112.54,
+          "end": 112.82,
+          "word": " vast"
+        },
+        {
+          "start": 112.82,
+          "end": 113.3,
+          "word": " difference"
+        },
+        {
+          "start": 113.3,
+          "end": 113.94,
+          "word": " between"
+        },
+        {
+          "start": 113.94,
+          "end": 114.18,
+          "word": " those"
+        },
+        {
+          "start": 114.18,
+          "end": 114.32,
+          "word": " two"
+        },
+        {
+          "start": 114.32,
+          "end": 114.62,
+          "word": " things,"
+        },
+        {
+          "start": 114.78,
+          "end": 115.34,
+          "word": " but"
+        },
+        {
+          "start": 115.34,
+          "end": 115.48,
+          "word": " I'll"
+        },
+        {
+          "start": 115.48,
+          "end": 115.62,
+          "word": " tell"
+        },
+        {
+          "start": 115.62,
+          "end": 115.76,
+          "word": " you"
+        },
+        {
+          "start": 115.76,
+          "end": 115.98,
+          "word": " what."
+        }
+      ]
+    },
+    {
+      "start": 116.16,
+      "end": 123.06,
+      "text": " I tell you who made the movie, who was just kick-ass 100% of the time was the guy that played",
+      "words": [
+        {
+          "start": 116.16,
+          "end": 116.24,
+          "word": " I"
+        },
+        {
+          "start": 116.24,
+          "end": 116.42,
+          "word": " tell"
+        },
+        {
+          "start": 116.42,
+          "end": 116.56,
+          "word": " you"
+        },
+        {
+          "start": 116.56,
+          "end": 116.78,
+          "word": " who"
+        },
+        {
+          "start": 116.78,
+          "end": 117.04,
+          "word": " made"
+        },
+        {
+          "start": 117.04,
+          "end": 117.22,
+          "word": " the"
+        },
+        {
+          "start": 117.22,
+          "end": 117.58,
+          "word": " movie,"
+        },
+        {
+          "start": 117.96,
+          "end": 118.38,
+          "word": " who"
+        },
+        {
+          "start": 118.38,
+          "end": 118.9,
+          "word": " was"
+        },
+        {
+          "start": 118.9,
+          "end": 119.2,
+          "word": " just"
+        },
+        {
+          "start": 119.2,
+          "end": 119.54,
+          "word": " kick"
+        },
+        {
+          "start": 119.54,
+          "end": 119.96,
+          "word": "-ass"
+        },
+        {
+          "start": 119.96,
+          "end": 120.46,
+          "word": " 100"
+        },
+        {
+          "start": 120.46,
+          "end": 120.7,
+          "word": "%"
+        },
+        {
+          "start": 120.7,
+          "end": 120.86,
+          "word": " of"
+        },
+        {
+          "start": 120.86,
+          "end": 120.98,
+          "word": " the"
+        },
+        {
+          "start": 120.98,
+          "end": 121.46,
+          "word": " time"
+        },
+        {
+          "start": 121.46,
+          "end": 122.12,
+          "word": " was"
+        },
+        {
+          "start": 122.12,
+          "end": 122.36,
+          "word": " the"
+        },
+        {
+          "start": 122.36,
+          "end": 122.54,
+          "word": " guy"
+        },
+        {
+          "start": 122.54,
+          "end": 122.74,
+          "word": " that"
+        },
+        {
+          "start": 122.74,
+          "end": 123.06,
+          "word": " played"
+        }
+      ]
+    },
+    {
+      "start": 123.62,
+      "end": 129.68,
+      "text": " Rorschach. I don't think I'm saying that right. Rorschach, Roar, Rorschach. I think it's Rorschach.",
+      "words": [
+        {
+          "start": 123.62,
+          "end": 124.02,
+          "word": " Rorschach."
+        },
+        {
+          "start": 124.3,
+          "end": 124.56,
+          "word": " I"
+        },
+        {
+          "start": 124.56,
+          "end": 124.66,
+          "word": " don't"
+        },
+        {
+          "start": 124.66,
+          "end": 124.74,
+          "word": " think"
+        },
+        {
+          "start": 124.74,
+          "end": 124.84,
+          "word": " I'm"
+        },
+        {
+          "start": 124.84,
+          "end": 124.96,
+          "word": " saying"
+        },
+        {
+          "start": 124.96,
+          "end": 125.14,
+          "word": " that"
+        },
+        {
+          "start": 125.14,
+          "end": 125.32,
+          "word": " right."
+        },
+        {
+          "start": 125.78,
+          "end": 126.18,
+          "word": " Rorschach,"
+        },
+        {
+          "start": 126.92,
+          "end": 127.16,
+          "word": " Roar,"
+        },
+        {
+          "start": 127.4,
+          "end": 127.88,
+          "word": " Rorschach."
+        },
+        {
+          "start": 128.48,
+          "end": 128.64,
+          "word": " I"
+        },
+        {
+          "start": 128.64,
+          "end": 128.7,
+          "word": " think"
+        },
+        {
+          "start": 128.7,
+          "end": 128.86,
+          "word": " it's"
+        },
+        {
+          "start": 128.86,
+          "end": 129.68,
+          "word": " Rorschach."
+        }
+      ]
+    },
+    {
+      "start": 130.26,
+      "end": 136.04,
+      "text": " But anyways, he was awesome. He's the little guy with the white mask and the inkblots on it that change all the time.",
+      "words": [
+        {
+          "start": 130.26,
+          "end": 130.32,
+          "word": " But"
+        },
+        {
+          "start": 130.32,
+          "end": 130.5,
+          "word": " anyways,"
+        },
+        {
+          "start": 130.6,
+          "end": 130.8,
+          "word": " he"
+        },
+        {
+          "start": 130.8,
+          "end": 130.94,
+          "word": " was"
+        },
+        {
+          "start": 130.94,
+          "end": 131.3,
+          "word": " awesome."
+        },
+        {
+          "start": 131.4,
+          "end": 131.56,
+          "word": " He's"
+        },
+        {
+          "start": 131.56,
+          "end": 131.74,
+          "word": " the"
+        },
+        {
+          "start": 131.74,
+          "end": 131.92,
+          "word": " little"
+        },
+        {
+          "start": 131.92,
+          "end": 132.14,
+          "word": " guy"
+        },
+        {
+          "start": 132.14,
+          "end": 132.38,
+          "word": " with"
+        },
+        {
+          "start": 132.38,
+          "end": 132.52,
+          "word": " the"
+        },
+        {
+          "start": 132.52,
+          "end": 132.76,
+          "word": " white"
+        },
+        {
+          "start": 132.76,
+          "end": 133.24,
+          "word": " mask"
+        },
+        {
+          "start": 133.24,
+          "end": 133.58,
+          "word": " and"
+        },
+        {
+          "start": 133.58,
+          "end": 133.7,
+          "word": " the"
+        },
+        {
+          "start": 133.7,
+          "end": 134.26,
+          "word": " inkblots"
+        },
+        {
+          "start": 134.26,
+          "end": 134.86,
+          "word": " on"
+        },
+        {
+          "start": 134.86,
+          "end": 135.04,
+          "word": " it"
+        },
+        {
+          "start": 135.04,
+          "end": 135.16,
+          "word": " that"
+        },
+        {
+          "start": 135.16,
+          "end": 135.44,
+          "word": " change"
+        },
+        {
+          "start": 135.44,
+          "end": 135.72,
+          "word": " all"
+        },
+        {
+          "start": 135.72,
+          "end": 135.84,
+          "word": " the"
+        },
+        {
+          "start": 135.84,
+          "end": 136.04,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 136.12,
+      "end": 137.1,
+      "text": " I thought that was very cool.",
+      "words": [
+        {
+          "start": 136.12,
+          "end": 136.2,
+          "word": " I"
+        },
+        {
+          "start": 136.2,
+          "end": 136.3,
+          "word": " thought"
+        },
+        {
+          "start": 136.3,
+          "end": 136.44,
+          "word": " that"
+        },
+        {
+          "start": 136.44,
+          "end": 136.6,
+          "word": " was"
+        },
+        {
+          "start": 136.6,
+          "end": 136.84,
+          "word": " very"
+        },
+        {
+          "start": 136.84,
+          "end": 137.1,
+          "word": " cool."
+        }
+      ]
+    },
+    {
+      "start": 137.92,
+      "end": 145.04,
+      "text": " He was awesome. Like he was incredible. The other guy that did a really good job was Jeffrey Dean Morgan, the guy that played the comedian.",
+      "words": [
+        {
+          "start": 137.92,
+          "end": 138.18,
+          "word": " He"
+        },
+        {
+          "start": 138.18,
+          "end": 138.42,
+          "word": " was"
+        },
+        {
+          "start": 138.42,
+          "end": 139.12,
+          "word": " awesome."
+        },
+        {
+          "start": 139.4,
+          "end": 139.46,
+          "word": " Like"
+        },
+        {
+          "start": 139.46,
+          "end": 139.64,
+          "word": " he"
+        },
+        {
+          "start": 139.64,
+          "end": 139.86,
+          "word": " was"
+        },
+        {
+          "start": 139.86,
+          "end": 140.28,
+          "word": " incredible."
+        },
+        {
+          "start": 140.72,
+          "end": 140.86,
+          "word": " The"
+        },
+        {
+          "start": 140.86,
+          "end": 141.02,
+          "word": " other"
+        },
+        {
+          "start": 141.02,
+          "end": 141.2,
+          "word": " guy"
+        },
+        {
+          "start": 141.2,
+          "end": 141.34,
+          "word": " that"
+        },
+        {
+          "start": 141.34,
+          "end": 141.44,
+          "word": " did"
+        },
+        {
+          "start": 141.44,
+          "end": 141.56,
+          "word": " a"
+        },
+        {
+          "start": 141.56,
+          "end": 141.7,
+          "word": " really"
+        },
+        {
+          "start": 141.7,
+          "end": 141.9,
+          "word": " good"
+        },
+        {
+          "start": 141.9,
+          "end": 142.12,
+          "word": " job"
+        },
+        {
+          "start": 142.12,
+          "end": 142.42,
+          "word": " was"
+        },
+        {
+          "start": 142.42,
+          "end": 142.96,
+          "word": " Jeffrey"
+        },
+        {
+          "start": 142.96,
+          "end": 143.36,
+          "word": " Dean"
+        },
+        {
+          "start": 143.36,
+          "end": 143.72,
+          "word": " Morgan,"
+        },
+        {
+          "start": 144.1,
+          "end": 144.22,
+          "word": " the"
+        },
+        {
+          "start": 144.22,
+          "end": 144.34,
+          "word": " guy"
+        },
+        {
+          "start": 144.34,
+          "end": 144.44,
+          "word": " that"
+        },
+        {
+          "start": 144.44,
+          "end": 144.6,
+          "word": " played"
+        },
+        {
+          "start": 144.6,
+          "end": 144.76,
+          "word": " the"
+        },
+        {
+          "start": 144.76,
+          "end": 145.04,
+          "word": " comedian."
+        }
+      ]
+    },
+    {
+      "start": 145.58,
+      "end": 147.02,
+      "text": " He did a very good job. Very dark.",
+      "words": [
+        {
+          "start": 145.58,
+          "end": 145.64,
+          "word": " He"
+        },
+        {
+          "start": 145.64,
+          "end": 145.72,
+          "word": " did"
+        },
+        {
+          "start": 145.72,
+          "end": 145.88,
+          "word": " a"
+        },
+        {
+          "start": 145.88,
+          "end": 145.88,
+          "word": " very"
+        },
+        {
+          "start": 145.88,
+          "end": 146.08,
+          "word": " good"
+        },
+        {
+          "start": 146.08,
+          "end": 146.32,
+          "word": " job."
+        },
+        {
+          "start": 146.56,
+          "end": 146.68,
+          "word": " Very"
+        },
+        {
+          "start": 146.68,
+          "end": 147.02,
+          "word": " dark."
+        }
+      ]
+    },
+    {
+      "start": 147.78,
+      "end": 152.22,
+      "text": " Really like a sicko guy, but he did a very good job of acting. I was very impressed.",
+      "words": [
+        {
+          "start": 147.78,
+          "end": 148.12,
+          "word": " Really"
+        },
+        {
+          "start": 148.12,
+          "end": 148.4,
+          "word": " like"
+        },
+        {
+          "start": 148.4,
+          "end": 148.56,
+          "word": " a"
+        },
+        {
+          "start": 148.56,
+          "end": 148.86,
+          "word": " sicko"
+        },
+        {
+          "start": 148.86,
+          "end": 149.18,
+          "word": " guy,"
+        },
+        {
+          "start": 149.32,
+          "end": 149.52,
+          "word": " but"
+        },
+        {
+          "start": 149.52,
+          "end": 150.06,
+          "word": " he"
+        },
+        {
+          "start": 150.06,
+          "end": 150.5,
+          "word": " did"
+        },
+        {
+          "start": 150.5,
+          "end": 150.66,
+          "word": " a"
+        },
+        {
+          "start": 150.66,
+          "end": 150.74,
+          "word": " very"
+        },
+        {
+          "start": 150.74,
+          "end": 150.9,
+          "word": " good"
+        },
+        {
+          "start": 150.9,
+          "end": 151.06,
+          "word": " job"
+        },
+        {
+          "start": 151.06,
+          "end": 151.18,
+          "word": " of"
+        },
+        {
+          "start": 151.18,
+          "end": 151.48,
+          "word": " acting."
+        },
+        {
+          "start": 151.58,
+          "end": 151.64,
+          "word": " I"
+        },
+        {
+          "start": 151.64,
+          "end": 151.72,
+          "word": " was"
+        },
+        {
+          "start": 151.72,
+          "end": 151.9,
+          "word": " very"
+        },
+        {
+          "start": 151.9,
+          "end": 152.22,
+          "word": " impressed."
+        }
+      ]
+    },
+    {
+      "start": 153.26,
+      "end": 161.3,
+      "text": " Overall, it's like a blend of you've got an alternative history. You've got multiple different time periods mixed together",
+      "words": [
+        {
+          "start": 153.26,
+          "end": 153.8,
+          "word": " Overall,"
+        },
+        {
+          "start": 154.2,
+          "end": 154.6,
+          "word": " it's"
+        },
+        {
+          "start": 154.6,
+          "end": 154.76,
+          "word": " like"
+        },
+        {
+          "start": 154.76,
+          "end": 154.92,
+          "word": " a"
+        },
+        {
+          "start": 154.92,
+          "end": 155.18,
+          "word": " blend"
+        },
+        {
+          "start": 155.18,
+          "end": 155.64,
+          "word": " of"
+        },
+        {
+          "start": 155.64,
+          "end": 155.88,
+          "word": " you've"
+        },
+        {
+          "start": 155.88,
+          "end": 155.98,
+          "word": " got"
+        },
+        {
+          "start": 155.98,
+          "end": 156.46,
+          "word": " an"
+        },
+        {
+          "start": 156.46,
+          "end": 156.8,
+          "word": " alternative"
+        },
+        {
+          "start": 156.8,
+          "end": 157.44,
+          "word": " history."
+        },
+        {
+          "start": 157.88,
+          "end": 158.24,
+          "word": " You've"
+        },
+        {
+          "start": 158.24,
+          "end": 158.46,
+          "word": " got"
+        },
+        {
+          "start": 158.46,
+          "end": 159.34,
+          "word": " multiple"
+        },
+        {
+          "start": 159.34,
+          "end": 159.74,
+          "word": " different"
+        },
+        {
+          "start": 159.74,
+          "end": 160.1,
+          "word": " time"
+        },
+        {
+          "start": 160.1,
+          "end": 160.48,
+          "word": " periods"
+        },
+        {
+          "start": 160.48,
+          "end": 160.76,
+          "word": " mixed"
+        },
+        {
+          "start": 160.76,
+          "end": 161.3,
+          "word": " together"
+        }
+      ]
+    },
+    {
+      "start": 162.0,
+      "end": 168.88,
+      "text": " with different genres. It's very, very interesting, but it's extremely dark. I'll warn you.",
+      "words": [
+        {
+          "start": 162.0,
+          "end": 162.54,
+          "word": " with"
+        },
+        {
+          "start": 162.54,
+          "end": 162.84,
+          "word": " different"
+        },
+        {
+          "start": 162.84,
+          "end": 163.22,
+          "word": " genres."
+        },
+        {
+          "start": 163.74,
+          "end": 164.24,
+          "word": " It's"
+        },
+        {
+          "start": 164.24,
+          "end": 164.52,
+          "word": " very,"
+        },
+        {
+          "start": 164.52,
+          "end": 164.7,
+          "word": " very"
+        },
+        {
+          "start": 164.7,
+          "end": 165.26,
+          "word": " interesting,"
+        },
+        {
+          "start": 165.94,
+          "end": 166.6,
+          "word": " but"
+        },
+        {
+          "start": 166.6,
+          "end": 166.8,
+          "word": " it's"
+        },
+        {
+          "start": 166.8,
+          "end": 167.22,
+          "word": " extremely"
+        },
+        {
+          "start": 167.22,
+          "end": 167.76,
+          "word": " dark."
+        },
+        {
+          "start": 168.52,
+          "end": 168.52,
+          "word": " I'll"
+        },
+        {
+          "start": 168.52,
+          "end": 168.66,
+          "word": " warn"
+        },
+        {
+          "start": 168.66,
+          "end": 168.88,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 169.42,
+      "end": 170.2,
+      "text": " It's very, very dark.",
+      "words": [
+        {
+          "start": 169.42,
+          "end": 169.46,
+          "word": " It's"
+        },
+        {
+          "start": 169.46,
+          "end": 169.7,
+          "word": " very,"
+        },
+        {
+          "start": 169.86,
+          "end": 169.86,
+          "word": " very"
+        },
+        {
+          "start": 169.86,
+          "end": 170.2,
+          "word": " dark."
+        }
+      ]
+    },
+    {
+      "start": 172.12,
+      "end": 176.78,
+      "text": " In my opinion, there wasn't very much of a balance between sort of like the good and evil kind of thing.",
+      "words": [
+        {
+          "start": 172.12,
+          "end": 172.28,
+          "word": " In"
+        },
+        {
+          "start": 172.28,
+          "end": 172.5,
+          "word": " my"
+        },
+        {
+          "start": 172.5,
+          "end": 172.76,
+          "word": " opinion,"
+        },
+        {
+          "start": 172.8,
+          "end": 173.0,
+          "word": " there"
+        },
+        {
+          "start": 173.0,
+          "end": 173.28,
+          "word": " wasn't"
+        },
+        {
+          "start": 173.28,
+          "end": 173.48,
+          "word": " very"
+        },
+        {
+          "start": 173.48,
+          "end": 173.72,
+          "word": " much"
+        },
+        {
+          "start": 173.72,
+          "end": 173.86,
+          "word": " of"
+        },
+        {
+          "start": 173.86,
+          "end": 173.94,
+          "word": " a"
+        },
+        {
+          "start": 173.94,
+          "end": 174.32,
+          "word": " balance"
+        },
+        {
+          "start": 174.32,
+          "end": 174.84,
+          "word": " between"
+        },
+        {
+          "start": 174.84,
+          "end": 175.48,
+          "word": " sort"
+        },
+        {
+          "start": 175.48,
+          "end": 175.62,
+          "word": " of"
+        },
+        {
+          "start": 175.62,
+          "end": 175.7,
+          "word": " like"
+        },
+        {
+          "start": 175.7,
+          "end": 175.82,
+          "word": " the"
+        },
+        {
+          "start": 175.82,
+          "end": 175.96,
+          "word": " good"
+        },
+        {
+          "start": 175.96,
+          "end": 176.12,
+          "word": " and"
+        },
+        {
+          "start": 176.12,
+          "end": 176.26,
+          "word": " evil"
+        },
+        {
+          "start": 176.26,
+          "end": 176.44,
+          "word": " kind"
+        },
+        {
+          "start": 176.44,
+          "end": 176.6,
+          "word": " of"
+        },
+        {
+          "start": 176.6,
+          "end": 176.78,
+          "word": " thing."
+        }
+      ]
+    },
+    {
+      "start": 176.9,
+      "end": 179.4,
+      "text": " It seemed like everything was sort of overwhelmingly bad.",
+      "words": [
+        {
+          "start": 176.9,
+          "end": 176.96,
+          "word": " It"
+        },
+        {
+          "start": 176.96,
+          "end": 177.16,
+          "word": " seemed"
+        },
+        {
+          "start": 177.16,
+          "end": 177.4,
+          "word": " like"
+        },
+        {
+          "start": 177.4,
+          "end": 177.68,
+          "word": " everything"
+        },
+        {
+          "start": 177.68,
+          "end": 177.9,
+          "word": " was"
+        },
+        {
+          "start": 177.9,
+          "end": 178.02,
+          "word": " sort"
+        },
+        {
+          "start": 178.02,
+          "end": 178.16,
+          "word": " of"
+        },
+        {
+          "start": 178.16,
+          "end": 178.74,
+          "word": " overwhelmingly"
+        },
+        {
+          "start": 178.74,
+          "end": 179.4,
+          "word": " bad."
+        }
+      ]
+    },
+    {
+      "start": 180.1,
+      "end": 187.64,
+      "text": " So at the end, there's not really a whole lot of redeeming value that I think you come up with, but yeah, overall, it was good.",
+      "words": [
+        {
+          "start": 180.1,
+          "end": 180.5,
+          "word": " So"
+        },
+        {
+          "start": 180.5,
+          "end": 180.84,
+          "word": " at"
+        },
+        {
+          "start": 180.84,
+          "end": 180.98,
+          "word": " the"
+        },
+        {
+          "start": 180.98,
+          "end": 181.16,
+          "word": " end,"
+        },
+        {
+          "start": 181.18,
+          "end": 181.42,
+          "word": " there's"
+        },
+        {
+          "start": 181.42,
+          "end": 181.58,
+          "word": " not"
+        },
+        {
+          "start": 181.58,
+          "end": 181.8,
+          "word": " really"
+        },
+        {
+          "start": 181.8,
+          "end": 181.94,
+          "word": " a"
+        },
+        {
+          "start": 181.94,
+          "end": 182.1,
+          "word": " whole"
+        },
+        {
+          "start": 182.1,
+          "end": 182.34,
+          "word": " lot"
+        },
+        {
+          "start": 182.34,
+          "end": 182.5,
+          "word": " of"
+        },
+        {
+          "start": 182.5,
+          "end": 183.38,
+          "word": " redeeming"
+        },
+        {
+          "start": 183.38,
+          "end": 183.92,
+          "word": " value"
+        },
+        {
+          "start": 183.92,
+          "end": 184.34,
+          "word": " that"
+        },
+        {
+          "start": 184.34,
+          "end": 184.48,
+          "word": " I"
+        },
+        {
+          "start": 184.48,
+          "end": 184.6,
+          "word": " think"
+        },
+        {
+          "start": 184.6,
+          "end": 184.76,
+          "word": " you"
+        },
+        {
+          "start": 184.76,
+          "end": 184.92,
+          "word": " come"
+        },
+        {
+          "start": 184.92,
+          "end": 185.12,
+          "word": " up"
+        },
+        {
+          "start": 185.12,
+          "end": 185.62,
+          "word": " with,"
+        },
+        {
+          "start": 185.62,
+          "end": 186.22,
+          "word": " but"
+        },
+        {
+          "start": 186.22,
+          "end": 186.82,
+          "word": " yeah,"
+        },
+        {
+          "start": 186.86,
+          "end": 187.2,
+          "word": " overall,"
+        },
+        {
+          "start": 187.34,
+          "end": 187.38,
+          "word": " it"
+        },
+        {
+          "start": 187.38,
+          "end": 187.5,
+          "word": " was"
+        },
+        {
+          "start": 187.5,
+          "end": 187.64,
+          "word": " good."
+        }
+      ]
+    },
+    {
+      "start": 187.78,
+      "end": 188.54,
+      "text": " I have to say,",
+      "words": [
+        {
+          "start": 187.78,
+          "end": 187.8,
+          "word": " I"
+        },
+        {
+          "start": 187.8,
+          "end": 188.02,
+          "word": " have"
+        },
+        {
+          "start": 188.02,
+          "end": 188.16,
+          "word": " to"
+        },
+        {
+          "start": 188.16,
+          "end": 188.54,
+          "word": " say,"
+        }
+      ]
+    },
+    {
+      "start": 189.12,
+      "end": 194.0,
+      "text": " I'm probably gonna say give it three and a half out of five stars. Yeah, it's pretty good.",
+      "words": [
+        {
+          "start": 189.12,
+          "end": 189.3,
+          "word": " I'm"
+        },
+        {
+          "start": 189.3,
+          "end": 189.54,
+          "word": " probably"
+        },
+        {
+          "start": 189.54,
+          "end": 189.8,
+          "word": " gonna"
+        },
+        {
+          "start": 189.8,
+          "end": 190.22,
+          "word": " say"
+        },
+        {
+          "start": 190.22,
+          "end": 190.58,
+          "word": " give"
+        },
+        {
+          "start": 190.58,
+          "end": 190.74,
+          "word": " it"
+        },
+        {
+          "start": 190.74,
+          "end": 191.08,
+          "word": " three"
+        },
+        {
+          "start": 191.08,
+          "end": 191.26,
+          "word": " and"
+        },
+        {
+          "start": 191.26,
+          "end": 191.28,
+          "word": " a"
+        },
+        {
+          "start": 191.28,
+          "end": 191.46,
+          "word": " half"
+        },
+        {
+          "start": 191.46,
+          "end": 191.62,
+          "word": " out"
+        },
+        {
+          "start": 191.62,
+          "end": 191.76,
+          "word": " of"
+        },
+        {
+          "start": 191.76,
+          "end": 191.94,
+          "word": " five"
+        },
+        {
+          "start": 191.94,
+          "end": 192.3,
+          "word": " stars."
+        },
+        {
+          "start": 192.78,
+          "end": 192.96,
+          "word": " Yeah,"
+        },
+        {
+          "start": 193.28,
+          "end": 193.44,
+          "word": " it's"
+        },
+        {
+          "start": 193.44,
+          "end": 193.64,
+          "word": " pretty"
+        },
+        {
+          "start": 193.64,
+          "end": 194.0,
+          "word": " good."
+        }
+      ]
+    },
+    {
+      "start": 194.73,
+      "end": 198.95,
+      "text": " Alright, so that's my movie review. If you haven't checked out the movie,",
+      "words": [
+        {
+          "start": 194.73,
+          "end": 194.91,
+          "word": " Alright,"
+        },
+        {
+          "start": 194.99,
+          "end": 195.07,
+          "word": " so"
+        },
+        {
+          "start": 195.07,
+          "end": 195.31,
+          "word": " that's"
+        },
+        {
+          "start": 195.31,
+          "end": 195.63,
+          "word": " my"
+        },
+        {
+          "start": 195.63,
+          "end": 196.53,
+          "word": " movie"
+        },
+        {
+          "start": 196.53,
+          "end": 196.97,
+          "word": " review."
+        },
+        {
+          "start": 197.49,
+          "end": 197.89,
+          "word": " If"
+        },
+        {
+          "start": 197.89,
+          "end": 198.01,
+          "word": " you"
+        },
+        {
+          "start": 198.01,
+          "end": 198.15,
+          "word": " haven't"
+        },
+        {
+          "start": 198.15,
+          "end": 198.33,
+          "word": " checked"
+        },
+        {
+          "start": 198.33,
+          "end": 198.51,
+          "word": " out"
+        },
+        {
+          "start": 198.51,
+          "end": 198.63,
+          "word": " the"
+        },
+        {
+          "start": 198.63,
+          "end": 198.95,
+          "word": " movie,"
+        }
+      ]
+    },
+    {
+      "start": 199.61,
+      "end": 205.37,
+      "text": " go check it out. Watch it. Watch The Watchman. Come back, write your own movie review in the comments.",
+      "words": [
+        {
+          "start": 199.61,
+          "end": 199.93,
+          "word": " go"
+        },
+        {
+          "start": 199.93,
+          "end": 200.13,
+          "word": " check"
+        },
+        {
+          "start": 200.13,
+          "end": 200.27,
+          "word": " it"
+        },
+        {
+          "start": 200.27,
+          "end": 200.51,
+          "word": " out."
+        },
+        {
+          "start": 200.71,
+          "end": 200.97,
+          "word": " Watch"
+        },
+        {
+          "start": 200.97,
+          "end": 201.15,
+          "word": " it."
+        },
+        {
+          "start": 201.53,
+          "end": 201.73,
+          "word": " Watch"
+        },
+        {
+          "start": 201.73,
+          "end": 201.97,
+          "word": " The"
+        },
+        {
+          "start": 201.97,
+          "end": 202.51,
+          "word": " Watchman."
+        },
+        {
+          "start": 202.93,
+          "end": 203.15,
+          "word": " Come"
+        },
+        {
+          "start": 203.15,
+          "end": 203.45,
+          "word": " back,"
+        },
+        {
+          "start": 203.49,
+          "end": 203.73,
+          "word": " write"
+        },
+        {
+          "start": 203.73,
+          "end": 203.87,
+          "word": " your"
+        },
+        {
+          "start": 203.87,
+          "end": 203.97,
+          "word": " own"
+        },
+        {
+          "start": 203.97,
+          "end": 204.21,
+          "word": " movie"
+        },
+        {
+          "start": 204.21,
+          "end": 204.55,
+          "word": " review"
+        },
+        {
+          "start": 204.55,
+          "end": 204.93,
+          "word": " in"
+        },
+        {
+          "start": 204.93,
+          "end": 205.07,
+          "word": " the"
+        },
+        {
+          "start": 205.07,
+          "end": 205.37,
+          "word": " comments."
+        }
+      ]
+    },
+    {
+      "start": 205.69,
+      "end": 209.13,
+      "text": " Tell me what you think. If you liked it, if you hated it, if you thought it was okay.",
+      "words": [
+        {
+          "start": 205.69,
+          "end": 205.91,
+          "word": " Tell"
+        },
+        {
+          "start": 205.91,
+          "end": 206.01,
+          "word": " me"
+        },
+        {
+          "start": 206.01,
+          "end": 206.17,
+          "word": " what"
+        },
+        {
+          "start": 206.17,
+          "end": 206.33,
+          "word": " you"
+        },
+        {
+          "start": 206.33,
+          "end": 206.53,
+          "word": " think."
+        },
+        {
+          "start": 206.65,
+          "end": 206.69,
+          "word": " If"
+        },
+        {
+          "start": 206.69,
+          "end": 206.79,
+          "word": " you"
+        },
+        {
+          "start": 206.79,
+          "end": 206.97,
+          "word": " liked"
+        },
+        {
+          "start": 206.97,
+          "end": 207.19,
+          "word": " it,"
+        },
+        {
+          "start": 207.47,
+          "end": 207.59,
+          "word": " if"
+        },
+        {
+          "start": 207.59,
+          "end": 207.59,
+          "word": " you"
+        },
+        {
+          "start": 207.59,
+          "end": 207.85,
+          "word": " hated"
+        },
+        {
+          "start": 207.85,
+          "end": 208.13,
+          "word": " it,"
+        },
+        {
+          "start": 208.29,
+          "end": 208.43,
+          "word": " if"
+        },
+        {
+          "start": 208.43,
+          "end": 208.47,
+          "word": " you"
+        },
+        {
+          "start": 208.47,
+          "end": 208.67,
+          "word": " thought"
+        },
+        {
+          "start": 208.67,
+          "end": 208.77,
+          "word": " it"
+        },
+        {
+          "start": 208.77,
+          "end": 208.85,
+          "word": " was"
+        },
+        {
+          "start": 208.85,
+          "end": 209.13,
+          "word": " okay."
+        }
+      ]
+    },
+    {
+      "start": 210.37,
+      "end": 216.87,
+      "text": " And don't forget to check out JosieTV.net. Lots of cool stuff on there. Even more videos. And other than that,",
+      "words": [
+        {
+          "start": 210.37,
+          "end": 210.77,
+          "word": " And"
+        },
+        {
+          "start": 210.77,
+          "end": 211.17,
+          "word": " don't"
+        },
+        {
+          "start": 211.17,
+          "end": 211.35,
+          "word": " forget"
+        },
+        {
+          "start": 211.35,
+          "end": 211.51,
+          "word": " to"
+        },
+        {
+          "start": 211.51,
+          "end": 211.65,
+          "word": " check"
+        },
+        {
+          "start": 211.65,
+          "end": 211.85,
+          "word": " out"
+        },
+        {
+          "start": 211.85,
+          "end": 212.37,
+          "word": " JosieTV"
+        },
+        {
+          "start": 212.37,
+          "end": 212.85,
+          "word": ".net."
+        },
+        {
+          "start": 213.05,
+          "end": 213.09,
+          "word": " Lots"
+        },
+        {
+          "start": 213.09,
+          "end": 213.21,
+          "word": " of"
+        },
+        {
+          "start": 213.21,
+          "end": 213.33,
+          "word": " cool"
+        },
+        {
+          "start": 213.33,
+          "end": 213.53,
+          "word": " stuff"
+        },
+        {
+          "start": 213.53,
+          "end": 213.73,
+          "word": " on"
+        },
+        {
+          "start": 213.73,
+          "end": 213.95,
+          "word": " there."
+        },
+        {
+          "start": 214.37,
+          "end": 214.49,
+          "word": " Even"
+        },
+        {
+          "start": 214.49,
+          "end": 214.69,
+          "word": " more"
+        },
+        {
+          "start": 214.69,
+          "end": 215.05,
+          "word": " videos."
+        },
+        {
+          "start": 215.85,
+          "end": 215.85,
+          "word": " And"
+        },
+        {
+          "start": 215.85,
+          "end": 216.37,
+          "word": " other"
+        },
+        {
+          "start": 216.37,
+          "end": 216.51,
+          "word": " than"
+        },
+        {
+          "start": 216.51,
+          "end": 216.87,
+          "word": " that,"
+        }
+      ]
+    },
+    {
+      "start": 217.11,
+      "end": 218.17,
+      "text": " I'll see you in the next video.",
+      "words": [
+        {
+          "start": 217.11,
+          "end": 217.37,
+          "word": " I'll"
+        },
+        {
+          "start": 217.37,
+          "end": 217.51,
+          "word": " see"
+        },
+        {
+          "start": 217.51,
+          "end": 217.57,
+          "word": " you"
+        },
+        {
+          "start": 217.57,
+          "end": 217.63,
+          "word": " in"
+        },
+        {
+          "start": 217.63,
+          "end": 217.69,
+          "word": " the"
+        },
+        {
+          "start": 217.69,
+          "end": 217.83,
+          "word": " next"
+        },
+        {
+          "start": 217.83,
+          "end": 218.17,
+          "word": " video."
+        }
+      ]
+    }
+  ]
+}
