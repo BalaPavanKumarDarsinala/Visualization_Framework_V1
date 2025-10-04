@@ -1,0 +1,23 @@
+text,start,end,label,score,polarity
+Let's talk Shrek ever after.,0.56,3.44,POSITIVE,0.9943554401397705,0.9943554401397705
+Not great.,5.81,6.35,NEGATIVE,0.999761164188385,-0.999761164188385
+"The gist of the story is that Shrek is tired of his life now married with the kids, so he really would like to relive his glory days.",7.73,14.59,POSITIVE,0.9889013767242432,0.9889013767242432
+"He goes to Rumpelstiltskin and signs a contract that in order to have a free day where he can relive his glory stuff, he will give a day unbeknownst to Shrek.",15.15,26.27,POSITIVE,0.9436411261558533,0.9436411261558533
+Rumpelstiltskin takes the day that he was born.,26.75,28.59,NEGATIVE,0.5672811269760132,-0.5672811269760132
+So then Shrek doesn't exist.,28.81,30.47,NEGATIVE,0.9996172189712524,-0.9996172189712524
+"And in order to get things back to how they were,",31.05,33.91,NEGATIVE,0.9986612796783447,-0.9986612796783447
+"he has to get Fiona to fall in love with him and they have to, once again, have two less Shrek kids.",34.55,41.14,NEGATIVE,0.9001723527908325,-0.9001723527908325
+I really think what this was missing was that humor and that wit,41.72,45.24,NEGATIVE,0.99272620677948,-0.99272620677948
+that is in the other Shrek movies.,45.9,48.26,POSITIVE,0.9969423413276672,0.9969423413276672
+It's just not fair.,49.2,50.44,NEGATIVE,0.9997519850730896,-0.9997519850730896
+"It's okay,",50.86,51.58,POSITIVE,0.9998291730880737,0.9998291730880737
+but it's really not wonderful.,52.26,53.52,NEGATIVE,0.9996359348297119,-0.9996359348297119
+Nothing to rush out and see.,53.76,55.38,POSITIVE,0.9807440638542175,0.9807440638542175
+There aren't a lot of kids' movies out right now.,55.96,57.48,NEGATIVE,0.9899752736091614,-0.9899752736091614
+"And I guess normally Shrek is for adults,",57.48,60.58,NEGATIVE,0.6226650476455688,-0.6226650476455688
+"but lack, you know, very lackluster.",61.2,64.38,NEGATIVE,0.9996140599250793,-0.9996140599250793
+"Anyway,",66.45,67.01,NEGATIVE,0.5739639401435852,-0.5739639401435852
+that's it.,68.28,69.14,POSITIVE,0.9996790885925293,0.9996790885925293
+"Be forewarned, no expectations, okay?",70.16,73.22,POSITIVE,0.6574199795722961,0.6574199795722961
+"And now I sleep, so off to bed.",73.88,75.88,NEGATIVE,0.9986293315887451,-0.9986293315887451
+Ciao.,76.5,76.58,POSITIVE,0.9356639385223389,0.9356639385223389

@@ -1,0 +1,27 @@
+text,start,end,label,score,polarity
+Let's talk Sex and the City 2.,0.27,3.23,POSITIVE,0.8292019367218018,0.8292019367218018
+Most of the critics are right.,5.42,6.64,POSITIVE,0.999717652797699,0.999717652797699
+It's just really eh.,6.84,8.42,POSITIVE,0.9765366315841675,0.9765366315841675
+"But if you loved the series and you also liked and saw the first movie, then you're still going to have fun.",8.94,16.28,POSITIVE,0.9998816251754761,0.9998816251754761
+Just go in with low expectations.,16.48,19.12,NEGATIVE,0.9966558218002319,-0.9966558218002319
+"A few pet peeves, Terry Ward must horrendous kitty's hats.",20.14,24.62,NEGATIVE,0.9955654740333557,-0.9955654740333557
+They were not fashionable.,25.46,26.38,NEGATIVE,0.9996898174285889,-0.9996898174285889
+"And a few times, I didn't like the fashion.",28.01,30.03,NEGATIVE,0.9980252981185913,-0.9980252981185913
+"A few times, I thought it was bumped way over the top, and they kind of looked like clowns.",30.03,35.01,NEGATIVE,0.9979269504547119,-0.9979269504547119
+The desert scene was one of them.,35.11,36.77,POSITIVE,0.8431468605995178,0.8431468605995178
+"But you know, the premise is okay, and there are a few nice moments.",38.82,42.42,POSITIVE,0.9997522234916687,0.9997522234916687
+The movie was really too long.,43.04,44.84,NEGATIVE,0.9997339844703674,-0.9997339844703674
+They should have just cut the wedding at the beginning.,45.04,47.2,NEGATIVE,0.9993271827697754,-0.9993271827697754
+It's not even necessary to the plot.,47.44,49.32,NEGATIVE,0.9997087121009827,-0.9997087121009827
+And I also thought the desert writing the camels all dropped up looking like clowns.,49.88,54.3,NEGATIVE,0.9995805621147156,-0.9995805621147156
+But also not necessary.,54.94,56.16,NEGATIVE,0.9953656196594238,-0.9953656196594238
+But I love the moment with Charlotte in the closet because who hasn't experienced that?,56.16,62.42,POSITIVE,0.9993879795074463,0.9993879795074463
+Although I ran to the bathroom.,62.9,64.3,NEGATIVE,0.9848527312278748,-0.9848527312278748
+And it was just fun to see your old friends again.,65.84,69.49,POSITIVE,0.9998573064804077,0.9998573064804077
+"So if you're a fan, I'd do it.",69.79,72.23,POSITIVE,0.9978265166282654,0.9978265166282654
+But don't expect much.,72.55,74.31,NEGATIVE,0.9403697848320007,-0.9403697848320007
+The writing isn't as good as the first.,74.89,76.83,NEGATIVE,0.9997783303260803,-0.9997783303260803
+The storyline isn't as good.,77.45,79.23,NEGATIVE,0.9997896552085876,-0.9997896552085876
+"But if you don't expect a lot, I think you'll enjoy it.",80.01,82.75,POSITIVE,0.9998306035995483,0.9998306035995483
+And that's it.,83.29,83.85,POSITIVE,0.9994598031044006,0.9994598031044006
+Now off to bed.,84.65,85.33,NEGATIVE,0.9896466135978699,-0.9896466135978699

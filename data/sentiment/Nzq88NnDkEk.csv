@@ -1,0 +1,37 @@
+text,start,end,label,score,polarity
+"Hey, what's up?",0.66,1.4,POSITIVE,0.9896747469902039,0.9896747469902039
+It's Jefferson Geek and it is time for another episode of At the Movies with the Geek.,1.46,5.32,NEGATIVE,0.9980233907699585,-0.9980233907699585
+"This week we're going to look at the movie Clash of the Titans, which is a reboot I guess would be the best term for the, I believe it was 1981 movie, Clash of the Titans.",5.8,17.74,NEGATIVE,0.9492769837379456,-0.9492769837379456
+"Unfortunately, I'm going to have to say this movie was terrible.",19.88,22.62,NEGATIVE,0.9997859597206116,-0.9997859597206116
+I was really looking forward to it.,23.66,25.54,POSITIVE,0.9998332262039185,0.9998332262039185
+"I was a little hesitant at first, you know, as you are with reboots, you know, is it going to be good?",25.68,29.88,POSITIVE,0.996831476688385,0.996831476688385
+"But as the trailers came out, I really liked what I was seeing.",29.88,34.66,POSITIVE,0.9997636675834656,0.9997636675834656
+I think the music that kind of put with the soundtrack really got me excited about seeing this movie and being a fan of the original.,34.96,40.76,POSITIVE,0.9980676770210266,0.9980676770210266
+"I was looking forward to seeing it, but to me, someone needs to release the Kraken on this movie and just totally destroy it because I just felt like it was, it seemed like it was a rushed movie.",41.12,52.88,NEGATIVE,0.9997726082801819,-0.9997726082801819
+It seemed like there was no story development in it.,53.36,55.82,NEGATIVE,0.9997805953025818,-0.9997805953025818
+I just really didn't have a good time.,57.24,58.88,NEGATIVE,0.9996873140335083,-0.9996873140335083
+I felt like Medusa really wasn't that scary.,59.34,62.3,NEGATIVE,0.9996930360794067,-0.9996930360794067
+"Maybe it was because I was a kid back in the day, but Medusa was a lot scarier then.",62.78,67.42,POSITIVE,0.975480318069458,0.975480318069458
+"I just think they made her almost look too,",68.84,71.34,NEGATIVE,0.9847685098648071,-0.9847685098648071
+"you know, they tried to make her look too beautiful.",72.06,74.54,NEGATIVE,0.9992455244064331,-0.9992455244064331
+But I just as a whole really did not like this movie.,76.34,79.6,NEGATIVE,0.9937414526939392,-0.9937414526939392
+"The screening I was at, I kind of found myself, you know, wanting to lay my head back and take a nap and actually the guy sitting next to me actually was taking a nap.",80.04,89.88,NEGATIVE,0.9936919212341309,-0.9936919212341309
+"He kept dozing off and after the movie, going out into the theater, into the lobby, I had no one, I heard no one say anything good and my friends who were there had nothing good to say about it.",90.3,102.2,NEGATIVE,0.9996907711029053,-0.9996907711029053
+"So unfortunately, I'm going to say this one is probably going to be wait until it comes out on HBO or or get it at Red Box for a buck.",102.56,112.38,NEGATIVE,0.9997355341911316,-0.9997355341911316
+I just really did not like it.,113.0,114.54,NEGATIVE,0.9990235567092896,-0.9990235567092896
+"But hey, if you're looking to spend some money,",115.76,117.62,POSITIVE,0.7832029461860657,0.7832029461860657
+go check it out.,118.86,119.48,POSITIVE,0.9997233748435974,0.9997233748435974
+Maybe you will like it.,119.52,120.34,POSITIVE,0.9997028708457947,0.9997028708457947
+"But from my review, I'm going to say I'm going to give it two thumbs down, release the Kraken on this movie.",120.52,125.58,NEGATIVE,0.9392457008361816,-0.9392457008361816
+Don't go see it.,126.3,127.2,NEGATIVE,0.9984000325202942,-0.9984000325202942
+Go see something else.,128.08,129.06,POSITIVE,0.9982303977012634,0.9982303977012634
+How to train and drag it.,129.3,130.48,NEGATIVE,0.9996542930603027,-0.9996542930603027
+That's all I'm going to say about that.,132.39,133.55,POSITIVE,0.777173638343811,0.777173638343811
+"So disappointment, definitely.",133.89,135.01,NEGATIVE,0.9998018145561218,-0.9998018145561218
+I did not want to give this movie a bad review.,135.23,137.19,POSITIVE,0.9315903782844543,0.9315903782844543
+"I'm a fan of the original,",137.41,138.73,POSITIVE,0.9993688464164734,0.9993688464164734
+"you know, loved it.",139.41,140.73,POSITIVE,0.9998660087585449,0.9998660087585449
+And I got to do my duty and let you guys know it's a major suckfest.,141.57,147.05,POSITIVE,0.9841449856758118,0.9841449856758118
+"So we will talk to you later, hopefully with better news coming up here soon.",147.05,152.87,POSITIVE,0.9884753227233887,0.9884753227233887
+"I'm going to have a review for kick ass, heard good things about the screenings on that and looking really forward to seeing that movie.",152.91,159.85,POSITIVE,0.9996182918548584,0.9996182918548584
+So hopefully I have a good review on that and maybe we'll see at the movie soon.,160.15,164.75,POSITIVE,0.99955815076828,0.99955815076828

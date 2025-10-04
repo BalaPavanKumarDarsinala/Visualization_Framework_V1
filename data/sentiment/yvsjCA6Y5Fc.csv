@@ -1,0 +1,111 @@
+text,start,end,label,score,polarity
+"Hey little ones, Lee here, and I'm doing a movie review for Ridley Scott's adaptation of Robin Hood, starring Russell Crowe.",3.76,11.6,POSITIVE,0.9914371371269226,0.9914371371269226
+"First thing I gotta say, right off the bat, I was dreading going in to see this movie.",12.82,16.8,NEGATIVE,0.9971812963485718,-0.9971812963485718
+The trailers weren't really doing it much for me.,17.5,19.6,NEGATIVE,0.9996737241744995,-0.9996737241744995
+"It seemed like they were focusing too much on epic than, you know, character development of this timeless tale that is Robin Hood.",19.7,25.44,NEGATIVE,0.9997852444648743,-0.9997852444648743
+And also just these reviews I was reading about it.,26.1,28.46,POSITIVE,0.9983716607093811,0.9983716607093811
+"I mean, I think the most generous review I read gave it 2 out of 5.",28.58,31.84,POSITIVE,0.9796531200408936,0.9796531200408936
+So I really was not looking forward to seeing this movie.,31.84,35.5,NEGATIVE,0.9985371828079224,-0.9985371828079224
+"But I gotta say, maybe my expectations were lowered by these other reviews I read, but I didn't mind it, to be honest with you.",36.76,44.36,NEGATIVE,0.9665460586547852,-0.9665460586547852
+"I know it's been really just getting nailed to the cross as far as, you know, movies going on at a film festival right now.",45.22,51.6,NEGATIVE,0.9919556379318237,-0.9919556379318237
+But I didn't find it all that bad.,51.76,54.26,POSITIVE,0.8697761297225952,0.8697761297225952
+I didn't find all that good.,54.42,55.44,NEGATIVE,0.9996877908706665,-0.9996877908706665
+"Like I said, maybe my expectations were lowered because of all these reviews, but I really didn't hate it.",55.44,62.12,POSITIVE,0.9836926460266113,0.9836926460266113
+"I guess we'll start right off, like, what people could hate about this movie.",63.52,67.08,NEGATIVE,0.9951512813568115,-0.9951512813568115
+"There are some negatives, to say the least.",67.24,69.18,NEGATIVE,0.9990071654319763,-0.9990071654319763
+"Really, first and foremost, it just lacked the charm of these past Robin Hood movies that we know.",71.76,77.52,NEGATIVE,0.9997594952583313,-0.9997594952583313
+"I mean,",77.76,77.94,NEGATIVE,0.9875812530517578,-0.9875812530517578
+"there was the classic Disney version, which everyone watched when there were kids.",78.56,82.14,POSITIVE,0.9934321045875549,0.9934321045875549
+"There's Men in Tights, which, you know,",83.2,85.12,NEGATIVE,0.890160858631134,-0.890160858631134
+hilarious spoof of the story.,85.88,87.02,POSITIVE,0.9998849630355835,0.9998849630355835
+"There was a Kevin Costner, Prince of Thieves version, which was supposed to be the dark and edgy version of its time.",87.66,93.0,NEGATIVE,0.9920923113822937,-0.9920923113822937
+"But I mean, that was, what,",93.28,94.38,NEGATIVE,0.9896496534347534,-0.9896496534347534
+13 years ago?,95.1,95.88,NEGATIVE,0.9787762761116028,-0.9787762761116028
+14 years ago?,96.14,96.8,NEGATIVE,0.978303849697113,-0.978303849697113
+Probably more than that.,96.88,97.6,POSITIVE,0.9966768026351929,0.9966768026351929
+"So,",98.06,98.5,POSITIVE,0.5736933350563049,0.5736933350563049
+"maybe in Hollywood's eyes it was time for a remake, and it just lacked the charm of those past movies.",99.2,105.65,NEGATIVE,0.9997996687889099,-0.9997996687889099
+"It did seem to focus too much on epic, epic, epic, and it really just lacked what made the other movies more enjoyable.",105.65,115.53,NEGATIVE,0.999777615070343,-0.999777615070343
+"It suffers from what I call Kingdom of Heaven Syndrome, where it builds too much for these huge, catastrophic war sequences.",115.75,123.63,NEGATIVE,0.9996830224990845,-0.9996830224990845
+"They're supposed to blow you away, but the problem is you don't give a damn, because it just lacks that charm of the past movies.",124.01,132.57,NEGATIVE,0.9997591376304626,-0.9997591376304626
+"Not in all instances, but the ones that matter the most,",132.57,136.81,POSITIVE,0.9685702919960022,0.9685702919960022
+yeah.,137.85,137.85,POSITIVE,0.9995235204696655,0.9995235204696655
+Russell Crowe and Cate Blanchett just did not sell it for me.,138.53,142.57,NEGATIVE,0.9996731281280518,-0.9996731281280518
+I had a very hard time just buying it.,142.71,146.51,NEGATIVE,0.999409556388855,-0.999409556388855
+"We're supposed to believe that these two are in their mid -30s at the oldest,",147.21,152.99,NEGATIVE,0.9765807390213013,-0.9765807390213013
+and they're looking pretty rough in this movie.,153.65,157.33,NEGATIVE,0.9994890689849854,-0.9994890689849854
+"Like, okay, yes, Russell Crowe's Robin Hood is a crusader.",157.33,160.59,POSITIVE,0.9826935529708862,0.9826935529708862
+He just got back from the crusades.,160.69,161.81,NEGATIVE,0.8736972212791443,-0.8736972212791443
+"I can appreciate that he's not going to be looking like a chipper, bright young man, but early 30s, really?",161.95,169.38,POSITIVE,0.677625298500061,0.677625298500061
+You want me to buy that?,169.7,170.74,NEGATIVE,0.9888476133346558,-0.9888476133346558
+I can't do it.,171.5,172.56,NEGATIVE,0.9995338916778564,-0.9995338916778564
+"Especially when he's hanging out with the Merry Men, who all but one of them are probably early 20s, and one of them is maybe mid -20s.",172.92,182.6,NEGATIVE,0.9576454162597656,-0.9576454162597656
+"Meanwhile, they're hanging out with Papa Russell.",182.6,184.78,POSITIVE,0.808698832988739,0.808698832988739
+"It just looks like there's a bunch of guys hanging out, and someone brought their dad along because he offered to drive.",185.02,189.2,NEGATIVE,0.9940181970596313,-0.9940181970596313
+"I had a really, really tough time buying Russell Crowe as a mid -30s Robin Hood.",190.36,198.48,NEGATIVE,0.9960726499557495,-0.9960726499557495
+I couldn't do it.,198.84,199.62,NEGATIVE,0.9995030164718628,-0.9995030164718628
+"Cate Blanchett as Lady Marion, again,",204.35,208.59,POSITIVE,0.9924998879432678,0.9924998879432678
+just did not sell it.,210.73,211.93,NEGATIVE,0.9995645880699158,-0.9995645880699158
+I couldn't get behind this character.,212.29,214.43,NEGATIVE,0.9955975413322449,-0.9955975413322449
+"She was too stoic, too cold, just nothing really fazed her.",215.77,219.59,NEGATIVE,0.9994865655899048,-0.9994865655899048
+"She'd be given news that would devastate a normal human being, and she was kind of like, oh.",219.73,224.11,POSITIVE,0.9911905527114868,0.9911905527114868
+"And I can appreciate maybe they were trying to build her up as a stronger Marion, as we've seen in the past, not damsel in distress.",225.3,230.88,POSITIVE,0.9932464361190796,0.9932464361190796
+"But there's strong willed, and there's a cardboard cutout supposed to be an actress, and unfortunately, she really was that cardboard cutout for about 90 % of the movie.",231.48,241.06,NEGATIVE,0.9971143007278442,-0.9971143007278442
+"She started emoting near the end, but by then, it was just too late.",241.06,244.34,NEGATIVE,0.9996554851531982,-0.9996554851531982
+It was unsalvageable.,244.44,245.06,NEGATIVE,0.9881089329719543,-0.9881089329719543
+"Another thing, maybe I sound like a jerk for saying this, but like, made Marion in the stories.",247.54,251.56,POSITIVE,0.9774971604347229,0.9774971604347229
+She's supposed to be the object of all men's desires.,251.84,254.94,NEGATIVE,0.990614652633667,-0.990614652633667
+"Like, you know, all the guys want to get with her.",255.4,257.18,POSITIVE,0.923802375793457,0.923802375793457
+I can appreciate that.,257.2,258.16,POSITIVE,0.9998080134391785,0.9998080134391785
+"That's what a story, literature's heroine, is supposed to be like.",258.2,261.6,POSITIVE,0.9954975843429565,0.9954975843429565
+They're supposed to be that centricle force of all male's attention.,261.6,265.34,NEGATIVE,0.9923571348190308,-0.9923571348190308
+"But, I'm sorry,",266.86,267.8,NEGATIVE,0.996137797832489,-0.996137797832489
+"Cate Blanchett in a town full of very attractive early 20's young women, and we're supposed to buy that everyone wants to get with her and completely disregard these other girls who maybe their personalities suck.",269.03,284.18,NEGATIVE,0.9653589129447937,-0.9653589129447937
+"I don't know, but as far as them all going, looking at Cate Blanchett and going, hey, I want a piece of that.",284.36,289.72,POSITIVE,0.9941095113754272,0.9941095113754272
+"Again, I can't really buy it.",291.06,293.48,NEGATIVE,0.9996199607849121,-0.9996199607849121
+"Clearly, they're trying to make us believe that these were younger characters,",294.68,298.34,NEGATIVE,0.9978092312812805,-0.9978092312812805
+and I just can't buy that.,298.96,302.12,NEGATIVE,0.9990629553794861,-0.9990629553794861
+"If you want younger characters, get younger actors.",302.2,305.24,NEGATIVE,0.9876894950866699,-0.9876894950866699
+It's just that simple.,305.56,306.5,POSITIVE,0.9997308850288391,0.9997308850288391
+"I know that Russell Crowe is kind of really Scott's go -to guy, but you've done like 45 ,000 movies together.",306.7,316.3,POSITIVE,0.9976512789726257,0.9976512789726257
+It's time to move on.,316.8,318.54,POSITIVE,0.85353022813797,0.85353022813797
+"Have a role as a more mature Robin Hood, maybe.",319.94,322.78,POSITIVE,0.8960146307945251,0.8960146307945251
+It worked for when Sean Connery and him and Audrey Hepburn were Robin and Marion.,322.96,327.5,POSITIVE,0.9937254786491394,0.9937254786491394
+Sean Connery is a great Robin Hood.,328.88,330.2,POSITIVE,0.9997593760490417,0.9997593760490417
+Too old?,330.44,330.8,NEGATIVE,0.9996551275253296,-0.9996551275253296
+What do we do?,331.02,331.46,NEGATIVE,0.9815446138381958,-0.9815446138381958
+Take it out 20 years.,331.88,332.82,POSITIVE,0.6827664971351624,0.6827664971351624
+Don't do an origin story with a 50 -year -old Robin Hood.,332.96,336.0,NEGATIVE,0.9972735047340393,-0.9972735047340393
+It's not going to work.,336.14,337.12,NEGATIVE,0.9997724890708923,-0.9997724890708923
+I'm sorry.,338.06,338.4,NEGATIVE,0.9996709823608398,-0.9996709823608398
+I probably sound like a jerk for that.,338.56,339.7,NEGATIVE,0.9984052777290344,-0.9984052777290344
+They're not bad actors.,340.1,341.0,POSITIVE,0.9996416568756104,0.9996416568756104
+They weren't selling it in this movie.,341.28,342.8,NEGATIVE,0.9912251830101013,-0.9912251830101013
+I just couldn't get behind it.,343.06,344.62,NEGATIVE,0.9995763897895813,-0.9995763897895813
+The characters just lacked depth.,345.28,348.02,NEGATIVE,0.9998109936714172,-0.9998109936714172
+They were all so one -dimensional.,348.42,349.68,NEGATIVE,0.9993044137954712,-0.9993044137954712
+The good guys were good guys.,350.66,351.64,POSITIVE,0.9998133778572083,0.9998133778572083
+The bad guys were bad guys.,351.8,353.08,NEGATIVE,0.9985117316246033,-0.9985117316246033
+We're given really no explanation why.,353.3,355.6,NEGATIVE,0.9997007846832275,-0.9997007846832275
+"Robin Hood, for the beginning of the movie, basically comes across as this heartless badass.",357.6,363.68,NEGATIVE,0.9985040426254272,-0.9985040426254272
+And then we don't really know what inspires him to take up his sword and bow and defend the innocent.,364.88,370.36,NEGATIVE,0.9990963935852051,-0.9990963935852051
+He does it.,370.36,371.92,POSITIVE,0.9995044469833374,0.9995044469833374
+Cool.,372.44,372.72,POSITIVE,0.9998496770858765,0.9998496770858765
+That's the story.,373.0,373.56,POSITIVE,0.9992238283157349,0.9992238283157349
+But why?,374.1,374.66,NEGATIVE,0.9950119256973267,-0.9950119256973267
+It's never explored.,375.1,376.4,NEGATIVE,0.9994695782661438,-0.9994695782661438
+And it just kind of leaves you feeling hollow.,377.08,379.42,NEGATIVE,0.9980771541595459,-0.9980771541595459
+Same with the villain characters.,380.96,382.36,NEGATIVE,0.9637035727500916,-0.9637035727500916
+Sheriff of Nottingham kind of got the boot as the main mega -moniacal villain.,382.94,388.1,NEGATIVE,0.5459469556808472,-0.5459469556808472
+And we get this martial godfrey who sold it huge.,388.84,391.92,POSITIVE,0.9988241791725159,0.9988241791725159
+He was a great role.,392.18,393.04,POSITIVE,0.9998434782028198,0.9998434782028198
+It gets at it in a bit.,393.16,393.76,POSITIVE,0.9919580221176147,0.9919580221176147
+But we don't know why he did the things that he did.,394.28,397.82,NEGATIVE,0.9954276084899902,-0.9954276084899902
+It's not covered.,398.26,398.9,NEGATIVE,0.9990594983100891,-0.9990594983100891
+"It's just, I'm the villain.",399.12,400.1,NEGATIVE,0.9831920266151428,-0.9831920266151428
+I'm going to do villain stuff.,400.64,401.72,POSITIVE,0.8577082753181458,0.8577082753181458
+"You need a villain, but come on.",403.27,404.75,NEGATIVE,0.7301816344261169,-0.7301816344261169
+"At least throw us a bone here, release god.",404.97,407.67,NEGATIVE,0.9342349767684937,-0.9342349767684937
+Throw us something.,407.87,408.59,POSITIVE,0.6931056976318359,0.6931056976318359
+Give us anything.,408.91,409.73,POSITIVE,0.9821098446846008,0.9821098446846008
+I don't want too much on negatives.,410.67,411.69,NEGATIVE,0.9995986819267273,-0.9995986819267273

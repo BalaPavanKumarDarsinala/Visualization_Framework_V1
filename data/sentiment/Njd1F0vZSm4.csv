@@ -1,0 +1,22 @@
+text,start,end,label,score,polarity
+Let's talk Legend of the Guardians.,0.08,2.28,POSITIVE,0.9977974891662598,0.9977974891662598
+I'm going to give this a grade B minus.,3.02,6.3,NEGATIVE,0.9992241859436035,-0.9992241859436035
+"The CGI work,",7.06,8.62,POSITIVE,0.9953588843345642,0.9953588843345642
+the 3D is spectacular.,9.4,10.98,POSITIVE,0.9998674392700195,0.9998674392700195
+The flying sequences are beautiful and the owls are really wonderful and come off real and they do have very nice personalities and you have a read for them.,11.88,22.74,POSITIVE,0.9998865127563477,0.9998865127563477
+But the story is very dark.,23.26,25.08,NEGATIVE,0.986995279788971,-0.986995279788971
+"In fact, my six -year -old was scared most of the movie.",25.42,28.24,NEGATIVE,0.9980582594871521,-0.9980582594871521
+The basic gist is it's like good owls versus bad owls.,28.24,32.12,POSITIVE,0.9753859639167786,0.9753859639167786
+The bad owls kidnap two little good owls and one of them escapes and runs off to the guardians and then the guardians fight the bad owls.,32.26,41.48,NEGATIVE,0.8989542722702026,-0.8989542722702026
+And save owl them.,43.33,44.69,POSITIVE,0.7288390398025513,0.7288390398025513
+They all get to live happily ever after.,44.89,46.31,POSITIVE,0.9998639822006226,0.9998639822006226
+My other complaint other than that there's like nothing light or funny in the story to break up the somber mood is the battle itself.,47.51,56.23,NEGATIVE,0.9996166229248047,-0.9996166229248047
+You can't tell which are the good owls and which are the bad owls.,56.23,59.67,NEGATIVE,0.9975312352180481,-0.9975312352180481
+They really needed to somehow set them apart with armor.,60.21,65.29,NEGATIVE,0.9932928085327148,-0.9932928085327148
+I mean some of them wear armor but some on both sides wear armor.,66.29,69.69,NEGATIVE,0.8061866164207458,-0.8061866164207458
+"Anyway,",70.33,70.59,NEGATIVE,0.5739639401435852,-0.5739639401435852
+this is when you can skip or you can see up,71.69,75.97,NEGATIVE,0.652337372303009,-0.652337372303009
+to you.,77.06,77.5,POSITIVE,0.9998124241828918,0.9998124241828918
+And that's it.,78.38,79.2,POSITIVE,0.9994598031044006,0.9994598031044006
+Now off to go help with my thicks on.,80.18,83.12,POSITIVE,0.5618646740913391,0.5618646740913391
+Bye.,83.72,83.96,NEGATIVE,0.91107177734375,-0.91107177734375

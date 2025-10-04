@@ -1,0 +1,126 @@
+text,start,end,label,score,polarity
+"Hey everyone, Matthew Robinson back again, and I'm here to give a review of G .I.",6.7,11.84,POSITIVE,0.9995903372764587,0.9995903372764587
+Joe Rise of the Cobras.,12.22,14.52,POSITIVE,0.9919420480728149,0.9919420480728149
+"Anyway, I actually missed this movie when it came out in theaters because I really wanted to see it actually, but I never was able to kind of connect and actually see it.",17.47,24.89,NEGATIVE,0.9989043474197388,-0.9989043474197388
+"Some things fell through,",25.19,26.37,NEGATIVE,0.9996331930160522,-0.9996331930160522
+"never was able to see it, just saw it on DVD, rented it, and first of all, I actually was never a huge fan of the G .I.",27.23,37.79,NEGATIVE,0.9980112314224243,-0.9980112314224243
+Joe TV series or a big collector of the action figures.,38.05,41.71,POSITIVE,0.9912611842155457,0.9912611842155457
+"I watch the TV show every once in a while, but I wasn't big on it.",42.87,46.63,NEGATIVE,0.99480801820755,-0.99480801820755
+"That being said, I still have got a lot of references that they made in the movie.",48.52,53.22,POSITIVE,0.9832085967063904,0.9832085967063904
+They even make a reference to knowing is half the battle.,53.36,55.74,NEGATIVE,0.997022807598114,-0.997022807598114
+"And just in case you didn't read the above thing on my title, this review is going to have some spoilers in it.",55.94,62.62,POSITIVE,0.9827725291252136,0.9827725291252136
+"So if you haven't seen the movie and don't want me to spoil it, you can watch my other video right now.",62.76,68.54,NEGATIVE,0.9021401405334473,-0.9021401405334473
+"Go click on that and watch that and, you know, enjoy yourself with that video.",68.86,73.28,POSITIVE,0.999769389629364,0.999769389629364
+Going back to G .I.,74.08,74.82,POSITIVE,0.9923143982887268,0.9923143982887268
+"Joe Rise of the Cobras,",75.0,75.8,POSITIVE,0.9887730479240417,0.9887730479240417
+"this movie is incredibly cheesy,",76.82,79.3,NEGATIVE,0.9993782043457031,-0.9993782043457031
+"but in the good way,",80.04,82.0,POSITIVE,0.9998384714126587,0.9998384714126587
+"and there's two types of cheesy,",82.82,84.74,NEGATIVE,0.9994800686836243,-0.9994800686836243
+and this is the good kind of cheesy.,85.46,86.86,POSITIVE,0.9991313815116882,0.9991313815116882
+"Yes, the acting is a little rough in some parts, a little, you know,",86.86,90.72,NEGATIVE,0.9992502331733704,-0.9992502331733704
+"corny, but the script is corny.",91.88,94.06,NEGATIVE,0.9992584586143494,-0.9992584586143494
+"I mean, just the way it's written is corny.",94.32,95.96,NEGATIVE,0.9996975660324097,-0.9996975660324097
+"I mean, I didn't go into this movie expecting to see The Dark Knight.",96.12,98.86,NEGATIVE,0.9811148047447205,-0.9811148047447205
+"And quite honestly, I wish I'd seen this over the summer, because if I'd seen it over the summer, I probably would have rated it the best action movie I saw this summer.",99.52,106.14,POSITIVE,0.9970958232879639,0.9970958232879639
+"This summer was kind of weak at the action movies, if you ask me.",106.2,108.58,NEGATIVE,0.9997839331626892,-0.9997839331626892
+"I did like Transformers 2, even though a lot of people didn't like that.",108.96,111.68,POSITIVE,0.9960648417472839,0.9960648417472839
+"But, you know, this movie, this really would have made up for the disappointment that I had in Terminator Salvation.",112.83,118.99,NEGATIVE,0.8202956914901733,-0.8202956914901733
+"This movie stars Channing Tatum,",121.72,123.32,POSITIVE,0.9993122816085815,0.9993122816085815
+"Marlon Wayans,",124.46,125.1,POSITIVE,0.994944155216217,0.994944155216217
+"Sienna Miller, Christopher Eccleston, Dennis Quaid and Rachel Nichols.",126.02,129.32,POSITIVE,0.9980484247207642,0.9980484247207642
+"And, you know, you have a lot of good actors in this movie, actually, a lot of good actors.",130.5,134.8,POSITIVE,0.999810516834259,0.999810516834259
+"And, you know, they're, you know, this is a cheesy movie.",135.1,138.72,NEGATIVE,0.999369204044342,-0.999369204044342
+"So, you know, it's not like you're actually getting like Academy Award quality acting performances.",139.06,143.2,NEGATIVE,0.6250661015510559,-0.6250661015510559
+And none of the performances are like something like to write home about.,143.96,147.44,NEGATIVE,0.9982485771179199,-0.9982485771179199
+"That being said, you can tell that a lot of people were having fun with this.",148.82,152.66,POSITIVE,0.9975306391716003,0.9975306391716003
+And there's a difference between when an actor is dialing in a performance and when an actor is having fun with a performance.,152.74,159.08,NEGATIVE,0.6596329808235168,-0.6596329808235168
+"And I thought, like, in particular,",159.44,160.72,POSITIVE,0.9942388534545898,0.9942388534545898
+Joseph Gordon -Levin had a lot of fun with his role.,161.36,163.78,POSITIVE,0.9995846152305603,0.9995846152305603
+I think Rachel Nichols had a lot of fun with her role.,164.24,166.86,POSITIVE,0.9989237189292908,0.9989237189292908
+Marlon Wayans had a lot of fun.,167.34,168.34,POSITIVE,0.9998413324356079,0.9998413324356079
+"I cannot pronounce his name, but the guy from Lost had a lot of fun.",169.16,171.88,POSITIVE,0.9994298815727234,0.9994298815727234
+"Dennis Quaid, I think, had a lot of fun.",172.04,174.08,POSITIVE,0.9997953772544861,0.9997953772544861
+Jamie Christopher Eppelson.,174.9,175.78,POSITIVE,0.9913307428359985,0.9913307428359985
+So I think it was cool.,176.86,178.08,POSITIVE,0.9994194507598877,0.9994194507598877
+You had to see Ray Park in action.,178.22,179.52,POSITIVE,0.9960379600524902,0.9960379600524902
+Great action star.,180.08,181.3,POSITIVE,0.9998674392700195,0.9998674392700195
+He does a great job as snake eyes.,181.54,183.06,POSITIVE,0.9994722008705139,0.9994722008705139
+It's always cool to see that.,183.24,184.46,POSITIVE,0.9998718500137329,0.9998718500137329
+One thing I also liked about this G .I.,185.12,186.7,POSITIVE,0.9975497126579285,0.9975497126579285
+Joe movie is how international it was.,186.84,189.1,POSITIVE,0.9976677298545837,0.9976677298545837
+"It was a very diverse cast,",189.32,190.86,POSITIVE,0.9996782541275024,0.9996782541275024
+"different creeds, nationalities that just kind of made it really cool.",192.1,195.46,POSITIVE,0.9997536540031433,0.9997536540031433
+"Also,",196.76,197.16,POSITIVE,0.9870805144309998,0.9870805144309998
+the guy who played the mummy in Stephen Summer's Mummy.,197.96,200.52,POSITIVE,0.981282114982605,0.981282114982605
+I only liked the first one for the record.,200.66,202.26,NEGATIVE,0.9911383986473083,-0.9911383986473083
+The first remake of the mummy.,202.26,203.68,NEGATIVE,0.9886830449104309,-0.9886830449104309
+"He's in it, though.",204.02,204.82,POSITIVE,0.9885578155517578,0.9885578155517578
+And he has a really cool part in that.,205.54,207.52,POSITIVE,0.9998717308044434,0.9998717308044434
+"I like this little twist they had at the end, even though you obviously saw it coming.",207.62,211.4,POSITIVE,0.9993289709091187,0.9993289709091187
+That's probably another little side thing about this movie.,213.44,215.24,NEGATIVE,0.9761066436767578,-0.9761066436767578
+"This movie, I mean, you pretty much knew where it was going pretty much the entire time.",215.34,218.88,POSITIVE,0.821994960308075,0.821994960308075
+"There wasn't really any moment where I was like, oh, I didn't see that happening.",219.56,223.9,NEGATIVE,0.9985790252685547,-0.9985790252685547
+"You know, it was pretty much you knew what was going to happen, but you're along for the ride and you just want to see stuff blow up and you want to see people act and be cool and have some fun with it.",224.26,232.14,POSITIVE,0.9986639022827148,0.9986639022827148
+I want to touch on this because I'm going to be making soon because a lot of people have been asking me to make a video on this topic.,232.14,239.82,POSITIVE,0.9952711462974548,0.9952711462974548
+I'm going to be making a video on interracial dating and marriage and all my thoughts on that whole situation.,240.02,245.38,NEGATIVE,0.9853342771530151,-0.9853342771530151
+"The relationship between Mon Wayans and Rachel Nicole's, a black guy and a white woman, has been a kind of a polarizing issue in this movie, but not necessarily for the reasons you might think.",246.1,256.14,NEGATIVE,0.9286341667175293,-0.9286341667175293
+Totally.,256.56,256.74,POSITIVE,0.9998303651809692,0.9998303651809692
+"Of course, there are some people who just don't like the idea of a black man and white woman together.",257.52,260.86,NEGATIVE,0.9964913725852966,-0.9964913725852966
+"There are also some people who felt that they liked them together, but they felt that the studio kind of punked out and never actually had them have this like fulfilled relationship like she gives them a kiss on the cheek.",260.86,271.08,NEGATIVE,0.9977926015853882,-0.9977926015853882
+Not cheeky.,272.24,272.7,NEGATIVE,0.9988706707954407,-0.9988706707954407
+It's like a really quick peck.,272.78,273.92,POSITIVE,0.9932520985603333,0.9932520985603333
+It's not like anything like a lingering kiss.,274.04,275.8,POSITIVE,0.9565920233726501,0.9565920233726501
+And some people were critical about that.,275.96,277.38,NEGATIVE,0.9938405752182007,-0.9938405752182007
+I didn't know there was anything wrong with that.,277.84,279.04,POSITIVE,0.9448037147521973,0.9448037147521973
+You got to have some build.,279.06,279.78,NEGATIVE,0.9486913681030273,-0.9486913681030273
+There's going to be a sequel.,279.92,280.46,NEGATIVE,0.9733940958976746,-0.9733940958976746
+"But actually, what most people are actually more upset about the relationship between Mon Wayans, Ripcord and Rachel Nicole's who play Scarlett, is the fact that in the comics,",280.68,289.5,NEGATIVE,0.9909281134605408,-0.9909281134605408
+Scarlett and Snake Eyes are a couple.,290.2,292.46,POSITIVE,0.9995759129524231,0.9995759129524231
+"Now, they've done this before in tons of comic movies, most notably X -Men, where they had Gene Gray and Wolverine have a romantic relationship and kind of pretty much pushed the cyclops relationship to the side even though they acknowledged it.",293.22,305.82,NEGATIVE,0.9872915148735046,-0.9872915148735046
+Do I think they should have Rachel Nicole's with Snake Eyes or Scarlett with Snake Eyes?,306.54,310.28,NEGATIVE,0.9990455508232117,-0.9990455508232117
+"Actually, no.",310.48,311.12,NEGATIVE,0.9918268918991089,-0.9918268918991089
+I don't think it will work.,311.28,312.18,NEGATIVE,0.9997554421424866,-0.9997554421424866
+It doesn't translate well into film.,312.28,313.64,NEGATIVE,0.999707043170929,-0.999707043170929
+How many guys doesn't talk?,313.8,314.74,NEGATIVE,0.9862715005874634,-0.9862715005874634
+"And then Scarlett, this beautiful woman all over them.",314.74,318.84,POSITIVE,0.999243974685669,0.999243974685669
+It doesn't work.,318.88,319.4,NEGATIVE,0.9997761845588684,-0.9997761845588684
+I think Snake Eyes just needs to be that total awesome guy who just can cut up people and do all those action movies.,319.56,325.84,POSITIVE,0.5669055581092834,0.5669055581092834
+I think putting him with Scott actually devalues his character and devalues Scarlett.,326.04,330.42,NEGATIVE,0.9996771812438965,-0.9996771812438965
+"It's a much more interesting relationship, personally, in the movie version, to have Mon Wayans and Rachel Nicole's be a couple.",330.58,337.82,POSITIVE,0.9985924363136292,0.9985924363136292
+There's a lot more stuff you can do with it.,338.08,339.74,POSITIVE,0.9941406846046448,0.9941406846046448
+I did like this movie.,340.14,341.1,POSITIVE,0.9998098015785217,0.9998098015785217
+"I mean, it's stupid.",341.38,342.56,NEGATIVE,0.999778687953949,-0.999778687953949
+"It's cheesy, but it's a lot of fun.",343.37,346.23,POSITIVE,0.9998483657836914,0.9998483657836914
+And I'm gonna watch it again before I have to return it.,346.33,349.91,POSITIVE,0.5747783780097961,0.5747783780097961
+"I do wish maybe the beginning, the first 20 minutes, seems like they're really rushing to get to the middle and the end part.",350.21,359.21,NEGATIVE,0.996019184589386,-0.996019184589386
+"So they kind of undersell the exposition of the story, but they do kind of make up for it.",359.57,365.35,POSITIVE,0.9996645450592041,0.9996645450592041
+You kind of see some backstory to some of the characters.,365.65,367.87,POSITIVE,0.9827964305877686,0.9827964305877686
+I actually thought the relationship between Channing Tatum and Siena Miller was just really stale.,368.39,372.59,NEGATIVE,0.9998146891593933,-0.9998146891593933
+I didn't get into it.,372.97,374.05,NEGATIVE,0.964844822883606,-0.964844822883606
+I never really cared much for the storyline,374.05,375.87,NEGATIVE,0.9995050430297852,-0.9995050430297852
+"until Joseph Gordon -Levitt kind of got mixed into it, who's a great actor, by the way, and I hope he's an Academy Award nomination for his role, not in G .I.",378.31,385.67,POSITIVE,0.9760037660598755,0.9760037660598755
+"Joe, but 500 Days of Summer.",385.79,387.07,POSITIVE,0.963701069355011,0.963701069355011
+"But yeah, it was fun.",388.87,390.41,POSITIVE,0.9998395442962646,0.9998395442962646
+I would say that I was scared of 100.,390.53,392.75,NEGATIVE,0.9979099631309509,-0.9979099631309509
+"I liked this more than Transformers 2, actually, for various reasons.",393.09,396.15,POSITIVE,0.9987925291061401,0.9987925291061401
+And I would give this an 85 out of 100.,396.65,398.41,POSITIVE,0.9891635179519653,0.9891635179519653
+"I mean, some people are gonna disagree with me on that.",398.41,400.39,NEGATIVE,0.9766516089439392,-0.9766516089439392
+"They're gonna think it was too cheesy or that it was too slapstick, but I liked it.",400.47,404.07,POSITIVE,0.998026430606842,0.998026430606842
+"For me, the selling point on this movie that really made me like this movie was Marlon Wayans.",404.91,409.57,POSITIVE,0.9982531666755676,0.9982531666755676
+Some people may not agree with that.,409.99,411.15,NEGATIVE,0.9989035129547119,-0.9989035129547119
+"I thought he was great in his part because he was the only character consistently to the movie who was a comic relief, but he wasn't incompetent.",411.17,418.61,POSITIVE,0.9988208413124084,0.9988208413124084
+"A lot of times you see the comic relief be incompetent and stupid, and they really don't know anything.",418.83,423.59,NEGATIVE,0.9997075200080872,-0.9997075200080872
+"But his character's smart, and his character obviously isn't a complete klutz, and he does stuff.",423.69,428.45,POSITIVE,0.9996368885040283,0.9996368885040283
+He actually technically saves the world.,428.53,430.19,POSITIVE,0.9997504353523254,0.9997504353523254
+He actually does the most work because he's the one who actually blows up the missiles.,430.29,434.09,POSITIVE,0.9963769316673279,0.9963769316673279
+So he's actually really the main hero of the story.,434.89,437.43,POSITIVE,0.9986228942871094,0.9986228942871094
+I wasn't very interested in Channing Taehan's character.,437.67,439.67,NEGATIVE,0.9996048808097839,-0.9996048808097839
+"That's not necessarily Channing Taehan's fault,",440.03,441.81,NEGATIVE,0.5415157675743103,-0.5415157675743103
+or even the script's fault.,442.45,443.45,NEGATIVE,0.9996589422225952,-0.9996589422225952
+I just wasn't that interested in his whole relationship with the animal.,443.53,446.55,NEGATIVE,0.9993600249290466,-0.9993600249290466
+"That kinda just, well, I guess it is the script's fault because it just did not, it didn't translate for me.",446.79,450.55,NEGATIVE,0.9996868371963501,-0.9996868371963501
+I didn't care.,450.65,451.15,NEGATIVE,0.9995546936988831,-0.9995546936988831
+So 85 out of 100.,451.93,453.09,NEGATIVE,0.8954808115959167,-0.8954808115959167
+"Remember, guys, also to go to zazzle .com I come back, everyone.",453.53,456.45,POSITIVE,0.6115027666091919,0.6115027666091919
+"That's where you can purchase some of my stuff, help me out with entering this film festival.",456.61,460.49,POSITIVE,0.9960909485816956,0.9960909485816956
+"And so until next time, remember to rate, comment, subscribe, and remember.",461.15,464.61,NEGATIVE,0.9905936121940613,-0.9905936121940613

@@ -1,0 +1,185 @@
+text,start,end,label,score,polarity
+"Hello there, YouTube.",1.36,2.44,POSITIVE,0.9984281063079834,0.9984281063079834
+Michael Powers.,2.62,2.96,POSITIVE,0.9993557333946228,0.9993557333946228
+"Again, I'm going to do my...",3.24,4.42,POSITIVE,0.9993031024932861,0.9993031024932861
+"I decided to just do the reviews in one day, since I've gotten out to do much.",4.42,7.58,NEGATIVE,0.9951947331428528,-0.9951947331428528
+"So, here we go.",8.18,9.5,POSITIVE,0.995058536529541,0.995058536529541
+The long -awaited movie review of Final Destination 3.,9.74,13.22,POSITIVE,0.9687811136245728,0.9687811136245728
+So here we go.,14.41,15.21,POSITIVE,0.9984473586082458,0.9984473586082458
+"Now, this movie reunites the two direct creators of the first movie, Jim Wong and Glenn Morgan.",15.95,22.65,POSITIVE,0.9994251728057861,0.9994251728057861
+"Jim Wong, of course, directing the third one again.",23.17,25.03,POSITIVE,0.9954153299331665,0.9954153299331665
+And I was very impressed with his work on the first one.,26.14,28.12,POSITIVE,0.9998284578323364,0.9998284578323364
+I thought that the first one was creative and inventive and really brought something new to cinema.,28.22,33.92,POSITIVE,0.9998155236244202,0.9998155236244202
+The second one was directed by David R.,34.95,37.01,POSITIVE,0.9920920133590698,0.9920920133590698
+"Ellis,",37.13,37.27,POSITIVE,0.9827725291252136,0.9827725291252136
+"who's also directing the fourth one, The Final Destination, coming out once again now.",38.09,42.11,POSITIVE,0.9989233613014221,0.9989233613014221
+"But the second one, it did in some ways take it to the next level, but in some ways the first one was better.",42.81,47.89,NEGATIVE,0.8435357809066772,-0.8435357809066772
+So it was just about equal to the first one.,48.55,50.95,POSITIVE,0.9766347408294678,0.9766347408294678
+"So here we are with the creators of the first one, Final Destination 3.",51.29,54.73,POSITIVE,0.9960429668426514,0.9960429668426514
+So let's get into this review and I'll tell you why.,55.31,57.79,NEGATIVE,0.5523406267166138,-0.5523406267166138
+"Well, I'll tell you what I thought of it.",58.07,59.47,POSITIVE,0.999110758304596,0.999110758304596
+"So anyway, here we go.",60.13,61.51,POSITIVE,0.9033631086349487,0.9033631086349487
+"Now, the plot of the movie this time, it's basically exactly the same as the first two movies, but with different characters.",61.93,66.43,NEGATIVE,0.892440140247345,-0.892440140247345
+So here we go.,67.17,67.83,POSITIVE,0.9984473586082458,0.9984473586082458
+Mary Elizabeth Winstead portrays Wendy Christensen and Ryan Merriman portrays Kevin Blake.,69.19,74.99,POSITIVE,0.9937964677810669,0.9937964677810669
+I think that's the second name.,76.61,77.49,POSITIVE,0.5742580890655518,0.5742580890655518
+I don't know.,77.61,77.81,NEGATIVE,0.9975111484527588,-0.9975111484527588
+"Anyway, that's not the review.",77.93,78.61,NEGATIVE,0.9992164373397827,-0.9992164373397827
+Wendy has a premonition that of course her and her friends run in the amusement park.,79.71,83.53,NEGATIVE,0.9959111213684082,-0.9959111213684082
+"And she has a premonition that a roller coaster is going to crash, which of course is exactly the same as the first two.",83.97,88.89,NEGATIVE,0.9942601919174194,-0.9942601919174194
+It happens.,89.01,89.53,POSITIVE,0.9995914101600647,0.9995914101600647
+It crashes.,91.47,92.27,NEGATIVE,0.9995837807655334,-0.9995837807655334
+She and a few other people get off the ride.,92.67,94.37,POSITIVE,0.9427853226661682,0.9427853226661682
+"And then of course what happens is exactly the same as the first two,",94.91,97.63,NEGATIVE,0.9318572878837585,-0.9318572878837585
+"where the death starts picking off people one by one and, you know, before they reach their final destination.",98.79,104.59,NEGATIVE,0.9995587468147278,-0.9995587468147278
+And they have to try and stay alive and avoid death as much as possible.,105.73,108.55,NEGATIVE,0.9976301193237305,-0.9976301193237305
+So that's the basic plot of Final Destination 3.,109.51,111.21,POSITIVE,0.7734719514846802,0.7734719514846802
+"Now, by the sound of the brush plot there, you may think I hated this movie.",114.1,117.86,NEGATIVE,0.9997774958610535,-0.9997774958610535
+"But you're wrong, actually.",118.64,120.12,NEGATIVE,0.9772242307662964,-0.9772242307662964
+I did.,120.32,120.74,POSITIVE,0.9990059733390808,0.9990059733390808
+I really liked it.,121.0,121.88,POSITIVE,0.9998458623886108,0.9998458623886108
+I'll tell you why first.,122.54,123.62,POSITIVE,0.9741931557655334,0.9741931557655334
+"First, I'm going to get into the acting, which was much, much better than the second one.",124.08,127.86,POSITIVE,0.9911620616912842,0.9911620616912842
+The second one had wooden acting in some places.,128.26,130.78,NEGATIVE,0.9997414946556091,-0.9997414946556091
+I'm sorry.,130.8,131.26,NEGATIVE,0.9996709823608398,-0.9996709823608398
+"I did like the second one, but most of the actors were so, with the exception of maybe the police cop and Kimberly, but the rest of the actors were so wooden.",131.7,139.22,NEGATIVE,0.9995638728141785,-0.9995638728141785
+They were just...,139.8,140.86,NEGATIVE,0.9854745864868164,-0.9854745864868164
+what acting were they doing anyway?,140.86,142.3,NEGATIVE,0.9990956783294678,-0.9990956783294678
+I don't know.,142.58,142.86,NEGATIVE,0.9975111484527588,-0.9975111484527588
+They do seriously need to learn acting better.,143.06,144.88,NEGATIVE,0.9949671626091003,-0.9949671626091003
+"Anyway, the third out one, acting was much, much better than the second one anyway.",146.53,150.75,POSITIVE,0.9856598377227783,0.9856598377227783
+May or a little bit of Winstead.,151.33,152.07,POSITIVE,0.9824851751327515,0.9824851751327515
+Oh my God.,152.27,152.79,NEGATIVE,0.7070452570915222,-0.7070452570915222
+She is terrific.,152.89,153.73,POSITIVE,0.9998730421066284,0.9998730421066284
+She's nice looking as well.,153.99,154.91,POSITIVE,0.999868631362915,0.999868631362915
+But she is also a terrific actress.,154.99,156.47,POSITIVE,0.9998712539672852,0.9998712539672852
+"Obviously, this is one of the best performances I've seen out of hers.",157.05,159.69,POSITIVE,0.9998462200164795,0.9998462200164795
+I've not seen one bad movie that she's been in.,159.93,162.41,POSITIVE,0.9965465664863586,0.9965465664863586
+"I mean, this is the only movie I've really seen with her in it.",162.51,164.43,NEGATIVE,0.9990419745445251,-0.9990419745445251
+"And Die Hard 4, terrific in that.",164.71,166.35,POSITIVE,0.9998824596405029,0.9998824596405029
+"But May or a little bit of Winstead, I must say, she is a terrific and beautiful and talented actress.",167.05,171.11,POSITIVE,0.9998478889465332,0.9998478889465332
+"She just plays the emotion and distress of her character so well, you actually feel for her character.",171.11,176.37,POSITIVE,0.999039351940155,0.999039351940155
+"You know she's going through the stress, and you feel sorry for her.",176.71,179.05,NEGATIVE,0.9991182684898376,-0.9991182684898376
+You want to help her.,179.05,180.09,POSITIVE,0.9939302206039429,0.9939302206039429
+"You know, who else was there?",181.21,182.15,NEGATIVE,0.9983761310577393,-0.9983761310577393
+Ryan Merriman plays Kevin Blake.,182.41,184.27,POSITIVE,0.9919396042823792,0.9919396042823792
+"You know,",184.63,184.83,POSITIVE,0.9876084327697754,0.9876084327697754
+or whatever his surname is.,185.55,187.27,NEGATIVE,0.9654307961463928,-0.9654307961463928
+"He was, you know, he was...",187.97,189.63,POSITIVE,0.8758557438850403,0.8758557438850403
+"Kevin Fisher, sorry, that's his name.",189.63,190.89,NEGATIVE,0.9994757771492004,-0.9994757771492004
+He plays Kevin.,191.67,192.63,POSITIVE,0.9827790856361389,0.9827790856361389
+He was terrific as well.,192.71,193.83,POSITIVE,0.9998677968978882,0.9998677968978882
+"Again, he was more of the emotional distress of his girlfriend, and the death of his girlfriend as well at the start of the movie.",194.15,199.11,NEGATIVE,0.9980984330177307,-0.9980984330177307
+You feel for his characters as much as Wendy's.,199.11,201.49,POSITIVE,0.9988319277763367,0.9988319277763367
+"You know, they were terrific as characters.",201.91,203.35,POSITIVE,0.9998600482940674,0.9998600482940674
+"Those two are some of the best actresses and actors, sorry, I've seen in ages.",203.55,207.31,POSITIVE,0.9989487528800964,0.9989487528800964
+"I know I'm getting a bit carried away here, but anyway.",207.81,209.73,NEGATIVE,0.9625774025917053,-0.9625774025917053
+"Um,",210.41,210.77,NEGATIVE,0.9837655425071716,-0.9837655425071716
+the best of the cast.,211.94,212.42,POSITIVE,0.9998564720153809,0.9998564720153809
+"They were, some of them were a little bit, um,",212.62,214.28,NEGATIVE,0.9877426624298096,-0.9877426624298096
+"iffy -ish, but I was very, I was very satisfied with the acting in this movie.",214.92,218.5,POSITIVE,0.9991477727890015,0.9991477727890015
+It was great.,218.58,219.04,POSITIVE,0.9998749494552612,0.9998749494552612
+"So, that's acting -wise done.",220.46,222.42,POSITIVE,0.9663708209991455,0.9663708209991455
+"The movie in general, what did I think of it?",222.58,224.6,NEGATIVE,0.978980541229248,-0.978980541229248
+I think that this is the best in the series so far.,225.92,228.1,POSITIVE,0.9997828602790833,0.9997828602790833
+"I think that because Jim Wong directed the first one, he came back and took the, you might as well just forget the second one ever happened and just,",228.1,237.1,NEGATIVE,0.9966520667076111,-0.9966520667076111
+"you know, I mean, this one doesn't have any references to the first two.",237.88,240.96,NEGATIVE,0.9995189905166626,-0.9995189905166626
+"That's kind of, you know, it kind of like just invents a new idea and goes in another direction for the franchise.",241.82,248.32,POSITIVE,0.9892071485519409,0.9892071485519409
+So I kind of like that in some ways.,249.24,251.02,POSITIVE,0.9983851909637451,0.9983851909637451
+"Anyway, let's get into the movie.",251.42,252.34,NEGATIVE,0.9792100787162781,-0.9792100787162781
+What did I like?,252.54,253.06,POSITIVE,0.999118983745575,0.999118983745575
+What did I not like?,253.3,254.06,NEGATIVE,0.9743082523345947,-0.9743082523345947
+"First of all, what did I like?",254.5,255.88,POSITIVE,0.9981202483177185,0.9981202483177185
+"I really liked how the deaths, for a start, the deaths I thought were, the deaths I thought were much more realistic this time round.",256.38,265.31,POSITIVE,0.9917569756507874,0.9917569756507874
+"Much more realistic than the second one, even though the second one did have some creepy deaths, but this one is a lot more gore in it, which is good.",265.91,275.32,POSITIVE,0.9996590614318848,0.9996590614318848
+"What's the point of having a death if you're not going to have gore, right?",275.7,277.52,NEGATIVE,0.9970188140869141,-0.9970188140869141
+"In a movie like this anyway, like a thriller horror franchise.",277.8,280.64,NEGATIVE,0.9699504971504211,-0.9699504971504211
+But the deaths in this one were much more realistic this time round and they were really enjoyable to see.,281.94,287.08,POSITIVE,0.9998192191123962,0.9998192191123962
+"And also, you're quite glad to see some of these characters go.",287.66,290.12,POSITIVE,0.9998316764831543,0.9998316764831543
+"There was one character called, well,",290.56,292.92,NEGATIVE,0.5412952899932861,-0.5412952899932861
+"there's one main actor called Texas, I think his name is.",294.87,297.07,NEGATIVE,0.9532215595245361,-0.9532215595245361
+He plays this guy called Luis,297.45,300.27,POSITIVE,0.9636508822441101,0.9636508822441101
+"Romero, and he's just an asshole in this movie.",301.84,304.84,NEGATIVE,0.999518632888794,-0.999518632888794
+"When you see him die, you're like,",305.14,306.24,POSITIVE,0.9938250780105591,0.9938250780105591
+"you know, you see him die, but, you know, again, it proves in favor of the acting because it was great.",307.85,312.97,POSITIVE,0.9997653365135193,0.9997653365135193
+"But, yeah, the deaths were much more realistic this time round.",314.57,317.43,POSITIVE,0.8387550115585327,0.8387550115585327
+"They weren't too over, well,",317.43,318.73,NEGATIVE,0.7198411822319031,-0.7198411822319031
+not most of them weren't too over.,319.61,320.97,NEGATIVE,0.627782940864563,-0.627782940864563
+"There was a couple of them that were a little silly, but most of them were not over the top, like in the second one.",321.05,325.31,NEGATIVE,0.9866572022438049,-0.9866572022438049
+"They were not too silly, like in the second one.",325.59,327.47,POSITIVE,0.9899644255638123,0.9899644255638123
+"And like the first one, it was to try to focus on the realisticness of it, which I liked.",327.81,332.13,POSITIVE,0.9806817173957825,0.9806817173957825
+"The closer you can stick to realism, the better the movie works.",332.43,335.55,POSITIVE,0.9889083504676819,0.9889083504676819
+"So anyway, that's death -wise though.",336.77,338.35,NEGATIVE,0.992167055606842,-0.992167055606842
+"Another thing that I really liked, I mean, I've already said the acting.",338.73,342.27,NEGATIVE,0.9850103259086609,-0.9850103259086609
+I like the action sequence at the end when it goes to the tricentennial.,342.65,347.01,POSITIVE,0.9984090924263,0.9984090924263
+I absolutely loved that sequence.,347.37,349.13,POSITIVE,0.9998762607574463,0.9998762607574463
+That was one of my favorite ones in the movie.,349.29,350.77,POSITIVE,0.9989203214645386,0.9989203214645386
+It was done terrifically well.,351.49,352.89,POSITIVE,0.9998569488525391,0.9998569488525391
+The suspense throughout it was really well done.,353.09,355.55,POSITIVE,0.9998016953468323,0.9998016953468323
+And you can see you follow the characters as they go through this testing time.,356.41,360.23,POSITIVE,0.998616099357605,0.998616099357605
+"You know, that was great.",362.1,362.98,POSITIVE,0.9998693466186523,0.9998693466186523
+"And the one other last thing I liked about it was the ending brought, well, seemed to bring a conclusion to the story.",363.46,368.7,NEGATIVE,0.9890568852424622,-0.9890568852424622
+"But it was like, wait, no more cliffhangers.",369.08,371.3,NEGATIVE,0.9983348250389099,-0.9983348250389099
+That's the end of the movie.,371.7,372.58,NEGATIVE,0.9991983771324158,-0.9991983771324158
+That's the end.,372.94,373.38,NEGATIVE,0.9962182641029358,-0.9962182641029358
+"Too bad, well, in some ways a bit bad.",374.46,376.08,NEGATIVE,0.9997901320457458,-0.9997901320457458
+There's going to be a fourth one.,376.08,376.94,POSITIVE,0.9866021871566772,0.9866021871566772
+"You would think that they would leave it at the end of this one, but anyway.",377.12,379.4,NEGATIVE,0.9972834587097168,-0.9972834587097168
+So that's the stuff I did like about it.,380.0,381.72,POSITIVE,0.9992625117301941,0.9992625117301941
+And there were just a couple of nitpicks I didn't like about it.,382.5,385.34,NEGATIVE,0.9991890788078308,-0.9991890788078308
+"One of them was that the people, the two actresses who played the pretty girls, who died pretty much not long after the main death sequence, the rollercoaster,",385.92,395.46,NEGATIVE,0.9880043268203735,-0.9880043268203735
+they were kind of a bit wooden in places.,396.94,398.86,NEGATIVE,0.9997174143791199,-0.9997174143791199
+"Well, actually, they were wooden.",399.4,401.12,NEGATIVE,0.9995755553245544,-0.9995755553245544
+They were just some ways a bit over the top in terms of what their acting skills were.,401.36,405.8,NEGATIVE,0.9977858066558838,-0.9977858066558838
+"I mean, they were kind of like, but don't get me wrong, they were all right actresses.",405.8,409.36,POSITIVE,0.9987902045249939,0.9987902045249939
+"In some ways, I just felt they could have acted a little bit better in the movie than they did,",409.94,413.54,NEGATIVE,0.9993859529495239,-0.9993859529495239
+because they were a bit over the top in some areas.,414.2,415.92,NEGATIVE,0.9915266633033752,-0.9915266633033752
+"Like, isn't that all right or that sort of thing?",416.22,418.1,NEGATIVE,0.9975606203079224,-0.9975606203079224
+But it could be made.,418.64,419.36,NEGATIVE,0.9830423593521118,-0.9830423593521118
+I just don't like actresses who do that.,419.6,421.1,NEGATIVE,0.9990390539169312,-0.9990390539169312
+"Or, well, I don't like people like that because they focus too much on their hair.",422.0,425.02,NEGATIVE,0.9986555576324463,-0.9986555576324463
+It's a little bit ridiculous.,425.8,426.94,NEGATIVE,0.9996869564056396,-0.9996869564056396
+"Anyway, that's one thing I didn't like about the movie.",427.88,430.46,NEGATIVE,0.8427929282188416,-0.8427929282188416
+Another thing was that the,430.46,434.36,NEGATIVE,0.990120530128479,-0.990120530128479
+"main death sequence in the movie, the rollercoaster crash,",435.48,438.1,NEGATIVE,0.9956302642822266,-0.9956302642822266
+it was kind of ridiculous.,438.78,440.16,NEGATIVE,0.9995985627174377,-0.9995985627174377
+"No, I'm sorry, it was ridiculous.",440.46,441.72,NEGATIVE,0.9986349940299988,-0.9986349940299988
+"This time around, we need to have something that's still realistic.",442.38,446.54,NEGATIVE,0.7272074818611145,-0.7272074818611145
+"I mean, the first one was, the first main disaster, the first one was terrific.",447.32,450.26,POSITIVE,0.9996415376663208,0.9996415376663208
+"You know, obviously, the plane crashed and everything.",450.92,452.6,NEGATIVE,0.9930974841117859,-0.9930974841117859
+That was great.,453.14,453.82,POSITIVE,0.9998728036880493,0.9998728036880493
+"Second one was good, you know, the highway.",454.56,457.16,POSITIVE,0.9996434450149536,0.9996434450149536
+You could see that as realism because they actually crash.,457.74,459.98,NEGATIVE,0.7364088892936707,-0.7364088892936707
+"This one, you kind of see that it's a rollercoaster crashing.",461.0,464.5,NEGATIVE,0.6341449618339539,-0.6341449618339539
+How can that actually happen?,464.92,465.94,NEGATIVE,0.9984713196754456,-0.9984713196754456
+But that's me.,466.72,467.82,POSITIVE,0.996189296245575,0.996189296245575
+And that leads into my final issue.,468.76,469.96,NEGATIVE,0.8248500823974609,-0.8248500823974609
+"While I still think this is the best of the franchise, it's a great movie and I really enjoyed it, but what stopped it from being fantastic was the fact that the idea is kind of, I mean, you could probably get away with using it a second time, but a third time and a fourth time,",470.34,482.84,POSITIVE,0.8024224638938904,0.8024224638938904
+"yeah, you kind of need to have something a bit more newness to it.",484.45,487.39,NEGATIVE,0.9795714616775513,-0.9795714616775513
+I think that this idea has been recycled too many times.,488.11,490.71,NEGATIVE,0.9997982382774353,-0.9997982382774353
+"You need to, I mean, that's probably why I might not like Final Destination 4.",491.27,494.47,NEGATIVE,0.9985664486885071,-0.9985664486885071
+"But anyway, that's not about the fourth one.",495.07,496.63,NEGATIVE,0.9936303496360779,-0.9936303496360779
+"You know, the idea kind of needs to be, stop being reused over and over again.",497.21,500.99,NEGATIVE,0.9973915815353394,-0.9973915815353394
+You need to have something different or just stop making the movie.,501.03,503.37,NEGATIVE,0.999728262424469,-0.999728262424469
+"But anyway,",504.68,505.12,NEGATIVE,0.5713859796524048,-0.5713859796524048
+"I mean, other than the fact that the idea needs to be new this time around, that was one of the other things.",505.92,509.82,NEGATIVE,0.9986009001731873,-0.9986009001731873
+"So overall, Final Destination 3, I think, has pretty much more bad, I'm sorry, more good things than bad.",510.7,516.42,NEGATIVE,0.999601423740387,-0.999601423740387
+"It's a very good step up from the second one, even though I did like the second one as much as the first.",517.6,522.24,POSITIVE,0.9998536109924316,0.9998536109924316
+It's a step up from the first two.,522.52,523.9,POSITIVE,0.9995608925819397,0.9995608925819397
+"It takes it to really promises, it really does take it to the next level.",524.28,527.58,POSITIVE,0.9964061379432678,0.9964061379432678
+"You know, it's back with the original creators, which was great.",528.4,531.0,POSITIVE,0.9997598528862,0.9997598528862
+"And yeah, overall, I'm going to give it four stars out of five.",531.94,534.48,POSITIVE,0.9988522529602051,0.9988522529602051
+It was a great movie.,534.7,535.62,POSITIVE,0.9998728036880493,0.9998728036880493
+I really enjoyed it.,535.84,537.06,POSITIVE,0.9998750686645508,0.9998750686645508
+"Though it did have some flaws that could have made it fantastic, without which could have been fantastic.",537.2,541.88,NEGATIVE,0.9937585592269897,-0.9937585592269897
+"You know, that's pretty much my overall opinion on this movie.",542.72,545.28,POSITIVE,0.9979802966117859,0.9979802966117859
+"Now, there's been a lot of speculation about Final Destination 4 about if that's going to be good or not.",547.09,551.53,NEGATIVE,0.9975142478942871,-0.9975142478942871
+I'm hoping to see it on Wednesday.,552.51,554.11,POSITIVE,0.9993191957473755,0.9993191957473755
+It seems like I have my orange phone.,554.99,556.69,NEGATIVE,0.9821966886520386,-0.9821966886520386
+It's orange two for one sort of thing.,556.79,558.13,NEGATIVE,0.6521150469779968,-0.6521150469779968
+"And thankfully, I can use it for 3D.",558.65,560.11,NEGATIVE,0.9923208355903625,-0.9923208355903625
+"So hopefully on Wednesday, I'm going to see the Final Destination in 3D.",560.55,563.09,POSITIVE,0.9973740577697754,0.9973740577697754
+"And I will give you a review of that on Wednesday,",564.3,566.82,POSITIVE,0.9981424808502197,0.9981424808502197
+"or a couple of days after, to tell you what I thought of it, to see if I thought it was trash or if it was a good movie.",567.81,572.51,NEGATIVE,0.9975013136863708,-0.9975013136863708
+"So yeah, overall, that concludes my review of Final Destination 3.",573.19,576.51,POSITIVE,0.9990241527557373,0.9990241527557373
+"Until I review the Final Destination, Michael Bowers, signing out.",576.71,579.69,POSITIVE,0.9975031018257141,0.9975031018257141

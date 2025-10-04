@@ -1,0 +1,21 @@
+text,start,end,label,score,polarity
+Hi!,3.79,4.43,POSITIVE,0.9989859461784363,0.9989859461784363
+The Smurfs are back and in 3D.,4.91,7.03,NEGATIVE,0.6988587379455566,-0.6988587379455566
+I like this movie.,7.47,8.63,POSITIVE,0.9998646974563599,0.9998646974563599
+"At first I thought the movie would appeal more to a younger audience, but I actually found myself enjoying the movie and laughing.",9.09,15.43,POSITIVE,0.9995848536491394,0.9995848536491394
+"If you haven't seen the Smurfs TV series, the movie is about how a group of little blue people come to New York after trying to escape from the evil Gargamel.",15.99,25.31,POSITIVE,0.7002761363983154,0.7002761363983154
+"They befriend a couple named Patrick and Grace, since they let them stay at their apartment.",25.95,30.85,POSITIVE,0.9534321427345276,0.9534321427345276
+"If you're wondering how the Smurfs will avoid Gargamel and get back to their magical world, watch the movie to find out.",30.85,38.57,POSITIVE,0.9964683055877686,0.9964683055877686
+I think the movie really depicted the liveliness of New York City well since I'm a New Yorker myself.,38.85,44.99,POSITIVE,0.9992678761482239,0.9992678761482239
+I also liked how the storyline of the movie worked together smoothly.,46.3,50.32,POSITIVE,0.9996250867843628,0.9996250867843628
+The movie also delivers many meaningful messages.,50.82,53.42,POSITIVE,0.9998537302017212,0.9998537302017212
+Though Smurfs learned the importance of teamwork and Patrick learned to believe in himself and follow his heart.,54.44,60.64,POSITIVE,0.9959432482719421,0.9959432482719421
+I also thought some parts of the movie were funny.,60.64,64.04,NEGATIVE,0.7435400485992432,-0.7435400485992432
+"For example,",64.62,65.16,POSITIVE,0.9337217211723328,0.9337217211723328
+Gargamel's cat's facial expressions.,65.82,67.84,POSITIVE,0.9768110513687134,0.9768110513687134
+They're so hilarious and similar to how a person would act.,68.52,71.7,POSITIVE,0.9998575448989868,0.9998575448989868
+I recommend this film to children 6 and up.,72.16,74.78,POSITIVE,0.9998176693916321,0.9998176693916321
+It is a fun family film.,75.04,76.62,POSITIVE,0.999880313873291,0.999880313873291
+Parents will find themselves laughing as they reminisce their childhood and children will like the movie since the Smurfs are so adorable and they go on thrilling adventures.,77.2,87.44,POSITIVE,0.9998754262924194,0.9998754262924194
+This has been a review from Gabriella Chu for Kids First.,87.44,91.26,POSITIVE,0.9842694997787476,0.9842694997787476
+Bye!,91.56,91.82,POSITIVE,0.9975849390029907,0.9975849390029907

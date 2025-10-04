@@ -1,0 +1,12 @@
+text,start,end,label,score,polarity
+"Hey everybody, hope you're having a great day, and here's a quick review on Zookeeper.",0.43,6.31,POSITIVE,0.999411940574646,0.999411940574646
+"Save your money, wait till it comes out on rental.",7.13,9.31,NEGATIVE,0.9992552399635315,-0.9992552399635315
+"For me,",9.55,9.93,POSITIVE,0.9972559809684753,0.9972559809684753
+it was a waste of time.,10.61,12.07,NEGATIVE,0.9998151659965515,-0.9998151659965515
+"There were a few funny lines, but after an hour I just said enough.",12.17,15.79,NEGATIVE,0.9922675490379333,-0.9922675490379333
+"I had to walk out, the movie theater gave me credit to a future movie so that I appreciated.",16.23,21.23,POSITIVE,0.9968476891517639,0.9968476891517639
+"If you like the kind of movie that Ben Stiller did, A Night at the Museum, then you probably would like something like this.",21.85,28.95,POSITIVE,0.9992042183876038,0.9992042183876038
+"Yes, if you didn't like that type of movie, then I really don't think you're going to like this at all, and you're better off saving your money and maybe renting it when it comes out on video.",28.95,38.37,NEGATIVE,0.9984897375106812,-0.9984897375106812
+"Anyway, I know this is a short review, but I just wanted to give my honest opinion.",39.07,42.47,POSITIVE,0.9936901330947876,0.9936901330947876
+"If you liked it, feel free to share any comments you have, but there's definitely far better movies that you can go see than Zookeeper.",42.93,52.63,POSITIVE,0.9985659718513489,0.9985659718513489
+"So thanks for your time, have a great day.",53.05,54.51,POSITIVE,0.9998390674591064,0.9998390674591064

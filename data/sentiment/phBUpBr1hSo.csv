@@ -1,0 +1,137 @@
+text,start,end,label,score,polarity
+Mr.,0.5,0.66,POSITIVE,0.9976021647453308,0.9976021647453308
+"Real Review here for Transformers Dark Side of the Moon, also known as Transformers 3.",0.76,6.54,POSITIVE,0.9319553971290588,0.9319553971290588
+"I went into this movie very, very excited.",7.02,8.82,POSITIVE,0.9996421337127686,0.9996421337127686
+I'm a big Transformers fan.,8.94,10.52,POSITIVE,0.9995575547218323,0.9995575547218323
+"I think the movies are phenomenal, especially that first one.",11.02,14.3,POSITIVE,0.9998584985733032,0.9998584985733032
+I don't think that this one got as much buzz and as much media attention and word of mouth spreading around and stuff.,15.22,23.42,NEGATIVE,0.9990954399108887,-0.9990954399108887
+I didn't see basically any commercials on TV for it.,24.0,26.82,NEGATIVE,0.9992069602012634,-0.9992069602012634
+"I'm a big internet guy, so I saw a lot of stuff on the internet, but didn't see as much as I did for the second and the first one.",26.82,34.88,NEGATIVE,0.9988586902618408,-0.9988586902618408
+"In interviews, Shia LaBeouf said that the second movie lacked heart, and he said that this new one has a lot of heart, similar to the first one.",35.78,44.7,POSITIVE,0.6920477151870728,0.6920477151870728
+"After watching this movie, I don't really think that's necessarily true.",46.32,49.92,NEGATIVE,0.9993501305580139,-0.9993501305580139
+"I think the second movie and the third movie are very, very similar.",51.2,54.52,NEGATIVE,0.9510603547096252,-0.9510603547096252
+I think they tried to add a lot of heart.,55.3,57.76,NEGATIVE,0.9972948431968689,-0.9972948431968689
+He's got this new girlfriend.,59.39,60.71,POSITIVE,0.9994534850120544,0.9994534850120544
+"Obviously, Megan Fox was fired.",60.93,62.69,NEGATIVE,0.9990113973617554,-0.9990113973617554
+"He's got this new girlfriend, and it just seems like too much too fast.",62.87,67.11,NEGATIVE,0.9998078942298889,-0.9998078942298889
+They're already telling each other they love each other and talking about getting wedding rings and spending the rest of their life together.,67.85,73.25,POSITIVE,0.9991477727890015,0.9991477727890015
+They live together.,73.37,74.11,POSITIVE,0.9995433688163757,0.9995433688163757
+It's just way too much too fast.,74.63,76.35,NEGATIVE,0.9997814297676086,-0.9997814297676086
+"They tried to put heart into it by him saying, you're the only thing that matters in this world.",76.49,81.39,NEGATIVE,0.9926096796989441,-0.9926096796989441
+"I don't care about myself,",81.71,83.11,NEGATIVE,0.9996856451034546,-0.9996856451034546
+"because she thinks he's doing crazy stuff, sacrificing his life.",83.79,86.39,NEGATIVE,0.9992057681083679,-0.9992057681083679
+"Then he does crazy stuff to save her, and he's like, I love you.",87.13,89.93,POSITIVE,0.999866247177124,0.999866247177124
+"Just all the sappy blah, blah, blah stuff.",90.03,92.17,NEGATIVE,0.9997774958610535,-0.9997774958610535
+It's just too much too fast.,92.27,93.31,NEGATIVE,0.9997751116752625,-0.9997751116752625
+We basically just get introduced to this character right away.,93.69,97.33,POSITIVE,0.8591226935386658,0.8591226935386658
+"This is the first movie she's in, and they're already meant to be together forever, and all that good, slushy stuff.",98.09,104.97,POSITIVE,0.9998084902763367,0.9998084902763367
+This movie seemed a little long.,104.97,107.33,NEGATIVE,0.9991143345832825,-0.9991143345832825
+I love my movies to be long.,107.57,108.99,POSITIVE,0.9990023970603943,0.9990023970603943
+I don't think a movie can ever be too long.,109.97,111.79,POSITIVE,0.9809133410453796,0.9809133410453796
+The Dark Knight was two hours and 45 minutes.,112.75,115.79,NEGATIVE,0.9044684767723083,-0.9044684767723083
+I'm titanic.,116.67,117.63,NEGATIVE,0.9971476197242737,-0.9971476197242737
+All those movies is Avatar.,117.95,119.37,POSITIVE,0.8169998526573181,0.8169998526573181
+All those movies that are three hours.,119.95,121.23,NEGATIVE,0.9817724227905273,-0.9817724227905273
+That's fine by me.,121.91,122.59,POSITIVE,0.999836802482605,0.999836802482605
+I like long movies.,122.69,123.31,POSITIVE,0.9522154927253723,0.9522154927253723
+"I'm passionate about movies, so that's fine.",124.07,125.59,POSITIVE,0.9998785257339478,0.9998785257339478
+This one seemed long at some parts.,125.99,128.53,NEGATIVE,0.9971407651901245,-0.9971407651901245
+"Some parts just kind of dragged on, and you kind of sit in the movie theater, and this is a big action movie, one of the biggest movies of the summer, and you kind of just wanted to rest your head while you watched,",128.83,139.65,NEGATIVE,0.987815797328949,-0.987815797328949
+"because some of the sequences and some of the scenes are just kind of long, and you're just kind of like, okay, let's get to it.",140.53,145.57,NEGATIVE,0.9824894666671753,-0.9824894666671753
+We know what's going to happen.,145.65,146.41,POSITIVE,0.9981184005737305,0.9981184005737305
+Let's go ahead and do it.,146.51,147.43,POSITIVE,0.9992239475250244,0.9992239475250244
+The action was great.,148.19,149.59,POSITIVE,0.9998767375946045,0.9998767375946045
+Not too much.,150.31,151.05,NEGATIVE,0.9997723698616028,-0.9997723698616028
+Not too little.,151.17,151.73,NEGATIVE,0.6756143569946289,-0.6756143569946289
+Just enough action.,152.47,153.55,POSITIVE,0.9997863173484802,0.9997863173484802
+The story was all right.,154.63,155.59,POSITIVE,0.9998145699501038,0.9998145699501038
+A pretty good script.,155.87,156.65,POSITIVE,0.9998667240142822,0.9998667240142822
+"I don't think it was as good as the first one, obviously.",156.85,159.39,NEGATIVE,0.9997946619987488,-0.9997946619987488
+I think the first movie was just fantastic.,159.73,161.21,POSITIVE,0.9998434782028198,0.9998434782028198
+"Maybe on par with the second one, maybe a little behind that, but it was a pretty good story.",161.69,165.97,POSITIVE,0.999713122844696,0.999713122844696
+"The cast of this movie, it's pretty huge.",166.25,168.49,POSITIVE,0.9998666048049927,0.9998666048049927
+"Of course, all the returning stars,",169.21,170.99,POSITIVE,0.9994333386421204,0.9994333386421204
+and then you got people coming in that weren't in the original movies.,171.63,175.13,NEGATIVE,0.9860793948173523,-0.9860793948173523
+"Ken Jeong, I think his name is, and obviously that Chinese actor from the Hangover movies.",176.17,181.67,NEGATIVE,0.5005946755409241,-0.5005946755409241
+"He's in the movie, as well as Patrick Dempsey is in the movie.",181.81,185.93,POSITIVE,0.9950658082962036,0.9950658082962036
+He actually has a pretty big role.,186.05,188.15,POSITIVE,0.9996764659881592,0.9996764659881592
+He's actually a villain in the movie.,188.27,189.67,NEGATIVE,0.5061712861061096,-0.5061712861061096
+"There's also, Simmons Sidekick is a guy named Dutch.",190.27,194.57,POSITIVE,0.6274760961532593,0.6274760961532593
+He's a pretty popular actor.,195.37,196.95,POSITIVE,0.9998499155044556,0.9998499155044556
+He's in a lot of movies.,197.13,197.85,POSITIVE,0.9994518160820007,0.9994518160820007
+I don't know his name.,198.07,198.83,NEGATIVE,0.9991084933280945,-0.9991084933280945
+He's not one of those actors.,199.03,200.11,NEGATIVE,0.9988743662834167,-0.9988743662834167
+"You know their name, but he's in a ton of movies and very recognizable.",200.27,203.59,POSITIVE,0.999840259552002,0.999840259552002
+"Shia LaBeouf's girlfriend, she is actually a model.",204.17,208.05,POSITIVE,0.975834846496582,0.975834846496582
+"She's trying to follow in Brooklyn Decker from Just Go With It with these models trying to try their hand at acting, but she did a pretty good job.",208.81,216.51,POSITIVE,0.9996410608291626,0.9996410608291626
+I was actually surprised.,216.61,217.37,POSITIVE,0.9996390342712402,0.9996390342712402
+"In some of the trailers,",217.37,218.69,NEGATIVE,0.9313036799430847,-0.9313036799430847
+they had a shot of her just standing there with her mouth open with action going on in the background.,220.07,226.61,NEGATIVE,0.8923231959342957,-0.8923231959342957
+"I'm like, okay, that's what they're going to do with her movie.",226.77,229.29,POSITIVE,0.9997039437294006,0.9997039437294006
+They're not going to let her open her mouth.,229.57,230.49,POSITIVE,0.9905994534492493,0.9905994534492493
+She's just going to stand there and look beautiful while everything blows up.,230.61,233.11,POSITIVE,0.9996540546417236,0.9996540546417236
+"She did actually have quite a few talking parts, and she actually did really good.",233.57,237.61,POSITIVE,0.9998399019241333,0.9998399019241333
+I'm actually impressed with her acting performance.,237.73,239.23,POSITIVE,0.9998052716255188,0.9998052716255188
+"Of course, she looked fabulous.",240.8,241.82,POSITIVE,0.9998608827590942,0.9998608827590942
+The opening scene is pretty much her walking up the stairs butt naked.,242.14,245.84,NEGATIVE,0.9974678754806519,-0.9974678754806519
+"Guys, go check that out.",245.84,247.94,POSITIVE,0.9995397329330444,0.9995397329330444
+"The cast overall is huge,",248.46,249.82,POSITIVE,0.999710738658905,0.999710738658905
+and they did a great job.,250.54,251.64,POSITIVE,0.9998654127120972,0.9998654127120972
+"I think Sam, Shia LaBeouf's parents,",251.84,253.84,POSITIVE,0.9737653732299805,0.9737653732299805
+they came back.,254.98,255.7,POSITIVE,0.9909234642982483,0.9909234642982483
+They had a lot smaller role than they did in the first and second movie.,255.84,259.74,NEGATIVE,0.9769749641418457,-0.9769749641418457
+It seemed like they were just thrown in there.,260.88,263.24,NEGATIVE,0.9994136095046997,-0.9994136095046997
+They were just thrown in there to be in the movie.,263.34,266.14,NEGATIVE,0.9987936019897461,-0.9987936019897461
+Those two actors are hilarious.,267.94,269.34,POSITIVE,0.9998877048492432,0.9998877048492432
+"Together, they're just funny.",269.6,270.62,POSITIVE,0.9998557567596436,0.9998557567596436
+"They were funny in the first movie, and they had tons and tons of hilarious stuff in the second movie.",270.78,276.04,POSITIVE,0.9987456798553467,0.9987456798553467
+I don't think they were that funny this time around.,277.4,279.74,NEGATIVE,0.9997110962867737,-0.9997110962867737
+"It seemed like they just threw them into the movie to try to be funny, and it was just kind of out of place.",280.6,284.68,NEGATIVE,0.9997935891151428,-0.9997935891151428
+They actually disappeared.,285.58,286.74,NEGATIVE,0.9981204867362976,-0.9981204867362976
+"Halfway through the movie,",287.46,288.54,NEGATIVE,0.8846631050109863,-0.8846631050109863
+"Shia LaBeouf's character just says, leave town, it's not safe.",289.94,293.0,NEGATIVE,0.9996867179870605,-0.9996867179870605
+Then you never see or hear from him again the rest of the movie.,293.42,295.48,NEGATIVE,0.9914423823356628,-0.9914423823356628
+I think that was kind of stupid.,296.0,296.82,NEGATIVE,0.9997761845588684,-0.9997761845588684
+I liked the second movie where they get caught up in all the action.,297.0,301.95,POSITIVE,0.9760875701904297,0.9760875701904297
+"He tells them to leave, and they're like, no, we're not leaving.",301.95,304.53,POSITIVE,0.9853179454803467,0.9853179454803467
+We're staying together.,304.63,305.29,POSITIVE,0.9978519678115845,0.9978519678115845
+We're a family.,305.39,305.81,POSITIVE,0.9997915625572205,0.9997915625572205
+That's what I liked about the second movie.,307.03,308.41,POSITIVE,0.99783855676651,0.99783855676651
+"This movie, they just kind of disappeared and ran away.",309.03,310.83,NEGATIVE,0.9987151622772217,-0.9987151622772217
+"Also, Tyreese Gibson's character,",312.38,314.02,POSITIVE,0.9906815886497498,0.9906815886497498
+I,314.92,315.94,POSITIVE,0.9797317385673523,0.9797317385673523
+don't really like that either.,316.9,317.94,NEGATIVE,0.9970101118087769,-0.9970101118087769
+"He had a very, very small role as well.",318.28,320.16,POSITIVE,0.976539134979248,0.976539134979248
+He didn't show up until Three Force the movie was already over.,320.26,323.82,NEGATIVE,0.9979521632194519,-0.9979521632194519
+"Supposedly, the story says he quit the Air Force or the Marines or Special Ops or whatever he was in, and now he was just working on some NASA stuff or something stupid.",324.54,334.5,NEGATIVE,0.9997101426124573,-0.9997101426124573
+That was pretty pointless and didn't like that at all.,335.56,340.12,NEGATIVE,0.9997063279151917,-0.9997063279151917
+"Overall, I think the movie was good.",340.4,342.26,POSITIVE,0.9997983574867249,0.9997983574867249
+I anticipated a little bit more.,343.38,345.18,POSITIVE,0.9885824918746948,0.9885824918746948
+I know this is Michael Bay's last hurrah for the Transformers franchise.,346.06,349.4,POSITIVE,0.5235354900360107,0.5235354900360107
+I thought he'd go out with a little bit of a bigger bang than this.,350.52,353.86,POSITIVE,0.9759582281112671,0.9759582281112671
+"I think the first movie was the best, and then the second movie and the third movie.",355.61,359.29,POSITIVE,0.9974573254585266,0.9974573254585266
+They did go downhill as it progressed.,359.29,362.47,NEGATIVE,0.9995239973068237,-0.9995239973068237
+"These characters, you got to love them.",363.67,365.23,POSITIVE,0.9998505115509033,0.9998505115509033
+Simmons was back.,365.55,366.95,POSITIVE,0.9934458136558533,0.9934458136558533
+You love his character.,367.63,368.65,POSITIVE,0.9998748302459717,0.9998748302459717
+He's just a nut job.,368.87,369.75,NEGATIVE,0.9874787330627441,-0.9874787330627441
+"Shia LaBeouf, he was born to play this character.",370.45,373.63,POSITIVE,0.9980979561805725,0.9980979561805725
+"This is the role of his life, and he always does a fabulous job.",373.83,378.21,POSITIVE,0.9998844861984253,0.9998844861984253
+I give it 7 out of 10.,379.15,380.99,POSITIVE,0.9917895793914795,0.9917895793914795
+I came into the movie probably thinking I was going to give it 9 out of 10 or 8 .5 out of 10.,383.84,388.3,NEGATIVE,0.9789562821388245,-0.9789562821388245
+I was a little disappointed.,388.3,389.92,NEGATIVE,0.9996559619903564,-0.9996559619903564
+I do say go and see it.,390.38,391.74,POSITIVE,0.9997773766517639,0.9997773766517639
+It is a Transformers movie.,391.86,393.1,POSITIVE,0.9924060702323914,0.9924060702323914
+There's tons of action.,393.3,394.2,POSITIVE,0.7001522183418274,0.7001522183418274
+"There's comedy, robots.",395.9,397.2,POSITIVE,0.9909564852714539,0.9909564852714539
+There's everything you need in a good blockbuster summer movie.,397.42,402.24,POSITIVE,0.9998478889465332,0.9998478889465332
+"Go see it, especially if you're a Transformers fan.",402.94,405.34,POSITIVE,0.9996728897094727,0.9996728897094727
+"This completes this trilogy,",406.24,408.28,POSITIVE,0.9996060729026794,0.9996060729026794
+Michael Bay's last one.,409.34,410.54,POSITIVE,0.9878020882606506,0.9878020882606506
+"They're probably going to take a little bit of a different turn, a different angle for the next movie.",411.2,416.02,NEGATIVE,0.9968488812446594,-0.9968488812446594
+There are going to be more movies.,416.02,417.52,NEGATIVE,0.6384148001670837,-0.6384148001670837
+"Tyrese Gibson said possibly Steven Spielberg taking over, which that would be pretty exciting.",418.4,424.7,POSITIVE,0.9972278475761414,0.9972278475761414
+That would bring a lot of publicity back to the franchise.,424.88,426.88,POSITIVE,0.9907152652740479,0.9907152652740479
+"This is Michael Bay's last movie, so I say go and see it.",427.38,430.74,POSITIVE,0.9984679818153381,0.9984679818153381
+Mr.,432.29,432.51,POSITIVE,0.9976021647453308,0.9976021647453308
+Real Review signing out.,432.57,433.31,POSITIVE,0.9988190531730652,0.9988190531730652

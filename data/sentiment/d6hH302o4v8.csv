@@ -1,0 +1,31 @@
+text,start,end,label,score,polarity
+"Hello, and this is my review of",0.82,2.9,POSITIVE,0.9989894032478333,0.9989894032478333
+season of the witch,3.58,5.22,POSITIVE,0.7098307609558105,0.7098307609558105
+this movie was,6.42,7.84,POSITIVE,0.996505618095398,0.996505618095398
+horrible,8.62,9.14,NEGATIVE,0.9997841715812683,-0.9997841715812683
+Nicholas cage should not do this kind of movies.,10.64,13.52,NEGATIVE,0.9991818070411682,-0.9991818070411682
+He's always in this kind of movies all these sorcerer which,14.04,17.18,POSITIVE,0.9958742260932922,0.9958742260932922
+Voodoo kind of movies and it's getting really tiring.,17.78,21.16,NEGATIVE,0.9996492862701416,-0.9996492862701416
+"He's horrible at no one takes him seriously When he was on screen, I wanted to punch him in the face.",21.24,26.46,NEGATIVE,0.9992460012435913,-0.9992460012435913
+He's very boring.,26.64,27.86,NEGATIVE,0.9997542500495911,-0.9997542500495911
+He was very annoying He had no idea what he was talking about and I was sitting in the theater sleeping,27.98,33.38,NEGATIVE,0.9996817111968994,-0.9996817111968994
+Ron Perlman was in this movie too.,34.46,36.18,POSITIVE,0.9963608384132385,0.9963608384132385
+He is in Hellboy.,36.34,37.94,NEGATIVE,0.6416775584220886,-0.6416775584220886
+He's very good in Hellboy,38.42,39.74,POSITIVE,0.9998407363891602,0.9998407363891602
+But in this movie he wasn't good at all.,40.62,42.96,NEGATIVE,0.9995879530906677,-0.9995879530906677
+I didn't really care for his character at all He's very boring as well.,43.26,48.02,NEGATIVE,0.9997839331626892,-0.9997839331626892
+The whole movie is very boring made no sense It took place in the 14th century about these witches and stuff.,48.18,54.22,NEGATIVE,0.999739944934845,-0.999739944934845
+I didn't really care about it at all I had no idea why I saw this movie the trailer looked like it could be a little good,54.38,62.36,NEGATIVE,0.9219164252281189,-0.9219164252281189
+But when I saw it was this totally boring,63.22,66.4,NEGATIVE,0.9993875026702881,-0.9993875026702881
+This movie was pushed back till this year.,68.27,70.93,NEGATIVE,0.9957225322723389,-0.9957225322723389
+"It was supposed to come out like like last year, but",71.05,75.09,NEGATIVE,0.937598466873169,-0.937598466873169
+It wasn't really made well until they pushed it back in January,76.12,80.38,NEGATIVE,0.9995694756507874,-0.9995694756507874
+I seen about three movies this year so far and this is the worst by far It was very very very boring made no sense Action scenes were very dumb.,82.11,94.09,NEGATIVE,0.999808132648468,-0.999808132648468
+"I hated it But the last half hour of the movie it felt like they had like a CGI orgasm you know, they just tried so hard with the CGI that they put",94.63,104.59,NEGATIVE,0.9984812140464783,-0.9984812140464783
+They threw so much CGI at you and was awful Like it was like spewing CGI last half hour of the movie like every single scene was CGI It was terrible.,105.46,116.81,NEGATIVE,0.9997456669807434,-0.9997456669807434
+I hated it.,116.81,117.81,NEGATIVE,0.9996658563613892,-0.9996658563613892
+I was sitting there in the theater laughing.,117.95,119.51,POSITIVE,0.9748165011405945,0.9748165011405945
+How bad the movie was at some points How bad the acting and action was it was so dull boring do not see this movie,119.51,128.43,NEGATIVE,0.9998084902763367,-0.9998084902763367
+season of the witch was,129.11,131.37,NEGATIVE,0.9457482099533081,-0.9457482099533081
+horrible acting dull Just don't see this movie.,132.03,136.67,NEGATIVE,0.9997619986534119,-0.9997619986534119
+I don't know why I even saw it So season the witch is there the three out of ten So there you go,136.69,145.51,NEGATIVE,0.9927992820739746,-0.9927992820739746

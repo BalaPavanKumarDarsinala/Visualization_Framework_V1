@@ -1,0 +1,94 @@
+text,start,end,label,score,polarity
+Merry Christmas everybody!,0.18,1.74,POSITIVE,0.9998526573181152,0.9998526573181152
+I'm going to spoil the shit out of this movie.,2.2,4.72,NEGATIVE,0.99847811460495,-0.99847811460495
+You have been warned.,5.4,6.3,NEGATIVE,0.9651086926460266,-0.9651086926460266
+"I love my computer, you make me feel alright.",7.14,10.08,POSITIVE,0.9998738765716553,0.9998738765716553
+Every waking hour and every lonely night.,10.7,14.0,NEGATIVE,0.7509500980377197,-0.7509500980377197
+"Ah, Disney, why do I have to go and be so Disney about everything?",14.08,19.24,POSITIVE,0.8779648542404175,0.8779648542404175
+I was really looking forward to Tron Legacy because I'm a big fan of the first Tron.,20.26,25.36,POSITIVE,0.9997962117195129,0.9997962117195129
+"I thought this is the perfect time to have a Tron sequel because at the beginning of the 1980s, people thought that computers can do anything and everything.",25.36,37.2,POSITIVE,0.9970424771308899,0.9970424771308899
+"And now, technology actually does anything and everything because it kind of controls our lives.",37.94,43.2,POSITIVE,0.9973356127738953,0.9973356127738953
+So it was the perfect time for a Tron sequel.,43.72,45.82,POSITIVE,0.9991810917854309,0.9991810917854309
+"Unfortunately,",46.52,47.1,NEGATIVE,0.9997465014457703,-0.9997465014457703
+the writers and I were not exactly on the same wavelength.,48.38,51.52,NEGATIVE,0.998608410358429,-0.998608410358429
+But I will say that the first third of this movie is amazing.,51.52,56.66,POSITIVE,0.9998801946640015,0.9998801946640015
+It's the best summer movie I've seen all year.,57.02,59.36,POSITIVE,0.9998676776885986,0.9998676776885986
+"But the pacing is so good, it gets straight into the story.",60.02,63.54,POSITIVE,0.9997832179069519,0.9997832179069519
+You have lots of references to the first movie.,63.92,66.94,POSITIVE,0.9390706419944763,0.9390706419944763
+You have recurring characters.,67.1,68.94,POSITIVE,0.9984838366508484,0.9984838366508484
+You have new characters that actually have a connection to the old ones.,69.44,72.76,POSITIVE,0.9972490668296814,0.9972490668296814
+"And once Sam Flynn enters the grid, the soundtrack draws you in.",73.5,78.62,POSITIVE,0.9997352957725525,0.9997352957725525
+The special effects look amazing.,78.92,80.5,POSITIVE,0.9998817443847656,0.9998817443847656
+"They don't waste all of time on exposition because the minute that Sam Flynn enters the grid, he is put in the games.",81.24,87.44,POSITIVE,0.9889615178108215,0.9889615178108215
+"And let me tell, the games look great.",88.1,90.8,POSITIVE,0.9998615980148315,0.9998615980148315
+All those action sequences involving the games were great to watch.,90.98,94.76,POSITIVE,0.9998446702957153,0.9998446702957153
+"The choreography of the fights, the special effects.",95.2,98.12,POSITIVE,0.9981275200843811,0.9981275200843811
+I was so happy to be back in the grid that I wasn't really thinking about the story or where the story was going.,98.6,104.52,POSITIVE,0.9973903298377991,0.9973903298377991
+"But then,",105.5,106.12,NEGATIVE,0.7409370541572571,-0.7409370541572571
+Sam Flynn meets his father.,106.97,108.75,POSITIVE,0.9987688660621643,0.9987688660621643
+And Tron basically turns into a Star Wars prequel after that one.,108.75,113.39,NEGATIVE,0.9966099858283997,-0.9966099858283997
+"This connection that happens at that point because the original Flynn starts going on and on about these kinds of aliens, not aliens.",114.16,124.62,POSITIVE,0.9561457633972168,0.9561457633972168
+"Artificial intelligence, I guess, that he found on the grid and the writers just pulled this out of their ass.",125.38,132.14,NEGATIVE,0.9990127086639404,-0.9990127086639404
+And the whole movie becomes about these crazy ISOs.,132.14,136.14,NEGATIVE,0.6667225956916809,-0.6667225956916809
+They're called ISOs.,136.92,138.58,NEGATIVE,0.8708075881004333,-0.8708075881004333
+"And it's just like, why do we need these things?",139.38,143.38,NEGATIVE,0.9913384914398193,-0.9913384914398193
+"It doesn't make any sense because anyway, they get purged at some point because when the old Flynn finds these things, whatever they are, they are so wise and naive.",143.66,153.56,NEGATIVE,0.997870922088623,-0.997870922088623
+"Kind of like Navi, now that I think about it.",153.84,156.16,POSITIVE,0.994228720664978,0.994228720664978
+"Clue, which is the program that he created in the first movie, kind of pulls a bunny in the boiler moment in the sense that he turns into a crazy jealous psycho stalker bitch.",157.12,167.56,NEGATIVE,0.9919903874397278,-0.9919903874397278
+And Clue has to be one of the most idiotic villains ever because what is Clue?,168.14,173.8,NEGATIVE,0.9997238516807556,-0.9997238516807556
+Clue is a computer program.,174.16,175.46,NEGATIVE,0.9548539519309998,-0.9548539519309998
+And he wants to take all the programs that are now under his control and put them in the real world through some kind of freaky teleportation or whatever.,176.14,184.56,NEGATIVE,0.9810853004455566,-0.9810853004455566
+So basically you have this computer program that wants to create a physical army on the planet.,184.56,189.96,NEGATIVE,0.9966088533401489,-0.9966088533401489
+"And it's like, dude, you're a computer program, okay?",190.5,193.0,POSITIVE,0.9880033731460571,0.9880033731460571
+"If you want to take over the world using real people, it's the worst way you could possibly do that.",193.42,199.26,NEGATIVE,0.9997151494026184,-0.9997151494026184
+Infiltrate some computer systems somewhere and detonate some nicks or something and there you go.,199.76,204.52,NEGATIVE,0.9898278713226318,-0.9898278713226318
+Planet is destroyed.,204.98,206.28,NEGATIVE,0.9995908141136169,-0.9995908141136169
+But no.,206.72,207.1,NEGATIVE,0.996908962726593,-0.996908962726593
+"I mean, he has to take all the programs and put them in the real world, thereby actually robbing them of all of their power.",207.1,214.5,NEGATIVE,0.9991379976272583,-0.9991379976272583
+"Because like I said, real people are governed by technology these days.",214.72,218.76,POSITIVE,0.9898331165313721,0.9898331165313721
+"This is the kind of thing, man, that I just could not get over.",219.1,221.42,POSITIVE,0.5070662498474121,0.5070662498474121
+This is the dumbest idea ever.,221.64,223.12,NEGATIVE,0.9996247291564941,-0.9996247291564941
+The one thing that really pissed me off is what they did with the character of Tron.,223.38,226.9,NEGATIVE,0.9989755153656006,-0.9989755153656006
+"His name is in the fucking title, okay?",227.24,229.56,NEGATIVE,0.9920105934143066,-0.9920105934143066
+You don't piss all over him like they did.,229.6,232.4,POSITIVE,0.8644266724586487,0.8644266724586487
+I won't go into more detail than that.,232.5,234.14,NEGATIVE,0.9847787022590637,-0.9847787022590637
+"I'm just saying that they really, really messed up and they only gave him one relevant thing to do towards the end.",234.14,240.32,NEGATIVE,0.9992774128913879,-0.9992774128913879
+And it's not even...,240.88,242.16,NEGATIVE,0.99959796667099,-0.99959796667099
+they don't even delve into it that much.,242.16,244.78,NEGATIVE,0.9983493089675903,-0.9983493089675903
+It just sort of happens for a split second and then it's gone.,244.9,248.06,NEGATIVE,0.9994939565658569,-0.9994939565658569
+"His name is in the fucking title, people!",249.18,250.7,NEGATIVE,0.9981499910354614,-0.9981499910354614
+"I will say, though, that the movie has some nice emotional weight because I think the relationship between Sam Flynn and his father was very well portrayed.",251.44,258.8,POSITIVE,0.9775968194007874,0.9775968194007874
+"I actually kind of like Garrett Hedlund in this, even though his voice sounds like he's been smoking cigars since he was in the womb.",258.8,265.6,POSITIVE,0.9353746175765991,0.9353746175765991
+Jeff Bridges really had fun with this.,266.16,267.68,POSITIVE,0.9998329877853394,0.9998329877853394
+He was playing this kooky mentor character.,267.8,270.68,POSITIVE,0.9917464256286621,0.9917464256286621
+"The line between senility and wisdom is very, very thin with this man.",271.46,276.54,NEGATIVE,0.9986134767532349,-0.9986134767532349
+"He also played the villain, Cool, and I just...",276.84,281.1,POSITIVE,0.9928374886512756,0.9928374886512756
+that was some pretty bad CGI.,281.1,282.04,NEGATIVE,0.9998086094856262,-0.9998086094856262
+"I'm sorry, I just could not ever get over the fact that Cool looked like some freaky accident that Jeff Bridges went through.",282.04,291.3,NEGATIVE,0.9972066283226013,-0.9972066283226013
+And he had some really weird head movements.,291.38,294.92,NEGATIVE,0.9888736009597778,-0.9888736009597778
+It was...,295.22,297.2,POSITIVE,0.9643623232841492,0.9643623232841492
+maybe that was the point.,297.78,299.02,NEGATIVE,0.837349534034729,-0.837349534034729
+Maybe I was supposed to feel kind of a medium whenever Cool was on screen.,299.1,302.28,NEGATIVE,0.9903990626335144,-0.9903990626335144
+"If that was the point, then well done.",302.4,304.3,POSITIVE,0.8919333219528198,0.8919333219528198
+Olivia Wilde was fine.,304.78,305.98,POSITIVE,0.9998431205749512,0.9998431205749512
+"She was kind of sweet, actually.",306.86,308.96,POSITIVE,0.9997674822807312,0.9997674822807312
+She was kind of sweet and adorable at times.,309.16,311.1,POSITIVE,0.9998026490211487,0.9998026490211487
+"I find it kind of ironic that Disney announced they are moving away from the whole princess movie thing, at least when it comes to animation, because Olivia Wilde's character pretty much turns this into a basic Disney princess movie.",311.1,324.12,NEGATIVE,0.6934499144554138,-0.6934499144554138
+"In conclusion,",324.74,325.24,POSITIVE,0.9978857636451721,0.9978857636451721
+"a furt of this movie is great, and I would go watch it again and again.",325.88,329.68,POSITIVE,0.9998502731323242,0.9998502731323242
+"The first furt of this movie is the perfect Tron sequel,",330.04,333.2,POSITIVE,0.9878395199775696,0.9878395199775696
+as long as you take the story out of it.,334.14,335.78,POSITIVE,0.9559450149536133,0.9559450149536133
+"But then, you know, it just...",335.78,337.84,NEGATIVE,0.9915292263031006,-0.9915292263031006
+it goes really downhill after...,337.84,340.7,NEGATIVE,0.9997575879096985,-0.9997575879096985
+"it's kind of ironic that only after all the fling comes in, the movie goes really downhill from the story point of view.",340.7,348.34,NEGATIVE,0.9993822574615479,-0.9993822574615479
+It still looks great.,348.9,350.08,POSITIVE,0.9998821020126343,0.9998821020126343
+The soundtrack is still amazing.,350.3,351.5,POSITIVE,0.9998922348022461,0.9998922348022461
+"I think lots of people are going to have a lot of fun with it, just like they had a lot of fun with Avatar.",351.84,356.36,POSITIVE,0.9996190071105957,0.9996190071105957
+"I'm just really, really disappointed that they couldn't make it more relevant to our times.",356.96,362.18,NEGATIVE,0.9992471933364868,-0.9992471933364868
+"And in fact, it is a pretty anachronistic model of storytelling,",362.18,368.87,POSITIVE,0.9993661046028137,0.9993661046028137
+even if technologically it's way ahead of its time.,369.53,372.65,POSITIVE,0.9989008903503418,0.9989008903503418
+"Honestly, it's disappointing that Tron has to be anachronistic out of a movie called Tron Legacy has to be anachronistic.",373.95,381.19,NEGATIVE,0.9989535808563232,-0.9989535808563232
+"I mean, come on.",381.41,383.65,NEGATIVE,0.9468922019004822,-0.9468922019004822
+"The internet is not lifeless anymore, okay?",384.51,386.97,NEGATIVE,0.927556037902832,-0.927556037902832
+"There is life on the internet, there is life in our technology, and I wish there was some...",386.97,392.01,NEGATIVE,0.9521088004112244,-0.9521088004112244
+they used some of that in this movie.,392.01,394.41,NEGATIVE,0.9659160375595093,-0.9659160375595093

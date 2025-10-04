@@ -1,0 +1,63 @@
+text,start,end,label,score,polarity
+My name is Gina and last night I saw G .I.,4.48,7.98,POSITIVE,0.896485447883606,0.896485447883606
+Joe The Rise of Cobra.,8.2,9.78,POSITIVE,0.9707833528518677,0.9707833528518677
+This movie is directed by Stephen Summers whose claim to fame is the Mummy franchise and he really seems to be channeling Michael Bay in this movie.,10.24,20.24,POSITIVE,0.9712086915969849,0.9712086915969849
+The plot has the consistency of Swiss cheese and it's really glossed over with lots of stunning special effects and big explosions.,20.84,28.3,POSITIVE,0.9990352392196655,0.9990352392196655
+All in all it's kind of a disappointment to any of us who grew up in the 80s and are used to the toys in the cartoon.,29.46,35.5,NEGATIVE,0.9997816681861877,-0.9997816681861877
+I feel like it almost should have had a G rating.,35.94,39.12,NEGATIVE,0.9993759989738464,-0.9993759989738464
+It was really kind of,39.76,41.48,POSITIVE,0.9931168556213379,0.9931168556213379
+dumbed down for us and I hate to say that.,42.16,45.32,NEGATIVE,0.9987678527832031,-0.9987678527832031
+I think you will really love this movie if you are eight,45.78,50.54,POSITIVE,0.9997727274894714,0.9997727274894714
+but if you were a child who grew up in that time period you're not going to enjoy this movie very much because they aren't playing to you.,51.69,60.57,NEGATIVE,0.995745837688446,-0.995745837688446
+They're playing to a new audience of kids who don't know anything about these characters in the first place.,60.69,65.47,NEGATIVE,0.9954987168312073,-0.9954987168312073
+The plot involves some tiny little machines sometime in the future that can destroy cancer cells and have become weaponized and bad people are trying to steal the warheads and so a government secret group called G .I.,66.55,82.43,NEGATIVE,0.9889417290687561,-0.9889417290687561
+Joe is trying to protect them from the bad guys.,82.67,85.73,NEGATIVE,0.9063904285430908,-0.9063904285430908
+Channing Tatum is the lead.,86.69,88.27,POSITIVE,0.9993820190429688,0.9993820190429688
+He is from the step -up movies I guess which I haven't seen and all I can say is he's a pretty average guy.,90.05,96.73,NEGATIVE,0.9749571084976196,-0.9749571084976196
+I don't really feel any emotional pull from him in this movie.,97.31,100.13,NEGATIVE,0.9987838864326477,-0.9987838864326477
+Even a scene where he proposes to his girlfriend in a flashback he barely bats an eye.,100.63,105.81,NEGATIVE,0.894862949848175,-0.894862949848175
+His best friend is played by Marlon Wayans.,106.33,109.39,POSITIVE,0.9975380897521973,0.9975380897521973
+He plays Ripcord.,109.55,110.49,NEGATIVE,0.7935938835144043,-0.7935938835144043
+Marlon Wayans kind of plays a watered -down version of himself from other movies.,111.07,115.91,NEGATIVE,0.9991102814674377,-0.9991102814674377
+He does some stereotypical things like talking about busting a cap while flying an airplane but otherwise he's just there to be the best friend and he's pretty average too.,116.19,126.51,NEGATIVE,0.679253339767456,-0.679253339767456
+The two women in this movie are particularly good looking and they kick a lot of butt.,126.87,131.21,POSITIVE,0.9987115859985352,0.9987115859985352
+"Sienna Miller and Rachel Nichols one on each side there and they kick each other's butt, they kick other people's butt and so that's pretty entertaining.",131.65,140.83,POSITIVE,0.9997721314430237,0.9997721314430237
+This is a really big movie for their careers because I haven't really seen them in a lot of big movies.,141.19,146.41,POSITIVE,0.9956251978874207,0.9956251978874207
+"Other notable mentions,",146.71,148.07,POSITIVE,0.9928649663925171,0.9928649663925171
+"Dennis Quaid plays Hawk, leader of the GI Joes and his performance is campy and comes off as an army cheerleader some of the time.",148.73,158.01,POSITIVE,0.955641508102417,0.955641508102417
+Jonathan Price is the president.,158.57,160.45,POSITIVE,0.9974632263183594,0.9974632263183594
+He is average.,161.07,162.37,NEGATIVE,0.9268946647644043,-0.9268946647644043
+Brendan Fraser shows up in a cameo for a training montage and it's so short -lived he barely needs to even be there.,163.15,171.33,NEGATIVE,0.9994202852249146,-0.9994202852249146
+Storm Shadow is very cool.,171.99,173.79,POSITIVE,0.9991899132728577,0.9991899132728577
+His fight sequences are pretty neat and he delivers a lot of intensity.,173.99,177.03,POSITIVE,0.9998722076416016,0.9998722076416016
+"Snake Eyes, you never see his face but it turns out he is played by the guy who played Toad in the first X -Men movie and he also kicks a lot of butt.",178.03,187.05,NEGATIVE,0.9812211990356445,-0.9812211990356445
+He never gives up.,187.45,188.37,POSITIVE,0.9995244741439819,0.9995244741439819
+The villain.,189.41,189.91,NEGATIVE,0.9697402119636536,-0.9697402119636536
+I will not tell you who is playing the villain because I do not want to do a spoiler but oh dear god.,191.52,199.17,NEGATIVE,0.9764664173126221,-0.9764664173126221
+The villain has a bit of a Darth Vader breathing apparatus and is so 80s cartoon villain it is off the chart.,199.17,211.04,NEGATIVE,0.9991111159324646,-0.9991111159324646
+Oh my god I just can't get over the villain.,215.64,222.05,NEGATIVE,0.9973908066749573,-0.9973908066749573
+Still it's been hours since I saw this movie.,222.31,225.49,NEGATIVE,0.9788261651992798,-0.9788261651992798
+There are no words.,227.67,229.15,NEGATIVE,0.9975848197937012,-0.9975848197937012
+No words.,229.15,230.51,NEGATIVE,0.9995121955871582,-0.9995121955871582
+The effects are amazing.,231.37,232.63,POSITIVE,0.9998847246170044,0.9998847246170044
+There is tons of action.,232.99,234.11,POSITIVE,0.9829484820365906,0.9829484820365906
+There are tons of explosions.,234.31,235.65,NEGATIVE,0.6537637710571289,-0.6537637710571289
+It's very exciting to watch.,235.87,237.71,POSITIVE,0.9998825788497925,0.9998825788497925
+There are lots of energetic adrenaline pumping scenes.,238.31,242.41,POSITIVE,0.9998691082000732,0.9998691082000732
+The plot is weak and the writing is so bad.,243.07,247.33,NEGATIVE,0.9998144507408142,-0.9998144507408142
+It's so bad.,248.01,249.33,NEGATIVE,0.9997898936271667,-0.9997898936271667
+Line delivery is only as good as the lines you are given to deliver.,250.11,254.63,NEGATIVE,0.9965977072715759,-0.9965977072715759
+It's a live scene that they show in the trailer with these awesome robotic suits.,258.37,263.41,POSITIVE,0.9995388984680176,0.9995388984680176
+They only use them in the one scene in Paris.,264.23,267.29,NEGATIVE,0.9944055080413818,-0.9944055080413818
+Why didn't they use them in the big battle at the end of the movie?,267.93,272.23,NEGATIVE,0.9987421631813049,-0.9987421631813049
+They had them lying around or did they bang them up too much when they flew through the train?,272.47,276.25,NEGATIVE,0.9995691180229187,-0.9995691180229187
+It just seems like such a waste.,276.47,278.27,NEGATIVE,0.9997562766075134,-0.9997562766075134
+I felt like they could have done such a better job.,278.95,280.93,NEGATIVE,0.9996047616004944,-0.9996047616004944
+An excerpt from one of my favorite scenes in the movie.,285.81,290.09,POSITIVE,0.9785372018814087,0.9785372018814087
+We have a special computer and it goes through every picture of everyone taken ever in their lives from ATMs.,290.57,298.49,NEGATIVE,0.9464716911315918,-0.9464716911315918
+We will find this bad girl and find out who she is.,298.95,302.11,NEGATIVE,0.9219608902931213,-0.9219608902931213
+Oh by the way I know that girl but she used to be blonde.,302.81,306.21,NEGATIVE,0.7684697508811951,-0.7684697508811951
+That would have stunned our giant big computer.,306.75,308.89,NEGATIVE,0.993911623954773,-0.993911623954773
+Guess you got to join the GI Joes because it turns out we need you.,309.55,312.75,NEGATIVE,0.7978031635284424,-0.7978031635284424
+Now we know.,313.09,313.71,POSITIVE,0.9976128339767456,0.9976128339767456
+Stay away from downed power lines.,316.09,318.25,NEGATIVE,0.9938005805015564,-0.9938005805015564

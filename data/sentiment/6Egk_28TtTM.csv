@@ -1,0 +1,32 @@
+text,start,end,label,score,polarity
+"Hi everybody, my name is Anthony Ronda from Kids First.",0.37,4.29,POSITIVE,0.9976944327354431,0.9976944327354431
+I just got finished watching an excellent movie called Mars Needs Moms.,4.79,9.13,NEGATIVE,0.9562118053436279,-0.9562118053436279
+"This movie is all about Milo, who goes on a big adventure, to help his mother get away from the aliens.",9.95,18.61,POSITIVE,0.9979808926582336,0.9979808926582336
+"The aliens aren't really good mothers,",20.6,22.82,NEGATIVE,0.9996825456619263,-0.9996825456619263
+so that's why they look down at Earth to find good mothers to take care of the alien siblings.,23.5,31.76,POSITIVE,0.9866045117378235,0.9866045117378235
+"And my favorite characters in the movie would have to be Milo,",33.1,37.94,POSITIVE,0.8436037302017212,0.8436037302017212
+"Milo's mother,",38.58,39.3,POSITIVE,0.995262861251831,0.995262861251831
+and Gribble.,39.9,40.28,POSITIVE,0.9846848249435425,0.9846848249435425
+I liked Gribble because he helped Milo get,40.84,45.22,POSITIVE,0.9987767338752747,0.9987767338752747
+"Milo's mother away from the aliens,",46.08,49.86,POSITIVE,0.8493998050689697,0.8493998050689697
+which I thought was awesome.,50.5,53.1,POSITIVE,0.9998233914375305,0.9998233914375305
+"And my favorite part in the movie was when Milo had to save Gribble,",54.18,61.37,POSITIVE,0.9143472909927368,0.9143472909927368
+because the aliens in the uniforms were going to shoot Gribble.,61.99,66.51,NEGATIVE,0.9970122575759888,-0.9970122575759888
+"And when they were about to shoot Gribble, Milo came in, swung in, and then saved the day.",67.78,76.65,POSITIVE,0.9982239603996277,0.9982239603996277
+"And there are some bad people in this movie,",77.72,82.06,NEGATIVE,0.9995161294937134,-0.9995161294937134
+and that is the aliens in the uniforms.,82.9,85.2,NEGATIVE,0.9474854469299316,-0.9474854469299316
+They are bad because they listen to the supervisor.,86.1,88.92,NEGATIVE,0.9995809197425842,-0.9995809197425842
+The supervisor wants everything around here.,89.58,92.62,POSITIVE,0.993907630443573,0.993907630443573
+She doesn't care about anything anyone ever says.,93.06,96.26,NEGATIVE,0.9996674060821533,-0.9996674060821533
+"And I would recommend this movie for ages 3 and up,",97.36,101.86,POSITIVE,0.9995834231376648,0.9995834231376648
+"because it is a good movie,",102.94,105.62,POSITIVE,0.9998745918273926,0.9998745918273926
+and it depends what age you are and how you see the movie.,106.4,113.7,POSITIVE,0.8680534362792969,0.8680534362792969
+"For example,",114.79,116.17,POSITIVE,0.9337217211723328,0.9337217211723328
+"my brother is 5 years old, and he didn't think this movie was scary at all.",116.89,122.33,NEGATIVE,0.998916506767273,-0.998916506767273
+"I am 8 years old, and I thought it was really kind of scary.",122.52,128.62,POSITIVE,0.9950672388076782,0.9950672388076782
+And that was my example.,129.6,131.88,POSITIVE,0.9988272786140442,0.9988272786140442
+And I think why I would be scared is because I would feel scared and kind of sad if I lost my own mother.,133.07,144.05,NEGATIVE,0.9965963959693909,-0.9965963959693909
+But it all turns out great in the end.,144.89,147.39,POSITIVE,0.9998239874839783,0.9998239874839783
+Go out and see this movie when it premieres on Disney DVD.,148.0,153.0,POSITIVE,0.9980378746986389,0.9980378746986389
+Looks like we are done.,154.6,155.86,NEGATIVE,0.6993381977081299,-0.6993381977081299
+Bye.,156.2,156.42,NEGATIVE,0.91107177734375,-0.91107177734375

@@ -1,0 +1,184 @@
+text,start,end,label,score,polarity
+"guys, I just saw the movie Friends with Benefits and I'm going to review it for you.",0.34,4.16,POSITIVE,0.9997621178627014,0.9997621178627014
+I took some notes so I'm going to read what I wrote down.,4.42,6.84,NEGATIVE,0.9892061948776245,-0.9892061948776245
+"I guess before I get into specifics,",7.4,9.16,NEGATIVE,0.9991484880447388,-0.9991484880447388
+"um, I'll just say like the basic, um,",9.82,12.98,NEGATIVE,0.9818861484527588,-0.9818861484527588
+overall thoughts on the movie.,13.78,14.92,POSITIVE,0.9934437274932861,0.9934437274932861
+I don't really know.,15.44,16.72,NEGATIVE,0.9994800686836243,-0.9994800686836243
+I don't - it's so weird.,17.02,18.68,NEGATIVE,0.985191822052002,-0.985191822052002
+"I - there were times in the movie where I felt really bored and there were times that I thought it was funny and there were times that I was just sitting there after they said they're jokes and I was like,",19.02,30.66,NEGATIVE,0.9979357719421387,-0.9979357719421387
+that's not - nobody's laughing.,31.57,33.15,NEGATIVE,0.9847976565361023,-0.9847976565361023
+That's not funny.,33.37,33.79,NEGATIVE,0.999789297580719,-0.999789297580719
+I just don't think it was very good and this is the thing.,34.11,37.47,NEGATIVE,0.9994476437568665,-0.9994476437568665
+Friends with Benefits and No Strings Attached.,38.63,40.41,POSITIVE,0.997655987739563,0.997655987739563
+"They are the same movie,",40.51,41.59,NEGATIVE,0.9926300048828125,-0.9926300048828125
+"different ways of getting to the same point, but it's the same point.",42.27,44.55,POSITIVE,0.9926949739456177,0.9926949739456177
+So I think that No Strings Attached was better than Friends with Benefits.,44.97,49.93,NEGATIVE,0.9953970313072205,-0.9953970313072205
+I was not bored during No Strings Attached.,50.37,53.25,POSITIVE,0.9928625226020813,0.9928625226020813
+"I thought it was very funny,",53.39,54.47,POSITIVE,0.9968544840812683,0.9968544840812683
+"um,",55.15,55.15,NEGATIVE,0.9837655425071716,-0.9837655425071716
+"and uh, Friends with Benefits had its moments,",56.15,59.61,POSITIVE,0.989984393119812,0.989984393119812
+but it had a lot of really bad moments.,60.97,63.85,NEGATIVE,0.997314989566803,-0.997314989566803
+I don't know.,65.16,65.66,NEGATIVE,0.9975111484527588,-0.9975111484527588
+I'm gonna - I'm gonna go through the things that I wrote down and we'll see if I can sort of give any more information on this.,65.9,71.22,NEGATIVE,0.9990140199661255,-0.9990140199661255
+Richard Jenkins is in this movie and he is one of my favorite actors ever.,72.12,75.72,POSITIVE,0.9998199343681335,0.9998199343681335
+He is brilliant.,75.98,76.9,POSITIVE,0.9998832941055298,0.9998832941055298
+"There is not a movie that I see him in that I don't end up crying because he is so fantastic and he just breaks your heart whenever he does, you know, a role that - usually his roles do break your heart at some point, so definitely did in this movie.",77.32,92.24,POSITIVE,0.9988139867782593,0.9988139867782593
+I like teared up in Friends with Benefits because of him.,92.5,95.92,POSITIVE,0.9984127283096313,0.9984127283096313
+"The lady who plays Justin Timberlake's sister, um, I thought she was very good in this movie and I thought she was just like really natural and funny and she looks like Renee Zellweger and Helen Hunt from the Twister movie and she talks like her too.",96.46,110.82,POSITIVE,0.9998015761375427,0.9998015761375427
+"Does anybody else - like, if you've seen it, don't you think that she talks exactly like her?",110.98,115.08,NEGATIVE,0.9940245747566223,-0.9940245747566223
+It was weird.,115.64,116.06,NEGATIVE,0.9931132197380066,-0.9931132197380066
+"The whole time I saw her, all I saw was Helen Hunt and Renee Zellweger.",116.22,119.24,NEGATIVE,0.8760354518890381,-0.8760354518890381
+Another thing is like the fact that there was not one healthy relationship or positive good relationship in this whole movie.,119.88,127.96,NEGATIVE,0.9997122883796692,-0.9997122883796692
+His sister,128.3,128.94,POSITIVE,0.989589512348175,0.989589512348175
+and her son lived with his dad.,129.72,132.42,POSITIVE,0.9871002435684204,0.9871002435684204
+"His mom left his dad and him years ago and now his sister who isn't married and has a son who doesn't have a dad, lives with the dad.",133.54,143.86,NEGATIVE,0.9553219079971313,-0.9553219079971313
+The son is ashamed of his dad.,144.94,146.78,NEGATIVE,0.9982017278671265,-0.9982017278671265
+"Then Mila's mom, or whatever her name is, Jamie's mom,",147.46,150.84,NEGATIVE,0.9929108023643494,-0.9929108023643494
+is an awful mother.,151.5,152.92,NEGATIVE,0.9991525411605835,-0.9991525411605835
+She doesn't even know who her dad is.,153.6,155.98,NEGATIVE,0.9995334148406982,-0.9995334148406982
+"So it's like,",156.18,156.7,POSITIVE,0.9978818297386169,0.9978818297386169
+"and then they have a, together they have an awful relationship so it's like,",157.76,160.84,NEGATIVE,0.9531612396240234,-0.9531612396240234
+"I don't know, when I was watching it I was like, these people, like their lives are awful.",161.6,165.44,NEGATIVE,0.9993345141410828,-0.9993345141410828
+"Like if you really think about it, maybe I'm looking too much into it but like that's",165.68,168.92,NEGATIVE,0.9348469376564026,-0.9348469376564026
+kind of depressing.,169.61,170.49,NEGATIVE,0.9998056292533875,-0.9998056292533875
+"Another thing that kind of is like,",171.19,172.47,POSITIVE,0.7147569060325623,0.7147569060325623
+"to me, if you do this thing that I'm gonna talk about right now, it sort of is like you know that your movie is gonna",173.09,179.23,POSITIVE,0.9922778606414795,0.9922778606414795
+kind of not be very good.,179.83,181.59,NEGATIVE,0.9997988343238831,-0.9997988343238831
+"Like I think that if you add trends in movies,",182.17,186.25,POSITIVE,0.9959489107131958,0.9959489107131958
+"like if you mention YouTube in a movie, to me that's like not timeless.",187.2,191.46,NEGATIVE,0.9991843104362488,-0.9991843104362488
+"That's like, that's like talking about Myspace in a movie.",191.68,194.24,NEGATIVE,0.9869786500930786,-0.9869786500930786
+"You know in 10 years, well like three years from then it was not cool anymore, but you know in time nobody's gonna know what Myspace is.",194.4,202.8,NEGATIVE,0.998789370059967,-0.998789370059967
+"So I feel like, this is just a personal thing with me, but I feel like if you add something trendy like YouTube, Myspace, something that's like happening right now, pop culture, into a movie, you kind of know that it's not gonna last",202.88,215.06,NEGATIVE,0.9158104062080383,-0.9158104062080383
+decades to come and years to come.,216.04,217.7,POSITIVE,0.9900844097137451,0.9900844097137451
+"Which not every movie is supposed to, but certainly you would want to be in this business to make good movies, although 99 % of the people in it don't, but whatever.",217.82,226.36,POSITIVE,0.9951574206352234,0.9951574206352234
+"So it's like, I don't know, they, because they mention YouTube in the movie and it's just like, every time I hear like a trend, I'm like, nope, this is not gonna last.",227.34,236.6,NEGATIVE,0.9992166757583618,-0.9992166757583618
+"Nope, they know it's not gonna last.",237.2,238.86,NEGATIVE,0.9993815422058105,-0.9993815422058105
+"Because I guess some movies like this one are just meant to be this summer, go for a laugh and then come home.",239.06,246.02,POSITIVE,0.9887935519218445,0.9887935519218445
+"Even though you didn't really go for a laugh, because you didn't laugh a lot.",246.06,249.02,NEGATIVE,0.9991613626480103,-0.9991613626480103
+"Anyway, I'm sure some of you have no idea what I'm talking about, so I'm gonna just keep going.",249.94,253.48,NEGATIVE,0.9953973889350891,-0.9953973889350891
+Something that I thought was really funny to me was when,253.72,257.22,POSITIVE,0.9894005656242371,0.9894005656242371
+"um, the part where they're on the roof thing and it gets serious and they're all like, you know, it's towards the end of the movie and they're like, oh, and they all like hate each other now.",258.12,267.2,NEGATIVE,0.9801887273788452,-0.9801887273788452
+"And she's, she starts like tearing up and they're like fighting on the roof.",267.42,270.42,NEGATIVE,0.9788519144058228,-0.9788519144058228
+"And I'm thinking to myself like, I wonder if Mila and Justin thought that day when they were going to work like, well,",270.78,276.52,POSITIVE,0.9953935146331787,0.9953935146331787
+today's the day we have to act.,277.16,278.4,POSITIVE,0.9954571723937988,0.9954571723937988
+"Like, because the whole movie, they're, they're just bullshitting, you know what I mean?",278.62,281.74,NEGATIVE,0.9994182586669922,-0.9994182586669922
+"Like, like there's a certain amount of talent in being able to just like, you know,",281.98,285.9,POSITIVE,0.9990662932395935,0.9990662932395935
+banter back and forth.,287.1,287.88,NEGATIVE,0.9290547370910645,-0.9290547370910645
+"Like, but that's fine.",288.1,288.7,POSITIVE,0.9997971653938293,0.9997971653938293
+Like I'm not knocking that sort of acting.,288.82,291.36,NEGATIVE,0.9474151730537415,-0.9474151730537415
+"Like not everything you do as an actor is going to be like, it's leukemia.",291.58,296.34,NEGATIVE,0.9995570778846741,-0.9995570778846741
+It's not like that all the time.,296.62,297.78,POSITIVE,0.8053095936775208,0.8053095936775208
+"But the scene where they actually have to be serious and stuff, I imagine that she was like,",298.0,303.82,NEGATIVE,0.9379197359085083,-0.9379197359085083
+"bye mom, I'm going to act today.",304.84,306.4,POSITIVE,0.9994588494300842,0.9994588494300842
+"Like, cause it was just so out of nowhere, so wrong for their characters to sort of act like that.",306.62,311.74,NEGATIVE,0.9997979998588562,-0.9997979998588562
+I don't know.,311.8,312.18,NEGATIVE,0.9975111484527588,-0.9975111484527588
+"It was, it was sort of weird to see.",313.28,315.22,NEGATIVE,0.9689338803291321,-0.9689338803291321
+It was like day and night.,315.4,316.64,POSITIVE,0.9765868782997131,0.9765868782997131
+Like it just didn't mesh well.,316.8,317.9,NEGATIVE,0.9998014569282532,-0.9998014569282532
+"And, um,",318.92,319.4,NEGATIVE,0.9811736345291138,-0.9811736345291138
+"the same thing happened in No Strings Attached, which is sort of, it's like the same exact movie.",320.19,325.09,NEGATIVE,0.9962558746337891,-0.9962558746337891
+It's completely parallel to each other.,325.23,326.41,POSITIVE,0.9905532598495483,0.9905532598495483
+"But there's a part where of course Natalie Portman starts crying and, and that is completely believable because A, Natalie Portman is a great actress.",326.73,333.21,POSITIVE,0.9998154044151306,0.9998154044151306
+"And so when Natalie Portman was crying on the phone with her sister, it was like, you know, I felt bad for her because I believe there was genuine, it was good performance.",333.57,341.57,POSITIVE,0.9563889503479004,0.9563889503479004
+"And, and she sort of had that in her character the whole time during No Strings Attached.",342.25,346.63,NEGATIVE,0.9826864004135132,-0.9826864004135132
+"Like throughout the movie, she, she showed different sides of her other than just like the one, I live in New York and I don't care about anything.",346.73,354.47,NEGATIVE,0.9852195978164673,-0.9852195978164673
+"Like, which me, Lekunas had, um,",354.73,356.77,NEGATIVE,0.9934651255607605,-0.9934651255607605
+which is sort of strange.,357.49,360.05,NEGATIVE,0.9874184131622314,-0.9874184131622314
+"Of course, I'm looking too much into this because,",360.23,361.81,NEGATIVE,0.9991973042488098,-0.9991973042488098
+I don't know.,362.9,363.44,NEGATIVE,0.9975111484527588,-0.9975111484527588
+I just didn't think it fit and I didn't think that she should have been crying.,363.64,366.42,NEGATIVE,0.991314709186554,-0.991314709186554
+It just sort of felt too extreme.,366.42,368.52,NEGATIVE,0.9998012185096741,-0.9998012185096741
+"Um, I know they had to get mad at each other, but it was just too extreme.",369.16,372.6,NEGATIVE,0.9994296431541443,-0.9994296431541443
+"The one scene that I think was, uh, the best acting for Mila Kunis in the whole movie was when she, um,",372.9,378.68,POSITIVE,0.9786903858184814,0.9786903858184814
+"she overhears, um, Justin Timberlake, I don't know his character's name, forgot, uh, Parker, I guess, or something.",379.42,384.88,NEGATIVE,0.9970263838768005,-0.9970263838768005
+"No, wait, that's the other guy.",385.12,385.88,NEGATIVE,0.9958581328392029,-0.9958581328392029
+Whatever.,386.16,386.3,NEGATIVE,0.9871820211410522,-0.9871820211410522
+"Um,",387.0,387.0,NEGATIVE,0.9837656617164612,-0.9837656617164612
+"Justin Timberlake is telling his sister,",387.9,389.36,POSITIVE,0.9944474697113037,0.9944474697113037
+"oh yeah, she's, um, you know, messed up here, blah, blah, and she gets upset.",390.06,393.76,NEGATIVE,0.9977541565895081,-0.9977541565895081
+She's in like the thing.,393.92,394.52,POSITIVE,0.9991912245750427,0.9991912245750427
+"So she gets upset and she leaves and she packs her bag and she, they're about to eat dinner and she goes, oh yeah, I'm gonna go, I'm gonna leave.",394.84,400.54,NEGATIVE,0.568824052810669,-0.568824052810669
+I got called into work.,400.74,401.46,POSITIVE,0.5648563504219055,0.5648563504219055
+"And so then he's like, what are you doing?",401.62,402.94,NEGATIVE,0.9774176478385925,-0.9774176478385925
+"And she's like, the way she's acting in that scene where she's leaving and she has her bag and she's gonna go catch a cab when she's in LA, that was the best acting from her because I just thought it was really good.",402.96,414.92,POSITIVE,0.9997907280921936,0.9997907280921936
+"And if you watch the movie and you haven't seen it, watch out for that scene because it's really genuine from her and she seems like,",414.98,419.72,POSITIVE,0.9997082352638245,0.9997082352638245
+"there's, because, okay, I'm going way too much into this.",420.78,423.48,NEGATIVE,0.9996166229248047,-0.9996166229248047
+"But like, if you're, um, angry with somebody, especially in their situation, which leads me to another thing, but when you're, um, like, you know, in real life, when you're angry with somebody and you, you have like a confrontation, you don't feel,",423.62,436.96,NEGATIVE,0.9855522513389587,-0.9855522513389587
+there's not a very high level of confidence.,438.13,440.87,NEGATIVE,0.9997498393058777,-0.9997498393058777
+I guess this is a character thing and who different people handle it different ways.,441.03,444.91,NEGATIVE,0.9860224723815918,-0.9860224723815918
+"But like, I feel like most people, if you're in a confrontation with somebody that you are friends with or something, there's a level of really insecurity and you're like, sort of, you know, everything is getting heightened and you're like kind of freaking out on inside, but you're trying not to.",444.99,458.37,NEGATIVE,0.964949369430542,-0.964949369430542
+"And you're trying to be like, this is what I think, but inside you're like, oh my God, this sucks really bad and I don't like this.",458.45,463.87,NEGATIVE,0.9974111914634705,-0.9974111914634705
+"Um,",464.61,464.61,NEGATIVE,0.9837655425071716,-0.9837655425071716
+"that needs to, that needs to be happening.",465.49,467.33,NEGATIVE,0.9973759651184082,-0.9973759651184082
+"So I feel like she did have that sort of in the back of her mind in that scene, like, this really sucks and I hope I can, I hope I can get through this and I really want to leave, but he's going to make me stay and I gotta leave.",467.61,477.73,NEGATIVE,0.9953582882881165,-0.9953582882881165
+He's not going to drive me.,478.09,478.99,NEGATIVE,0.9995241165161133,-0.9995241165161133
+I gotta take the cab.,479.07,479.85,NEGATIVE,0.9861408472061157,-0.9861408472061157
+Like I felt like that was there.,480.07,481.47,POSITIVE,0.9962838292121887,0.9962838292121887
+"Um, which it should be, which is good, but there were other times when they were fighting, I think at the, um, the photo shoot that they go to where she has to see him for the first time after they got mad at each other and it wasn't there at all.",482.03,493.13,NEGATIVE,0.9962946772575378,-0.9962946772575378
+"And they both felt very confident with each other,",493.25,495.23,POSITIVE,0.9998773336410522,0.9998773336410522
+"confidently angry with each other, which was like,",495.97,498.49,NEGATIVE,0.8830626606941223,-0.8830626606941223
+"I feel like if you were going to see somebody, if you're in that situation and you're going to see somebody for the first time after everything that just happened, I wouldn't be,",499.17,506.47,POSITIVE,0.9884570240974426,0.9884570240974426
+"I don't know, I just,",507.25,508.33,NEGATIVE,0.9950037598609924,-0.9950037598609924
+"there's got to be like a level,",509.11,510.55,NEGATIVE,0.9935429096221924,-0.9935429096221924
+"like a hidden, um,",511.27,512.77,NEGATIVE,0.9623261094093323,-0.9623261094093323
+"like care about the fact that you're insecure and you don't exactly know how this is going to go, but you hope it goes the way you want to.",513.67,521.87,POSITIVE,0.9992363452911377,0.9992363452911377
+"I just talked for a long time about things that maybe aren't relevant right now, but I'm gonna move on.",522.39,528.93,POSITIVE,0.9946228265762329,0.9946228265762329
+Another thing that I thought was funny was the fake movie that's in the movie.,529.31,533.67,NEGATIVE,0.9994021654129028,-0.9994021654129028
+"And, you know, they're talking about, oh, it's Grand Central Station.",534.41,536.69,POSITIVE,0.7962697744369507,0.7962697744369507
+"And he's like, no, they filmed that in LA.",536.87,538.01,NEGATIVE,0.9970861077308655,-0.9970861077308655
+"Well, in the fake movie, they go through and it's like, oh, there's the Empire State Building.",538.35,541.79,NEGATIVE,0.998264729976654,-0.998264729976654
+And they show like palm trees in the background.,541.87,543.27,POSITIVE,0.9580912590026855,0.9580912590026855
+And that was hilarious.,543.33,544.03,POSITIVE,0.9998806715011597,0.9998806715011597
+So everything with that little fake movie was really funny.,544.27,546.95,POSITIVE,0.9352017045021057,0.9352017045021057
+"Oh, and another thing,",547.53,548.17,NEGATIVE,0.8108274936676025,-0.8108274936676025
+"um, whoever wrote this movie has something very serious against pilots.",548.81,551.83,NEGATIVE,0.9977245926856995,-0.9977245926856995
+"He, he must have been bullied by a pilot or something in his life because he spent the whole movie throwing digs at pilots.",552.67,560.71,NEGATIVE,0.9995705485343933,-0.9995705485343933
+"And it was like, where did this come from?",560.91,563.03,NEGATIVE,0.9978445768356323,-0.9978445768356323
+What's with the pilot insults?,563.59,564.99,NEGATIVE,0.9995936751365662,-0.9995936751365662
+Why is this happening?,565.33,566.49,NEGATIVE,0.9970157146453857,-0.9970157146453857
+"And all I can think of is the writer who was writing this at home, like,",566.97,569.61,NEGATIVE,0.9580072164535522,-0.9580072164535522
+"oh, that asshole, he's a pilot and I'm going to get him in my new screenplay and he'll watch this and be like, oh, Doug got me again.",570.33,577.17,POSITIVE,0.9922736287117004,0.9922736287117004
+"Oh, you hate pilots.",577.43,578.15,NEGATIVE,0.9990096092224121,-0.9990096092224121
+"Like, it was just so irrelevant.",578.35,579.77,NEGATIVE,0.9998050332069397,-0.9998050332069397
+"The pilots thing and Captain Selenberger, whatever his name is, was like, where did that come from?",579.95,585.25,NEGATIVE,0.9982926249504089,-0.9982926249504089
+It was weird.,585.87,586.49,NEGATIVE,0.9931132197380066,-0.9931132197380066
+"It's like, you know, the writer was at like a dinner party way back when he was thinking about writing the movie and he was at a dinner party and they had an argument at this party",586.49,594.71,NEGATIVE,0.9966462254524231,-0.9966462254524231
+about Selenberger landing the plane.,596.29,598.45,POSITIVE,0.7454079985618591,0.7454079985618591
+"And if it was him, you know, completely, if he deserves the heroic recognition that he got or if all of this stuff is stuff.",598.55,606.09,NEGATIVE,0.9968187808990479,-0.9968187808990479
+"And it's like, it's like he brought it into the movie and it just didn't fit.",606.19,609.72,NEGATIVE,0.9997852444648743,-0.9997852444648743
+"And I, I wasn't very funny either.",609.88,611.72,NEGATIVE,0.9997685551643372,-0.9997685551643372
+It was just weird.,611.84,612.4,NEGATIVE,0.9943861961364746,-0.9943861961364746
+"Um,",613.06,613.22,NEGATIVE,0.9837655425071716,-0.9837655425071716
+do you know what I'm saying?,614.04,614.68,NEGATIVE,0.9885932207107544,-0.9885932207107544
+Nevermind.,615.88,616.36,POSITIVE,0.8183233141899109,0.8183233141899109
+"And another thing, there was a perfect joke and they didn't say it and I don't understand why.",616.72,622.16,NEGATIVE,0.9997536540031433,-0.9997536540031433
+"Um, towards the end of the movie, Richard Jenkins is looking at the GQ magazine, news it up and they picked the, um,",622.84,628.36,NEGATIVE,0.9960383176803589,-0.9960383176803589
+white jeans to a cookout or whatever.,628.98,630.22,NEGATIVE,0.969832181930542,-0.969832181930542
+"And so Richard Jenkins opens it up and he goes,",630.64,632.76,POSITIVE,0.9985198378562927,0.9985198378562927
+"he says something about the magazine and the jeans at the cookout,",633.54,636.86,POSITIVE,0.9872292280197144,0.9872292280197144
+"but it wasn't like the perfect joke would have been for him to be like, who even needs to wear jeans to a cookout?",637.46,644.14,NEGATIVE,0.9954981803894043,-0.9954981803894043
+"It's like, cause he doesn't ever wear his pants.",644.26,646.26,NEGATIVE,0.8994810581207275,-0.8994810581207275
+"So it's like, why didn't they go with that funny joke?",646.5,649.1,NEGATIVE,0.9954219460487366,-0.9954219460487366
+"It would have been funnier if he had been like, white jeans.",649.26,652.68,NEGATIVE,0.9956603646278381,-0.9956603646278381
+I don't wear any jeans to a cookout.,652.88,654.28,NEGATIVE,0.9955410361289978,-0.9955410361289978
+You know what I mean?,654.3,654.6,NEGATIVE,0.939142107963562,-0.939142107963562
+Like it just was like right there.,654.76,657.24,POSITIVE,0.9991896748542786,0.9991896748542786
+"Why didn't they just,",657.42,658.1,NEGATIVE,0.9924842715263367,-0.9924842715263367
+it wasn't funny.,658.78,659.7,NEGATIVE,0.9997825026512146,-0.9997825026512146
+"Anyway, that is my very in -depth review of this movie.",660.62,663.66,POSITIVE,0.9963920712471008,0.9963920712471008
+"Um,",664.28,664.28,NEGATIVE,0.9837655425071716,-0.9837655425071716
+"it was just, I don't know.",665.38,666.44,NEGATIVE,0.9978692531585693,-0.9978692531585693
+I'm trying to think if I should really recommend it to scene theaters or to just wait for it to come out on DVD.,666.82,671.06,NEGATIVE,0.9992332458496094,-0.9992332458496094
+"Um,",671.8,672.18,NEGATIVE,0.9837655425071716,-0.9837655425071716
+I don't know.,674.12,674.58,NEGATIVE,0.9975111484527588,-0.9975111484527588
+You know what?,674.7,675.08,NEGATIVE,0.9570343494415283,-0.9570343494415283
+"You know, if you want to see it, then you should see it.",676.29,679.25,POSITIVE,0.9997697472572327,0.9997697472572327
+"Um,",679.59,679.59,NEGATIVE,0.9837655425071716,-0.9837655425071716
+"if you really are on the fence about it, I would say just wait, but if you really want to see it, you're going to see it no matter what.",680.29,684.61,POSITIVE,0.9976992011070251,0.9976992011070251
+"So, um, either way comment below what you thought of it.",684.91,687.69,NEGATIVE,0.9864295721054077,-0.9864295721054077
+"And, um, I hope this wasn't too confusing.",687.93,689.75,NEGATIVE,0.9825530052185059,-0.9825530052185059
+I hope you can sort of stay on track with me.,689.91,691.71,POSITIVE,0.9972789883613586,0.9972789883613586
+"Um,",692.13,692.39,NEGATIVE,0.9837655425071716,-0.9837655425071716
+and that's it.,693.57,694.33,POSITIVE,0.9994598031044006,0.9994598031044006
+Bye.,694.59,694.67,NEGATIVE,0.91107177734375,-0.91107177734375

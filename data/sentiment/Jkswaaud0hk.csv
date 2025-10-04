@@ -1,0 +1,16 @@
+text,start,end,label,score,polarity
+"Hey everybody, hope you're having a great day and I wanted to give my review of Friends With Benefits.",0.05,4.59,POSITIVE,0.9998125433921814,0.9998125433921814
+"Mila Kunis and Justin Timberlake, I thought they made a great duo.",5.39,8.35,POSITIVE,0.9997816681861877,0.9997816681861877
+"Mila Kunis, she is gorgeous.",8.89,10.51,POSITIVE,0.9998644590377808,0.9998644590377808
+"There's some great bedroom scenes, you guys, that you're going to get to enjoy.",11.15,15.01,POSITIVE,0.9998645782470703,0.9998645782470703
+"A fun, lightweight date movie, I think some of the women are going to enjoy this more than the guys.",15.41,20.51,POSITIVE,0.9997405409812927,0.9997405409812927
+Certainly there's some scenes where I think some of the women are going to feel more of the emotion of it.,21.27,24.79,NEGATIVE,0.9859765768051147,-0.9859765768051147
+"There's some funny lines, great steamy bedroom scenes, I was surprised.",24.79,28.87,POSITIVE,0.9997594952583313,0.9997594952583313
+"The amount of skin they showed,",29.85,31.15,POSITIVE,0.9902762174606323,0.9902762174606323
+but it was in good taste.,31.79,34.73,POSITIVE,0.9997833371162415,0.9997833371162415
+I thought Woody Harrelson was funny.,35.93,38.03,POSITIVE,0.7701637148857117,0.7701637148857117
+He added a great dimension to the movie as well.,38.61,41.25,POSITIVE,0.9998558759689331,0.9998558759689331
+"Storyline was okay, but overall I thought it was a fun picture.",41.59,44.95,POSITIVE,0.998674750328064,0.998674750328064
+I do think it's worth seeing.,45.17,46.81,POSITIVE,0.9997795224189758,0.9997795224189758
+"Certainly again, more of a date movie than seeing it alone unless you ladies go together to see it together.",47.39,53.73,POSITIVE,0.9966744184494019,0.9966744184494019
+"I'd go see it, thumbs up, and until the next video, have a great day.",53.73,58.25,POSITIVE,0.999725878238678,0.999725878238678

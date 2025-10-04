@@ -1,0 +1,25 @@
+text,start,end,label,score,polarity
+"Hey everybody, it's the movie maniac again.",0.62,2.94,POSITIVE,0.9957024455070496,0.9957024455070496
+I just wanted to critique another movie.,3.16,4.82,NEGATIVE,0.9993769526481628,-0.9993769526481628
+I actually ran it Someone was asking me about that movie Brad wars.,4.94,8.92,NEGATIVE,0.9905977845191956,-0.9905977845191956
+They kept asking me.,8.94,9.72,NEGATIVE,0.9716635942459106,-0.9716635942459106
+Is it a good movie?,9.72,10.48,POSITIVE,0.9996225833892822,0.9996225833892822
+Should I see it?,10.52,11.38,POSITIVE,0.9971119165420532,0.9971119165420532
+Is it funny because it looks pretty funny.,11.38,12.9,POSITIVE,0.9998024106025696,0.9998024106025696
+"So hey, I decided to check it out.",13.26,14.94,POSITIVE,0.9994064569473267,0.9994064569473267
+What can I say?,14.94,15.5,NEGATIVE,0.952427089214325,-0.952427089214325
+I'm just curious,15.58,16.6,POSITIVE,0.9961729645729065,0.9961729645729065
+"It's starring Kate Hudson, I believe and Anne Hathaway.",17.5,21.32,POSITIVE,0.9993902444839478,0.9993902444839478
+Don't get me wrong.,21.6,22.42,POSITIVE,0.9989983439445496,0.9989983439445496
+Kate Hudson is pretty fine -looking But I just think it's kind of stupid.,22.58,27.22,NEGATIVE,0.9993950128555298,-0.9993950128555298
+"Everyone says she has a fat ass Yeah, she has a fat ass in terms of white girls But I mean her ass really isn't that fat first of all, the movie was boring I mean the movie really wasn't funny at all.",27.4,37.5,NEGATIVE,0.9996422529220581,-0.9996422529220581
+All the all the funny parts weren't funny I mean the movie was I guess it was a waste of time This guy wanted to know so you could buy it for his girlfriend.,37.5,46.08,NEGATIVE,0.9998102784156799,-0.9998102784156799
+I was hey she might like it But even then it's not really funny at all.,46.26,50.58,NEGATIVE,0.9996414184570312,-0.9996414184570312
+Anne Hathaway is really overrated in my opinion I mean her acting is like so -so and I can't believe she even won an Oscar I believe she won an Oscar or for best supporting actress or best actress or something I mean that movie was a waste of time.,50.58,64.32,NEGATIVE,0.9995551705360413,-0.9995551705360413
+"It's two girls trying too hard, and it just really wasn't good I mean, that's my opinion.",64.32,69.04,NEGATIVE,0.9997615218162537,-0.9997615218162537
+Check it out.,69.46,70.26,POSITIVE,0.9997097849845886,0.9997097849845886
+"You might think otherwise, but I'm just telling you what I think and",70.42,74.18,POSITIVE,0.999574601650238,0.999574601650238
+"That's basically what I think So if you want to know about any other movies, let me know I'm taking calls for any movies if the movie you're curious about but you just don't know if you want to spend the money To go buy it ran and see it.",74.82,85.76,NEGATIVE,0.9990158081054688,-0.9990158081054688
+Let me know and I'll do it.,85.82,87.1,POSITIVE,0.9996017813682556,0.9996017813682556
+I'll watch it for you So until the next time let me know what's going on.,87.46,91.22,POSITIVE,0.9891304969787598,0.9891304969787598
+Tell me what you think,91.28,92.02,POSITIVE,0.9990034699440002,0.9990034699440002

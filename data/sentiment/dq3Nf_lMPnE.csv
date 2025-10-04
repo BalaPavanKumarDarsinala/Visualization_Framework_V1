@@ -1,0 +1,20 @@
+text,start,end,label,score,polarity
+"The trouble with sequels is, what else can you do with the characters that hasn't already been done?",12.75,17.81,NEGATIVE,0.9983782768249512,-0.9983782768249512
+Part of the fun in watching movies is witnessing the changes and growth in the characters.,18.92,23.14,POSITIVE,0.9997683167457581,0.9997683167457581
+It's usually a path of discovery.,23.86,25.58,POSITIVE,0.9986661672592163,0.9986661672592163
+But how do you keep characters developing in sequel after sequel after sequel?,26.59,30.41,NEGATIVE,0.9990870952606201,-0.9990870952606201
+"Shrek, forever after,",31.13,32.17,POSITIVE,0.9994118213653564,0.9994118213653564
+"or is it called the final chapter, a last -minute title that they threw on at the theaters?",33.15,36.93,NEGATIVE,0.9991145730018616,-0.9991145730018616
+Dreamworks is confusing me.,37.79,39.31,NEGATIVE,0.9995331764221191,-0.9995331764221191
+"They solve this dilemma by removing the past with an it's a wonderful life twist, courtesy of new baddie Rumpelstiltskin.",39.98,47.48,POSITIVE,0.9998449087142944,0.9998449087142944
+"Everything that happened in Shrek 1, 2, and 3 are wiped away.",48.59,51.69,NEGATIVE,0.9989240765571594,-0.9989240765571594
+It's a clean sweep of Shrek's life where he can now be a single grumpy ogre again without the burdens of being a husband and a father.,52.05,59.43,POSITIVE,0.9994589686393738,0.9994589686393738
+"Not a bad idea for a sequel, but also not very original.",60.4,64.83,NEGATIVE,0.9992604851722717,-0.9992604851722717
+Shrek 4 misses out on the magic that made the first film a real joy to view.,65.75,69.69,NEGATIVE,0.9992837309837341,-0.9992837309837341
+"Gone are the wickedly satirical send -ups of the world of fairy tales, and also the cute winks to pop culture.",70.11,76.67,POSITIVE,0.9979767203330994,0.9979767203330994
+In their place is a run -of -the -mill animated action -adventure plot with a few chuckles thrown in.,77.25,82.87,NEGATIVE,0.9995570778846741,-0.9995570778846741
+It seems like the writers and creators took the easy way out.,83.76,86.6,NEGATIVE,0.9986586570739746,-0.9986586570739746
+"If it weren't for the great characters of Shrek and his supporting cast, who are still voiced by the original stars Mike Myers, Eddie Murphy, Cameron Diaz, and Antonio Banderas,",87.24,97.66,POSITIVE,0.9811295866966248,0.9811295866966248
+the film would be a real bust.,98.32,100.16,POSITIVE,0.9855637550354004,0.9855637550354004
+"Unless your kids are dying to see it, I'd wait for the DVD.",101.3,104.8,NEGATIVE,0.9991876482963562,-0.9991876482963562
+"I give Shrek, Forever After, directed by Mike Mitchell, a grade of B-, and I'm Keith Kelly.",105.97,113.31,POSITIVE,0.9979169964790344,0.9979169964790344
