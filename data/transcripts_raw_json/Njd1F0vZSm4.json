@@ -1,0 +1,1112 @@
+{
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 6.3,
+      "text": " Let's talk Legend of the Guardians. I'm going to give this a grade B minus.",
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.78,
+          "word": " Let's"
+        },
+        {
+          "start": 0.78,
+          "end": 1.1,
+          "word": " talk"
+        },
+        {
+          "start": 1.1,
+          "end": 1.58,
+          "word": " Legend"
+        },
+        {
+          "start": 1.58,
+          "end": 1.78,
+          "word": " of"
+        },
+        {
+          "start": 1.78,
+          "end": 1.92,
+          "word": " the"
+        },
+        {
+          "start": 1.92,
+          "end": 2.28,
+          "word": " Guardians."
+        },
+        {
+          "start": 3.02,
+          "end": 3.34,
+          "word": " I'm"
+        },
+        {
+          "start": 3.34,
+          "end": 3.46,
+          "word": " going"
+        },
+        {
+          "start": 3.46,
+          "end": 3.58,
+          "word": " to"
+        },
+        {
+          "start": 3.58,
+          "end": 3.74,
+          "word": " give"
+        },
+        {
+          "start": 3.74,
+          "end": 4.0,
+          "word": " this"
+        },
+        {
+          "start": 4.0,
+          "end": 4.26,
+          "word": " a"
+        },
+        {
+          "start": 4.26,
+          "end": 4.62,
+          "word": " grade"
+        },
+        {
+          "start": 4.62,
+          "end": 5.84,
+          "word": " B"
+        },
+        {
+          "start": 5.84,
+          "end": 6.3,
+          "word": " minus."
+        }
+      ]
+    },
+    {
+      "start": 7.06,
+      "end": 22.74,
+      "text": " The CGI work, the 3D is spectacular. The flying sequences are beautiful and the owls are really wonderful and come off real and they do have very nice personalities and you have a read for them.",
+      "words": [
+        {
+          "start": 7.06,
+          "end": 7.48,
+          "word": " The"
+        },
+        {
+          "start": 7.48,
+          "end": 8.14,
+          "word": " CGI"
+        },
+        {
+          "start": 8.14,
+          "end": 8.62,
+          "word": " work,"
+        },
+        {
+          "start": 9.4,
+          "end": 9.42,
+          "word": " the"
+        },
+        {
+          "start": 9.42,
+          "end": 9.8,
+          "word": " 3D"
+        },
+        {
+          "start": 9.8,
+          "end": 10.08,
+          "word": " is"
+        },
+        {
+          "start": 10.08,
+          "end": 10.98,
+          "word": " spectacular."
+        },
+        {
+          "start": 11.88,
+          "end": 12.02,
+          "word": " The"
+        },
+        {
+          "start": 12.02,
+          "end": 12.34,
+          "word": " flying"
+        },
+        {
+          "start": 12.34,
+          "end": 12.92,
+          "word": " sequences"
+        },
+        {
+          "start": 12.92,
+          "end": 13.3,
+          "word": " are"
+        },
+        {
+          "start": 13.3,
+          "end": 13.84,
+          "word": " beautiful"
+        },
+        {
+          "start": 13.84,
+          "end": 14.38,
+          "word": " and"
+        },
+        {
+          "start": 14.38,
+          "end": 14.56,
+          "word": " the"
+        },
+        {
+          "start": 14.56,
+          "end": 15.02,
+          "word": " owls"
+        },
+        {
+          "start": 15.02,
+          "end": 15.3,
+          "word": " are"
+        },
+        {
+          "start": 15.3,
+          "end": 16.02,
+          "word": " really"
+        },
+        {
+          "start": 16.02,
+          "end": 17.1,
+          "word": " wonderful"
+        },
+        {
+          "start": 17.1,
+          "end": 17.52,
+          "word": " and"
+        },
+        {
+          "start": 17.52,
+          "end": 17.8,
+          "word": " come"
+        },
+        {
+          "start": 17.8,
+          "end": 18.0,
+          "word": " off"
+        },
+        {
+          "start": 18.0,
+          "end": 18.34,
+          "word": " real"
+        },
+        {
+          "start": 18.34,
+          "end": 18.56,
+          "word": " and"
+        },
+        {
+          "start": 18.56,
+          "end": 18.72,
+          "word": " they"
+        },
+        {
+          "start": 18.72,
+          "end": 18.9,
+          "word": " do"
+        },
+        {
+          "start": 18.9,
+          "end": 19.16,
+          "word": " have"
+        },
+        {
+          "start": 19.16,
+          "end": 19.62,
+          "word": " very"
+        },
+        {
+          "start": 19.62,
+          "end": 20.04,
+          "word": " nice"
+        },
+        {
+          "start": 20.04,
+          "end": 20.6,
+          "word": " personalities"
+        },
+        {
+          "start": 20.6,
+          "end": 21.28,
+          "word": " and"
+        },
+        {
+          "start": 21.28,
+          "end": 21.86,
+          "word": " you"
+        },
+        {
+          "start": 21.86,
+          "end": 22.02,
+          "word": " have"
+        },
+        {
+          "start": 22.02,
+          "end": 22.12,
+          "word": " a"
+        },
+        {
+          "start": 22.12,
+          "end": 22.26,
+          "word": " read"
+        },
+        {
+          "start": 22.26,
+          "end": 22.46,
+          "word": " for"
+        },
+        {
+          "start": 22.46,
+          "end": 22.74,
+          "word": " them."
+        }
+      ]
+    },
+    {
+      "start": 23.26,
+      "end": 28.24,
+      "text": " But the story is very dark. In fact, my six-year-old was scared most of the movie.",
+      "words": [
+        {
+          "start": 23.26,
+          "end": 23.46,
+          "word": " But"
+        },
+        {
+          "start": 23.46,
+          "end": 23.54,
+          "word": " the"
+        },
+        {
+          "start": 23.54,
+          "end": 23.82,
+          "word": " story"
+        },
+        {
+          "start": 23.82,
+          "end": 24.14,
+          "word": " is"
+        },
+        {
+          "start": 24.14,
+          "end": 24.56,
+          "word": " very"
+        },
+        {
+          "start": 24.56,
+          "end": 25.08,
+          "word": " dark."
+        },
+        {
+          "start": 25.42,
+          "end": 25.54,
+          "word": " In"
+        },
+        {
+          "start": 25.54,
+          "end": 25.68,
+          "word": " fact,"
+        },
+        {
+          "start": 25.8,
+          "end": 25.9,
+          "word": " my"
+        },
+        {
+          "start": 25.9,
+          "end": 26.2,
+          "word": " six"
+        },
+        {
+          "start": 26.2,
+          "end": 26.32,
+          "word": "-year"
+        },
+        {
+          "start": 26.32,
+          "end": 26.46,
+          "word": "-old"
+        },
+        {
+          "start": 26.46,
+          "end": 26.64,
+          "word": " was"
+        },
+        {
+          "start": 26.64,
+          "end": 27.08,
+          "word": " scared"
+        },
+        {
+          "start": 27.08,
+          "end": 27.54,
+          "word": " most"
+        },
+        {
+          "start": 27.54,
+          "end": 27.82,
+          "word": " of"
+        },
+        {
+          "start": 27.82,
+          "end": 27.94,
+          "word": " the"
+        },
+        {
+          "start": 27.94,
+          "end": 28.24,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 28.24,
+      "end": 41.48,
+      "text": " The basic gist is it's like good owls versus bad owls. The bad owls kidnap two little good owls and one of them escapes and runs off to the guardians and then the guardians fight the bad owls.",
+      "words": [
+        {
+          "start": 28.24,
+          "end": 28.96,
+          "word": " The"
+        },
+        {
+          "start": 28.96,
+          "end": 29.26,
+          "word": " basic"
+        },
+        {
+          "start": 29.26,
+          "end": 29.56,
+          "word": " gist"
+        },
+        {
+          "start": 29.56,
+          "end": 29.94,
+          "word": " is"
+        },
+        {
+          "start": 29.94,
+          "end": 30.16,
+          "word": " it's"
+        },
+        {
+          "start": 30.16,
+          "end": 30.32,
+          "word": " like"
+        },
+        {
+          "start": 30.32,
+          "end": 30.62,
+          "word": " good"
+        },
+        {
+          "start": 30.62,
+          "end": 31.02,
+          "word": " owls"
+        },
+        {
+          "start": 31.02,
+          "end": 31.28,
+          "word": " versus"
+        },
+        {
+          "start": 31.28,
+          "end": 31.68,
+          "word": " bad"
+        },
+        {
+          "start": 31.68,
+          "end": 32.12,
+          "word": " owls."
+        },
+        {
+          "start": 32.26,
+          "end": 32.32,
+          "word": " The"
+        },
+        {
+          "start": 32.32,
+          "end": 32.54,
+          "word": " bad"
+        },
+        {
+          "start": 32.54,
+          "end": 32.98,
+          "word": " owls"
+        },
+        {
+          "start": 32.98,
+          "end": 33.34,
+          "word": " kidnap"
+        },
+        {
+          "start": 33.34,
+          "end": 34.0,
+          "word": " two"
+        },
+        {
+          "start": 34.0,
+          "end": 34.22,
+          "word": " little"
+        },
+        {
+          "start": 34.22,
+          "end": 34.46,
+          "word": " good"
+        },
+        {
+          "start": 34.46,
+          "end": 35.14,
+          "word": " owls"
+        },
+        {
+          "start": 35.14,
+          "end": 35.92,
+          "word": " and"
+        },
+        {
+          "start": 35.92,
+          "end": 36.08,
+          "word": " one"
+        },
+        {
+          "start": 36.08,
+          "end": 36.18,
+          "word": " of"
+        },
+        {
+          "start": 36.18,
+          "end": 36.36,
+          "word": " them"
+        },
+        {
+          "start": 36.36,
+          "end": 36.8,
+          "word": " escapes"
+        },
+        {
+          "start": 36.8,
+          "end": 37.68,
+          "word": " and"
+        },
+        {
+          "start": 37.68,
+          "end": 37.88,
+          "word": " runs"
+        },
+        {
+          "start": 37.88,
+          "end": 38.16,
+          "word": " off"
+        },
+        {
+          "start": 38.16,
+          "end": 38.54,
+          "word": " to"
+        },
+        {
+          "start": 38.54,
+          "end": 38.66,
+          "word": " the"
+        },
+        {
+          "start": 38.66,
+          "end": 39.08,
+          "word": " guardians"
+        },
+        {
+          "start": 39.08,
+          "end": 39.7,
+          "word": " and"
+        },
+        {
+          "start": 39.7,
+          "end": 39.84,
+          "word": " then"
+        },
+        {
+          "start": 39.84,
+          "end": 40.0,
+          "word": " the"
+        },
+        {
+          "start": 40.0,
+          "end": 40.36,
+          "word": " guardians"
+        },
+        {
+          "start": 40.36,
+          "end": 40.66,
+          "word": " fight"
+        },
+        {
+          "start": 40.66,
+          "end": 40.86,
+          "word": " the"
+        },
+        {
+          "start": 40.86,
+          "end": 41.02,
+          "word": " bad"
+        },
+        {
+          "start": 41.02,
+          "end": 41.48,
+          "word": " owls."
+        }
+      ]
+    },
+    {
+      "start": 43.33,
+      "end": 46.31,
+      "text": " And save owl them. They all get to live happily ever after.",
+      "words": [
+        {
+          "start": 43.33,
+          "end": 43.35,
+          "word": " And"
+        },
+        {
+          "start": 43.35,
+          "end": 43.97,
+          "word": " save"
+        },
+        {
+          "start": 43.97,
+          "end": 44.37,
+          "word": " owl"
+        },
+        {
+          "start": 44.37,
+          "end": 44.69,
+          "word": " them."
+        },
+        {
+          "start": 44.89,
+          "end": 44.97,
+          "word": " They"
+        },
+        {
+          "start": 44.97,
+          "end": 45.07,
+          "word": " all"
+        },
+        {
+          "start": 45.07,
+          "end": 45.19,
+          "word": " get"
+        },
+        {
+          "start": 45.19,
+          "end": 45.33,
+          "word": " to"
+        },
+        {
+          "start": 45.33,
+          "end": 45.43,
+          "word": " live"
+        },
+        {
+          "start": 45.43,
+          "end": 45.77,
+          "word": " happily"
+        },
+        {
+          "start": 45.77,
+          "end": 45.97,
+          "word": " ever"
+        },
+        {
+          "start": 45.97,
+          "end": 46.31,
+          "word": " after."
+        }
+      ]
+    },
+    {
+      "start": 47.51,
+      "end": 56.23,
+      "text": " My other complaint other than that there's like nothing light or funny in the story to break up the somber mood is the battle itself.",
+      "words": [
+        {
+          "start": 47.51,
+          "end": 47.69,
+          "word": " My"
+        },
+        {
+          "start": 47.69,
+          "end": 48.13,
+          "word": " other"
+        },
+        {
+          "start": 48.13,
+          "end": 48.67,
+          "word": " complaint"
+        },
+        {
+          "start": 48.67,
+          "end": 49.01,
+          "word": " other"
+        },
+        {
+          "start": 49.01,
+          "end": 49.41,
+          "word": " than"
+        },
+        {
+          "start": 49.41,
+          "end": 49.63,
+          "word": " that"
+        },
+        {
+          "start": 49.63,
+          "end": 49.93,
+          "word": " there's"
+        },
+        {
+          "start": 49.93,
+          "end": 50.15,
+          "word": " like"
+        },
+        {
+          "start": 50.15,
+          "end": 50.57,
+          "word": " nothing"
+        },
+        {
+          "start": 50.57,
+          "end": 51.07,
+          "word": " light"
+        },
+        {
+          "start": 51.07,
+          "end": 51.47,
+          "word": " or"
+        },
+        {
+          "start": 51.47,
+          "end": 51.95,
+          "word": " funny"
+        },
+        {
+          "start": 51.95,
+          "end": 52.97,
+          "word": " in"
+        },
+        {
+          "start": 52.97,
+          "end": 53.07,
+          "word": " the"
+        },
+        {
+          "start": 53.07,
+          "end": 53.27,
+          "word": " story"
+        },
+        {
+          "start": 53.27,
+          "end": 53.51,
+          "word": " to"
+        },
+        {
+          "start": 53.51,
+          "end": 53.75,
+          "word": " break"
+        },
+        {
+          "start": 53.75,
+          "end": 53.93,
+          "word": " up"
+        },
+        {
+          "start": 53.93,
+          "end": 54.09,
+          "word": " the"
+        },
+        {
+          "start": 54.09,
+          "end": 54.45,
+          "word": " somber"
+        },
+        {
+          "start": 54.45,
+          "end": 54.75,
+          "word": " mood"
+        },
+        {
+          "start": 54.75,
+          "end": 55.23,
+          "word": " is"
+        },
+        {
+          "start": 55.23,
+          "end": 55.61,
+          "word": " the"
+        },
+        {
+          "start": 55.61,
+          "end": 55.89,
+          "word": " battle"
+        },
+        {
+          "start": 55.89,
+          "end": 56.23,
+          "word": " itself."
+        }
+      ]
+    },
+    {
+      "start": 56.23,
+      "end": 65.29,
+      "text": " You can't tell which are the good owls and which are the bad owls. They really needed to somehow set them apart with armor.",
+      "words": [
+        {
+          "start": 56.23,
+          "end": 56.65,
+          "word": " You"
+        },
+        {
+          "start": 56.65,
+          "end": 57.07,
+          "word": " can't"
+        },
+        {
+          "start": 57.07,
+          "end": 57.31,
+          "word": " tell"
+        },
+        {
+          "start": 57.31,
+          "end": 57.53,
+          "word": " which"
+        },
+        {
+          "start": 57.53,
+          "end": 57.65,
+          "word": " are"
+        },
+        {
+          "start": 57.65,
+          "end": 57.75,
+          "word": " the"
+        },
+        {
+          "start": 57.75,
+          "end": 57.91,
+          "word": " good"
+        },
+        {
+          "start": 57.91,
+          "end": 58.35,
+          "word": " owls"
+        },
+        {
+          "start": 58.35,
+          "end": 58.59,
+          "word": " and"
+        },
+        {
+          "start": 58.59,
+          "end": 58.69,
+          "word": " which"
+        },
+        {
+          "start": 58.69,
+          "end": 58.81,
+          "word": " are"
+        },
+        {
+          "start": 58.81,
+          "end": 58.91,
+          "word": " the"
+        },
+        {
+          "start": 58.91,
+          "end": 59.15,
+          "word": " bad"
+        },
+        {
+          "start": 59.15,
+          "end": 59.67,
+          "word": " owls."
+        },
+        {
+          "start": 60.21,
+          "end": 60.35,
+          "word": " They"
+        },
+        {
+          "start": 60.35,
+          "end": 60.81,
+          "word": " really"
+        },
+        {
+          "start": 60.81,
+          "end": 61.37,
+          "word": " needed"
+        },
+        {
+          "start": 61.37,
+          "end": 61.67,
+          "word": " to"
+        },
+        {
+          "start": 61.67,
+          "end": 62.21,
+          "word": " somehow"
+        },
+        {
+          "start": 62.21,
+          "end": 62.65,
+          "word": " set"
+        },
+        {
+          "start": 62.65,
+          "end": 62.85,
+          "word": " them"
+        },
+        {
+          "start": 62.85,
+          "end": 63.27,
+          "word": " apart"
+        },
+        {
+          "start": 63.27,
+          "end": 64.47,
+          "word": " with"
+        },
+        {
+          "start": 64.47,
+          "end": 65.29,
+          "word": " armor."
+        }
+      ]
+    },
+    {
+      "start": 66.29,
+      "end": 77.5,
+      "text": " I mean some of them wear armor but some on both sides wear armor. Anyway, this is when you can skip or you can see up to you.",
+      "words": [
+        {
+          "start": 66.29,
+          "end": 66.77,
+          "word": " I"
+        },
+        {
+          "start": 66.77,
+          "end": 66.87,
+          "word": " mean"
+        },
+        {
+          "start": 66.87,
+          "end": 67.03,
+          "word": " some"
+        },
+        {
+          "start": 67.03,
+          "end": 67.21,
+          "word": " of"
+        },
+        {
+          "start": 67.21,
+          "end": 67.31,
+          "word": " them"
+        },
+        {
+          "start": 67.31,
+          "end": 67.47,
+          "word": " wear"
+        },
+        {
+          "start": 67.47,
+          "end": 67.93,
+          "word": " armor"
+        },
+        {
+          "start": 67.93,
+          "end": 68.17,
+          "word": " but"
+        },
+        {
+          "start": 68.17,
+          "end": 68.35,
+          "word": " some"
+        },
+        {
+          "start": 68.35,
+          "end": 68.53,
+          "word": " on"
+        },
+        {
+          "start": 68.53,
+          "end": 68.71,
+          "word": " both"
+        },
+        {
+          "start": 68.71,
+          "end": 68.97,
+          "word": " sides"
+        },
+        {
+          "start": 68.97,
+          "end": 69.17,
+          "word": " wear"
+        },
+        {
+          "start": 69.17,
+          "end": 69.69,
+          "word": " armor."
+        },
+        {
+          "start": 70.33,
+          "end": 70.59,
+          "word": " Anyway,"
+        },
+        {
+          "start": 71.69,
+          "end": 72.17,
+          "word": " this"
+        },
+        {
+          "start": 72.17,
+          "end": 72.31,
+          "word": " is"
+        },
+        {
+          "start": 72.31,
+          "end": 72.45,
+          "word": " when"
+        },
+        {
+          "start": 72.45,
+          "end": 72.59,
+          "word": " you"
+        },
+        {
+          "start": 72.59,
+          "end": 72.73,
+          "word": " can"
+        },
+        {
+          "start": 72.73,
+          "end": 73.11,
+          "word": " skip"
+        },
+        {
+          "start": 73.11,
+          "end": 74.17,
+          "word": " or"
+        },
+        {
+          "start": 74.33,
+          "end": 74.47,
+          "word": " you"
+        },
+        {
+          "start": 74.47,
+          "end": 74.61,
+          "word": " can"
+        },
+        {
+          "start": 74.61,
+          "end": 75.05,
+          "word": " see"
+        },
+        {
+          "start": 75.05,
+          "end": 75.97,
+          "word": " up"
+        },
+        {
+          "start": 77.06,
+          "end": 77.28,
+          "word": " to"
+        },
+        {
+          "start": 77.28,
+          "end": 77.5,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 78.38,
+      "end": 83.96,
+      "text": " And that's it. Now off to go help with my thicks on. Bye.",
+      "words": [
+        {
+          "start": 78.38,
+          "end": 78.72,
+          "word": " And"
+        },
+        {
+          "start": 78.72,
+          "end": 79.04,
+          "word": " that's"
+        },
+        {
+          "start": 79.04,
+          "end": 79.2,
+          "word": " it."
+        },
+        {
+          "start": 80.18,
+          "end": 80.28,
+          "word": " Now"
+        },
+        {
+          "start": 80.28,
+          "end": 80.9,
+          "word": " off"
+        },
+        {
+          "start": 80.9,
+          "end": 81.12,
+          "word": " to"
+        },
+        {
+          "start": 81.12,
+          "end": 81.3,
+          "word": " go"
+        },
+        {
+          "start": 81.3,
+          "end": 81.56,
+          "word": " help"
+        },
+        {
+          "start": 81.56,
+          "end": 81.78,
+          "word": " with"
+        },
+        {
+          "start": 81.78,
+          "end": 82.0,
+          "word": " my"
+        },
+        {
+          "start": 82.0,
+          "end": 82.84,
+          "word": " thicks"
+        },
+        {
+          "start": 82.84,
+          "end": 83.12,
+          "word": " on."
+        },
+        {
+          "start": 83.72,
+          "end": 83.96,
+          "word": " Bye."
+        }
+      ]
+    }
+  ]
+}

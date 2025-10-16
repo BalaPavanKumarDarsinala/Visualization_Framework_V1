@@ -1,0 +1,996 @@
+{
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 4.59,
+      "text": " Hey everybody, hope you're having a great day and I wanted to give my review of Friends With Benefits.",
+      "words": [
+        {
+          "start": 0.05,
+          "end": 0.57,
+          "word": " Hey"
+        },
+        {
+          "start": 0.57,
+          "end": 0.87,
+          "word": " everybody,"
+        },
+        {
+          "start": 1.03,
+          "end": 1.11,
+          "word": " hope"
+        },
+        {
+          "start": 1.11,
+          "end": 1.23,
+          "word": " you're"
+        },
+        {
+          "start": 1.23,
+          "end": 1.37,
+          "word": " having"
+        },
+        {
+          "start": 1.37,
+          "end": 1.51,
+          "word": " a"
+        },
+        {
+          "start": 1.51,
+          "end": 1.69,
+          "word": " great"
+        },
+        {
+          "start": 1.69,
+          "end": 1.93,
+          "word": " day"
+        },
+        {
+          "start": 1.93,
+          "end": 2.05,
+          "word": " and"
+        },
+        {
+          "start": 2.05,
+          "end": 2.19,
+          "word": " I"
+        },
+        {
+          "start": 2.19,
+          "end": 2.39,
+          "word": " wanted"
+        },
+        {
+          "start": 2.39,
+          "end": 2.55,
+          "word": " to"
+        },
+        {
+          "start": 2.55,
+          "end": 2.71,
+          "word": " give"
+        },
+        {
+          "start": 2.71,
+          "end": 2.87,
+          "word": " my"
+        },
+        {
+          "start": 2.87,
+          "end": 3.27,
+          "word": " review"
+        },
+        {
+          "start": 3.27,
+          "end": 3.79,
+          "word": " of"
+        },
+        {
+          "start": 3.79,
+          "end": 3.91,
+          "word": " Friends"
+        },
+        {
+          "start": 3.91,
+          "end": 4.13,
+          "word": " With"
+        },
+        {
+          "start": 4.13,
+          "end": 4.59,
+          "word": " Benefits."
+        }
+      ]
+    },
+    {
+      "start": 5.39,
+      "end": 10.51,
+      "text": " Mila Kunis and Justin Timberlake, I thought they made a great duo. Mila Kunis, she is gorgeous.",
+      "words": [
+        {
+          "start": 5.39,
+          "end": 5.53,
+          "word": " Mila"
+        },
+        {
+          "start": 5.53,
+          "end": 5.89,
+          "word": " Kunis"
+        },
+        {
+          "start": 5.89,
+          "end": 6.09,
+          "word": " and"
+        },
+        {
+          "start": 6.09,
+          "end": 6.35,
+          "word": " Justin"
+        },
+        {
+          "start": 6.35,
+          "end": 6.83,
+          "word": " Timberlake,"
+        },
+        {
+          "start": 7.05,
+          "end": 7.23,
+          "word": " I"
+        },
+        {
+          "start": 7.23,
+          "end": 7.39,
+          "word": " thought"
+        },
+        {
+          "start": 7.39,
+          "end": 7.53,
+          "word": " they"
+        },
+        {
+          "start": 7.53,
+          "end": 7.71,
+          "word": " made"
+        },
+        {
+          "start": 7.71,
+          "end": 7.83,
+          "word": " a"
+        },
+        {
+          "start": 7.83,
+          "end": 8.05,
+          "word": " great"
+        },
+        {
+          "start": 8.05,
+          "end": 8.35,
+          "word": " duo."
+        },
+        {
+          "start": 8.89,
+          "end": 9.15,
+          "word": " Mila"
+        },
+        {
+          "start": 9.15,
+          "end": 9.55,
+          "word": " Kunis,"
+        },
+        {
+          "start": 9.65,
+          "end": 9.75,
+          "word": " she"
+        },
+        {
+          "start": 9.75,
+          "end": 10.07,
+          "word": " is"
+        },
+        {
+          "start": 10.07,
+          "end": 10.51,
+          "word": " gorgeous."
+        }
+      ]
+    },
+    {
+      "start": 11.15,
+      "end": 15.01,
+      "text": " There's some great bedroom scenes, you guys, that you're going to get to enjoy.",
+      "words": [
+        {
+          "start": 11.15,
+          "end": 11.41,
+          "word": " There's"
+        },
+        {
+          "start": 11.41,
+          "end": 11.59,
+          "word": " some"
+        },
+        {
+          "start": 11.59,
+          "end": 12.17,
+          "word": " great"
+        },
+        {
+          "start": 12.17,
+          "end": 12.55,
+          "word": " bedroom"
+        },
+        {
+          "start": 12.55,
+          "end": 12.91,
+          "word": " scenes,"
+        },
+        {
+          "start": 13.43,
+          "end": 13.51,
+          "word": " you"
+        },
+        {
+          "start": 13.51,
+          "end": 13.75,
+          "word": " guys,"
+        },
+        {
+          "start": 13.89,
+          "end": 14.01,
+          "word": " that"
+        },
+        {
+          "start": 14.01,
+          "end": 14.21,
+          "word": " you're"
+        },
+        {
+          "start": 14.21,
+          "end": 14.29,
+          "word": " going"
+        },
+        {
+          "start": 14.29,
+          "end": 14.37,
+          "word": " to"
+        },
+        {
+          "start": 14.37,
+          "end": 14.49,
+          "word": " get"
+        },
+        {
+          "start": 14.49,
+          "end": 14.65,
+          "word": " to"
+        },
+        {
+          "start": 14.65,
+          "end": 15.01,
+          "word": " enjoy."
+        }
+      ]
+    },
+    {
+      "start": 15.41,
+      "end": 20.51,
+      "text": " A fun, lightweight date movie, I think some of the women are going to enjoy this more than the guys.",
+      "words": [
+        {
+          "start": 15.41,
+          "end": 15.59,
+          "word": " A"
+        },
+        {
+          "start": 15.59,
+          "end": 15.95,
+          "word": " fun,"
+        },
+        {
+          "start": 16.17,
+          "end": 16.63,
+          "word": " lightweight"
+        },
+        {
+          "start": 16.63,
+          "end": 16.91,
+          "word": " date"
+        },
+        {
+          "start": 16.91,
+          "end": 17.17,
+          "word": " movie,"
+        },
+        {
+          "start": 17.33,
+          "end": 17.43,
+          "word": " I"
+        },
+        {
+          "start": 17.43,
+          "end": 17.55,
+          "word": " think"
+        },
+        {
+          "start": 17.55,
+          "end": 17.77,
+          "word": " some"
+        },
+        {
+          "start": 17.77,
+          "end": 17.87,
+          "word": " of"
+        },
+        {
+          "start": 17.87,
+          "end": 17.97,
+          "word": " the"
+        },
+        {
+          "start": 17.97,
+          "end": 18.11,
+          "word": " women"
+        },
+        {
+          "start": 18.11,
+          "end": 18.43,
+          "word": " are"
+        },
+        {
+          "start": 18.43,
+          "end": 18.69,
+          "word": " going"
+        },
+        {
+          "start": 18.69,
+          "end": 19.03,
+          "word": " to"
+        },
+        {
+          "start": 19.03,
+          "end": 19.49,
+          "word": " enjoy"
+        },
+        {
+          "start": 19.49,
+          "end": 19.69,
+          "word": " this"
+        },
+        {
+          "start": 19.69,
+          "end": 19.87,
+          "word": " more"
+        },
+        {
+          "start": 19.87,
+          "end": 20.07,
+          "word": " than"
+        },
+        {
+          "start": 20.07,
+          "end": 20.19,
+          "word": " the"
+        },
+        {
+          "start": 20.19,
+          "end": 20.51,
+          "word": " guys."
+        }
+      ]
+    },
+    {
+      "start": 21.27,
+      "end": 24.79,
+      "text": " Certainly there's some scenes where I think some of the women are going to feel more of the emotion of it.",
+      "words": [
+        {
+          "start": 21.27,
+          "end": 21.47,
+          "word": " Certainly"
+        },
+        {
+          "start": 21.47,
+          "end": 21.83,
+          "word": " there's"
+        },
+        {
+          "start": 21.83,
+          "end": 21.97,
+          "word": " some"
+        },
+        {
+          "start": 21.97,
+          "end": 22.25,
+          "word": " scenes"
+        },
+        {
+          "start": 22.25,
+          "end": 22.49,
+          "word": " where"
+        },
+        {
+          "start": 22.49,
+          "end": 22.59,
+          "word": " I"
+        },
+        {
+          "start": 22.59,
+          "end": 22.77,
+          "word": " think"
+        },
+        {
+          "start": 22.77,
+          "end": 22.95,
+          "word": " some"
+        },
+        {
+          "start": 22.95,
+          "end": 23.03,
+          "word": " of"
+        },
+        {
+          "start": 23.03,
+          "end": 23.11,
+          "word": " the"
+        },
+        {
+          "start": 23.11,
+          "end": 23.25,
+          "word": " women"
+        },
+        {
+          "start": 23.25,
+          "end": 23.41,
+          "word": " are"
+        },
+        {
+          "start": 23.41,
+          "end": 23.47,
+          "word": " going"
+        },
+        {
+          "start": 23.47,
+          "end": 23.51,
+          "word": " to"
+        },
+        {
+          "start": 23.51,
+          "end": 23.71,
+          "word": " feel"
+        },
+        {
+          "start": 23.71,
+          "end": 23.93,
+          "word": " more"
+        },
+        {
+          "start": 23.93,
+          "end": 24.07,
+          "word": " of"
+        },
+        {
+          "start": 24.07,
+          "end": 24.13,
+          "word": " the"
+        },
+        {
+          "start": 24.13,
+          "end": 24.37,
+          "word": " emotion"
+        },
+        {
+          "start": 24.37,
+          "end": 24.65,
+          "word": " of"
+        },
+        {
+          "start": 24.65,
+          "end": 24.79,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 24.79,
+      "end": 28.87,
+      "text": " There's some funny lines, great steamy bedroom scenes, I was surprised.",
+      "words": [
+        {
+          "start": 24.79,
+          "end": 25.43,
+          "word": " There's"
+        },
+        {
+          "start": 25.43,
+          "end": 25.63,
+          "word": " some"
+        },
+        {
+          "start": 25.63,
+          "end": 26.07,
+          "word": " funny"
+        },
+        {
+          "start": 26.07,
+          "end": 26.57,
+          "word": " lines,"
+        },
+        {
+          "start": 27.05,
+          "end": 27.09,
+          "word": " great"
+        },
+        {
+          "start": 27.09,
+          "end": 27.55,
+          "word": " steamy"
+        },
+        {
+          "start": 27.55,
+          "end": 27.75,
+          "word": " bedroom"
+        },
+        {
+          "start": 27.75,
+          "end": 28.25,
+          "word": " scenes,"
+        },
+        {
+          "start": 28.37,
+          "end": 28.39,
+          "word": " I"
+        },
+        {
+          "start": 28.39,
+          "end": 28.47,
+          "word": " was"
+        },
+        {
+          "start": 28.47,
+          "end": 28.87,
+          "word": " surprised."
+        }
+      ]
+    },
+    {
+      "start": 29.85,
+      "end": 34.73,
+      "text": " The amount of skin they showed, but it was in good taste.",
+      "words": [
+        {
+          "start": 29.85,
+          "end": 29.93,
+          "word": " The"
+        },
+        {
+          "start": 29.93,
+          "end": 30.11,
+          "word": " amount"
+        },
+        {
+          "start": 30.11,
+          "end": 30.27,
+          "word": " of"
+        },
+        {
+          "start": 30.27,
+          "end": 30.51,
+          "word": " skin"
+        },
+        {
+          "start": 30.51,
+          "end": 30.79,
+          "word": " they"
+        },
+        {
+          "start": 30.79,
+          "end": 31.15,
+          "word": " showed,"
+        },
+        {
+          "start": 31.79,
+          "end": 31.93,
+          "word": " but"
+        },
+        {
+          "start": 31.93,
+          "end": 32.81,
+          "word": " it"
+        },
+        {
+          "start": 32.81,
+          "end": 33.25,
+          "word": " was"
+        },
+        {
+          "start": 33.25,
+          "end": 33.93,
+          "word": " in"
+        },
+        {
+          "start": 33.93,
+          "end": 34.31,
+          "word": " good"
+        },
+        {
+          "start": 34.31,
+          "end": 34.73,
+          "word": " taste."
+        }
+      ]
+    },
+    {
+      "start": 35.93,
+      "end": 41.25,
+      "text": " I thought Woody Harrelson was funny. He added a great dimension to the movie as well.",
+      "words": [
+        {
+          "start": 35.93,
+          "end": 35.97,
+          "word": " I"
+        },
+        {
+          "start": 35.97,
+          "end": 36.23,
+          "word": " thought"
+        },
+        {
+          "start": 36.23,
+          "end": 36.45,
+          "word": " Woody"
+        },
+        {
+          "start": 36.45,
+          "end": 36.97,
+          "word": " Harrelson"
+        },
+        {
+          "start": 36.97,
+          "end": 37.41,
+          "word": " was"
+        },
+        {
+          "start": 37.41,
+          "end": 38.03,
+          "word": " funny."
+        },
+        {
+          "start": 38.61,
+          "end": 38.85,
+          "word": " He"
+        },
+        {
+          "start": 38.85,
+          "end": 39.37,
+          "word": " added"
+        },
+        {
+          "start": 39.37,
+          "end": 39.71,
+          "word": " a"
+        },
+        {
+          "start": 39.71,
+          "end": 39.97,
+          "word": " great"
+        },
+        {
+          "start": 39.97,
+          "end": 40.23,
+          "word": " dimension"
+        },
+        {
+          "start": 40.23,
+          "end": 40.55,
+          "word": " to"
+        },
+        {
+          "start": 40.55,
+          "end": 40.65,
+          "word": " the"
+        },
+        {
+          "start": 40.65,
+          "end": 40.79,
+          "word": " movie"
+        },
+        {
+          "start": 40.79,
+          "end": 40.97,
+          "word": " as"
+        },
+        {
+          "start": 40.97,
+          "end": 41.25,
+          "word": " well."
+        }
+      ]
+    },
+    {
+      "start": 41.59,
+      "end": 44.95,
+      "text": " Storyline was okay, but overall I thought it was a fun picture.",
+      "words": [
+        {
+          "start": 41.59,
+          "end": 42.01,
+          "word": " Storyline"
+        },
+        {
+          "start": 42.01,
+          "end": 42.23,
+          "word": " was"
+        },
+        {
+          "start": 42.23,
+          "end": 42.67,
+          "word": " okay,"
+        },
+        {
+          "start": 43.01,
+          "end": 43.17,
+          "word": " but"
+        },
+        {
+          "start": 43.17,
+          "end": 43.39,
+          "word": " overall"
+        },
+        {
+          "start": 43.39,
+          "end": 43.59,
+          "word": " I"
+        },
+        {
+          "start": 43.59,
+          "end": 43.69,
+          "word": " thought"
+        },
+        {
+          "start": 43.69,
+          "end": 43.79,
+          "word": " it"
+        },
+        {
+          "start": 43.79,
+          "end": 44.27,
+          "word": " was"
+        },
+        {
+          "start": 44.27,
+          "end": 44.27,
+          "word": " a"
+        },
+        {
+          "start": 44.27,
+          "end": 44.57,
+          "word": " fun"
+        },
+        {
+          "start": 44.57,
+          "end": 44.95,
+          "word": " picture."
+        }
+      ]
+    },
+    {
+      "start": 45.17,
+      "end": 53.73,
+      "text": " I do think it's worth seeing. Certainly again, more of a date movie than seeing it alone unless you ladies go together to see it together.",
+      "words": [
+        {
+          "start": 45.17,
+          "end": 45.37,
+          "word": " I"
+        },
+        {
+          "start": 45.37,
+          "end": 45.81,
+          "word": " do"
+        },
+        {
+          "start": 45.81,
+          "end": 46.03,
+          "word": " think"
+        },
+        {
+          "start": 46.03,
+          "end": 46.25,
+          "word": " it's"
+        },
+        {
+          "start": 46.25,
+          "end": 46.39,
+          "word": " worth"
+        },
+        {
+          "start": 46.39,
+          "end": 46.81,
+          "word": " seeing."
+        },
+        {
+          "start": 47.39,
+          "end": 47.71,
+          "word": " Certainly"
+        },
+        {
+          "start": 47.71,
+          "end": 48.17,
+          "word": " again,"
+        },
+        {
+          "start": 48.49,
+          "end": 48.77,
+          "word": " more"
+        },
+        {
+          "start": 48.77,
+          "end": 48.89,
+          "word": " of"
+        },
+        {
+          "start": 48.89,
+          "end": 49.01,
+          "word": " a"
+        },
+        {
+          "start": 49.01,
+          "end": 49.17,
+          "word": " date"
+        },
+        {
+          "start": 49.17,
+          "end": 49.49,
+          "word": " movie"
+        },
+        {
+          "start": 49.49,
+          "end": 49.89,
+          "word": " than"
+        },
+        {
+          "start": 49.89,
+          "end": 50.59,
+          "word": " seeing"
+        },
+        {
+          "start": 50.59,
+          "end": 50.75,
+          "word": " it"
+        },
+        {
+          "start": 50.75,
+          "end": 50.95,
+          "word": " alone"
+        },
+        {
+          "start": 50.95,
+          "end": 51.25,
+          "word": " unless"
+        },
+        {
+          "start": 51.25,
+          "end": 51.81,
+          "word": " you"
+        },
+        {
+          "start": 51.81,
+          "end": 52.05,
+          "word": " ladies"
+        },
+        {
+          "start": 52.05,
+          "end": 52.33,
+          "word": " go"
+        },
+        {
+          "start": 52.33,
+          "end": 52.73,
+          "word": " together"
+        },
+        {
+          "start": 52.73,
+          "end": 53.17,
+          "word": " to"
+        },
+        {
+          "start": 53.17,
+          "end": 53.37,
+          "word": " see"
+        },
+        {
+          "start": 53.37,
+          "end": 53.47,
+          "word": " it"
+        },
+        {
+          "start": 53.47,
+          "end": 53.73,
+          "word": " together."
+        }
+      ]
+    },
+    {
+      "start": 53.73,
+      "end": 58.25,
+      "text": " I'd go see it, thumbs up, and until the next video, have a great day.",
+      "words": [
+        {
+          "start": 53.73,
+          "end": 54.47,
+          "word": " I'd"
+        },
+        {
+          "start": 54.47,
+          "end": 54.57,
+          "word": " go"
+        },
+        {
+          "start": 54.57,
+          "end": 54.83,
+          "word": " see"
+        },
+        {
+          "start": 54.83,
+          "end": 55.11,
+          "word": " it,"
+        },
+        {
+          "start": 55.47,
+          "end": 55.57,
+          "word": " thumbs"
+        },
+        {
+          "start": 55.57,
+          "end": 56.01,
+          "word": " up,"
+        },
+        {
+          "start": 56.31,
+          "end": 56.57,
+          "word": " and"
+        },
+        {
+          "start": 56.57,
+          "end": 56.79,
+          "word": " until"
+        },
+        {
+          "start": 56.79,
+          "end": 56.95,
+          "word": " the"
+        },
+        {
+          "start": 56.95,
+          "end": 57.09,
+          "word": " next"
+        },
+        {
+          "start": 57.09,
+          "end": 57.45,
+          "word": " video,"
+        },
+        {
+          "start": 57.73,
+          "end": 57.81,
+          "word": " have"
+        },
+        {
+          "start": 57.81,
+          "end": 57.91,
+          "word": " a"
+        },
+        {
+          "start": 57.91,
+          "end": 58.03,
+          "word": " great"
+        },
+        {
+          "start": 58.03,
+          "end": 58.25,
+          "word": " day."
+        }
+      ]
+    }
+  ]
+}

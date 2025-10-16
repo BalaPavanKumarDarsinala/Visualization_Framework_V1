@@ -1,0 +1,4252 @@
+{
+  "segments": [
+    {
+      "start": 1.13,
+      "end": 14.35,
+      "text": " Hello again, Frank12Castle. I know it's been quite a long time since I've done one of these, but I was very busy, and you all probably saw movies over Christmas that you wanted to see anyway, so I'm back.",
+      "words": [
+        {
+          "start": 1.13,
+          "end": 1.59,
+          "word": " Hello"
+        },
+        {
+          "start": 1.59,
+          "end": 1.87,
+          "word": " again,"
+        },
+        {
+          "start": 2.07,
+          "end": 3.13,
+          "word": " Frank12Castle."
+        },
+        {
+          "start": 3.67,
+          "end": 3.75,
+          "word": " I"
+        },
+        {
+          "start": 3.75,
+          "end": 3.83,
+          "word": " know"
+        },
+        {
+          "start": 3.83,
+          "end": 3.97,
+          "word": " it's"
+        },
+        {
+          "start": 3.97,
+          "end": 4.07,
+          "word": " been"
+        },
+        {
+          "start": 4.07,
+          "end": 4.27,
+          "word": " quite"
+        },
+        {
+          "start": 4.27,
+          "end": 4.37,
+          "word": " a"
+        },
+        {
+          "start": 4.37,
+          "end": 4.51,
+          "word": " long"
+        },
+        {
+          "start": 4.51,
+          "end": 4.75,
+          "word": " time"
+        },
+        {
+          "start": 4.75,
+          "end": 4.91,
+          "word": " since"
+        },
+        {
+          "start": 4.91,
+          "end": 5.09,
+          "word": " I've"
+        },
+        {
+          "start": 5.09,
+          "end": 5.21,
+          "word": " done"
+        },
+        {
+          "start": 5.21,
+          "end": 5.39,
+          "word": " one"
+        },
+        {
+          "start": 5.39,
+          "end": 5.47,
+          "word": " of"
+        },
+        {
+          "start": 5.47,
+          "end": 5.79,
+          "word": " these,"
+        },
+        {
+          "start": 5.87,
+          "end": 6.23,
+          "word": " but"
+        },
+        {
+          "start": 6.23,
+          "end": 7.09,
+          "word": " I"
+        },
+        {
+          "start": 7.09,
+          "end": 7.25,
+          "word": " was"
+        },
+        {
+          "start": 7.25,
+          "end": 7.51,
+          "word": " very"
+        },
+        {
+          "start": 7.51,
+          "end": 7.89,
+          "word": " busy,"
+        },
+        {
+          "start": 8.45,
+          "end": 8.83,
+          "word": " and"
+        },
+        {
+          "start": 8.83,
+          "end": 9.13,
+          "word": " you"
+        },
+        {
+          "start": 9.13,
+          "end": 9.33,
+          "word": " all"
+        },
+        {
+          "start": 9.33,
+          "end": 9.55,
+          "word": " probably"
+        },
+        {
+          "start": 9.55,
+          "end": 9.83,
+          "word": " saw"
+        },
+        {
+          "start": 9.83,
+          "end": 10.27,
+          "word": " movies"
+        },
+        {
+          "start": 10.27,
+          "end": 10.87,
+          "word": " over"
+        },
+        {
+          "start": 10.87,
+          "end": 11.35,
+          "word": " Christmas"
+        },
+        {
+          "start": 11.35,
+          "end": 11.73,
+          "word": " that"
+        },
+        {
+          "start": 11.73,
+          "end": 12.21,
+          "word": " you"
+        },
+        {
+          "start": 12.21,
+          "end": 12.39,
+          "word": " wanted"
+        },
+        {
+          "start": 12.39,
+          "end": 12.53,
+          "word": " to"
+        },
+        {
+          "start": 12.53,
+          "end": 12.65,
+          "word": " see"
+        },
+        {
+          "start": 12.65,
+          "end": 12.91,
+          "word": " anyway,"
+        },
+        {
+          "start": 13.05,
+          "end": 13.31,
+          "word": " so"
+        },
+        {
+          "start": 13.31,
+          "end": 14.15,
+          "word": " I'm"
+        },
+        {
+          "start": 14.15,
+          "end": 14.35,
+          "word": " back."
+        }
+      ]
+    },
+    {
+      "start": 14.63,
+      "end": 21.83,
+      "text": " Anyway, I want to go see The Green Hornet, which of course stars Seth Rogen, who also helped write the movie. It was directed by Mike Gondry.",
+      "words": [
+        {
+          "start": 14.63,
+          "end": 14.79,
+          "word": " Anyway,"
+        },
+        {
+          "start": 15.15,
+          "end": 15.25,
+          "word": " I"
+        },
+        {
+          "start": 15.25,
+          "end": 15.37,
+          "word": " want"
+        },
+        {
+          "start": 15.37,
+          "end": 15.49,
+          "word": " to"
+        },
+        {
+          "start": 15.49,
+          "end": 15.61,
+          "word": " go"
+        },
+        {
+          "start": 15.61,
+          "end": 15.73,
+          "word": " see"
+        },
+        {
+          "start": 15.73,
+          "end": 15.85,
+          "word": " The"
+        },
+        {
+          "start": 15.85,
+          "end": 16.03,
+          "word": " Green"
+        },
+        {
+          "start": 16.03,
+          "end": 16.43,
+          "word": " Hornet,"
+        },
+        {
+          "start": 16.65,
+          "end": 16.83,
+          "word": " which"
+        },
+        {
+          "start": 16.83,
+          "end": 16.97,
+          "word": " of"
+        },
+        {
+          "start": 16.97,
+          "end": 17.13,
+          "word": " course"
+        },
+        {
+          "start": 17.13,
+          "end": 17.49,
+          "word": " stars"
+        },
+        {
+          "start": 17.49,
+          "end": 17.79,
+          "word": " Seth"
+        },
+        {
+          "start": 17.79,
+          "end": 18.09,
+          "word": " Rogen,"
+        },
+        {
+          "start": 18.53,
+          "end": 18.71,
+          "word": " who"
+        },
+        {
+          "start": 18.71,
+          "end": 18.97,
+          "word": " also"
+        },
+        {
+          "start": 18.97,
+          "end": 19.23,
+          "word": " helped"
+        },
+        {
+          "start": 19.23,
+          "end": 19.45,
+          "word": " write"
+        },
+        {
+          "start": 19.45,
+          "end": 19.59,
+          "word": " the"
+        },
+        {
+          "start": 19.59,
+          "end": 19.85,
+          "word": " movie."
+        },
+        {
+          "start": 20.41,
+          "end": 20.41,
+          "word": " It"
+        },
+        {
+          "start": 20.41,
+          "end": 20.55,
+          "word": " was"
+        },
+        {
+          "start": 20.55,
+          "end": 20.87,
+          "word": " directed"
+        },
+        {
+          "start": 20.87,
+          "end": 21.13,
+          "word": " by"
+        },
+        {
+          "start": 21.13,
+          "end": 21.37,
+          "word": " Mike"
+        },
+        {
+          "start": 21.37,
+          "end": 21.83,
+          "word": " Gondry."
+        }
+      ]
+    },
+    {
+      "start": 21.83,
+      "end": 28.89,
+      "text": " It stars other actors such as Jay Chow, Christoph Waltz, and Cameron Diaz.",
+      "words": [
+        {
+          "start": 21.83,
+          "end": 22.45,
+          "word": " It"
+        },
+        {
+          "start": 22.71,
+          "end": 23.31,
+          "word": " stars"
+        },
+        {
+          "start": 23.31,
+          "end": 23.51,
+          "word": " other"
+        },
+        {
+          "start": 23.51,
+          "end": 23.85,
+          "word": " actors"
+        },
+        {
+          "start": 23.85,
+          "end": 24.11,
+          "word": " such"
+        },
+        {
+          "start": 24.11,
+          "end": 24.55,
+          "word": " as"
+        },
+        {
+          "start": 24.55,
+          "end": 24.81,
+          "word": " Jay"
+        },
+        {
+          "start": 24.81,
+          "end": 25.25,
+          "word": " Chow,"
+        },
+        {
+          "start": 25.79,
+          "end": 26.63,
+          "word": " Christoph"
+        },
+        {
+          "start": 26.63,
+          "end": 27.71,
+          "word": " Waltz,"
+        },
+        {
+          "start": 27.85,
+          "end": 28.03,
+          "word": " and"
+        },
+        {
+          "start": 28.03,
+          "end": 28.49,
+          "word": " Cameron"
+        },
+        {
+          "start": 28.49,
+          "end": 28.89,
+          "word": " Diaz."
+        }
+      ]
+    },
+    {
+      "start": 31.11,
+      "end": 50.19,
+      "text": " The Green Hornet is a radio show, like The Lone Ranger, and The Green Hornet was essentially like Batman. He was a normal guy who used gadgets and his sidekick to help fight crime, usually the Nazis, but that's not what this movie was about.",
+      "words": [
+        {
+          "start": 31.11,
+          "end": 31.21,
+          "word": " The"
+        },
+        {
+          "start": 31.21,
+          "end": 31.41,
+          "word": " Green"
+        },
+        {
+          "start": 31.41,
+          "end": 31.89,
+          "word": " Hornet"
+        },
+        {
+          "start": 31.89,
+          "end": 32.13,
+          "word": " is"
+        },
+        {
+          "start": 32.61,
+          "end": 34.21,
+          "word": " a"
+        },
+        {
+          "start": 34.21,
+          "end": 34.43,
+          "word": " radio"
+        },
+        {
+          "start": 34.43,
+          "end": 35.65,
+          "word": " show,"
+        },
+        {
+          "start": 35.95,
+          "end": 35.95,
+          "word": " like"
+        },
+        {
+          "start": 35.95,
+          "end": 36.31,
+          "word": " The"
+        },
+        {
+          "start": 36.31,
+          "end": 36.47,
+          "word": " Lone"
+        },
+        {
+          "start": 36.47,
+          "end": 36.95,
+          "word": " Ranger,"
+        },
+        {
+          "start": 37.55,
+          "end": 37.69,
+          "word": " and"
+        },
+        {
+          "start": 37.69,
+          "end": 37.77,
+          "word": " The"
+        },
+        {
+          "start": 37.77,
+          "end": 37.91,
+          "word": " Green"
+        },
+        {
+          "start": 37.91,
+          "end": 38.13,
+          "word": " Hornet"
+        },
+        {
+          "start": 38.13,
+          "end": 38.27,
+          "word": " was"
+        },
+        {
+          "start": 38.27,
+          "end": 38.57,
+          "word": " essentially"
+        },
+        {
+          "start": 38.57,
+          "end": 38.81,
+          "word": " like"
+        },
+        {
+          "start": 38.81,
+          "end": 39.11,
+          "word": " Batman."
+        },
+        {
+          "start": 39.43,
+          "end": 39.51,
+          "word": " He"
+        },
+        {
+          "start": 39.51,
+          "end": 39.67,
+          "word": " was"
+        },
+        {
+          "start": 39.67,
+          "end": 40.23,
+          "word": " a"
+        },
+        {
+          "start": 40.23,
+          "end": 40.65,
+          "word": " normal"
+        },
+        {
+          "start": 40.65,
+          "end": 41.07,
+          "word": " guy"
+        },
+        {
+          "start": 41.07,
+          "end": 41.55,
+          "word": " who"
+        },
+        {
+          "start": 41.55,
+          "end": 42.11,
+          "word": " used"
+        },
+        {
+          "start": 42.11,
+          "end": 42.79,
+          "word": " gadgets"
+        },
+        {
+          "start": 42.79,
+          "end": 43.79,
+          "word": " and"
+        },
+        {
+          "start": 43.79,
+          "end": 43.97,
+          "word": " his"
+        },
+        {
+          "start": 43.97,
+          "end": 44.57,
+          "word": " sidekick"
+        },
+        {
+          "start": 44.57,
+          "end": 45.25,
+          "word": " to"
+        },
+        {
+          "start": 45.25,
+          "end": 46.09,
+          "word": " help"
+        },
+        {
+          "start": 46.09,
+          "end": 46.35,
+          "word": " fight"
+        },
+        {
+          "start": 46.35,
+          "end": 46.71,
+          "word": " crime,"
+        },
+        {
+          "start": 47.23,
+          "end": 47.41,
+          "word": " usually"
+        },
+        {
+          "start": 47.41,
+          "end": 47.61,
+          "word": " the"
+        },
+        {
+          "start": 47.61,
+          "end": 47.93,
+          "word": " Nazis,"
+        },
+        {
+          "start": 48.53,
+          "end": 48.81,
+          "word": " but"
+        },
+        {
+          "start": 48.81,
+          "end": 49.29,
+          "word": " that's"
+        },
+        {
+          "start": 49.29,
+          "end": 49.39,
+          "word": " not"
+        },
+        {
+          "start": 49.39,
+          "end": 49.53,
+          "word": " what"
+        },
+        {
+          "start": 49.53,
+          "end": 49.63,
+          "word": " this"
+        },
+        {
+          "start": 49.63,
+          "end": 49.77,
+          "word": " movie"
+        },
+        {
+          "start": 49.77,
+          "end": 49.93,
+          "word": " was"
+        },
+        {
+          "start": 49.93,
+          "end": 50.19,
+          "word": " about."
+        }
+      ]
+    },
+    {
+      "start": 52.09,
+      "end": 63.37,
+      "text": " The way The Green Hornet was done via Seth Rogen's point of view, it was a parody. The Green Hornet, his real name is Britt Reid, he doesn't know how to do much.",
+      "words": [
+        {
+          "start": 52.09,
+          "end": 52.55,
+          "word": " The"
+        },
+        {
+          "start": 52.55,
+          "end": 52.67,
+          "word": " way"
+        },
+        {
+          "start": 52.67,
+          "end": 52.79,
+          "word": " The"
+        },
+        {
+          "start": 52.79,
+          "end": 52.97,
+          "word": " Green"
+        },
+        {
+          "start": 52.97,
+          "end": 53.27,
+          "word": " Hornet"
+        },
+        {
+          "start": 53.27,
+          "end": 53.43,
+          "word": " was"
+        },
+        {
+          "start": 53.43,
+          "end": 53.81,
+          "word": " done"
+        },
+        {
+          "start": 53.81,
+          "end": 54.55,
+          "word": " via"
+        },
+        {
+          "start": 54.55,
+          "end": 54.79,
+          "word": " Seth"
+        },
+        {
+          "start": 54.79,
+          "end": 55.33,
+          "word": " Rogen's"
+        },
+        {
+          "start": 55.33,
+          "end": 55.51,
+          "word": " point"
+        },
+        {
+          "start": 55.51,
+          "end": 55.63,
+          "word": " of"
+        },
+        {
+          "start": 55.63,
+          "end": 55.89,
+          "word": " view,"
+        },
+        {
+          "start": 56.19,
+          "end": 56.45,
+          "word": " it"
+        },
+        {
+          "start": 56.45,
+          "end": 56.57,
+          "word": " was"
+        },
+        {
+          "start": 56.57,
+          "end": 56.77,
+          "word": " a"
+        },
+        {
+          "start": 56.77,
+          "end": 57.07,
+          "word": " parody."
+        },
+        {
+          "start": 57.61,
+          "end": 57.73,
+          "word": " The"
+        },
+        {
+          "start": 57.73,
+          "end": 57.95,
+          "word": " Green"
+        },
+        {
+          "start": 57.95,
+          "end": 58.47,
+          "word": " Hornet,"
+        },
+        {
+          "start": 59.15,
+          "end": 59.15,
+          "word": " his"
+        },
+        {
+          "start": 59.15,
+          "end": 59.99,
+          "word": " real"
+        },
+        {
+          "start": 59.99,
+          "end": 60.07,
+          "word": " name"
+        },
+        {
+          "start": 60.07,
+          "end": 60.21,
+          "word": " is"
+        },
+        {
+          "start": 60.21,
+          "end": 60.33,
+          "word": " Britt"
+        },
+        {
+          "start": 60.33,
+          "end": 60.57,
+          "word": " Reid,"
+        },
+        {
+          "start": 61.33,
+          "end": 61.55,
+          "word": " he"
+        },
+        {
+          "start": 61.55,
+          "end": 62.07,
+          "word": " doesn't"
+        },
+        {
+          "start": 62.07,
+          "end": 62.37,
+          "word": " know"
+        },
+        {
+          "start": 62.37,
+          "end": 62.57,
+          "word": " how"
+        },
+        {
+          "start": 62.57,
+          "end": 62.67,
+          "word": " to"
+        },
+        {
+          "start": 62.67,
+          "end": 62.95,
+          "word": " do"
+        },
+        {
+          "start": 62.95,
+          "end": 63.37,
+          "word": " much."
+        }
+      ]
+    },
+    {
+      "start": 63.83,
+      "end": 72.03,
+      "text": " When he fights, he just brawls. He has no science behind it. In fact, most of the work is done by Kato. Kato fights for The Green Hornet.",
+      "words": [
+        {
+          "start": 63.83,
+          "end": 64.11,
+          "word": " When"
+        },
+        {
+          "start": 64.11,
+          "end": 64.31,
+          "word": " he"
+        },
+        {
+          "start": 64.31,
+          "end": 64.51,
+          "word": " fights,"
+        },
+        {
+          "start": 64.71,
+          "end": 64.71,
+          "word": " he"
+        },
+        {
+          "start": 64.71,
+          "end": 64.85,
+          "word": " just"
+        },
+        {
+          "start": 64.85,
+          "end": 65.33,
+          "word": " brawls."
+        },
+        {
+          "start": 65.39,
+          "end": 65.45,
+          "word": " He"
+        },
+        {
+          "start": 65.45,
+          "end": 65.55,
+          "word": " has"
+        },
+        {
+          "start": 65.55,
+          "end": 65.83,
+          "word": " no"
+        },
+        {
+          "start": 65.83,
+          "end": 66.61,
+          "word": " science"
+        },
+        {
+          "start": 66.61,
+          "end": 67.05,
+          "word": " behind"
+        },
+        {
+          "start": 67.05,
+          "end": 67.33,
+          "word": " it."
+        },
+        {
+          "start": 67.65,
+          "end": 67.75,
+          "word": " In"
+        },
+        {
+          "start": 67.75,
+          "end": 67.93,
+          "word": " fact,"
+        },
+        {
+          "start": 67.97,
+          "end": 68.19,
+          "word": " most"
+        },
+        {
+          "start": 68.19,
+          "end": 68.33,
+          "word": " of"
+        },
+        {
+          "start": 68.33,
+          "end": 68.35,
+          "word": " the"
+        },
+        {
+          "start": 68.35,
+          "end": 68.49,
+          "word": " work"
+        },
+        {
+          "start": 68.49,
+          "end": 68.63,
+          "word": " is"
+        },
+        {
+          "start": 68.63,
+          "end": 68.83,
+          "word": " done"
+        },
+        {
+          "start": 68.83,
+          "end": 69.23,
+          "word": " by"
+        },
+        {
+          "start": 69.23,
+          "end": 69.43,
+          "word": " Kato."
+        },
+        {
+          "start": 69.69,
+          "end": 70.11,
+          "word": " Kato"
+        },
+        {
+          "start": 70.11,
+          "end": 71.01,
+          "word": " fights"
+        },
+        {
+          "start": 71.01,
+          "end": 71.33,
+          "word": " for"
+        },
+        {
+          "start": 71.33,
+          "end": 71.41,
+          "word": " The"
+        },
+        {
+          "start": 71.41,
+          "end": 71.59,
+          "word": " Green"
+        },
+        {
+          "start": 71.59,
+          "end": 72.03,
+          "word": " Hornet."
+        }
+      ]
+    },
+    {
+      "start": 72.03,
+      "end": 82.91,
+      "text": " He makes The Black Beauty, which is the car The Green Hornet uses. He makes gadgets for The Green Hornet, and he doesn't get that much recognition, but he helps out because he wants to fight for good.",
+      "words": [
+        {
+          "start": 72.03,
+          "end": 72.77,
+          "word": " He"
+        },
+        {
+          "start": 72.77,
+          "end": 73.71,
+          "word": " makes"
+        },
+        {
+          "start": 73.71,
+          "end": 74.21,
+          "word": " The"
+        },
+        {
+          "start": 74.21,
+          "end": 74.45,
+          "word": " Black"
+        },
+        {
+          "start": 74.45,
+          "end": 74.69,
+          "word": " Beauty,"
+        },
+        {
+          "start": 74.87,
+          "end": 74.97,
+          "word": " which"
+        },
+        {
+          "start": 74.97,
+          "end": 75.31,
+          "word": " is"
+        },
+        {
+          "start": 75.31,
+          "end": 75.85,
+          "word": " the"
+        },
+        {
+          "start": 75.85,
+          "end": 76.07,
+          "word": " car"
+        },
+        {
+          "start": 76.07,
+          "end": 76.21,
+          "word": " The"
+        },
+        {
+          "start": 76.21,
+          "end": 76.37,
+          "word": " Green"
+        },
+        {
+          "start": 76.37,
+          "end": 76.63,
+          "word": " Hornet"
+        },
+        {
+          "start": 76.63,
+          "end": 76.89,
+          "word": " uses."
+        },
+        {
+          "start": 77.09,
+          "end": 77.19,
+          "word": " He"
+        },
+        {
+          "start": 77.19,
+          "end": 77.41,
+          "word": " makes"
+        },
+        {
+          "start": 77.41,
+          "end": 77.75,
+          "word": " gadgets"
+        },
+        {
+          "start": 77.75,
+          "end": 77.95,
+          "word": " for"
+        },
+        {
+          "start": 77.95,
+          "end": 78.05,
+          "word": " The"
+        },
+        {
+          "start": 78.05,
+          "end": 78.25,
+          "word": " Green"
+        },
+        {
+          "start": 78.25,
+          "end": 78.67,
+          "word": " Hornet,"
+        },
+        {
+          "start": 78.77,
+          "end": 79.23,
+          "word": " and"
+        },
+        {
+          "start": 79.23,
+          "end": 79.39,
+          "word": " he"
+        },
+        {
+          "start": 79.39,
+          "end": 79.63,
+          "word": " doesn't"
+        },
+        {
+          "start": 79.63,
+          "end": 79.77,
+          "word": " get"
+        },
+        {
+          "start": 79.77,
+          "end": 79.91,
+          "word": " that"
+        },
+        {
+          "start": 79.91,
+          "end": 80.07,
+          "word": " much"
+        },
+        {
+          "start": 80.07,
+          "end": 80.47,
+          "word": " recognition,"
+        },
+        {
+          "start": 80.61,
+          "end": 80.83,
+          "word": " but"
+        },
+        {
+          "start": 80.83,
+          "end": 81.03,
+          "word": " he"
+        },
+        {
+          "start": 81.03,
+          "end": 81.21,
+          "word": " helps"
+        },
+        {
+          "start": 81.21,
+          "end": 81.51,
+          "word": " out"
+        },
+        {
+          "start": 81.51,
+          "end": 81.79,
+          "word": " because"
+        },
+        {
+          "start": 81.79,
+          "end": 81.97,
+          "word": " he"
+        },
+        {
+          "start": 81.97,
+          "end": 82.11,
+          "word": " wants"
+        },
+        {
+          "start": 82.11,
+          "end": 82.31,
+          "word": " to"
+        },
+        {
+          "start": 82.31,
+          "end": 82.45,
+          "word": " fight"
+        },
+        {
+          "start": 82.45,
+          "end": 82.67,
+          "word": " for"
+        },
+        {
+          "start": 82.67,
+          "end": 82.91,
+          "word": " good."
+        }
+      ]
+    },
+    {
+      "start": 85.46,
+      "end": 98.92,
+      "text": " The movie starts off as any superhero movie would. You have a character, you have the main character, who has a crisis happen in his life, and then he becomes a hero. That is what this movie is.",
+      "words": [
+        {
+          "start": 85.46,
+          "end": 85.9,
+          "word": " The"
+        },
+        {
+          "start": 85.9,
+          "end": 86.16,
+          "word": " movie"
+        },
+        {
+          "start": 86.16,
+          "end": 86.54,
+          "word": " starts"
+        },
+        {
+          "start": 86.54,
+          "end": 86.82,
+          "word": " off"
+        },
+        {
+          "start": 86.82,
+          "end": 87.0,
+          "word": " as"
+        },
+        {
+          "start": 87.0,
+          "end": 87.12,
+          "word": " any"
+        },
+        {
+          "start": 87.12,
+          "end": 87.4,
+          "word": " superhero"
+        },
+        {
+          "start": 87.4,
+          "end": 87.74,
+          "word": " movie"
+        },
+        {
+          "start": 87.74,
+          "end": 88.0,
+          "word": " would."
+        },
+        {
+          "start": 88.72,
+          "end": 89.0,
+          "word": " You"
+        },
+        {
+          "start": 89.0,
+          "end": 89.4,
+          "word": " have"
+        },
+        {
+          "start": 89.4,
+          "end": 90.0,
+          "word": " a"
+        },
+        {
+          "start": 90.0,
+          "end": 90.2,
+          "word": " character,"
+        },
+        {
+          "start": 91.22,
+          "end": 91.28,
+          "word": " you"
+        },
+        {
+          "start": 91.28,
+          "end": 91.36,
+          "word": " have"
+        },
+        {
+          "start": 91.36,
+          "end": 91.48,
+          "word": " the"
+        },
+        {
+          "start": 91.48,
+          "end": 91.62,
+          "word": " main"
+        },
+        {
+          "start": 91.62,
+          "end": 92.22,
+          "word": " character,"
+        },
+        {
+          "start": 92.58,
+          "end": 93.58,
+          "word": " who"
+        },
+        {
+          "start": 93.58,
+          "end": 94.32,
+          "word": " has"
+        },
+        {
+          "start": 94.32,
+          "end": 94.46,
+          "word": " a"
+        },
+        {
+          "start": 94.46,
+          "end": 94.86,
+          "word": " crisis"
+        },
+        {
+          "start": 94.86,
+          "end": 95.16,
+          "word": " happen"
+        },
+        {
+          "start": 95.16,
+          "end": 95.34,
+          "word": " in"
+        },
+        {
+          "start": 95.34,
+          "end": 95.44,
+          "word": " his"
+        },
+        {
+          "start": 95.44,
+          "end": 95.68,
+          "word": " life,"
+        },
+        {
+          "start": 95.82,
+          "end": 95.98,
+          "word": " and"
+        },
+        {
+          "start": 95.98,
+          "end": 96.12,
+          "word": " then"
+        },
+        {
+          "start": 96.12,
+          "end": 96.3,
+          "word": " he"
+        },
+        {
+          "start": 96.3,
+          "end": 96.62,
+          "word": " becomes"
+        },
+        {
+          "start": 96.62,
+          "end": 96.86,
+          "word": " a"
+        },
+        {
+          "start": 96.86,
+          "end": 97.14,
+          "word": " hero."
+        },
+        {
+          "start": 97.8,
+          "end": 97.9,
+          "word": " That"
+        },
+        {
+          "start": 97.9,
+          "end": 98.02,
+          "word": " is"
+        },
+        {
+          "start": 98.02,
+          "end": 98.14,
+          "word": " what"
+        },
+        {
+          "start": 98.14,
+          "end": 98.28,
+          "word": " this"
+        },
+        {
+          "start": 98.28,
+          "end": 98.44,
+          "word": " movie"
+        },
+        {
+          "start": 98.44,
+          "end": 98.92,
+          "word": " is."
+        }
+      ]
+    },
+    {
+      "start": 98.92,
+      "end": 109.9,
+      "text": " I thought the characters were well done. I loved how Seth Rogen played The Green Hornet, and I loved how Jay Chow played Kato. They did very good jobs.",
+      "words": [
+        {
+          "start": 98.92,
+          "end": 99.58,
+          "word": " I"
+        },
+        {
+          "start": 99.58,
+          "end": 100.76,
+          "word": " thought"
+        },
+        {
+          "start": 102.04,
+          "end": 102.18,
+          "word": " the"
+        },
+        {
+          "start": 102.18,
+          "end": 102.4,
+          "word": " characters"
+        },
+        {
+          "start": 102.4,
+          "end": 102.6,
+          "word": " were"
+        },
+        {
+          "start": 102.6,
+          "end": 102.74,
+          "word": " well"
+        },
+        {
+          "start": 102.74,
+          "end": 103.14,
+          "word": " done."
+        },
+        {
+          "start": 103.52,
+          "end": 103.6,
+          "word": " I"
+        },
+        {
+          "start": 103.6,
+          "end": 104.74,
+          "word": " loved"
+        },
+        {
+          "start": 104.74,
+          "end": 104.9,
+          "word": " how"
+        },
+        {
+          "start": 104.9,
+          "end": 105.1,
+          "word": " Seth"
+        },
+        {
+          "start": 105.1,
+          "end": 105.32,
+          "word": " Rogen"
+        },
+        {
+          "start": 105.32,
+          "end": 105.56,
+          "word": " played"
+        },
+        {
+          "start": 105.56,
+          "end": 105.68,
+          "word": " The"
+        },
+        {
+          "start": 105.68,
+          "end": 105.88,
+          "word": " Green"
+        },
+        {
+          "start": 105.88,
+          "end": 106.36,
+          "word": " Hornet,"
+        },
+        {
+          "start": 106.66,
+          "end": 106.76,
+          "word": " and"
+        },
+        {
+          "start": 106.76,
+          "end": 106.76,
+          "word": " I"
+        },
+        {
+          "start": 106.76,
+          "end": 107.0,
+          "word": " loved"
+        },
+        {
+          "start": 107.0,
+          "end": 107.22,
+          "word": " how"
+        },
+        {
+          "start": 107.22,
+          "end": 107.36,
+          "word": " Jay"
+        },
+        {
+          "start": 107.36,
+          "end": 107.6,
+          "word": " Chow"
+        },
+        {
+          "start": 107.6,
+          "end": 107.82,
+          "word": " played"
+        },
+        {
+          "start": 107.82,
+          "end": 108.24,
+          "word": " Kato."
+        },
+        {
+          "start": 108.8,
+          "end": 108.88,
+          "word": " They"
+        },
+        {
+          "start": 108.88,
+          "end": 109.02,
+          "word": " did"
+        },
+        {
+          "start": 109.02,
+          "end": 109.3,
+          "word": " very"
+        },
+        {
+          "start": 109.3,
+          "end": 109.48,
+          "word": " good"
+        },
+        {
+          "start": 109.48,
+          "end": 109.9,
+          "word": " jobs."
+        }
+      ]
+    },
+    {
+      "start": 110.5,
+      "end": 122.56,
+      "text": " Christoph Waltz plays the bad guy. He was the bad guy in Glorious Basterds. He just keeps doing that. The bad guy where he seems calm, but deep down he's an insane psychopath.",
+      "words": [
+        {
+          "start": 110.5,
+          "end": 110.92,
+          "word": " Christoph"
+        },
+        {
+          "start": 110.92,
+          "end": 111.26,
+          "word": " Waltz"
+        },
+        {
+          "start": 111.26,
+          "end": 111.56,
+          "word": " plays"
+        },
+        {
+          "start": 111.56,
+          "end": 112.32,
+          "word": " the"
+        },
+        {
+          "start": 112.32,
+          "end": 112.58,
+          "word": " bad"
+        },
+        {
+          "start": 112.58,
+          "end": 112.9,
+          "word": " guy."
+        },
+        {
+          "start": 112.98,
+          "end": 113.1,
+          "word": " He"
+        },
+        {
+          "start": 113.1,
+          "end": 113.18,
+          "word": " was"
+        },
+        {
+          "start": 113.18,
+          "end": 113.3,
+          "word": " the"
+        },
+        {
+          "start": 113.3,
+          "end": 113.5,
+          "word": " bad"
+        },
+        {
+          "start": 113.5,
+          "end": 113.74,
+          "word": " guy"
+        },
+        {
+          "start": 113.74,
+          "end": 113.84,
+          "word": " in"
+        },
+        {
+          "start": 113.84,
+          "end": 114.16,
+          "word": " Glorious"
+        },
+        {
+          "start": 114.16,
+          "end": 114.98,
+          "word": " Basterds."
+        },
+        {
+          "start": 116.08,
+          "end": 116.56,
+          "word": " He"
+        },
+        {
+          "start": 116.56,
+          "end": 116.7,
+          "word": " just"
+        },
+        {
+          "start": 116.7,
+          "end": 117.1,
+          "word": " keeps"
+        },
+        {
+          "start": 117.1,
+          "end": 117.42,
+          "word": " doing"
+        },
+        {
+          "start": 117.42,
+          "end": 117.68,
+          "word": " that."
+        },
+        {
+          "start": 117.92,
+          "end": 118.08,
+          "word": " The"
+        },
+        {
+          "start": 118.08,
+          "end": 118.3,
+          "word": " bad"
+        },
+        {
+          "start": 118.3,
+          "end": 118.5,
+          "word": " guy"
+        },
+        {
+          "start": 118.5,
+          "end": 118.68,
+          "word": " where"
+        },
+        {
+          "start": 118.68,
+          "end": 118.9,
+          "word": " he"
+        },
+        {
+          "start": 118.9,
+          "end": 119.9,
+          "word": " seems"
+        },
+        {
+          "start": 119.9,
+          "end": 120.42,
+          "word": " calm,"
+        },
+        {
+          "start": 120.66,
+          "end": 120.7,
+          "word": " but"
+        },
+        {
+          "start": 120.7,
+          "end": 120.88,
+          "word": " deep"
+        },
+        {
+          "start": 120.88,
+          "end": 121.26,
+          "word": " down"
+        },
+        {
+          "start": 121.26,
+          "end": 121.52,
+          "word": " he's"
+        },
+        {
+          "start": 121.52,
+          "end": 121.66,
+          "word": " an"
+        },
+        {
+          "start": 121.66,
+          "end": 122.08,
+          "word": " insane"
+        },
+        {
+          "start": 122.08,
+          "end": 122.56,
+          "word": " psychopath."
+        }
+      ]
+    },
+    {
+      "start": 123.46,
+      "end": 136.31,
+      "text": " He plays that well. He's a good villain. He also has a really cool gun. It's like a desert eagle, but it has two barrels to it. It's pretty scary looking. I wouldn't want that pointed at me.",
+      "words": [
+        {
+          "start": 123.46,
+          "end": 123.94,
+          "word": " He"
+        },
+        {
+          "start": 123.94,
+          "end": 124.42,
+          "word": " plays"
+        },
+        {
+          "start": 124.42,
+          "end": 124.78,
+          "word": " that"
+        },
+        {
+          "start": 124.78,
+          "end": 125.4,
+          "word": " well."
+        },
+        {
+          "start": 127.23,
+          "end": 127.71,
+          "word": " He's"
+        },
+        {
+          "start": 127.71,
+          "end": 127.79,
+          "word": " a"
+        },
+        {
+          "start": 127.79,
+          "end": 127.89,
+          "word": " good"
+        },
+        {
+          "start": 127.89,
+          "end": 128.15,
+          "word": " villain."
+        },
+        {
+          "start": 128.57,
+          "end": 128.59,
+          "word": " He"
+        },
+        {
+          "start": 128.59,
+          "end": 128.75,
+          "word": " also"
+        },
+        {
+          "start": 128.75,
+          "end": 128.91,
+          "word": " has"
+        },
+        {
+          "start": 128.91,
+          "end": 128.99,
+          "word": " a"
+        },
+        {
+          "start": 128.99,
+          "end": 129.15,
+          "word": " really"
+        },
+        {
+          "start": 129.15,
+          "end": 129.39,
+          "word": " cool"
+        },
+        {
+          "start": 129.39,
+          "end": 129.63,
+          "word": " gun."
+        },
+        {
+          "start": 130.23,
+          "end": 130.71,
+          "word": " It's"
+        },
+        {
+          "start": 130.71,
+          "end": 130.85,
+          "word": " like"
+        },
+        {
+          "start": 130.85,
+          "end": 130.97,
+          "word": " a"
+        },
+        {
+          "start": 130.97,
+          "end": 131.21,
+          "word": " desert"
+        },
+        {
+          "start": 131.21,
+          "end": 131.45,
+          "word": " eagle,"
+        },
+        {
+          "start": 131.63,
+          "end": 131.65,
+          "word": " but"
+        },
+        {
+          "start": 131.65,
+          "end": 131.71,
+          "word": " it"
+        },
+        {
+          "start": 131.71,
+          "end": 131.85,
+          "word": " has"
+        },
+        {
+          "start": 131.85,
+          "end": 132.25,
+          "word": " two"
+        },
+        {
+          "start": 132.25,
+          "end": 132.63,
+          "word": " barrels"
+        },
+        {
+          "start": 132.63,
+          "end": 132.91,
+          "word": " to"
+        },
+        {
+          "start": 132.91,
+          "end": 133.15,
+          "word": " it."
+        },
+        {
+          "start": 133.39,
+          "end": 133.51,
+          "word": " It's"
+        },
+        {
+          "start": 133.51,
+          "end": 133.87,
+          "word": " pretty"
+        },
+        {
+          "start": 133.87,
+          "end": 134.73,
+          "word": " scary"
+        },
+        {
+          "start": 134.73,
+          "end": 135.01,
+          "word": " looking."
+        },
+        {
+          "start": 135.19,
+          "end": 135.19,
+          "word": " I"
+        },
+        {
+          "start": 135.19,
+          "end": 135.33,
+          "word": " wouldn't"
+        },
+        {
+          "start": 135.33,
+          "end": 135.53,
+          "word": " want"
+        },
+        {
+          "start": 135.53,
+          "end": 135.67,
+          "word": " that"
+        },
+        {
+          "start": 135.67,
+          "end": 135.89,
+          "word": " pointed"
+        },
+        {
+          "start": 135.89,
+          "end": 136.07,
+          "word": " at"
+        },
+        {
+          "start": 136.07,
+          "end": 136.31,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 137.15,
+      "end": 152.19,
+      "text": " Cameron Diaz plays the love interest. She's a very, very, very bright journalist. Britt Reid hires her on her good looks, but he finds out there's actually a lot more to her than he initially thought.",
+      "words": [
+        {
+          "start": 137.15,
+          "end": 137.63,
+          "word": " Cameron"
+        },
+        {
+          "start": 137.63,
+          "end": 137.97,
+          "word": " Diaz"
+        },
+        {
+          "start": 137.97,
+          "end": 138.21,
+          "word": " plays"
+        },
+        {
+          "start": 138.21,
+          "end": 138.47,
+          "word": " the"
+        },
+        {
+          "start": 138.47,
+          "end": 138.65,
+          "word": " love"
+        },
+        {
+          "start": 138.65,
+          "end": 139.15,
+          "word": " interest."
+        },
+        {
+          "start": 140.57,
+          "end": 140.69,
+          "word": " She's"
+        },
+        {
+          "start": 140.69,
+          "end": 140.83,
+          "word": " a"
+        },
+        {
+          "start": 140.83,
+          "end": 141.23,
+          "word": " very,"
+        },
+        {
+          "start": 141.23,
+          "end": 141.71,
+          "word": " very,"
+        },
+        {
+          "start": 141.71,
+          "end": 142.27,
+          "word": " very"
+        },
+        {
+          "start": 142.27,
+          "end": 142.77,
+          "word": " bright"
+        },
+        {
+          "start": 142.77,
+          "end": 144.79,
+          "word": " journalist."
+        },
+        {
+          "start": 145.65,
+          "end": 146.13,
+          "word": " Britt"
+        },
+        {
+          "start": 146.13,
+          "end": 146.31,
+          "word": " Reid"
+        },
+        {
+          "start": 146.31,
+          "end": 146.69,
+          "word": " hires"
+        },
+        {
+          "start": 146.69,
+          "end": 146.93,
+          "word": " her"
+        },
+        {
+          "start": 146.93,
+          "end": 147.19,
+          "word": " on"
+        },
+        {
+          "start": 147.19,
+          "end": 147.35,
+          "word": " her"
+        },
+        {
+          "start": 147.35,
+          "end": 147.51,
+          "word": " good"
+        },
+        {
+          "start": 147.51,
+          "end": 147.99,
+          "word": " looks,"
+        },
+        {
+          "start": 148.75,
+          "end": 148.99,
+          "word": " but"
+        },
+        {
+          "start": 148.99,
+          "end": 149.11,
+          "word": " he"
+        },
+        {
+          "start": 149.11,
+          "end": 149.33,
+          "word": " finds"
+        },
+        {
+          "start": 149.33,
+          "end": 149.51,
+          "word": " out"
+        },
+        {
+          "start": 149.51,
+          "end": 149.75,
+          "word": " there's"
+        },
+        {
+          "start": 149.75,
+          "end": 150.19,
+          "word": " actually"
+        },
+        {
+          "start": 150.19,
+          "end": 150.51,
+          "word": " a"
+        },
+        {
+          "start": 150.51,
+          "end": 150.73,
+          "word": " lot"
+        },
+        {
+          "start": 150.73,
+          "end": 150.97,
+          "word": " more"
+        },
+        {
+          "start": 150.97,
+          "end": 151.09,
+          "word": " to"
+        },
+        {
+          "start": 151.09,
+          "end": 151.21,
+          "word": " her"
+        },
+        {
+          "start": 151.21,
+          "end": 151.35,
+          "word": " than"
+        },
+        {
+          "start": 151.35,
+          "end": 151.49,
+          "word": " he"
+        },
+        {
+          "start": 151.49,
+          "end": 151.75,
+          "word": " initially"
+        },
+        {
+          "start": 151.75,
+          "end": 152.19,
+          "word": " thought."
+        }
+      ]
+    },
+    {
+      "start": 152.45,
+      "end": 160.23,
+      "text": " He's always trying to get her to fall in love with him, but of course she doesn't want anything to do with him. Who would? Seth Rogen.",
+      "words": [
+        {
+          "start": 152.45,
+          "end": 152.63,
+          "word": " He's"
+        },
+        {
+          "start": 152.63,
+          "end": 152.83,
+          "word": " always"
+        },
+        {
+          "start": 152.83,
+          "end": 153.21,
+          "word": " trying"
+        },
+        {
+          "start": 153.21,
+          "end": 153.71,
+          "word": " to"
+        },
+        {
+          "start": 153.71,
+          "end": 154.99,
+          "word": " get"
+        },
+        {
+          "start": 154.99,
+          "end": 155.57,
+          "word": " her"
+        },
+        {
+          "start": 155.57,
+          "end": 155.69,
+          "word": " to"
+        },
+        {
+          "start": 155.69,
+          "end": 155.83,
+          "word": " fall"
+        },
+        {
+          "start": 155.83,
+          "end": 155.97,
+          "word": " in"
+        },
+        {
+          "start": 155.97,
+          "end": 156.05,
+          "word": " love"
+        },
+        {
+          "start": 156.05,
+          "end": 156.25,
+          "word": " with"
+        },
+        {
+          "start": 156.25,
+          "end": 156.37,
+          "word": " him,"
+        },
+        {
+          "start": 156.47,
+          "end": 156.65,
+          "word": " but"
+        },
+        {
+          "start": 156.65,
+          "end": 156.89,
+          "word": " of"
+        },
+        {
+          "start": 156.89,
+          "end": 157.05,
+          "word": " course"
+        },
+        {
+          "start": 157.05,
+          "end": 157.27,
+          "word": " she"
+        },
+        {
+          "start": 157.27,
+          "end": 157.59,
+          "word": " doesn't"
+        },
+        {
+          "start": 157.59,
+          "end": 157.71,
+          "word": " want"
+        },
+        {
+          "start": 157.71,
+          "end": 157.87,
+          "word": " anything"
+        },
+        {
+          "start": 157.87,
+          "end": 158.05,
+          "word": " to"
+        },
+        {
+          "start": 158.05,
+          "end": 158.11,
+          "word": " do"
+        },
+        {
+          "start": 158.11,
+          "end": 158.25,
+          "word": " with"
+        },
+        {
+          "start": 158.25,
+          "end": 158.39,
+          "word": " him."
+        },
+        {
+          "start": 159.17,
+          "end": 159.31,
+          "word": " Who"
+        },
+        {
+          "start": 159.31,
+          "end": 159.55,
+          "word": " would?"
+        },
+        {
+          "start": 159.69,
+          "end": 159.93,
+          "word": " Seth"
+        },
+        {
+          "start": 159.93,
+          "end": 160.23,
+          "word": " Rogen."
+        }
+      ]
+    },
+    {
+      "start": 162.04,
+      "end": 174.25,
+      "text": " Anyway, I digress. Like I said, I thought the movie was great. The action they do have is really well done. They did a good job with the car. They did a good job with the fight scenes.",
+      "words": [
+        {
+          "start": 162.04,
+          "end": 162.52,
+          "word": " Anyway,"
+        },
+        {
+          "start": 162.52,
+          "end": 163.0,
+          "word": " I"
+        },
+        {
+          "start": 163.0,
+          "end": 163.46,
+          "word": " digress."
+        },
+        {
+          "start": 165.37,
+          "end": 165.49,
+          "word": " Like"
+        },
+        {
+          "start": 165.49,
+          "end": 165.67,
+          "word": " I"
+        },
+        {
+          "start": 165.67,
+          "end": 165.91,
+          "word": " said,"
+        },
+        {
+          "start": 166.57,
+          "end": 166.69,
+          "word": " I"
+        },
+        {
+          "start": 166.69,
+          "end": 166.87,
+          "word": " thought"
+        },
+        {
+          "start": 166.87,
+          "end": 167.03,
+          "word": " the"
+        },
+        {
+          "start": 167.03,
+          "end": 167.11,
+          "word": " movie"
+        },
+        {
+          "start": 167.11,
+          "end": 167.37,
+          "word": " was"
+        },
+        {
+          "start": 167.37,
+          "end": 167.63,
+          "word": " great."
+        },
+        {
+          "start": 168.29,
+          "end": 168.45,
+          "word": " The"
+        },
+        {
+          "start": 168.45,
+          "end": 168.73,
+          "word": " action"
+        },
+        {
+          "start": 168.73,
+          "end": 168.91,
+          "word": " they"
+        },
+        {
+          "start": 168.91,
+          "end": 169.03,
+          "word": " do"
+        },
+        {
+          "start": 169.03,
+          "end": 169.37,
+          "word": " have"
+        },
+        {
+          "start": 169.37,
+          "end": 169.59,
+          "word": " is"
+        },
+        {
+          "start": 169.59,
+          "end": 169.89,
+          "word": " really"
+        },
+        {
+          "start": 169.89,
+          "end": 170.13,
+          "word": " well"
+        },
+        {
+          "start": 170.13,
+          "end": 170.51,
+          "word": " done."
+        },
+        {
+          "start": 171.33,
+          "end": 171.35,
+          "word": " They"
+        },
+        {
+          "start": 171.35,
+          "end": 171.51,
+          "word": " did"
+        },
+        {
+          "start": 171.51,
+          "end": 171.61,
+          "word": " a"
+        },
+        {
+          "start": 171.61,
+          "end": 171.67,
+          "word": " good"
+        },
+        {
+          "start": 171.67,
+          "end": 171.87,
+          "word": " job"
+        },
+        {
+          "start": 171.87,
+          "end": 171.99,
+          "word": " with"
+        },
+        {
+          "start": 171.99,
+          "end": 172.15,
+          "word": " the"
+        },
+        {
+          "start": 172.15,
+          "end": 172.45,
+          "word": " car."
+        },
+        {
+          "start": 172.77,
+          "end": 172.79,
+          "word": " They"
+        },
+        {
+          "start": 172.79,
+          "end": 172.97,
+          "word": " did"
+        },
+        {
+          "start": 172.97,
+          "end": 173.03,
+          "word": " a"
+        },
+        {
+          "start": 173.03,
+          "end": 173.17,
+          "word": " good"
+        },
+        {
+          "start": 173.17,
+          "end": 173.37,
+          "word": " job"
+        },
+        {
+          "start": 173.37,
+          "end": 173.51,
+          "word": " with"
+        },
+        {
+          "start": 173.51,
+          "end": 173.65,
+          "word": " the"
+        },
+        {
+          "start": 173.65,
+          "end": 173.79,
+          "word": " fight"
+        },
+        {
+          "start": 173.79,
+          "end": 174.25,
+          "word": " scenes."
+        }
+      ]
+    },
+    {
+      "start": 174.83,
+      "end": 187.16,
+      "text": " They had the Sherlock Holmes fight scenes where they slow down, they go through everything. I think if you're not a Seth Rogen fan, you definitely will not like this movie.",
+      "words": [
+        {
+          "start": 174.83,
+          "end": 174.91,
+          "word": " They"
+        },
+        {
+          "start": 174.91,
+          "end": 175.01,
+          "word": " had"
+        },
+        {
+          "start": 175.01,
+          "end": 175.05,
+          "word": " the"
+        },
+        {
+          "start": 175.05,
+          "end": 175.37,
+          "word": " Sherlock"
+        },
+        {
+          "start": 175.37,
+          "end": 175.71,
+          "word": " Holmes"
+        },
+        {
+          "start": 175.71,
+          "end": 175.97,
+          "word": " fight"
+        },
+        {
+          "start": 175.97,
+          "end": 176.25,
+          "word": " scenes"
+        },
+        {
+          "start": 176.25,
+          "end": 176.53,
+          "word": " where"
+        },
+        {
+          "start": 176.53,
+          "end": 177.11,
+          "word": " they"
+        },
+        {
+          "start": 177.11,
+          "end": 177.39,
+          "word": " slow"
+        },
+        {
+          "start": 177.39,
+          "end": 177.81,
+          "word": " down,"
+        },
+        {
+          "start": 177.93,
+          "end": 178.03,
+          "word": " they"
+        },
+        {
+          "start": 178.03,
+          "end": 178.21,
+          "word": " go"
+        },
+        {
+          "start": 178.21,
+          "end": 178.41,
+          "word": " through"
+        },
+        {
+          "start": 178.41,
+          "end": 178.83,
+          "word": " everything."
+        },
+        {
+          "start": 180.05,
+          "end": 180.05,
+          "word": " I"
+        },
+        {
+          "start": 180.05,
+          "end": 180.67,
+          "word": " think"
+        },
+        {
+          "start": 181.56,
+          "end": 183.78,
+          "word": " if"
+        },
+        {
+          "start": 183.78,
+          "end": 183.98,
+          "word": " you're"
+        },
+        {
+          "start": 183.98,
+          "end": 184.14,
+          "word": " not"
+        },
+        {
+          "start": 184.14,
+          "end": 184.32,
+          "word": " a"
+        },
+        {
+          "start": 184.32,
+          "end": 184.46,
+          "word": " Seth"
+        },
+        {
+          "start": 184.46,
+          "end": 184.78,
+          "word": " Rogen"
+        },
+        {
+          "start": 184.78,
+          "end": 185.1,
+          "word": " fan,"
+        },
+        {
+          "start": 185.3,
+          "end": 185.34,
+          "word": " you"
+        },
+        {
+          "start": 185.34,
+          "end": 185.8,
+          "word": " definitely"
+        },
+        {
+          "start": 185.8,
+          "end": 186.2,
+          "word": " will"
+        },
+        {
+          "start": 186.2,
+          "end": 186.48,
+          "word": " not"
+        },
+        {
+          "start": 186.48,
+          "end": 186.72,
+          "word": " like"
+        },
+        {
+          "start": 186.72,
+          "end": 186.92,
+          "word": " this"
+        },
+        {
+          "start": 186.92,
+          "end": 187.16,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 187.16,
+      "end": 199.68,
+      "text": " It has a lot of his humor in it. I thought it was funny, like I like Pineapple Express, and I like Knocked Up, and he was a four year old virgin. I don't think that matters, but I like that too.",
+      "words": [
+        {
+          "start": 187.16,
+          "end": 187.44,
+          "word": " It"
+        },
+        {
+          "start": 187.44,
+          "end": 188.04,
+          "word": " has"
+        },
+        {
+          "start": 188.04,
+          "end": 188.18,
+          "word": " a"
+        },
+        {
+          "start": 188.18,
+          "end": 188.34,
+          "word": " lot"
+        },
+        {
+          "start": 188.34,
+          "end": 188.48,
+          "word": " of"
+        },
+        {
+          "start": 188.48,
+          "end": 188.68,
+          "word": " his"
+        },
+        {
+          "start": 188.68,
+          "end": 189.06,
+          "word": " humor"
+        },
+        {
+          "start": 189.06,
+          "end": 189.32,
+          "word": " in"
+        },
+        {
+          "start": 189.32,
+          "end": 189.64,
+          "word": " it."
+        },
+        {
+          "start": 190.02,
+          "end": 190.04,
+          "word": " I"
+        },
+        {
+          "start": 190.04,
+          "end": 190.84,
+          "word": " thought"
+        },
+        {
+          "start": 190.84,
+          "end": 191.0,
+          "word": " it"
+        },
+        {
+          "start": 191.0,
+          "end": 191.06,
+          "word": " was"
+        },
+        {
+          "start": 191.06,
+          "end": 191.26,
+          "word": " funny,"
+        },
+        {
+          "start": 191.44,
+          "end": 191.48,
+          "word": " like"
+        },
+        {
+          "start": 191.48,
+          "end": 191.6,
+          "word": " I"
+        },
+        {
+          "start": 191.6,
+          "end": 191.84,
+          "word": " like"
+        },
+        {
+          "start": 191.84,
+          "end": 192.32,
+          "word": " Pineapple"
+        },
+        {
+          "start": 192.32,
+          "end": 192.56,
+          "word": " Express,"
+        },
+        {
+          "start": 193.36,
+          "end": 193.44,
+          "word": " and"
+        },
+        {
+          "start": 193.44,
+          "end": 193.54,
+          "word": " I"
+        },
+        {
+          "start": 193.54,
+          "end": 193.8,
+          "word": " like"
+        },
+        {
+          "start": 193.8,
+          "end": 194.1,
+          "word": " Knocked"
+        },
+        {
+          "start": 194.1,
+          "end": 194.5,
+          "word": " Up,"
+        },
+        {
+          "start": 194.56,
+          "end": 194.88,
+          "word": " and"
+        },
+        {
+          "start": 194.88,
+          "end": 195.26,
+          "word": " he"
+        },
+        {
+          "start": 195.26,
+          "end": 196.42,
+          "word": " was"
+        },
+        {
+          "start": 196.42,
+          "end": 196.52,
+          "word": " a"
+        },
+        {
+          "start": 196.52,
+          "end": 196.68,
+          "word": " four"
+        },
+        {
+          "start": 196.68,
+          "end": 196.74,
+          "word": " year"
+        },
+        {
+          "start": 196.74,
+          "end": 196.84,
+          "word": " old"
+        },
+        {
+          "start": 196.84,
+          "end": 197.14,
+          "word": " virgin."
+        },
+        {
+          "start": 197.36,
+          "end": 197.4,
+          "word": " I"
+        },
+        {
+          "start": 197.4,
+          "end": 197.64,
+          "word": " don't"
+        },
+        {
+          "start": 197.64,
+          "end": 197.78,
+          "word": " think"
+        },
+        {
+          "start": 197.78,
+          "end": 197.9,
+          "word": " that"
+        },
+        {
+          "start": 197.9,
+          "end": 198.2,
+          "word": " matters,"
+        },
+        {
+          "start": 198.3,
+          "end": 198.46,
+          "word": " but"
+        },
+        {
+          "start": 198.46,
+          "end": 199.02,
+          "word": " I"
+        },
+        {
+          "start": 199.02,
+          "end": 199.18,
+          "word": " like"
+        },
+        {
+          "start": 199.18,
+          "end": 199.38,
+          "word": " that"
+        },
+        {
+          "start": 199.38,
+          "end": 199.68,
+          "word": " too."
+        }
+      ]
+    },
+    {
+      "start": 200.08,
+      "end": 211.78,
+      "text": " So honestly, if you don't like Seth Rogen, you're not going to like this movie. I guess it's a family movie. There's not too much bad stuff that goes on in it.",
+      "words": [
+        {
+          "start": 200.08,
+          "end": 200.08,
+          "word": " So"
+        },
+        {
+          "start": 200.08,
+          "end": 200.5,
+          "word": " honestly,"
+        },
+        {
+          "start": 200.58,
+          "end": 200.72,
+          "word": " if"
+        },
+        {
+          "start": 200.72,
+          "end": 200.8,
+          "word": " you"
+        },
+        {
+          "start": 200.8,
+          "end": 200.96,
+          "word": " don't"
+        },
+        {
+          "start": 200.96,
+          "end": 201.18,
+          "word": " like"
+        },
+        {
+          "start": 201.18,
+          "end": 201.4,
+          "word": " Seth"
+        },
+        {
+          "start": 201.4,
+          "end": 201.78,
+          "word": " Rogen,"
+        },
+        {
+          "start": 202.52,
+          "end": 202.88,
+          "word": " you're"
+        },
+        {
+          "start": 202.88,
+          "end": 203.06,
+          "word": " not"
+        },
+        {
+          "start": 203.06,
+          "end": 203.22,
+          "word": " going"
+        },
+        {
+          "start": 203.22,
+          "end": 203.3,
+          "word": " to"
+        },
+        {
+          "start": 203.3,
+          "end": 203.46,
+          "word": " like"
+        },
+        {
+          "start": 203.46,
+          "end": 203.64,
+          "word": " this"
+        },
+        {
+          "start": 203.64,
+          "end": 203.98,
+          "word": " movie."
+        },
+        {
+          "start": 206.4,
+          "end": 206.4,
+          "word": " I"
+        },
+        {
+          "start": 206.4,
+          "end": 206.86,
+          "word": " guess"
+        },
+        {
+          "start": 206.86,
+          "end": 207.62,
+          "word": " it's"
+        },
+        {
+          "start": 207.62,
+          "end": 207.72,
+          "word": " a"
+        },
+        {
+          "start": 207.72,
+          "end": 207.92,
+          "word": " family"
+        },
+        {
+          "start": 207.92,
+          "end": 208.14,
+          "word": " movie."
+        },
+        {
+          "start": 208.22,
+          "end": 208.36,
+          "word": " There's"
+        },
+        {
+          "start": 208.36,
+          "end": 208.56,
+          "word": " not"
+        },
+        {
+          "start": 208.56,
+          "end": 209.18,
+          "word": " too"
+        },
+        {
+          "start": 209.18,
+          "end": 209.58,
+          "word": " much"
+        },
+        {
+          "start": 209.58,
+          "end": 210.16,
+          "word": " bad"
+        },
+        {
+          "start": 210.16,
+          "end": 210.54,
+          "word": " stuff"
+        },
+        {
+          "start": 210.54,
+          "end": 210.78,
+          "word": " that"
+        },
+        {
+          "start": 210.78,
+          "end": 210.96,
+          "word": " goes"
+        },
+        {
+          "start": 210.96,
+          "end": 211.26,
+          "word": " on"
+        },
+        {
+          "start": 211.26,
+          "end": 211.4,
+          "word": " in"
+        },
+        {
+          "start": 211.4,
+          "end": 211.78,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 211.78,
+      "end": 223.86,
+      "text": " But then again, I'm not a parent. There's some light cursing scenes, and the violence they do have isn't that bad. But yeah, if you wanted to bring your kids to go see it, I recommend it. It's not going to be detrimental to them.",
+      "words": [
+        {
+          "start": 211.78,
+          "end": 212.18,
+          "word": " But"
+        },
+        {
+          "start": 212.18,
+          "end": 212.32,
+          "word": " then"
+        },
+        {
+          "start": 212.32,
+          "end": 212.46,
+          "word": " again,"
+        },
+        {
+          "start": 212.54,
+          "end": 212.56,
+          "word": " I'm"
+        },
+        {
+          "start": 212.56,
+          "end": 212.68,
+          "word": " not"
+        },
+        {
+          "start": 212.68,
+          "end": 212.8,
+          "word": " a"
+        },
+        {
+          "start": 212.8,
+          "end": 213.12,
+          "word": " parent."
+        },
+        {
+          "start": 213.86,
+          "end": 214.02,
+          "word": " There's"
+        },
+        {
+          "start": 214.02,
+          "end": 214.4,
+          "word": " some"
+        },
+        {
+          "start": 214.4,
+          "end": 214.74,
+          "word": " light"
+        },
+        {
+          "start": 214.74,
+          "end": 215.0,
+          "word": " cursing"
+        },
+        {
+          "start": 215.0,
+          "end": 215.56,
+          "word": " scenes,"
+        },
+        {
+          "start": 216.1,
+          "end": 216.26,
+          "word": " and"
+        },
+        {
+          "start": 216.26,
+          "end": 216.38,
+          "word": " the"
+        },
+        {
+          "start": 216.38,
+          "end": 216.56,
+          "word": " violence"
+        },
+        {
+          "start": 216.56,
+          "end": 216.74,
+          "word": " they"
+        },
+        {
+          "start": 216.74,
+          "end": 216.84,
+          "word": " do"
+        },
+        {
+          "start": 216.84,
+          "end": 217.02,
+          "word": " have"
+        },
+        {
+          "start": 217.02,
+          "end": 217.28,
+          "word": " isn't"
+        },
+        {
+          "start": 217.28,
+          "end": 217.44,
+          "word": " that"
+        },
+        {
+          "start": 217.44,
+          "end": 217.82,
+          "word": " bad."
+        },
+        {
+          "start": 218.26,
+          "end": 218.26,
+          "word": " But"
+        },
+        {
+          "start": 218.26,
+          "end": 218.64,
+          "word": " yeah,"
+        },
+        {
+          "start": 218.72,
+          "end": 218.86,
+          "word": " if"
+        },
+        {
+          "start": 218.86,
+          "end": 218.96,
+          "word": " you"
+        },
+        {
+          "start": 218.96,
+          "end": 219.14,
+          "word": " wanted"
+        },
+        {
+          "start": 219.14,
+          "end": 219.26,
+          "word": " to"
+        },
+        {
+          "start": 219.26,
+          "end": 219.36,
+          "word": " bring"
+        },
+        {
+          "start": 219.36,
+          "end": 219.5,
+          "word": " your"
+        },
+        {
+          "start": 219.5,
+          "end": 219.68,
+          "word": " kids"
+        },
+        {
+          "start": 219.68,
+          "end": 219.84,
+          "word": " to"
+        },
+        {
+          "start": 219.84,
+          "end": 219.94,
+          "word": " go"
+        },
+        {
+          "start": 219.94,
+          "end": 220.16,
+          "word": " see"
+        },
+        {
+          "start": 220.16,
+          "end": 220.28,
+          "word": " it,"
+        },
+        {
+          "start": 220.4,
+          "end": 220.52,
+          "word": " I"
+        },
+        {
+          "start": 220.52,
+          "end": 220.86,
+          "word": " recommend"
+        },
+        {
+          "start": 220.86,
+          "end": 221.2,
+          "word": " it."
+        },
+        {
+          "start": 221.36,
+          "end": 221.36,
+          "word": " It's"
+        },
+        {
+          "start": 221.36,
+          "end": 221.94,
+          "word": " not"
+        },
+        {
+          "start": 221.94,
+          "end": 222.04,
+          "word": " going"
+        },
+        {
+          "start": 222.04,
+          "end": 222.38,
+          "word": " to"
+        },
+        {
+          "start": 222.38,
+          "end": 222.72,
+          "word": " be"
+        },
+        {
+          "start": 222.72,
+          "end": 223.02,
+          "word": " detrimental"
+        },
+        {
+          "start": 223.02,
+          "end": 223.38,
+          "word": " to"
+        },
+        {
+          "start": 223.38,
+          "end": 223.86,
+          "word": " them."
+        }
+      ]
+    },
+    {
+      "start": 224.24,
+      "end": 237.8,
+      "text": " I'm trying to think what else. I think I've hit upon everything. Honestly, I guess I'm a bit prejudiced because I like superheroes in all the superhero movies. I was very excited for this. This was like the major thing I wanted to see.",
+      "words": [
+        {
+          "start": 224.24,
+          "end": 224.28,
+          "word": " I'm"
+        },
+        {
+          "start": 224.28,
+          "end": 225.06,
+          "word": " trying"
+        },
+        {
+          "start": 225.28,
+          "end": 225.3,
+          "word": " to"
+        },
+        {
+          "start": 225.3,
+          "end": 225.52,
+          "word": " think"
+        },
+        {
+          "start": 225.52,
+          "end": 225.68,
+          "word": " what"
+        },
+        {
+          "start": 225.68,
+          "end": 225.94,
+          "word": " else."
+        },
+        {
+          "start": 226.8,
+          "end": 226.96,
+          "word": " I"
+        },
+        {
+          "start": 226.96,
+          "end": 227.08,
+          "word": " think"
+        },
+        {
+          "start": 227.08,
+          "end": 227.24,
+          "word": " I've"
+        },
+        {
+          "start": 227.24,
+          "end": 227.36,
+          "word": " hit"
+        },
+        {
+          "start": 227.36,
+          "end": 227.6,
+          "word": " upon"
+        },
+        {
+          "start": 227.6,
+          "end": 228.0,
+          "word": " everything."
+        },
+        {
+          "start": 228.76,
+          "end": 229.12,
+          "word": " Honestly,"
+        },
+        {
+          "start": 229.22,
+          "end": 229.28,
+          "word": " I"
+        },
+        {
+          "start": 229.28,
+          "end": 229.4,
+          "word": " guess"
+        },
+        {
+          "start": 229.4,
+          "end": 229.54,
+          "word": " I'm"
+        },
+        {
+          "start": 229.54,
+          "end": 229.62,
+          "word": " a"
+        },
+        {
+          "start": 229.62,
+          "end": 229.72,
+          "word": " bit"
+        },
+        {
+          "start": 229.72,
+          "end": 230.1,
+          "word": " prejudiced"
+        },
+        {
+          "start": 230.1,
+          "end": 230.48,
+          "word": " because"
+        },
+        {
+          "start": 230.48,
+          "end": 231.2,
+          "word": " I"
+        },
+        {
+          "start": 231.2,
+          "end": 231.4,
+          "word": " like"
+        },
+        {
+          "start": 231.4,
+          "end": 231.8,
+          "word": " superheroes"
+        },
+        {
+          "start": 231.8,
+          "end": 232.22,
+          "word": " in"
+        },
+        {
+          "start": 232.22,
+          "end": 232.5,
+          "word": " all"
+        },
+        {
+          "start": 232.5,
+          "end": 232.66,
+          "word": " the"
+        },
+        {
+          "start": 232.66,
+          "end": 232.88,
+          "word": " superhero"
+        },
+        {
+          "start": 232.88,
+          "end": 233.28,
+          "word": " movies."
+        },
+        {
+          "start": 233.9,
+          "end": 234.06,
+          "word": " I"
+        },
+        {
+          "start": 234.06,
+          "end": 234.16,
+          "word": " was"
+        },
+        {
+          "start": 234.16,
+          "end": 234.36,
+          "word": " very"
+        },
+        {
+          "start": 234.36,
+          "end": 234.64,
+          "word": " excited"
+        },
+        {
+          "start": 234.64,
+          "end": 234.9,
+          "word": " for"
+        },
+        {
+          "start": 234.9,
+          "end": 235.16,
+          "word": " this."
+        },
+        {
+          "start": 235.52,
+          "end": 235.66,
+          "word": " This"
+        },
+        {
+          "start": 235.66,
+          "end": 235.82,
+          "word": " was"
+        },
+        {
+          "start": 235.82,
+          "end": 236.1,
+          "word": " like"
+        },
+        {
+          "start": 236.1,
+          "end": 236.62,
+          "word": " the"
+        },
+        {
+          "start": 236.62,
+          "end": 236.86,
+          "word": " major"
+        },
+        {
+          "start": 236.86,
+          "end": 237.04,
+          "word": " thing"
+        },
+        {
+          "start": 237.04,
+          "end": 237.16,
+          "word": " I"
+        },
+        {
+          "start": 237.16,
+          "end": 237.32,
+          "word": " wanted"
+        },
+        {
+          "start": 237.32,
+          "end": 237.5,
+          "word": " to"
+        },
+        {
+          "start": 237.5,
+          "end": 237.8,
+          "word": " see."
+        }
+      ]
+    },
+    {
+      "start": 238.96,
+      "end": 256.16,
+      "text": " So yeah, I guess if I had to put a label on it. Good movie. A lot of action. We'll keep you entertained. Where you're not filled with action, there's comedy to help ease it along. It has a pretty good story, I think.",
+      "words": [
+        {
+          "start": 238.96,
+          "end": 239.32,
+          "word": " So"
+        },
+        {
+          "start": 239.32,
+          "end": 239.68,
+          "word": " yeah,"
+        },
+        {
+          "start": 240.0,
+          "end": 240.2,
+          "word": " I"
+        },
+        {
+          "start": 240.2,
+          "end": 241.24,
+          "word": " guess"
+        },
+        {
+          "start": 242.14,
+          "end": 242.28,
+          "word": " if"
+        },
+        {
+          "start": 242.28,
+          "end": 242.3,
+          "word": " I"
+        },
+        {
+          "start": 242.3,
+          "end": 242.38,
+          "word": " had"
+        },
+        {
+          "start": 242.38,
+          "end": 242.38,
+          "word": " to"
+        },
+        {
+          "start": 242.38,
+          "end": 242.5,
+          "word": " put"
+        },
+        {
+          "start": 242.5,
+          "end": 242.58,
+          "word": " a"
+        },
+        {
+          "start": 242.58,
+          "end": 242.74,
+          "word": " label"
+        },
+        {
+          "start": 242.74,
+          "end": 243.02,
+          "word": " on"
+        },
+        {
+          "start": 243.02,
+          "end": 243.38,
+          "word": " it."
+        },
+        {
+          "start": 244.56,
+          "end": 244.78,
+          "word": " Good"
+        },
+        {
+          "start": 244.78,
+          "end": 245.12,
+          "word": " movie."
+        },
+        {
+          "start": 245.92,
+          "end": 246.06,
+          "word": " A"
+        },
+        {
+          "start": 246.06,
+          "end": 246.16,
+          "word": " lot"
+        },
+        {
+          "start": 246.16,
+          "end": 246.3,
+          "word": " of"
+        },
+        {
+          "start": 246.3,
+          "end": 246.72,
+          "word": " action."
+        },
+        {
+          "start": 248.42,
+          "end": 248.78,
+          "word": " We'll"
+        },
+        {
+          "start": 248.78,
+          "end": 248.9,
+          "word": " keep"
+        },
+        {
+          "start": 248.9,
+          "end": 249.06,
+          "word": " you"
+        },
+        {
+          "start": 249.06,
+          "end": 249.52,
+          "word": " entertained."
+        },
+        {
+          "start": 250.66,
+          "end": 250.94,
+          "word": " Where"
+        },
+        {
+          "start": 250.94,
+          "end": 251.14,
+          "word": " you're"
+        },
+        {
+          "start": 251.14,
+          "end": 251.3,
+          "word": " not"
+        },
+        {
+          "start": 251.3,
+          "end": 251.58,
+          "word": " filled"
+        },
+        {
+          "start": 251.58,
+          "end": 251.76,
+          "word": " with"
+        },
+        {
+          "start": 251.76,
+          "end": 252.06,
+          "word": " action,"
+        },
+        {
+          "start": 252.16,
+          "end": 252.28,
+          "word": " there's"
+        },
+        {
+          "start": 252.28,
+          "end": 252.62,
+          "word": " comedy"
+        },
+        {
+          "start": 252.62,
+          "end": 252.84,
+          "word": " to"
+        },
+        {
+          "start": 252.84,
+          "end": 253.02,
+          "word": " help"
+        },
+        {
+          "start": 253.02,
+          "end": 253.28,
+          "word": " ease"
+        },
+        {
+          "start": 253.28,
+          "end": 253.42,
+          "word": " it"
+        },
+        {
+          "start": 253.42,
+          "end": 253.84,
+          "word": " along."
+        },
+        {
+          "start": 254.34,
+          "end": 254.34,
+          "word": " It"
+        },
+        {
+          "start": 254.34,
+          "end": 254.82,
+          "word": " has"
+        },
+        {
+          "start": 254.82,
+          "end": 255.0,
+          "word": " a"
+        },
+        {
+          "start": 255.0,
+          "end": 255.26,
+          "word": " pretty"
+        },
+        {
+          "start": 255.26,
+          "end": 255.42,
+          "word": " good"
+        },
+        {
+          "start": 255.42,
+          "end": 255.68,
+          "word": " story,"
+        },
+        {
+          "start": 255.78,
+          "end": 255.88,
+          "word": " I"
+        },
+        {
+          "start": 255.88,
+          "end": 256.16,
+          "word": " think."
+        }
+      ]
+    },
+    {
+      "start": 258.53,
+      "end": 266.51,
+      "text": " Well, I guess that's pretty much it. Honestly, you're either going to go see this movie because you've wanted to for a while, or you're not going to see it because you honestly could care less.",
+      "words": [
+        {
+          "start": 258.53,
+          "end": 258.81,
+          "word": " Well,"
+        },
+        {
+          "start": 258.99,
+          "end": 259.07,
+          "word": " I"
+        },
+        {
+          "start": 259.07,
+          "end": 259.49,
+          "word": " guess"
+        },
+        {
+          "start": 259.49,
+          "end": 259.65,
+          "word": " that's"
+        },
+        {
+          "start": 259.65,
+          "end": 259.73,
+          "word": " pretty"
+        },
+        {
+          "start": 259.73,
+          "end": 259.89,
+          "word": " much"
+        },
+        {
+          "start": 259.89,
+          "end": 259.97,
+          "word": " it."
+        },
+        {
+          "start": 260.45,
+          "end": 260.79,
+          "word": " Honestly,"
+        },
+        {
+          "start": 261.03,
+          "end": 261.21,
+          "word": " you're"
+        },
+        {
+          "start": 261.21,
+          "end": 261.35,
+          "word": " either"
+        },
+        {
+          "start": 261.35,
+          "end": 261.51,
+          "word": " going"
+        },
+        {
+          "start": 261.51,
+          "end": 261.55,
+          "word": " to"
+        },
+        {
+          "start": 261.55,
+          "end": 261.69,
+          "word": " go"
+        },
+        {
+          "start": 261.69,
+          "end": 261.83,
+          "word": " see"
+        },
+        {
+          "start": 261.83,
+          "end": 261.95,
+          "word": " this"
+        },
+        {
+          "start": 261.95,
+          "end": 262.11,
+          "word": " movie"
+        },
+        {
+          "start": 262.11,
+          "end": 262.37,
+          "word": " because"
+        },
+        {
+          "start": 262.37,
+          "end": 263.15,
+          "word": " you've"
+        },
+        {
+          "start": 263.15,
+          "end": 263.33,
+          "word": " wanted"
+        },
+        {
+          "start": 263.33,
+          "end": 263.51,
+          "word": " to"
+        },
+        {
+          "start": 263.51,
+          "end": 263.65,
+          "word": " for"
+        },
+        {
+          "start": 263.65,
+          "end": 263.77,
+          "word": " a"
+        },
+        {
+          "start": 263.77,
+          "end": 263.95,
+          "word": " while,"
+        },
+        {
+          "start": 264.35,
+          "end": 264.55,
+          "word": " or"
+        },
+        {
+          "start": 264.55,
+          "end": 264.71,
+          "word": " you're"
+        },
+        {
+          "start": 264.71,
+          "end": 264.91,
+          "word": " not"
+        },
+        {
+          "start": 264.91,
+          "end": 265.07,
+          "word": " going"
+        },
+        {
+          "start": 265.07,
+          "end": 265.11,
+          "word": " to"
+        },
+        {
+          "start": 265.11,
+          "end": 265.25,
+          "word": " see"
+        },
+        {
+          "start": 265.25,
+          "end": 265.39,
+          "word": " it"
+        },
+        {
+          "start": 265.39,
+          "end": 265.49,
+          "word": " because"
+        },
+        {
+          "start": 265.49,
+          "end": 265.63,
+          "word": " you"
+        },
+        {
+          "start": 265.63,
+          "end": 265.81,
+          "word": " honestly"
+        },
+        {
+          "start": 265.81,
+          "end": 266.03,
+          "word": " could"
+        },
+        {
+          "start": 266.03,
+          "end": 266.19,
+          "word": " care"
+        },
+        {
+          "start": 266.19,
+          "end": 266.51,
+          "word": " less."
+        }
+      ]
+    },
+    {
+      "start": 267.65,
+      "end": 275.37,
+      "text": " But don't believe everything that Rotten Tomatoes or the media says about it. If you really like superheroes, go see the movie. I guarantee you'll like it.",
+      "words": [
+        {
+          "start": 267.65,
+          "end": 268.09,
+          "word": " But"
+        },
+        {
+          "start": 268.09,
+          "end": 268.53,
+          "word": " don't"
+        },
+        {
+          "start": 268.53,
+          "end": 268.81,
+          "word": " believe"
+        },
+        {
+          "start": 268.81,
+          "end": 269.29,
+          "word": " everything"
+        },
+        {
+          "start": 269.29,
+          "end": 269.49,
+          "word": " that"
+        },
+        {
+          "start": 269.49,
+          "end": 269.69,
+          "word": " Rotten"
+        },
+        {
+          "start": 269.69,
+          "end": 270.19,
+          "word": " Tomatoes"
+        },
+        {
+          "start": 270.19,
+          "end": 270.51,
+          "word": " or"
+        },
+        {
+          "start": 270.51,
+          "end": 270.69,
+          "word": " the"
+        },
+        {
+          "start": 270.69,
+          "end": 270.95,
+          "word": " media"
+        },
+        {
+          "start": 270.95,
+          "end": 271.27,
+          "word": " says"
+        },
+        {
+          "start": 271.27,
+          "end": 271.57,
+          "word": " about"
+        },
+        {
+          "start": 271.57,
+          "end": 271.71,
+          "word": " it."
+        },
+        {
+          "start": 271.77,
+          "end": 271.89,
+          "word": " If"
+        },
+        {
+          "start": 271.89,
+          "end": 272.01,
+          "word": " you"
+        },
+        {
+          "start": 272.01,
+          "end": 272.25,
+          "word": " really"
+        },
+        {
+          "start": 272.25,
+          "end": 272.47,
+          "word": " like"
+        },
+        {
+          "start": 272.47,
+          "end": 272.85,
+          "word": " superheroes,"
+        },
+        {
+          "start": 273.13,
+          "end": 273.17,
+          "word": " go"
+        },
+        {
+          "start": 273.17,
+          "end": 273.33,
+          "word": " see"
+        },
+        {
+          "start": 273.33,
+          "end": 273.45,
+          "word": " the"
+        },
+        {
+          "start": 273.45,
+          "end": 273.63,
+          "word": " movie."
+        },
+        {
+          "start": 273.93,
+          "end": 274.05,
+          "word": " I"
+        },
+        {
+          "start": 274.05,
+          "end": 274.27,
+          "word": " guarantee"
+        },
+        {
+          "start": 274.27,
+          "end": 274.57,
+          "word": " you'll"
+        },
+        {
+          "start": 274.57,
+          "end": 274.73,
+          "word": " like"
+        },
+        {
+          "start": 274.73,
+          "end": 275.37,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 276.67,
+      "end": 287.85,
+      "text": " If I had to rate this movie at a 5, I'd give it a 4. But that's just me being me.",
+      "words": [
+        {
+          "start": 276.67,
+          "end": 277.11,
+          "word": " If"
+        },
+        {
+          "start": 277.11,
+          "end": 277.21,
+          "word": " I"
+        },
+        {
+          "start": 277.21,
+          "end": 277.35,
+          "word": " had"
+        },
+        {
+          "start": 277.35,
+          "end": 277.49,
+          "word": " to"
+        },
+        {
+          "start": 277.49,
+          "end": 277.61,
+          "word": " rate"
+        },
+        {
+          "start": 277.61,
+          "end": 277.79,
+          "word": " this"
+        },
+        {
+          "start": 277.79,
+          "end": 278.01,
+          "word": " movie"
+        },
+        {
+          "start": 278.01,
+          "end": 278.19,
+          "word": " at"
+        },
+        {
+          "start": 278.19,
+          "end": 278.33,
+          "word": " a"
+        },
+        {
+          "start": 278.33,
+          "end": 278.79,
+          "word": " 5,"
+        },
+        {
+          "start": 280.01,
+          "end": 280.25,
+          "word": " I'd"
+        },
+        {
+          "start": 280.25,
+          "end": 280.35,
+          "word": " give"
+        },
+        {
+          "start": 280.35,
+          "end": 280.55,
+          "word": " it"
+        },
+        {
+          "start": 280.55,
+          "end": 280.81,
+          "word": " a"
+        },
+        {
+          "start": 282.41,
+          "end": 283.95,
+          "word": " 4."
+        },
+        {
+          "start": 286.29,
+          "end": 286.59,
+          "word": " But"
+        },
+        {
+          "start": 286.59,
+          "end": 287.19,
+          "word": " that's"
+        },
+        {
+          "start": 287.19,
+          "end": 287.27,
+          "word": " just"
+        },
+        {
+          "start": 287.27,
+          "end": 287.43,
+          "word": " me"
+        },
+        {
+          "start": 287.43,
+          "end": 287.61,
+          "word": " being"
+        },
+        {
+          "start": 287.61,
+          "end": 287.85,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 287.85,
+      "end": 302.14,
+      "text": " So I hope you liked my review. I hope to have another one soon. Please subscribe. And I guess that's it. I hope you all had a great holiday and I'm back.",
+      "words": [
+        {
+          "start": 287.85,
+          "end": 288.77,
+          "word": " So"
+        },
+        {
+          "start": 288.77,
+          "end": 289.09,
+          "word": " I"
+        },
+        {
+          "start": 289.09,
+          "end": 289.63,
+          "word": " hope"
+        },
+        {
+          "start": 289.63,
+          "end": 289.77,
+          "word": " you"
+        },
+        {
+          "start": 289.77,
+          "end": 290.03,
+          "word": " liked"
+        },
+        {
+          "start": 290.03,
+          "end": 290.47,
+          "word": " my"
+        },
+        {
+          "start": 290.47,
+          "end": 290.89,
+          "word": " review."
+        },
+        {
+          "start": 292.58,
+          "end": 292.92,
+          "word": " I"
+        },
+        {
+          "start": 292.92,
+          "end": 293.08,
+          "word": " hope"
+        },
+        {
+          "start": 293.08,
+          "end": 293.22,
+          "word": " to"
+        },
+        {
+          "start": 293.22,
+          "end": 293.36,
+          "word": " have"
+        },
+        {
+          "start": 293.36,
+          "end": 293.54,
+          "word": " another"
+        },
+        {
+          "start": 293.54,
+          "end": 293.8,
+          "word": " one"
+        },
+        {
+          "start": 293.8,
+          "end": 294.18,
+          "word": " soon."
+        },
+        {
+          "start": 295.34,
+          "end": 295.62,
+          "word": " Please"
+        },
+        {
+          "start": 295.62,
+          "end": 296.16,
+          "word": " subscribe."
+        },
+        {
+          "start": 297.24,
+          "end": 297.3,
+          "word": " And"
+        },
+        {
+          "start": 297.3,
+          "end": 299.16,
+          "word": " I"
+        },
+        {
+          "start": 299.22,
+          "end": 299.36,
+          "word": " guess"
+        },
+        {
+          "start": 299.36,
+          "end": 299.54,
+          "word": " that's"
+        },
+        {
+          "start": 299.54,
+          "end": 299.64,
+          "word": " it."
+        },
+        {
+          "start": 299.7,
+          "end": 299.7,
+          "word": " I"
+        },
+        {
+          "start": 299.7,
+          "end": 299.8,
+          "word": " hope"
+        },
+        {
+          "start": 299.8,
+          "end": 299.9,
+          "word": " you"
+        },
+        {
+          "start": 299.9,
+          "end": 300.0,
+          "word": " all"
+        },
+        {
+          "start": 300.0,
+          "end": 300.14,
+          "word": " had"
+        },
+        {
+          "start": 300.14,
+          "end": 300.3,
+          "word": " a"
+        },
+        {
+          "start": 300.3,
+          "end": 300.54,
+          "word": " great"
+        },
+        {
+          "start": 300.54,
+          "end": 300.94,
+          "word": " holiday"
+        },
+        {
+          "start": 300.94,
+          "end": 301.26,
+          "word": " and"
+        },
+        {
+          "start": 301.26,
+          "end": 301.92,
+          "word": " I'm"
+        },
+        {
+          "start": 301.92,
+          "end": 302.14,
+          "word": " back."
+        }
+      ]
+    }
+  ]
+}

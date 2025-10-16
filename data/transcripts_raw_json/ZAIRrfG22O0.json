@@ -1,0 +1,997 @@
+{
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 6.31,
+      "text": " Hey everybody, hope you're having a great day, and here's a quick review on Zookeeper.",
+      "words": [
+        {
+          "start": 0.43,
+          "end": 0.93,
+          "word": " Hey"
+        },
+        {
+          "start": 0.93,
+          "end": 1.19,
+          "word": " everybody,"
+        },
+        {
+          "start": 1.39,
+          "end": 1.41,
+          "word": " hope"
+        },
+        {
+          "start": 1.41,
+          "end": 1.55,
+          "word": " you're"
+        },
+        {
+          "start": 1.55,
+          "end": 1.69,
+          "word": " having"
+        },
+        {
+          "start": 1.69,
+          "end": 1.85,
+          "word": " a"
+        },
+        {
+          "start": 1.85,
+          "end": 2.03,
+          "word": " great"
+        },
+        {
+          "start": 2.03,
+          "end": 2.43,
+          "word": " day,"
+        },
+        {
+          "start": 2.61,
+          "end": 2.67,
+          "word": " and"
+        },
+        {
+          "start": 2.67,
+          "end": 3.07,
+          "word": " here's"
+        },
+        {
+          "start": 3.07,
+          "end": 3.33,
+          "word": " a"
+        },
+        {
+          "start": 3.33,
+          "end": 3.59,
+          "word": " quick"
+        },
+        {
+          "start": 3.59,
+          "end": 4.13,
+          "word": " review"
+        },
+        {
+          "start": 4.13,
+          "end": 5.31,
+          "word": " on"
+        },
+        {
+          "start": 5.31,
+          "end": 6.31,
+          "word": " Zookeeper."
+        }
+      ]
+    },
+    {
+      "start": 7.13,
+      "end": 9.31,
+      "text": " Save your money, wait till it comes out on rental.",
+      "words": [
+        {
+          "start": 7.13,
+          "end": 7.29,
+          "word": " Save"
+        },
+        {
+          "start": 7.29,
+          "end": 7.55,
+          "word": " your"
+        },
+        {
+          "start": 7.55,
+          "end": 7.91,
+          "word": " money,"
+        },
+        {
+          "start": 8.11,
+          "end": 8.29,
+          "word": " wait"
+        },
+        {
+          "start": 8.29,
+          "end": 8.47,
+          "word": " till"
+        },
+        {
+          "start": 8.47,
+          "end": 8.53,
+          "word": " it"
+        },
+        {
+          "start": 8.53,
+          "end": 8.71,
+          "word": " comes"
+        },
+        {
+          "start": 8.71,
+          "end": 8.91,
+          "word": " out"
+        },
+        {
+          "start": 8.91,
+          "end": 9.03,
+          "word": " on"
+        },
+        {
+          "start": 9.03,
+          "end": 9.31,
+          "word": " rental."
+        }
+      ]
+    },
+    {
+      "start": 9.55,
+      "end": 12.07,
+      "text": " For me, it was a waste of time.",
+      "words": [
+        {
+          "start": 9.55,
+          "end": 9.67,
+          "word": " For"
+        },
+        {
+          "start": 9.67,
+          "end": 9.93,
+          "word": " me,"
+        },
+        {
+          "start": 10.61,
+          "end": 10.93,
+          "word": " it"
+        },
+        {
+          "start": 10.93,
+          "end": 11.21,
+          "word": " was"
+        },
+        {
+          "start": 11.21,
+          "end": 11.49,
+          "word": " a"
+        },
+        {
+          "start": 11.49,
+          "end": 11.67,
+          "word": " waste"
+        },
+        {
+          "start": 11.67,
+          "end": 11.87,
+          "word": " of"
+        },
+        {
+          "start": 11.87,
+          "end": 12.07,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 12.17,
+      "end": 15.79,
+      "text": " There were a few funny lines, but after an hour I just said enough.",
+      "words": [
+        {
+          "start": 12.17,
+          "end": 12.23,
+          "word": " There"
+        },
+        {
+          "start": 12.23,
+          "end": 12.49,
+          "word": " were"
+        },
+        {
+          "start": 12.49,
+          "end": 12.69,
+          "word": " a"
+        },
+        {
+          "start": 12.69,
+          "end": 12.91,
+          "word": " few"
+        },
+        {
+          "start": 12.91,
+          "end": 13.23,
+          "word": " funny"
+        },
+        {
+          "start": 13.23,
+          "end": 13.71,
+          "word": " lines,"
+        },
+        {
+          "start": 14.05,
+          "end": 14.19,
+          "word": " but"
+        },
+        {
+          "start": 14.19,
+          "end": 14.45,
+          "word": " after"
+        },
+        {
+          "start": 14.45,
+          "end": 14.65,
+          "word": " an"
+        },
+        {
+          "start": 14.65,
+          "end": 14.77,
+          "word": " hour"
+        },
+        {
+          "start": 14.77,
+          "end": 14.99,
+          "word": " I"
+        },
+        {
+          "start": 14.99,
+          "end": 15.17,
+          "word": " just"
+        },
+        {
+          "start": 15.17,
+          "end": 15.41,
+          "word": " said"
+        },
+        {
+          "start": 15.41,
+          "end": 15.79,
+          "word": " enough."
+        }
+      ]
+    },
+    {
+      "start": 16.23,
+      "end": 21.23,
+      "text": " I had to walk out, the movie theater gave me credit to a future movie so that I appreciated.",
+      "words": [
+        {
+          "start": 16.23,
+          "end": 16.37,
+          "word": " I"
+        },
+        {
+          "start": 16.37,
+          "end": 16.51,
+          "word": " had"
+        },
+        {
+          "start": 16.51,
+          "end": 16.61,
+          "word": " to"
+        },
+        {
+          "start": 16.61,
+          "end": 16.81,
+          "word": " walk"
+        },
+        {
+          "start": 16.81,
+          "end": 17.15,
+          "word": " out,"
+        },
+        {
+          "start": 17.55,
+          "end": 17.67,
+          "word": " the"
+        },
+        {
+          "start": 17.67,
+          "end": 17.91,
+          "word": " movie"
+        },
+        {
+          "start": 17.91,
+          "end": 18.15,
+          "word": " theater"
+        },
+        {
+          "start": 18.15,
+          "end": 18.45,
+          "word": " gave"
+        },
+        {
+          "start": 18.45,
+          "end": 18.61,
+          "word": " me"
+        },
+        {
+          "start": 18.61,
+          "end": 18.93,
+          "word": " credit"
+        },
+        {
+          "start": 18.93,
+          "end": 19.41,
+          "word": " to"
+        },
+        {
+          "start": 19.41,
+          "end": 19.49,
+          "word": " a"
+        },
+        {
+          "start": 19.49,
+          "end": 19.73,
+          "word": " future"
+        },
+        {
+          "start": 19.73,
+          "end": 19.97,
+          "word": " movie"
+        },
+        {
+          "start": 19.97,
+          "end": 20.17,
+          "word": " so"
+        },
+        {
+          "start": 20.17,
+          "end": 20.41,
+          "word": " that"
+        },
+        {
+          "start": 20.41,
+          "end": 20.73,
+          "word": " I"
+        },
+        {
+          "start": 20.73,
+          "end": 21.23,
+          "word": " appreciated."
+        }
+      ]
+    },
+    {
+      "start": 21.85,
+      "end": 26.99,
+      "text": " If you like the kind of movie that Ben Stiller did, A Night at the Museum, then you probably",
+      "words": [
+        {
+          "start": 21.85,
+          "end": 22.25,
+          "word": " If"
+        },
+        {
+          "start": 22.25,
+          "end": 22.51,
+          "word": " you"
+        },
+        {
+          "start": 22.51,
+          "end": 22.95,
+          "word": " like"
+        },
+        {
+          "start": 22.95,
+          "end": 23.35,
+          "word": " the"
+        },
+        {
+          "start": 23.35,
+          "end": 23.61,
+          "word": " kind"
+        },
+        {
+          "start": 23.61,
+          "end": 23.85,
+          "word": " of"
+        },
+        {
+          "start": 23.85,
+          "end": 23.85,
+          "word": " movie"
+        },
+        {
+          "start": 23.85,
+          "end": 24.05,
+          "word": " that"
+        },
+        {
+          "start": 24.05,
+          "end": 24.23,
+          "word": " Ben"
+        },
+        {
+          "start": 24.23,
+          "end": 24.51,
+          "word": " Stiller"
+        },
+        {
+          "start": 24.51,
+          "end": 24.95,
+          "word": " did,"
+        },
+        {
+          "start": 25.39,
+          "end": 25.39,
+          "word": " A"
+        },
+        {
+          "start": 25.39,
+          "end": 25.47,
+          "word": " Night"
+        },
+        {
+          "start": 25.47,
+          "end": 25.65,
+          "word": " at"
+        },
+        {
+          "start": 25.65,
+          "end": 25.75,
+          "word": " the"
+        },
+        {
+          "start": 25.75,
+          "end": 26.03,
+          "word": " Museum,"
+        },
+        {
+          "start": 26.45,
+          "end": 26.67,
+          "word": " then"
+        },
+        {
+          "start": 26.67,
+          "end": 26.79,
+          "word": " you"
+        },
+        {
+          "start": 26.79,
+          "end": 26.99,
+          "word": " probably"
+        }
+      ]
+    },
+    {
+      "start": 26.99,
+      "end": 28.95,
+      "text": " would like something like this.",
+      "words": [
+        {
+          "start": 26.99,
+          "end": 27.25,
+          "word": " would"
+        },
+        {
+          "start": 27.25,
+          "end": 27.41,
+          "word": " like"
+        },
+        {
+          "start": 27.41,
+          "end": 27.75,
+          "word": " something"
+        },
+        {
+          "start": 27.75,
+          "end": 28.61,
+          "word": " like"
+        },
+        {
+          "start": 28.61,
+          "end": 28.95,
+          "word": " this."
+        }
+      ]
+    },
+    {
+      "start": 28.95,
+      "end": 32.57,
+      "text": " Yes, if you didn't like that type of movie, then I really don't think you're going to",
+      "words": [
+        {
+          "start": 28.95,
+          "end": 29.09,
+          "word": " Yes,"
+        },
+        {
+          "start": 29.45,
+          "end": 29.65,
+          "word": " if"
+        },
+        {
+          "start": 29.65,
+          "end": 29.75,
+          "word": " you"
+        },
+        {
+          "start": 29.75,
+          "end": 29.87,
+          "word": " didn't"
+        },
+        {
+          "start": 29.87,
+          "end": 30.15,
+          "word": " like"
+        },
+        {
+          "start": 30.15,
+          "end": 30.55,
+          "word": " that"
+        },
+        {
+          "start": 30.55,
+          "end": 30.73,
+          "word": " type"
+        },
+        {
+          "start": 30.73,
+          "end": 30.89,
+          "word": " of"
+        },
+        {
+          "start": 30.89,
+          "end": 31.13,
+          "word": " movie,"
+        },
+        {
+          "start": 31.53,
+          "end": 31.63,
+          "word": " then"
+        },
+        {
+          "start": 31.63,
+          "end": 31.77,
+          "word": " I"
+        },
+        {
+          "start": 31.77,
+          "end": 31.91,
+          "word": " really"
+        },
+        {
+          "start": 31.91,
+          "end": 32.09,
+          "word": " don't"
+        },
+        {
+          "start": 32.09,
+          "end": 32.23,
+          "word": " think"
+        },
+        {
+          "start": 32.23,
+          "end": 32.39,
+          "word": " you're"
+        },
+        {
+          "start": 32.39,
+          "end": 32.47,
+          "word": " going"
+        },
+        {
+          "start": 32.47,
+          "end": 32.57,
+          "word": " to"
+        }
+      ]
+    },
+    {
+      "start": 32.57,
+      "end": 37.31,
+      "text": " like this at all, and you're better off saving your money and maybe renting it when it comes",
+      "words": [
+        {
+          "start": 32.57,
+          "end": 32.71,
+          "word": " like"
+        },
+        {
+          "start": 32.71,
+          "end": 32.89,
+          "word": " this"
+        },
+        {
+          "start": 32.89,
+          "end": 33.01,
+          "word": " at"
+        },
+        {
+          "start": 33.01,
+          "end": 33.25,
+          "word": " all,"
+        },
+        {
+          "start": 33.59,
+          "end": 33.77,
+          "word": " and"
+        },
+        {
+          "start": 33.77,
+          "end": 33.93,
+          "word": " you're"
+        },
+        {
+          "start": 33.93,
+          "end": 34.03,
+          "word": " better"
+        },
+        {
+          "start": 34.03,
+          "end": 34.21,
+          "word": " off"
+        },
+        {
+          "start": 34.21,
+          "end": 34.39,
+          "word": " saving"
+        },
+        {
+          "start": 34.39,
+          "end": 34.63,
+          "word": " your"
+        },
+        {
+          "start": 34.63,
+          "end": 34.89,
+          "word": " money"
+        },
+        {
+          "start": 34.89,
+          "end": 35.85,
+          "word": " and"
+        },
+        {
+          "start": 35.85,
+          "end": 36.01,
+          "word": " maybe"
+        },
+        {
+          "start": 36.01,
+          "end": 36.37,
+          "word": " renting"
+        },
+        {
+          "start": 36.37,
+          "end": 36.69,
+          "word": " it"
+        },
+        {
+          "start": 36.69,
+          "end": 36.91,
+          "word": " when"
+        },
+        {
+          "start": 36.91,
+          "end": 37.07,
+          "word": " it"
+        },
+        {
+          "start": 37.07,
+          "end": 37.31,
+          "word": " comes"
+        }
+      ]
+    },
+    {
+      "start": 37.31,
+      "end": 38.37,
+      "text": " out on video.",
+      "words": [
+        {
+          "start": 37.31,
+          "end": 37.63,
+          "word": " out"
+        },
+        {
+          "start": 37.63,
+          "end": 38.03,
+          "word": " on"
+        },
+        {
+          "start": 38.03,
+          "end": 38.37,
+          "word": " video."
+        }
+      ]
+    },
+    {
+      "start": 39.07,
+      "end": 42.47,
+      "text": " Anyway, I know this is a short review, but I just wanted to give my honest opinion.",
+      "words": [
+        {
+          "start": 39.07,
+          "end": 39.33,
+          "word": " Anyway,"
+        },
+        {
+          "start": 39.49,
+          "end": 39.59,
+          "word": " I"
+        },
+        {
+          "start": 39.59,
+          "end": 39.61,
+          "word": " know"
+        },
+        {
+          "start": 39.61,
+          "end": 39.77,
+          "word": " this"
+        },
+        {
+          "start": 39.77,
+          "end": 39.87,
+          "word": " is"
+        },
+        {
+          "start": 39.87,
+          "end": 40.01,
+          "word": " a"
+        },
+        {
+          "start": 40.01,
+          "end": 40.15,
+          "word": " short"
+        },
+        {
+          "start": 40.15,
+          "end": 40.43,
+          "word": " review,"
+        },
+        {
+          "start": 40.57,
+          "end": 40.65,
+          "word": " but"
+        },
+        {
+          "start": 40.65,
+          "end": 40.71,
+          "word": " I"
+        },
+        {
+          "start": 40.71,
+          "end": 40.81,
+          "word": " just"
+        },
+        {
+          "start": 40.81,
+          "end": 40.97,
+          "word": " wanted"
+        },
+        {
+          "start": 40.97,
+          "end": 41.09,
+          "word": " to"
+        },
+        {
+          "start": 41.09,
+          "end": 41.27,
+          "word": " give"
+        },
+        {
+          "start": 41.27,
+          "end": 41.87,
+          "word": " my"
+        },
+        {
+          "start": 41.87,
+          "end": 42.11,
+          "word": " honest"
+        },
+        {
+          "start": 42.11,
+          "end": 42.47,
+          "word": " opinion."
+        }
+      ]
+    },
+    {
+      "start": 42.93,
+      "end": 48.75,
+      "text": " If you liked it, feel free to share any comments you have, but there's definitely far better",
+      "words": [
+        {
+          "start": 42.93,
+          "end": 43.13,
+          "word": " If"
+        },
+        {
+          "start": 43.13,
+          "end": 43.59,
+          "word": " you"
+        },
+        {
+          "start": 43.59,
+          "end": 43.79,
+          "word": " liked"
+        },
+        {
+          "start": 43.79,
+          "end": 44.03,
+          "word": " it,"
+        },
+        {
+          "start": 44.31,
+          "end": 44.41,
+          "word": " feel"
+        },
+        {
+          "start": 44.41,
+          "end": 44.63,
+          "word": " free"
+        },
+        {
+          "start": 44.63,
+          "end": 44.91,
+          "word": " to"
+        },
+        {
+          "start": 44.91,
+          "end": 45.45,
+          "word": " share"
+        },
+        {
+          "start": 45.45,
+          "end": 45.61,
+          "word": " any"
+        },
+        {
+          "start": 45.61,
+          "end": 45.91,
+          "word": " comments"
+        },
+        {
+          "start": 45.91,
+          "end": 46.13,
+          "word": " you"
+        },
+        {
+          "start": 46.13,
+          "end": 46.53,
+          "word": " have,"
+        },
+        {
+          "start": 46.83,
+          "end": 47.27,
+          "word": " but"
+        },
+        {
+          "start": 47.27,
+          "end": 48.09,
+          "word": " there's"
+        },
+        {
+          "start": 48.09,
+          "end": 48.31,
+          "word": " definitely"
+        },
+        {
+          "start": 48.31,
+          "end": 48.55,
+          "word": " far"
+        },
+        {
+          "start": 48.55,
+          "end": 48.75,
+          "word": " better"
+        }
+      ]
+    },
+    {
+      "start": 48.75,
+      "end": 52.63,
+      "text": " movies that you can go see than Zookeeper.",
+      "words": [
+        {
+          "start": 48.75,
+          "end": 48.99,
+          "word": " movies"
+        },
+        {
+          "start": 48.99,
+          "end": 49.27,
+          "word": " that"
+        },
+        {
+          "start": 49.27,
+          "end": 49.41,
+          "word": " you"
+        },
+        {
+          "start": 49.41,
+          "end": 49.67,
+          "word": " can"
+        },
+        {
+          "start": 49.67,
+          "end": 50.09,
+          "word": " go"
+        },
+        {
+          "start": 50.09,
+          "end": 50.47,
+          "word": " see"
+        },
+        {
+          "start": 50.47,
+          "end": 52.05,
+          "word": " than"
+        },
+        {
+          "start": 52.05,
+          "end": 52.63,
+          "word": " Zookeeper."
+        }
+      ]
+    },
+    {
+      "start": 53.05,
+      "end": 54.51,
+      "text": " So thanks for your time, have a great day.",
+      "words": [
+        {
+          "start": 53.05,
+          "end": 53.11,
+          "word": " So"
+        },
+        {
+          "start": 53.11,
+          "end": 53.31,
+          "word": " thanks"
+        },
+        {
+          "start": 53.31,
+          "end": 53.47,
+          "word": " for"
+        },
+        {
+          "start": 53.47,
+          "end": 53.57,
+          "word": " your"
+        },
+        {
+          "start": 53.57,
+          "end": 53.77,
+          "word": " time,"
+        },
+        {
+          "start": 53.97,
+          "end": 54.07,
+          "word": " have"
+        },
+        {
+          "start": 54.07,
+          "end": 54.19,
+          "word": " a"
+        },
+        {
+          "start": 54.19,
+          "end": 54.31,
+          "word": " great"
+        },
+        {
+          "start": 54.31,
+          "end": 54.51,
+          "word": " day."
+        }
+      ]
+    }
+  ]
+}

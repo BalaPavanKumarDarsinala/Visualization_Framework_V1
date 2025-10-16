@@ -1,0 +1,1562 @@
+{
+  "segments": [
+    {
+      "start": 12.75,
+      "end": 17.47,
+      "text": " The trouble with sequels is, what else can you do with the characters that hasn't already been",
+      "words": [
+        {
+          "start": 12.75,
+          "end": 13.07,
+          "word": " The"
+        },
+        {
+          "start": 13.07,
+          "end": 13.27,
+          "word": " trouble"
+        },
+        {
+          "start": 13.27,
+          "end": 13.55,
+          "word": " with"
+        },
+        {
+          "start": 13.55,
+          "end": 13.79,
+          "word": " sequels"
+        },
+        {
+          "start": 13.79,
+          "end": 14.17,
+          "word": " is,"
+        },
+        {
+          "start": 14.71,
+          "end": 15.21,
+          "word": " what"
+        },
+        {
+          "start": 15.21,
+          "end": 15.39,
+          "word": " else"
+        },
+        {
+          "start": 15.39,
+          "end": 15.59,
+          "word": " can"
+        },
+        {
+          "start": 15.59,
+          "end": 15.67,
+          "word": " you"
+        },
+        {
+          "start": 15.67,
+          "end": 15.79,
+          "word": " do"
+        },
+        {
+          "start": 15.79,
+          "end": 15.89,
+          "word": " with"
+        },
+        {
+          "start": 15.89,
+          "end": 16.01,
+          "word": " the"
+        },
+        {
+          "start": 16.01,
+          "end": 16.35,
+          "word": " characters"
+        },
+        {
+          "start": 16.35,
+          "end": 16.63,
+          "word": " that"
+        },
+        {
+          "start": 16.63,
+          "end": 16.91,
+          "word": " hasn't"
+        },
+        {
+          "start": 16.91,
+          "end": 17.21,
+          "word": " already"
+        },
+        {
+          "start": 17.21,
+          "end": 17.47,
+          "word": " been"
+        }
+      ]
+    },
+    {
+      "start": 17.47,
+      "end": 22.7,
+      "text": " done? Part of the fun in watching movies is witnessing the changes and growth in the",
+      "words": [
+        {
+          "start": 17.47,
+          "end": 17.81,
+          "word": " done?"
+        },
+        {
+          "start": 18.92,
+          "end": 19.2,
+          "word": " Part"
+        },
+        {
+          "start": 19.2,
+          "end": 19.32,
+          "word": " of"
+        },
+        {
+          "start": 19.32,
+          "end": 19.4,
+          "word": " the"
+        },
+        {
+          "start": 19.4,
+          "end": 19.54,
+          "word": " fun"
+        },
+        {
+          "start": 19.54,
+          "end": 19.66,
+          "word": " in"
+        },
+        {
+          "start": 19.66,
+          "end": 19.96,
+          "word": " watching"
+        },
+        {
+          "start": 19.96,
+          "end": 20.28,
+          "word": " movies"
+        },
+        {
+          "start": 20.28,
+          "end": 20.48,
+          "word": " is"
+        },
+        {
+          "start": 20.48,
+          "end": 20.86,
+          "word": " witnessing"
+        },
+        {
+          "start": 20.86,
+          "end": 21.22,
+          "word": " the"
+        },
+        {
+          "start": 21.22,
+          "end": 21.6,
+          "word": " changes"
+        },
+        {
+          "start": 21.6,
+          "end": 22.02,
+          "word": " and"
+        },
+        {
+          "start": 22.02,
+          "end": 22.34,
+          "word": " growth"
+        },
+        {
+          "start": 22.34,
+          "end": 22.58,
+          "word": " in"
+        },
+        {
+          "start": 22.58,
+          "end": 22.7,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "start": 22.7,
+      "end": 28.47,
+      "text": " characters. It's usually a path of discovery. But how do you keep characters developing in",
+      "words": [
+        {
+          "start": 22.7,
+          "end": 23.14,
+          "word": " characters."
+        },
+        {
+          "start": 23.86,
+          "end": 24.02,
+          "word": " It's"
+        },
+        {
+          "start": 24.02,
+          "end": 24.28,
+          "word": " usually"
+        },
+        {
+          "start": 24.28,
+          "end": 24.52,
+          "word": " a"
+        },
+        {
+          "start": 24.52,
+          "end": 24.84,
+          "word": " path"
+        },
+        {
+          "start": 24.84,
+          "end": 25.06,
+          "word": " of"
+        },
+        {
+          "start": 25.06,
+          "end": 25.58,
+          "word": " discovery."
+        },
+        {
+          "start": 26.59,
+          "end": 26.75,
+          "word": " But"
+        },
+        {
+          "start": 26.75,
+          "end": 26.91,
+          "word": " how"
+        },
+        {
+          "start": 26.91,
+          "end": 26.99,
+          "word": " do"
+        },
+        {
+          "start": 26.99,
+          "end": 27.13,
+          "word": " you"
+        },
+        {
+          "start": 27.13,
+          "end": 27.27,
+          "word": " keep"
+        },
+        {
+          "start": 27.27,
+          "end": 27.65,
+          "word": " characters"
+        },
+        {
+          "start": 27.65,
+          "end": 28.13,
+          "word": " developing"
+        },
+        {
+          "start": 28.13,
+          "end": 28.47,
+          "word": " in"
+        }
+      ]
+    },
+    {
+      "start": 28.47,
+      "end": 34.75,
+      "text": " sequel after sequel after sequel? Shrek, forever after, or is it called the final chapter,",
+      "words": [
+        {
+          "start": 28.47,
+          "end": 28.81,
+          "word": " sequel"
+        },
+        {
+          "start": 28.81,
+          "end": 29.19,
+          "word": " after"
+        },
+        {
+          "start": 29.19,
+          "end": 29.69,
+          "word": " sequel"
+        },
+        {
+          "start": 29.69,
+          "end": 29.97,
+          "word": " after"
+        },
+        {
+          "start": 29.97,
+          "end": 30.41,
+          "word": " sequel?"
+        },
+        {
+          "start": 31.13,
+          "end": 31.35,
+          "word": " Shrek,"
+        },
+        {
+          "start": 31.57,
+          "end": 31.79,
+          "word": " forever"
+        },
+        {
+          "start": 31.79,
+          "end": 32.17,
+          "word": " after,"
+        },
+        {
+          "start": 33.15,
+          "end": 33.23,
+          "word": " or"
+        },
+        {
+          "start": 33.23,
+          "end": 33.35,
+          "word": " is"
+        },
+        {
+          "start": 33.35,
+          "end": 33.47,
+          "word": " it"
+        },
+        {
+          "start": 33.47,
+          "end": 33.71,
+          "word": " called"
+        },
+        {
+          "start": 33.71,
+          "end": 33.99,
+          "word": " the"
+        },
+        {
+          "start": 33.99,
+          "end": 34.29,
+          "word": " final"
+        },
+        {
+          "start": 34.29,
+          "end": 34.75,
+          "word": " chapter,"
+        }
+      ]
+    },
+    {
+      "start": 35.07,
+      "end": 39.31,
+      "text": " a last-minute title that they threw on at the theaters? Dreamworks is confusing me.",
+      "words": [
+        {
+          "start": 35.07,
+          "end": 35.07,
+          "word": " a"
+        },
+        {
+          "start": 35.07,
+          "end": 35.27,
+          "word": " last"
+        },
+        {
+          "start": 35.27,
+          "end": 35.43,
+          "word": "-minute"
+        },
+        {
+          "start": 35.43,
+          "end": 35.77,
+          "word": " title"
+        },
+        {
+          "start": 35.77,
+          "end": 35.99,
+          "word": " that"
+        },
+        {
+          "start": 35.99,
+          "end": 36.15,
+          "word": " they"
+        },
+        {
+          "start": 36.15,
+          "end": 36.31,
+          "word": " threw"
+        },
+        {
+          "start": 36.31,
+          "end": 36.43,
+          "word": " on"
+        },
+        {
+          "start": 36.43,
+          "end": 36.53,
+          "word": " at"
+        },
+        {
+          "start": 36.53,
+          "end": 36.69,
+          "word": " the"
+        },
+        {
+          "start": 36.69,
+          "end": 36.93,
+          "word": " theaters?"
+        },
+        {
+          "start": 37.79,
+          "end": 38.07,
+          "word": " Dreamworks"
+        },
+        {
+          "start": 38.07,
+          "end": 38.27,
+          "word": " is"
+        },
+        {
+          "start": 38.27,
+          "end": 38.67,
+          "word": " confusing"
+        },
+        {
+          "start": 38.67,
+          "end": 39.31,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 39.98,
+      "end": 43.28,
+      "text": " They solve this dilemma by removing the past with an",
+      "words": [
+        {
+          "start": 39.98,
+          "end": 40.24,
+          "word": " They"
+        },
+        {
+          "start": 40.24,
+          "end": 40.56,
+          "word": " solve"
+        },
+        {
+          "start": 40.56,
+          "end": 40.78,
+          "word": " this"
+        },
+        {
+          "start": 40.78,
+          "end": 41.02,
+          "word": " dilemma"
+        },
+        {
+          "start": 41.02,
+          "end": 41.38,
+          "word": " by"
+        },
+        {
+          "start": 41.38,
+          "end": 41.82,
+          "word": " removing"
+        },
+        {
+          "start": 41.82,
+          "end": 42.22,
+          "word": " the"
+        },
+        {
+          "start": 42.22,
+          "end": 42.64,
+          "word": " past"
+        },
+        {
+          "start": 42.64,
+          "end": 43.06,
+          "word": " with"
+        },
+        {
+          "start": 43.06,
+          "end": 43.28,
+          "word": " an"
+        }
+      ]
+    },
+    {
+      "start": 43.28,
+      "end": 47.48,
+      "text": " it's a wonderful life twist, courtesy of new baddie Rumpelstiltskin.",
+      "words": [
+        {
+          "start": 43.28,
+          "end": 43.84,
+          "word": " it's"
+        },
+        {
+          "start": 43.84,
+          "end": 43.96,
+          "word": " a"
+        },
+        {
+          "start": 43.96,
+          "end": 44.22,
+          "word": " wonderful"
+        },
+        {
+          "start": 44.22,
+          "end": 44.66,
+          "word": " life"
+        },
+        {
+          "start": 44.66,
+          "end": 45.14,
+          "word": " twist,"
+        },
+        {
+          "start": 45.44,
+          "end": 45.68,
+          "word": " courtesy"
+        },
+        {
+          "start": 45.68,
+          "end": 45.94,
+          "word": " of"
+        },
+        {
+          "start": 45.94,
+          "end": 46.1,
+          "word": " new"
+        },
+        {
+          "start": 46.1,
+          "end": 46.52,
+          "word": " baddie"
+        },
+        {
+          "start": 46.52,
+          "end": 47.48,
+          "word": " Rumpelstiltskin."
+        }
+      ]
+    },
+    {
+      "start": 48.59,
+      "end": 51.69,
+      "text": " Everything that happened in Shrek 1, 2, and 3 are wiped away.",
+      "words": [
+        {
+          "start": 48.59,
+          "end": 48.95,
+          "word": " Everything"
+        },
+        {
+          "start": 48.95,
+          "end": 49.21,
+          "word": " that"
+        },
+        {
+          "start": 49.21,
+          "end": 49.39,
+          "word": " happened"
+        },
+        {
+          "start": 49.39,
+          "end": 49.79,
+          "word": " in"
+        },
+        {
+          "start": 49.79,
+          "end": 49.87,
+          "word": " Shrek"
+        },
+        {
+          "start": 49.87,
+          "end": 50.13,
+          "word": " 1,"
+        },
+        {
+          "start": 50.17,
+          "end": 50.37,
+          "word": " 2,"
+        },
+        {
+          "start": 50.43,
+          "end": 50.53,
+          "word": " and"
+        },
+        {
+          "start": 50.53,
+          "end": 50.79,
+          "word": " 3"
+        },
+        {
+          "start": 50.79,
+          "end": 50.97,
+          "word": " are"
+        },
+        {
+          "start": 50.97,
+          "end": 51.31,
+          "word": " wiped"
+        },
+        {
+          "start": 51.31,
+          "end": 51.69,
+          "word": " away."
+        }
+      ]
+    },
+    {
+      "start": 52.05,
+      "end": 57.79,
+      "text": " It's a clean sweep of Shrek's life where he can now be a single grumpy ogre again without the",
+      "words": [
+        {
+          "start": 52.05,
+          "end": 52.31,
+          "word": " It's"
+        },
+        {
+          "start": 52.31,
+          "end": 52.43,
+          "word": " a"
+        },
+        {
+          "start": 52.43,
+          "end": 52.73,
+          "word": " clean"
+        },
+        {
+          "start": 52.73,
+          "end": 53.01,
+          "word": " sweep"
+        },
+        {
+          "start": 53.01,
+          "end": 53.25,
+          "word": " of"
+        },
+        {
+          "start": 53.25,
+          "end": 53.65,
+          "word": " Shrek's"
+        },
+        {
+          "start": 53.65,
+          "end": 53.87,
+          "word": " life"
+        },
+        {
+          "start": 53.87,
+          "end": 54.47,
+          "word": " where"
+        },
+        {
+          "start": 54.47,
+          "end": 54.59,
+          "word": " he"
+        },
+        {
+          "start": 54.59,
+          "end": 54.71,
+          "word": " can"
+        },
+        {
+          "start": 54.71,
+          "end": 54.95,
+          "word": " now"
+        },
+        {
+          "start": 54.95,
+          "end": 55.17,
+          "word": " be"
+        },
+        {
+          "start": 55.17,
+          "end": 55.39,
+          "word": " a"
+        },
+        {
+          "start": 55.39,
+          "end": 55.79,
+          "word": " single"
+        },
+        {
+          "start": 55.79,
+          "end": 56.33,
+          "word": " grumpy"
+        },
+        {
+          "start": 56.33,
+          "end": 56.59,
+          "word": " ogre"
+        },
+        {
+          "start": 56.59,
+          "end": 57.05,
+          "word": " again"
+        },
+        {
+          "start": 57.05,
+          "end": 57.59,
+          "word": " without"
+        },
+        {
+          "start": 57.59,
+          "end": 57.79,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "start": 57.79,
+      "end": 64.83,
+      "text": " burdens of being a husband and a father. Not a bad idea for a sequel, but also not very original.",
+      "words": [
+        {
+          "start": 57.79,
+          "end": 57.99,
+          "word": " burdens"
+        },
+        {
+          "start": 57.99,
+          "end": 58.21,
+          "word": " of"
+        },
+        {
+          "start": 58.21,
+          "end": 58.39,
+          "word": " being"
+        },
+        {
+          "start": 58.39,
+          "end": 58.57,
+          "word": " a"
+        },
+        {
+          "start": 58.57,
+          "end": 58.83,
+          "word": " husband"
+        },
+        {
+          "start": 58.83,
+          "end": 59.07,
+          "word": " and"
+        },
+        {
+          "start": 59.07,
+          "end": 59.19,
+          "word": " a"
+        },
+        {
+          "start": 59.19,
+          "end": 59.43,
+          "word": " father."
+        },
+        {
+          "start": 60.4,
+          "end": 60.8,
+          "word": " Not"
+        },
+        {
+          "start": 60.8,
+          "end": 60.94,
+          "word": " a"
+        },
+        {
+          "start": 60.94,
+          "end": 61.14,
+          "word": " bad"
+        },
+        {
+          "start": 61.14,
+          "end": 61.44,
+          "word": " idea"
+        },
+        {
+          "start": 61.44,
+          "end": 61.66,
+          "word": " for"
+        },
+        {
+          "start": 61.66,
+          "end": 61.8,
+          "word": " a"
+        },
+        {
+          "start": 61.8,
+          "end": 62.04,
+          "word": " sequel,"
+        },
+        {
+          "start": 62.4,
+          "end": 62.58,
+          "word": " but"
+        },
+        {
+          "start": 62.58,
+          "end": 62.98,
+          "word": " also"
+        },
+        {
+          "start": 63.07,
+          "end": 64.15,
+          "word": " not"
+        },
+        {
+          "start": 64.15,
+          "end": 64.39,
+          "word": " very"
+        },
+        {
+          "start": 64.39,
+          "end": 64.83,
+          "word": " original."
+        }
+      ]
+    },
+    {
+      "start": 65.75,
+      "end": 69.69,
+      "text": " Shrek 4 misses out on the magic that made the first film a real joy to view.",
+      "words": [
+        {
+          "start": 65.75,
+          "end": 65.99,
+          "word": " Shrek"
+        },
+        {
+          "start": 65.99,
+          "end": 66.27,
+          "word": " 4"
+        },
+        {
+          "start": 66.27,
+          "end": 66.51,
+          "word": " misses"
+        },
+        {
+          "start": 66.51,
+          "end": 66.77,
+          "word": " out"
+        },
+        {
+          "start": 66.77,
+          "end": 66.93,
+          "word": " on"
+        },
+        {
+          "start": 66.93,
+          "end": 67.05,
+          "word": " the"
+        },
+        {
+          "start": 67.05,
+          "end": 67.43,
+          "word": " magic"
+        },
+        {
+          "start": 67.43,
+          "end": 67.71,
+          "word": " that"
+        },
+        {
+          "start": 67.71,
+          "end": 67.81,
+          "word": " made"
+        },
+        {
+          "start": 67.81,
+          "end": 67.97,
+          "word": " the"
+        },
+        {
+          "start": 67.97,
+          "end": 68.15,
+          "word": " first"
+        },
+        {
+          "start": 68.15,
+          "end": 68.39,
+          "word": " film"
+        },
+        {
+          "start": 68.39,
+          "end": 68.61,
+          "word": " a"
+        },
+        {
+          "start": 68.61,
+          "end": 68.89,
+          "word": " real"
+        },
+        {
+          "start": 68.89,
+          "end": 69.25,
+          "word": " joy"
+        },
+        {
+          "start": 69.25,
+          "end": 69.45,
+          "word": " to"
+        },
+        {
+          "start": 69.45,
+          "end": 69.69,
+          "word": " view."
+        }
+      ]
+    },
+    {
+      "start": 70.11,
+      "end": 73.87,
+      "text": " Gone are the wickedly satirical send-ups of the world of fairy tales,",
+      "words": [
+        {
+          "start": 70.11,
+          "end": 70.57,
+          "word": " Gone"
+        },
+        {
+          "start": 70.57,
+          "end": 70.79,
+          "word": " are"
+        },
+        {
+          "start": 70.79,
+          "end": 70.99,
+          "word": " the"
+        },
+        {
+          "start": 70.99,
+          "end": 71.47,
+          "word": " wickedly"
+        },
+        {
+          "start": 71.47,
+          "end": 71.91,
+          "word": " satirical"
+        },
+        {
+          "start": 71.91,
+          "end": 72.33,
+          "word": " send"
+        },
+        {
+          "start": 72.33,
+          "end": 72.51,
+          "word": "-ups"
+        },
+        {
+          "start": 72.51,
+          "end": 72.75,
+          "word": " of"
+        },
+        {
+          "start": 72.75,
+          "end": 72.87,
+          "word": " the"
+        },
+        {
+          "start": 72.87,
+          "end": 73.05,
+          "word": " world"
+        },
+        {
+          "start": 73.05,
+          "end": 73.23,
+          "word": " of"
+        },
+        {
+          "start": 73.23,
+          "end": 73.43,
+          "word": " fairy"
+        },
+        {
+          "start": 73.43,
+          "end": 73.87,
+          "word": " tales,"
+        }
+      ]
+    },
+    {
+      "start": 74.15,
+      "end": 79.77,
+      "text": " and also the cute winks to pop culture. In their place is a run-of-the-mill animated",
+      "words": [
+        {
+          "start": 74.15,
+          "end": 74.81,
+          "word": " and"
+        },
+        {
+          "start": 74.81,
+          "end": 75.07,
+          "word": " also"
+        },
+        {
+          "start": 75.07,
+          "end": 75.29,
+          "word": " the"
+        },
+        {
+          "start": 75.29,
+          "end": 75.53,
+          "word": " cute"
+        },
+        {
+          "start": 75.53,
+          "end": 75.89,
+          "word": " winks"
+        },
+        {
+          "start": 75.89,
+          "end": 76.05,
+          "word": " to"
+        },
+        {
+          "start": 76.05,
+          "end": 76.23,
+          "word": " pop"
+        },
+        {
+          "start": 76.23,
+          "end": 76.67,
+          "word": " culture."
+        },
+        {
+          "start": 77.25,
+          "end": 77.51,
+          "word": " In"
+        },
+        {
+          "start": 77.51,
+          "end": 77.67,
+          "word": " their"
+        },
+        {
+          "start": 77.67,
+          "end": 78.01,
+          "word": " place"
+        },
+        {
+          "start": 78.01,
+          "end": 78.53,
+          "word": " is"
+        },
+        {
+          "start": 78.53,
+          "end": 78.69,
+          "word": " a"
+        },
+        {
+          "start": 78.69,
+          "end": 78.85,
+          "word": " run"
+        },
+        {
+          "start": 78.85,
+          "end": 78.95,
+          "word": "-of"
+        },
+        {
+          "start": 78.95,
+          "end": 79.07,
+          "word": "-the"
+        },
+        {
+          "start": 79.07,
+          "end": 79.23,
+          "word": "-mill"
+        },
+        {
+          "start": 79.23,
+          "end": 79.77,
+          "word": " animated"
+        }
+      ]
+    },
+    {
+      "start": 79.77,
+      "end": 84.98,
+      "text": " action-adventure plot with a few chuckles thrown in. It seems like the writers and",
+      "words": [
+        {
+          "start": 79.77,
+          "end": 80.27,
+          "word": " action"
+        },
+        {
+          "start": 80.27,
+          "end": 80.63,
+          "word": "-adventure"
+        },
+        {
+          "start": 80.63,
+          "end": 80.99,
+          "word": " plot"
+        },
+        {
+          "start": 80.99,
+          "end": 81.53,
+          "word": " with"
+        },
+        {
+          "start": 81.53,
+          "end": 81.67,
+          "word": " a"
+        },
+        {
+          "start": 81.67,
+          "end": 81.89,
+          "word": " few"
+        },
+        {
+          "start": 81.89,
+          "end": 82.35,
+          "word": " chuckles"
+        },
+        {
+          "start": 82.35,
+          "end": 82.61,
+          "word": " thrown"
+        },
+        {
+          "start": 82.61,
+          "end": 82.87,
+          "word": " in."
+        },
+        {
+          "start": 83.76,
+          "end": 84.02,
+          "word": " It"
+        },
+        {
+          "start": 84.02,
+          "end": 84.16,
+          "word": " seems"
+        },
+        {
+          "start": 84.16,
+          "end": 84.34,
+          "word": " like"
+        },
+        {
+          "start": 84.34,
+          "end": 84.46,
+          "word": " the"
+        },
+        {
+          "start": 84.46,
+          "end": 84.72,
+          "word": " writers"
+        },
+        {
+          "start": 84.72,
+          "end": 84.98,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 84.98,
+      "end": 89.82,
+      "text": " creators took the easy way out. If it weren't for the great characters of Shrek and his",
+      "words": [
+        {
+          "start": 84.98,
+          "end": 85.28,
+          "word": " creators"
+        },
+        {
+          "start": 85.28,
+          "end": 85.52,
+          "word": " took"
+        },
+        {
+          "start": 85.52,
+          "end": 85.74,
+          "word": " the"
+        },
+        {
+          "start": 85.74,
+          "end": 86.06,
+          "word": " easy"
+        },
+        {
+          "start": 86.06,
+          "end": 86.28,
+          "word": " way"
+        },
+        {
+          "start": 86.28,
+          "end": 86.6,
+          "word": " out."
+        },
+        {
+          "start": 87.24,
+          "end": 87.44,
+          "word": " If"
+        },
+        {
+          "start": 87.44,
+          "end": 87.56,
+          "word": " it"
+        },
+        {
+          "start": 87.56,
+          "end": 87.72,
+          "word": " weren't"
+        },
+        {
+          "start": 87.72,
+          "end": 87.94,
+          "word": " for"
+        },
+        {
+          "start": 87.94,
+          "end": 88.08,
+          "word": " the"
+        },
+        {
+          "start": 88.08,
+          "end": 88.34,
+          "word": " great"
+        },
+        {
+          "start": 88.34,
+          "end": 88.84,
+          "word": " characters"
+        },
+        {
+          "start": 88.84,
+          "end": 89.2,
+          "word": " of"
+        },
+        {
+          "start": 89.2,
+          "end": 89.48,
+          "word": " Shrek"
+        },
+        {
+          "start": 89.48,
+          "end": 89.68,
+          "word": " and"
+        },
+        {
+          "start": 89.68,
+          "end": 89.82,
+          "word": " his"
+        }
+      ]
+    },
+    {
+      "start": 89.82,
+      "end": 94.8,
+      "text": " supporting cast, who are still voiced by the original stars Mike Myers, Eddie Murphy,",
+      "words": [
+        {
+          "start": 89.82,
+          "end": 90.18,
+          "word": " supporting"
+        },
+        {
+          "start": 90.18,
+          "end": 90.64,
+          "word": " cast,"
+        },
+        {
+          "start": 91.24,
+          "end": 91.36,
+          "word": " who"
+        },
+        {
+          "start": 91.36,
+          "end": 91.5,
+          "word": " are"
+        },
+        {
+          "start": 91.5,
+          "end": 91.76,
+          "word": " still"
+        },
+        {
+          "start": 91.76,
+          "end": 92.02,
+          "word": " voiced"
+        },
+        {
+          "start": 92.02,
+          "end": 92.28,
+          "word": " by"
+        },
+        {
+          "start": 92.28,
+          "end": 92.4,
+          "word": " the"
+        },
+        {
+          "start": 92.4,
+          "end": 92.68,
+          "word": " original"
+        },
+        {
+          "start": 92.68,
+          "end": 93.12,
+          "word": " stars"
+        },
+        {
+          "start": 93.12,
+          "end": 93.66,
+          "word": " Mike"
+        },
+        {
+          "start": 93.66,
+          "end": 93.98,
+          "word": " Myers,"
+        },
+        {
+          "start": 94.44,
+          "end": 94.48,
+          "word": " Eddie"
+        },
+        {
+          "start": 94.48,
+          "end": 94.8,
+          "word": " Murphy,"
+        }
+      ]
+    },
+    {
+      "start": 94.8,
+      "end": 100.16,
+      "text": " Cameron Diaz, and Antonio Banderas, the film would be a real bust.",
+      "words": [
+        {
+          "start": 94.8,
+          "end": 95.36,
+          "word": " Cameron"
+        },
+        {
+          "start": 95.36,
+          "end": 95.78,
+          "word": " Diaz,"
+        },
+        {
+          "start": 96.3,
+          "end": 96.38,
+          "word": " and"
+        },
+        {
+          "start": 96.38,
+          "end": 96.94,
+          "word": " Antonio"
+        },
+        {
+          "start": 96.94,
+          "end": 97.66,
+          "word": " Banderas,"
+        },
+        {
+          "start": 98.32,
+          "end": 98.66,
+          "word": " the"
+        },
+        {
+          "start": 98.66,
+          "end": 98.84,
+          "word": " film"
+        },
+        {
+          "start": 98.84,
+          "end": 99.04,
+          "word": " would"
+        },
+        {
+          "start": 99.04,
+          "end": 99.22,
+          "word": " be"
+        },
+        {
+          "start": 99.22,
+          "end": 99.46,
+          "word": " a"
+        },
+        {
+          "start": 99.46,
+          "end": 99.7,
+          "word": " real"
+        },
+        {
+          "start": 99.7,
+          "end": 100.16,
+          "word": " bust."
+        }
+      ]
+    },
+    {
+      "start": 101.3,
+      "end": 104.8,
+      "text": " Unless your kids are dying to see it, I'd wait for the DVD.",
+      "words": [
+        {
+          "start": 101.3,
+          "end": 101.56,
+          "word": " Unless"
+        },
+        {
+          "start": 101.56,
+          "end": 101.74,
+          "word": " your"
+        },
+        {
+          "start": 101.74,
+          "end": 101.94,
+          "word": " kids"
+        },
+        {
+          "start": 101.94,
+          "end": 102.1,
+          "word": " are"
+        },
+        {
+          "start": 102.1,
+          "end": 102.48,
+          "word": " dying"
+        },
+        {
+          "start": 102.48,
+          "end": 102.72,
+          "word": " to"
+        },
+        {
+          "start": 102.72,
+          "end": 102.94,
+          "word": " see"
+        },
+        {
+          "start": 102.94,
+          "end": 103.52,
+          "word": " it,"
+        },
+        {
+          "start": 103.88,
+          "end": 104.1,
+          "word": " I'd"
+        },
+        {
+          "start": 104.1,
+          "end": 104.24,
+          "word": " wait"
+        },
+        {
+          "start": 104.24,
+          "end": 104.42,
+          "word": " for"
+        },
+        {
+          "start": 104.42,
+          "end": 104.52,
+          "word": " the"
+        },
+        {
+          "start": 104.52,
+          "end": 104.8,
+          "word": " DVD."
+        }
+      ]
+    },
+    {
+      "start": 105.97,
+      "end": 113.31,
+      "text": " I give Shrek, Forever After, directed by Mike Mitchell, a grade of B-, and I'm Keith Kelly.",
+      "words": [
+        {
+          "start": 105.97,
+          "end": 106.13,
+          "word": " I"
+        },
+        {
+          "start": 106.13,
+          "end": 106.39,
+          "word": " give"
+        },
+        {
+          "start": 106.39,
+          "end": 106.81,
+          "word": " Shrek,"
+        },
+        {
+          "start": 107.11,
+          "end": 107.27,
+          "word": " Forever"
+        },
+        {
+          "start": 107.27,
+          "end": 107.75,
+          "word": " After,"
+        },
+        {
+          "start": 108.21,
+          "end": 108.47,
+          "word": " directed"
+        },
+        {
+          "start": 108.47,
+          "end": 108.77,
+          "word": " by"
+        },
+        {
+          "start": 108.77,
+          "end": 109.03,
+          "word": " Mike"
+        },
+        {
+          "start": 109.03,
+          "end": 109.41,
+          "word": " Mitchell,"
+        },
+        {
+          "start": 109.89,
+          "end": 109.95,
+          "word": " a"
+        },
+        {
+          "start": 109.95,
+          "end": 110.13,
+          "word": " grade"
+        },
+        {
+          "start": 110.13,
+          "end": 110.45,
+          "word": " of"
+        },
+        {
+          "start": 110.45,
+          "end": 111.77,
+          "word": " B-,"
+        },
+        {
+          "start": 111.77,
+          "end": 112.81,
+          "word": " and"
+        },
+        {
+          "start": 112.81,
+          "end": 112.95,
+          "word": " I'm"
+        },
+        {
+          "start": 112.95,
+          "end": 113.05,
+          "word": " Keith"
+        },
+        {
+          "start": 113.05,
+          "end": 113.31,
+          "word": " Kelly."
+        }
+      ]
+    }
+  ]
+}

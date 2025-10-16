@@ -1,0 +1,1290 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": " Hey guys, it's Thursday again, and I guess I'm the second video this week.",
+      "words": [
+        {
+          "start": 0.26,
+          "end": 0.48,
+          "word": " guys,"
+        },
+        {
+          "start": 0.7,
+          "end": 1.16,
+          "word": " it's"
+        },
+        {
+          "start": 1.16,
+          "end": 1.2,
+          "word": " Thursday"
+        },
+        {
+          "start": 1.2,
+          "end": 1.68,
+          "word": " again,"
+        },
+        {
+          "start": 2.08,
+          "end": 2.32,
+          "word": " and"
+        },
+        {
+          "start": 2.32,
+          "end": 2.56,
+          "word": " I"
+        },
+        {
+          "start": 2.56,
+          "end": 2.74,
+          "word": " guess"
+        },
+        {
+          "start": 2.74,
+          "end": 2.96,
+          "word": " I'm"
+        },
+        {
+          "start": 2.96,
+          "end": 3.1,
+          "word": " the"
+        },
+        {
+          "start": 3.1,
+          "end": 3.3,
+          "word": " second"
+        },
+        {
+          "start": 3.3,
+          "end": 3.66,
+          "word": " video"
+        },
+        {
+          "start": 3.66,
+          "end": 3.9,
+          "word": " this"
+        },
+        {
+          "start": 3.9,
+          "end": 4.2,
+          "word": " week."
+        }
+      ]
+    },
+    {
+      "start": 5.08,
+      "end": 6.66,
+      "text": " I don't know what's going on with John and Dan.",
+      "words": [
+        {
+          "start": 5.08,
+          "end": 5.24,
+          "word": " I"
+        },
+        {
+          "start": 5.24,
+          "end": 5.34,
+          "word": " don't"
+        },
+        {
+          "start": 5.34,
+          "end": 5.44,
+          "word": " know"
+        },
+        {
+          "start": 5.44,
+          "end": 5.62,
+          "word": " what's"
+        },
+        {
+          "start": 5.62,
+          "end": 5.76,
+          "word": " going"
+        },
+        {
+          "start": 5.76,
+          "end": 5.96,
+          "word": " on"
+        },
+        {
+          "start": 5.96,
+          "end": 6.12,
+          "word": " with"
+        },
+        {
+          "start": 6.12,
+          "end": 6.3,
+          "word": " John"
+        },
+        {
+          "start": 6.3,
+          "end": 6.44,
+          "word": " and"
+        },
+        {
+          "start": 6.44,
+          "end": 6.66,
+          "word": " Dan."
+        }
+      ]
+    },
+    {
+      "start": 7.3,
+      "end": 13.33,
+      "text": " I know that John doesn't have internet right now, but Dan busy with school? I don't know.",
+      "words": [
+        {
+          "start": 7.3,
+          "end": 7.52,
+          "word": " I"
+        },
+        {
+          "start": 7.52,
+          "end": 7.64,
+          "word": " know"
+        },
+        {
+          "start": 7.64,
+          "end": 7.8,
+          "word": " that"
+        },
+        {
+          "start": 7.8,
+          "end": 7.96,
+          "word": " John"
+        },
+        {
+          "start": 7.96,
+          "end": 8.18,
+          "word": " doesn't"
+        },
+        {
+          "start": 8.18,
+          "end": 8.44,
+          "word": " have"
+        },
+        {
+          "start": 8.44,
+          "end": 8.74,
+          "word": " internet"
+        },
+        {
+          "start": 8.74,
+          "end": 9.06,
+          "word": " right"
+        },
+        {
+          "start": 9.06,
+          "end": 9.38,
+          "word": " now,"
+        },
+        {
+          "start": 9.58,
+          "end": 9.82,
+          "word": " but"
+        },
+        {
+          "start": 9.82,
+          "end": 10.4,
+          "word": " Dan"
+        },
+        {
+          "start": 10.4,
+          "end": 11.6,
+          "word": " busy"
+        },
+        {
+          "start": 11.73,
+          "end": 11.99,
+          "word": " with"
+        },
+        {
+          "start": 11.99,
+          "end": 12.31,
+          "word": " school?"
+        },
+        {
+          "start": 12.83,
+          "end": 12.91,
+          "word": " I"
+        },
+        {
+          "start": 12.91,
+          "end": 13.01,
+          "word": " don't"
+        },
+        {
+          "start": 13.01,
+          "end": 13.33,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 14.45,
+      "end": 19.31,
+      "text": " Ronnie wanted to know what was the last movie we saw in theaters and to give a review for it.",
+      "words": [
+        {
+          "start": 14.45,
+          "end": 14.51,
+          "word": " Ronnie"
+        },
+        {
+          "start": 14.51,
+          "end": 14.77,
+          "word": " wanted"
+        },
+        {
+          "start": 14.77,
+          "end": 15.01,
+          "word": " to"
+        },
+        {
+          "start": 15.01,
+          "end": 15.15,
+          "word": " know"
+        },
+        {
+          "start": 15.15,
+          "end": 15.31,
+          "word": " what"
+        },
+        {
+          "start": 15.31,
+          "end": 15.45,
+          "word": " was"
+        },
+        {
+          "start": 15.45,
+          "end": 15.57,
+          "word": " the"
+        },
+        {
+          "start": 15.57,
+          "end": 15.73,
+          "word": " last"
+        },
+        {
+          "start": 15.73,
+          "end": 15.97,
+          "word": " movie"
+        },
+        {
+          "start": 15.97,
+          "end": 16.33,
+          "word": " we"
+        },
+        {
+          "start": 16.33,
+          "end": 16.83,
+          "word": " saw"
+        },
+        {
+          "start": 16.83,
+          "end": 17.03,
+          "word": " in"
+        },
+        {
+          "start": 17.03,
+          "end": 17.31,
+          "word": " theaters"
+        },
+        {
+          "start": 17.31,
+          "end": 17.97,
+          "word": " and"
+        },
+        {
+          "start": 17.97,
+          "end": 18.21,
+          "word": " to"
+        },
+        {
+          "start": 18.21,
+          "end": 18.35,
+          "word": " give"
+        },
+        {
+          "start": 18.35,
+          "end": 18.49,
+          "word": " a"
+        },
+        {
+          "start": 18.49,
+          "end": 18.73,
+          "word": " review"
+        },
+        {
+          "start": 18.73,
+          "end": 18.99,
+          "word": " for"
+        },
+        {
+          "start": 18.99,
+          "end": 19.31,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 20.99,
+      "end": 34.43,
+      "text": " I think the last movie I saw in theaters, I really did.",
+      "words": [
+        {
+          "start": 20.99,
+          "end": 21.17,
+          "word": " I"
+        },
+        {
+          "start": 21.17,
+          "end": 21.59,
+          "word": " think"
+        },
+        {
+          "start": 21.59,
+          "end": 22.35,
+          "word": " the"
+        },
+        {
+          "start": 22.35,
+          "end": 22.67,
+          "word": " last"
+        },
+        {
+          "start": 22.67,
+          "end": 22.99,
+          "word": " movie"
+        },
+        {
+          "start": 22.99,
+          "end": 23.23,
+          "word": " I"
+        },
+        {
+          "start": 23.23,
+          "end": 23.57,
+          "word": " saw"
+        },
+        {
+          "start": 23.57,
+          "end": 23.91,
+          "word": " in"
+        },
+        {
+          "start": 23.91,
+          "end": 24.39,
+          "word": " theaters,"
+        },
+        {
+          "start": 32.93,
+          "end": 33.75,
+          "word": " I"
+        },
+        {
+          "start": 33.75,
+          "end": 34.03,
+          "word": " really"
+        },
+        {
+          "start": 34.03,
+          "end": 34.43,
+          "word": " did."
+        }
+      ]
+    },
+    {
+      "start": 34.43,
+      "end": 46.97,
+      "text": " I think I'm getting to that point where obtained by Disney Pixar movies anymore because I couldn't stand up, and I really hated Cars.",
+      "words": [
+        {
+          "start": 34.43,
+          "end": 35.09,
+          "word": " I"
+        },
+        {
+          "start": 35.09,
+          "end": 35.39,
+          "word": " think"
+        },
+        {
+          "start": 35.39,
+          "end": 35.59,
+          "word": " I'm"
+        },
+        {
+          "start": 35.59,
+          "end": 35.81,
+          "word": " getting"
+        },
+        {
+          "start": 35.81,
+          "end": 36.35,
+          "word": " to"
+        },
+        {
+          "start": 36.35,
+          "end": 36.53,
+          "word": " that"
+        },
+        {
+          "start": 36.53,
+          "end": 36.91,
+          "word": " point"
+        },
+        {
+          "start": 36.91,
+          "end": 37.83,
+          "word": " where"
+        },
+        {
+          "start": 38.85,
+          "end": 39.27,
+          "word": " obtained"
+        },
+        {
+          "start": 39.27,
+          "end": 39.51,
+          "word": " by"
+        },
+        {
+          "start": 39.51,
+          "end": 40.01,
+          "word": " Disney"
+        },
+        {
+          "start": 40.01,
+          "end": 40.45,
+          "word": " Pixar"
+        },
+        {
+          "start": 40.45,
+          "end": 40.77,
+          "word": " movies"
+        },
+        {
+          "start": 40.77,
+          "end": 41.17,
+          "word": " anymore"
+        },
+        {
+          "start": 41.17,
+          "end": 41.93,
+          "word": " because"
+        },
+        {
+          "start": 41.93,
+          "end": 42.15,
+          "word": " I"
+        },
+        {
+          "start": 42.15,
+          "end": 42.59,
+          "word": " couldn't"
+        },
+        {
+          "start": 42.59,
+          "end": 43.29,
+          "word": " stand"
+        },
+        {
+          "start": 43.71,
+          "end": 44.45,
+          "word": " up,"
+        },
+        {
+          "start": 45.49,
+          "end": 45.53,
+          "word": " and"
+        },
+        {
+          "start": 45.53,
+          "end": 45.81,
+          "word": " I"
+        },
+        {
+          "start": 45.81,
+          "end": 46.11,
+          "word": " really"
+        },
+        {
+          "start": 46.11,
+          "end": 46.47,
+          "word": " hated"
+        },
+        {
+          "start": 46.47,
+          "end": 46.97,
+          "word": " Cars."
+        }
+      ]
+    },
+    {
+      "start": 47.82,
+      "end": 55.55,
+      "text": " I liked Finding Nemo, and I liked Wally, but I just didn't think it was funny. I didn't think it was cute.",
+      "words": [
+        {
+          "start": 47.82,
+          "end": 47.88,
+          "word": " I"
+        },
+        {
+          "start": 47.88,
+          "end": 48.1,
+          "word": " liked"
+        },
+        {
+          "start": 48.1,
+          "end": 48.34,
+          "word": " Finding"
+        },
+        {
+          "start": 48.34,
+          "end": 48.74,
+          "word": " Nemo,"
+        },
+        {
+          "start": 48.86,
+          "end": 49.02,
+          "word": " and"
+        },
+        {
+          "start": 49.02,
+          "end": 49.18,
+          "word": " I"
+        },
+        {
+          "start": 49.18,
+          "end": 49.48,
+          "word": " liked"
+        },
+        {
+          "start": 49.48,
+          "end": 49.8,
+          "word": " Wally,"
+        },
+        {
+          "start": 50.42,
+          "end": 50.8,
+          "word": " but"
+        },
+        {
+          "start": 50.8,
+          "end": 51.62,
+          "word": " I"
+        },
+        {
+          "start": 52.19,
+          "end": 52.51,
+          "word": " just"
+        },
+        {
+          "start": 52.51,
+          "end": 53.13,
+          "word": " didn't"
+        },
+        {
+          "start": 53.13,
+          "end": 53.27,
+          "word": " think"
+        },
+        {
+          "start": 53.27,
+          "end": 53.41,
+          "word": " it"
+        },
+        {
+          "start": 53.41,
+          "end": 53.53,
+          "word": " was"
+        },
+        {
+          "start": 53.53,
+          "end": 53.99,
+          "word": " funny."
+        },
+        {
+          "start": 54.49,
+          "end": 54.57,
+          "word": " I"
+        },
+        {
+          "start": 54.57,
+          "end": 54.69,
+          "word": " didn't"
+        },
+        {
+          "start": 54.69,
+          "end": 54.83,
+          "word": " think"
+        },
+        {
+          "start": 54.83,
+          "end": 54.91,
+          "word": " it"
+        },
+        {
+          "start": 54.91,
+          "end": 55.03,
+          "word": " was"
+        },
+        {
+          "start": 55.03,
+          "end": 55.55,
+          "word": " cute."
+        }
+      ]
+    },
+    {
+      "start": 77.72,
+      "end": 81.48,
+      "text": " Anyway, next week will be my week.",
+      "words": [
+        {
+          "start": 77.72,
+          "end": 77.72,
+          "word": " Anyway,"
+        },
+        {
+          "start": 79.42,
+          "end": 79.5,
+          "word": " next"
+        },
+        {
+          "start": 79.5,
+          "end": 79.8,
+          "word": " week"
+        },
+        {
+          "start": 79.8,
+          "end": 80.12,
+          "word": " will"
+        },
+        {
+          "start": 80.12,
+          "end": 80.44,
+          "word": " be"
+        },
+        {
+          "start": 80.44,
+          "end": 81.04,
+          "word": " my"
+        },
+        {
+          "start": 81.1,
+          "end": 81.48,
+          "word": " week."
+        }
+      ]
+    },
+    {
+      "start": 86.73,
+      "end": 94.03,
+      "text": " One, what movie did you most recently see, and what did you think about Toy Story 3 if you saw it?",
+      "words": [
+        {
+          "start": 86.73,
+          "end": 86.83,
+          "word": " One,"
+        },
+        {
+          "start": 87.42,
+          "end": 87.52,
+          "word": " what"
+        },
+        {
+          "start": 87.52,
+          "end": 87.78,
+          "word": " movie"
+        },
+        {
+          "start": 87.78,
+          "end": 88.02,
+          "word": " did"
+        },
+        {
+          "start": 88.02,
+          "end": 88.36,
+          "word": " you"
+        },
+        {
+          "start": 88.36,
+          "end": 88.62,
+          "word": " most"
+        },
+        {
+          "start": 88.62,
+          "end": 88.86,
+          "word": " recently"
+        },
+        {
+          "start": 89.11,
+          "end": 89.35,
+          "word": " see,"
+        },
+        {
+          "start": 89.47,
+          "end": 89.53,
+          "word": " and"
+        },
+        {
+          "start": 89.53,
+          "end": 90.61,
+          "word": " what"
+        },
+        {
+          "start": 91.89,
+          "end": 91.97,
+          "word": " did"
+        },
+        {
+          "start": 91.97,
+          "end": 92.13,
+          "word": " you"
+        },
+        {
+          "start": 92.13,
+          "end": 92.27,
+          "word": " think"
+        },
+        {
+          "start": 92.27,
+          "end": 92.45,
+          "word": " about"
+        },
+        {
+          "start": 92.45,
+          "end": 92.63,
+          "word": " Toy"
+        },
+        {
+          "start": 92.63,
+          "end": 92.77,
+          "word": " Story"
+        },
+        {
+          "start": 92.77,
+          "end": 93.15,
+          "word": " 3"
+        },
+        {
+          "start": 93.15,
+          "end": 93.39,
+          "word": " if"
+        },
+        {
+          "start": 93.39,
+          "end": 93.55,
+          "word": " you"
+        },
+        {
+          "start": 93.55,
+          "end": 93.77,
+          "word": " saw"
+        },
+        {
+          "start": 93.77,
+          "end": 94.03,
+          "word": " it?"
+        }
+      ]
+    },
+    {
+      "start": 94.03,
+      "end": 100.04,
+      "text": " And two, what question do you want us to answer because it's my choice?",
+      "words": [
+        {
+          "start": 94.03,
+          "end": 94.69,
+          "word": " And"
+        },
+        {
+          "start": 94.69,
+          "end": 95.05,
+          "word": " two,"
+        },
+        {
+          "start": 95.86,
+          "end": 96.2,
+          "word": " what"
+        },
+        {
+          "start": 96.2,
+          "end": 96.88,
+          "word": " question"
+        },
+        {
+          "start": 97.72,
+          "end": 97.94,
+          "word": " do"
+        },
+        {
+          "start": 97.94,
+          "end": 97.98,
+          "word": " you"
+        },
+        {
+          "start": 97.98,
+          "end": 98.1,
+          "word": " want"
+        },
+        {
+          "start": 98.1,
+          "end": 98.22,
+          "word": " us"
+        },
+        {
+          "start": 98.22,
+          "end": 98.32,
+          "word": " to"
+        },
+        {
+          "start": 98.32,
+          "end": 98.52,
+          "word": " answer"
+        },
+        {
+          "start": 99.28,
+          "end": 99.46,
+          "word": " because"
+        },
+        {
+          "start": 99.46,
+          "end": 99.62,
+          "word": " it's"
+        },
+        {
+          "start": 99.62,
+          "end": 99.74,
+          "word": " my"
+        },
+        {
+          "start": 99.74,
+          "end": 100.04,
+          "word": " choice?"
+        }
+      ]
+    },
+    {
+      "start": 102.32,
+      "end": 103.74,
+      "text": " So leave me a comment and let me know.",
+      "words": [
+        {
+          "start": 102.32,
+          "end": 102.36,
+          "word": " So"
+        },
+        {
+          "start": 102.36,
+          "end": 102.58,
+          "word": " leave"
+        },
+        {
+          "start": 102.58,
+          "end": 102.76,
+          "word": " me"
+        },
+        {
+          "start": 102.76,
+          "end": 102.86,
+          "word": " a"
+        },
+        {
+          "start": 102.86,
+          "end": 103.1,
+          "word": " comment"
+        },
+        {
+          "start": 103.1,
+          "end": 103.32,
+          "word": " and"
+        },
+        {
+          "start": 103.32,
+          "end": 103.42,
+          "word": " let"
+        },
+        {
+          "start": 103.42,
+          "end": 103.5,
+          "word": " me"
+        },
+        {
+          "start": 103.5,
+          "end": 103.74,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 104.97,
+      "end": 105.43,
+      "text": " Just pick yours.",
+      "words": [
+        {
+          "start": 104.97,
+          "end": 104.99,
+          "word": " Just"
+        },
+        {
+          "start": 104.99,
+          "end": 105.19,
+          "word": " pick"
+        },
+        {
+          "start": 105.19,
+          "end": 105.43,
+          "word": " yours."
+        }
+      ]
+    },
+    {
+      "start": 108.95,
+      "end": 114.67,
+      "text": " I kind of have a on my main channel.",
+      "words": [
+        {
+          "start": 108.95,
+          "end": 109.13,
+          "word": " I"
+        },
+        {
+          "start": 109.13,
+          "end": 109.37,
+          "word": " kind"
+        },
+        {
+          "start": 109.37,
+          "end": 109.49,
+          "word": " of"
+        },
+        {
+          "start": 109.49,
+          "end": 109.77,
+          "word": " have"
+        },
+        {
+          "start": 109.77,
+          "end": 110.25,
+          "word": " a"
+        },
+        {
+          "start": 110.25,
+          "end": 111.15,
+          "word": " on"
+        },
+        {
+          "start": 114.13,
+          "end": 114.25,
+          "word": " my"
+        },
+        {
+          "start": 114.25,
+          "end": 114.41,
+          "word": " main"
+        },
+        {
+          "start": 114.41,
+          "end": 114.67,
+          "word": " channel."
+        }
+      ]
+    },
+    {
+      "start": 116.6,
+      "end": 120.67,
+      "text": " I was thinking about it for a while, and I figured it was this time.",
+      "words": [
+        {
+          "start": 116.6,
+          "end": 116.7,
+          "word": " I"
+        },
+        {
+          "start": 116.7,
+          "end": 116.78,
+          "word": " was"
+        },
+        {
+          "start": 116.78,
+          "end": 116.98,
+          "word": " thinking"
+        },
+        {
+          "start": 116.98,
+          "end": 117.34,
+          "word": " about"
+        },
+        {
+          "start": 117.34,
+          "end": 117.54,
+          "word": " it"
+        },
+        {
+          "start": 117.54,
+          "end": 117.78,
+          "word": " for"
+        },
+        {
+          "start": 117.78,
+          "end": 117.88,
+          "word": " a"
+        },
+        {
+          "start": 117.88,
+          "end": 118.1,
+          "word": " while,"
+        },
+        {
+          "start": 118.18,
+          "end": 118.28,
+          "word": " and"
+        },
+        {
+          "start": 118.28,
+          "end": 118.46,
+          "word": " I"
+        },
+        {
+          "start": 118.46,
+          "end": 119.12,
+          "word": " figured"
+        },
+        {
+          "start": 119.12,
+          "end": 119.3,
+          "word": " it"
+        },
+        {
+          "start": 119.3,
+          "end": 119.46,
+          "word": " was"
+        },
+        {
+          "start": 119.46,
+          "end": 119.8,
+          "word": " this"
+        },
+        {
+          "start": 120.41,
+          "end": 120.67,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 120.83,
+      "end": 123.41,
+      "text": " It was kind of inspired by a video that Dan did a couple weeks ago.",
+      "words": [
+        {
+          "start": 120.83,
+          "end": 120.95,
+          "word": " It"
+        },
+        {
+          "start": 120.95,
+          "end": 121.05,
+          "word": " was"
+        },
+        {
+          "start": 121.05,
+          "end": 121.19,
+          "word": " kind"
+        },
+        {
+          "start": 121.19,
+          "end": 121.29,
+          "word": " of"
+        },
+        {
+          "start": 121.29,
+          "end": 121.59,
+          "word": " inspired"
+        },
+        {
+          "start": 121.59,
+          "end": 121.83,
+          "word": " by"
+        },
+        {
+          "start": 121.83,
+          "end": 121.91,
+          "word": " a"
+        },
+        {
+          "start": 121.91,
+          "end": 122.09,
+          "word": " video"
+        },
+        {
+          "start": 122.09,
+          "end": 122.27,
+          "word": " that"
+        },
+        {
+          "start": 122.27,
+          "end": 122.43,
+          "word": " Dan"
+        },
+        {
+          "start": 122.43,
+          "end": 122.59,
+          "word": " did"
+        },
+        {
+          "start": 122.59,
+          "end": 122.71,
+          "word": " a"
+        },
+        {
+          "start": 122.71,
+          "end": 122.87,
+          "word": " couple"
+        },
+        {
+          "start": 122.87,
+          "end": 123.09,
+          "word": " weeks"
+        },
+        {
+          "start": 123.09,
+          "end": 123.41,
+          "word": " ago."
+        }
+      ]
+    },
+    {
+      "start": 123.97,
+      "end": 126.93,
+      "text": " So yeah, in the underbar.",
+      "words": [
+        {
+          "start": 123.97,
+          "end": 124.33,
+          "word": " So"
+        },
+        {
+          "start": 124.33,
+          "end": 124.69,
+          "word": " yeah,"
+        },
+        {
+          "start": 126.35,
+          "end": 126.53,
+          "word": " in"
+        },
+        {
+          "start": 126.53,
+          "end": 126.63,
+          "word": " the"
+        },
+        {
+          "start": 126.63,
+          "end": 126.93,
+          "word": " underbar."
+        }
+      ]
+    },
+    {
+      "start": 127.29,
+      "end": 129.47,
+      "text": " I love you guys, and I will see you guys next Thursday.",
+      "words": [
+        {
+          "start": 127.29,
+          "end": 127.55,
+          "word": " I"
+        },
+        {
+          "start": 127.55,
+          "end": 127.67,
+          "word": " love"
+        },
+        {
+          "start": 127.67,
+          "end": 127.83,
+          "word": " you"
+        },
+        {
+          "start": 127.83,
+          "end": 128.03,
+          "word": " guys,"
+        },
+        {
+          "start": 128.15,
+          "end": 128.29,
+          "word": " and"
+        },
+        {
+          "start": 128.29,
+          "end": 128.39,
+          "word": " I"
+        },
+        {
+          "start": 128.39,
+          "end": 128.49,
+          "word": " will"
+        },
+        {
+          "start": 128.49,
+          "end": 128.63,
+          "word": " see"
+        },
+        {
+          "start": 128.63,
+          "end": 128.73,
+          "word": " you"
+        },
+        {
+          "start": 128.73,
+          "end": 128.87,
+          "word": " guys"
+        },
+        {
+          "start": 128.87,
+          "end": 129.23,
+          "word": " next"
+        },
+        {
+          "start": 129.23,
+          "end": 129.47,
+          "word": " Thursday."
+        }
+      ]
+    },
+    {
+      "start": 130.43,
+      "end": 131.13,
+      "text": " Peace out. Let's go.",
+      "words": [
+        {
+          "start": 130.43,
+          "end": 130.53,
+          "word": " Peace"
+        },
+        {
+          "start": 130.53,
+          "end": 130.75,
+          "word": " out."
+        },
+        {
+          "start": 130.81,
+          "end": 130.93,
+          "word": " Let's"
+        },
+        {
+          "start": 130.93,
+          "end": 131.13,
+          "word": " go."
+        }
+      ]
+    }
+  ]
+}

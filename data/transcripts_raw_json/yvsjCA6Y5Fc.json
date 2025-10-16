@@ -1,0 +1,6075 @@
+{
+  "segments": [
+    {
+      "start": 3.76,
+      "end": 11.6,
+      "text": " Hey little ones, Lee here, and I'm doing a movie review for Ridley Scott's adaptation of Robin Hood, starring Russell Crowe.",
+      "words": [
+        {
+          "start": 3.76,
+          "end": 4.24,
+          "word": " Hey"
+        },
+        {
+          "start": 4.24,
+          "end": 4.42,
+          "word": " little"
+        },
+        {
+          "start": 4.42,
+          "end": 4.78,
+          "word": " ones,"
+        },
+        {
+          "start": 5.2,
+          "end": 5.2,
+          "word": " Lee"
+        },
+        {
+          "start": 5.2,
+          "end": 5.6,
+          "word": " here,"
+        },
+        {
+          "start": 5.78,
+          "end": 5.82,
+          "word": " and"
+        },
+        {
+          "start": 5.82,
+          "end": 6.06,
+          "word": " I'm"
+        },
+        {
+          "start": 6.06,
+          "end": 6.22,
+          "word": " doing"
+        },
+        {
+          "start": 6.22,
+          "end": 6.38,
+          "word": " a"
+        },
+        {
+          "start": 6.38,
+          "end": 6.5,
+          "word": " movie"
+        },
+        {
+          "start": 6.5,
+          "end": 6.98,
+          "word": " review"
+        },
+        {
+          "start": 6.98,
+          "end": 7.58,
+          "word": " for"
+        },
+        {
+          "start": 7.58,
+          "end": 7.92,
+          "word": " Ridley"
+        },
+        {
+          "start": 7.92,
+          "end": 8.48,
+          "word": " Scott's"
+        },
+        {
+          "start": 8.48,
+          "end": 8.98,
+          "word": " adaptation"
+        },
+        {
+          "start": 8.98,
+          "end": 9.58,
+          "word": " of"
+        },
+        {
+          "start": 9.58,
+          "end": 10.04,
+          "word": " Robin"
+        },
+        {
+          "start": 10.04,
+          "end": 10.3,
+          "word": " Hood,"
+        },
+        {
+          "start": 10.48,
+          "end": 10.78,
+          "word": " starring"
+        },
+        {
+          "start": 10.78,
+          "end": 11.06,
+          "word": " Russell"
+        },
+        {
+          "start": 11.06,
+          "end": 11.6,
+          "word": " Crowe."
+        }
+      ]
+    },
+    {
+      "start": 12.82,
+      "end": 16.8,
+      "text": " First thing I gotta say, right off the bat, I was dreading going in to see this movie.",
+      "words": [
+        {
+          "start": 12.82,
+          "end": 13.22,
+          "word": " First"
+        },
+        {
+          "start": 13.22,
+          "end": 13.46,
+          "word": " thing"
+        },
+        {
+          "start": 13.46,
+          "end": 13.58,
+          "word": " I"
+        },
+        {
+          "start": 13.58,
+          "end": 13.76,
+          "word": " gotta"
+        },
+        {
+          "start": 13.76,
+          "end": 14.02,
+          "word": " say,"
+        },
+        {
+          "start": 14.14,
+          "end": 14.24,
+          "word": " right"
+        },
+        {
+          "start": 14.24,
+          "end": 14.36,
+          "word": " off"
+        },
+        {
+          "start": 14.36,
+          "end": 14.5,
+          "word": " the"
+        },
+        {
+          "start": 14.5,
+          "end": 14.68,
+          "word": " bat,"
+        },
+        {
+          "start": 14.78,
+          "end": 14.88,
+          "word": " I"
+        },
+        {
+          "start": 14.88,
+          "end": 15.02,
+          "word": " was"
+        },
+        {
+          "start": 15.02,
+          "end": 15.62,
+          "word": " dreading"
+        },
+        {
+          "start": 15.62,
+          "end": 15.8,
+          "word": " going"
+        },
+        {
+          "start": 15.8,
+          "end": 15.98,
+          "word": " in"
+        },
+        {
+          "start": 15.98,
+          "end": 16.1,
+          "word": " to"
+        },
+        {
+          "start": 16.1,
+          "end": 16.26,
+          "word": " see"
+        },
+        {
+          "start": 16.26,
+          "end": 16.44,
+          "word": " this"
+        },
+        {
+          "start": 16.44,
+          "end": 16.8,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 17.5,
+      "end": 25.44,
+      "text": " The trailers weren't really doing it much for me. It seemed like they were focusing too much on epic than, you know, character development of this timeless tale that is Robin Hood.",
+      "words": [
+        {
+          "start": 17.5,
+          "end": 17.68,
+          "word": " The"
+        },
+        {
+          "start": 17.68,
+          "end": 18.04,
+          "word": " trailers"
+        },
+        {
+          "start": 18.04,
+          "end": 18.36,
+          "word": " weren't"
+        },
+        {
+          "start": 18.36,
+          "end": 18.58,
+          "word": " really"
+        },
+        {
+          "start": 18.58,
+          "end": 18.8,
+          "word": " doing"
+        },
+        {
+          "start": 18.8,
+          "end": 19.0,
+          "word": " it"
+        },
+        {
+          "start": 19.0,
+          "end": 19.14,
+          "word": " much"
+        },
+        {
+          "start": 19.14,
+          "end": 19.44,
+          "word": " for"
+        },
+        {
+          "start": 19.44,
+          "end": 19.6,
+          "word": " me."
+        },
+        {
+          "start": 19.7,
+          "end": 19.7,
+          "word": " It"
+        },
+        {
+          "start": 19.7,
+          "end": 19.84,
+          "word": " seemed"
+        },
+        {
+          "start": 19.84,
+          "end": 19.96,
+          "word": " like"
+        },
+        {
+          "start": 19.96,
+          "end": 20.06,
+          "word": " they"
+        },
+        {
+          "start": 20.06,
+          "end": 20.14,
+          "word": " were"
+        },
+        {
+          "start": 20.14,
+          "end": 20.38,
+          "word": " focusing"
+        },
+        {
+          "start": 20.38,
+          "end": 20.62,
+          "word": " too"
+        },
+        {
+          "start": 20.62,
+          "end": 20.76,
+          "word": " much"
+        },
+        {
+          "start": 20.76,
+          "end": 20.92,
+          "word": " on"
+        },
+        {
+          "start": 20.92,
+          "end": 21.3,
+          "word": " epic"
+        },
+        {
+          "start": 21.3,
+          "end": 21.64,
+          "word": " than,"
+        },
+        {
+          "start": 21.64,
+          "end": 21.94,
+          "word": " you"
+        },
+        {
+          "start": 21.94,
+          "end": 22.06,
+          "word": " know,"
+        },
+        {
+          "start": 22.32,
+          "end": 22.5,
+          "word": " character"
+        },
+        {
+          "start": 22.5,
+          "end": 23.0,
+          "word": " development"
+        },
+        {
+          "start": 23.0,
+          "end": 23.42,
+          "word": " of"
+        },
+        {
+          "start": 23.42,
+          "end": 23.62,
+          "word": " this"
+        },
+        {
+          "start": 23.62,
+          "end": 24.12,
+          "word": " timeless"
+        },
+        {
+          "start": 24.12,
+          "end": 24.56,
+          "word": " tale"
+        },
+        {
+          "start": 24.56,
+          "end": 24.82,
+          "word": " that"
+        },
+        {
+          "start": 24.82,
+          "end": 24.98,
+          "word": " is"
+        },
+        {
+          "start": 24.98,
+          "end": 25.18,
+          "word": " Robin"
+        },
+        {
+          "start": 25.18,
+          "end": 25.44,
+          "word": " Hood."
+        }
+      ]
+    },
+    {
+      "start": 26.1,
+      "end": 31.84,
+      "text": " And also just these reviews I was reading about it. I mean, I think the most generous review I read gave it 2 out of 5.",
+      "words": [
+        {
+          "start": 26.1,
+          "end": 26.3,
+          "word": " And"
+        },
+        {
+          "start": 26.3,
+          "end": 26.5,
+          "word": " also"
+        },
+        {
+          "start": 26.5,
+          "end": 26.66,
+          "word": " just"
+        },
+        {
+          "start": 26.66,
+          "end": 26.82,
+          "word": " these"
+        },
+        {
+          "start": 26.82,
+          "end": 27.18,
+          "word": " reviews"
+        },
+        {
+          "start": 27.18,
+          "end": 27.46,
+          "word": " I"
+        },
+        {
+          "start": 27.46,
+          "end": 27.58,
+          "word": " was"
+        },
+        {
+          "start": 27.58,
+          "end": 27.88,
+          "word": " reading"
+        },
+        {
+          "start": 27.88,
+          "end": 28.2,
+          "word": " about"
+        },
+        {
+          "start": 28.2,
+          "end": 28.46,
+          "word": " it."
+        },
+        {
+          "start": 28.58,
+          "end": 28.68,
+          "word": " I"
+        },
+        {
+          "start": 28.68,
+          "end": 28.74,
+          "word": " mean,"
+        },
+        {
+          "start": 28.82,
+          "end": 28.86,
+          "word": " I"
+        },
+        {
+          "start": 28.86,
+          "end": 28.98,
+          "word": " think"
+        },
+        {
+          "start": 28.98,
+          "end": 29.1,
+          "word": " the"
+        },
+        {
+          "start": 29.1,
+          "end": 29.22,
+          "word": " most"
+        },
+        {
+          "start": 29.22,
+          "end": 29.62,
+          "word": " generous"
+        },
+        {
+          "start": 29.62,
+          "end": 30.04,
+          "word": " review"
+        },
+        {
+          "start": 30.04,
+          "end": 30.24,
+          "word": " I"
+        },
+        {
+          "start": 30.24,
+          "end": 30.5,
+          "word": " read"
+        },
+        {
+          "start": 30.5,
+          "end": 30.76,
+          "word": " gave"
+        },
+        {
+          "start": 30.76,
+          "end": 30.9,
+          "word": " it"
+        },
+        {
+          "start": 30.9,
+          "end": 31.18,
+          "word": " 2"
+        },
+        {
+          "start": 31.18,
+          "end": 31.3,
+          "word": " out"
+        },
+        {
+          "start": 31.3,
+          "end": 31.36,
+          "word": " of"
+        },
+        {
+          "start": 31.36,
+          "end": 31.84,
+          "word": " 5."
+        }
+      ]
+    },
+    {
+      "start": 31.84,
+      "end": 35.5,
+      "text": " So I really was not looking forward to seeing this movie.",
+      "words": [
+        {
+          "start": 31.84,
+          "end": 32.36,
+          "word": " So"
+        },
+        {
+          "start": 32.36,
+          "end": 32.5,
+          "word": " I"
+        },
+        {
+          "start": 32.5,
+          "end": 32.92,
+          "word": " really"
+        },
+        {
+          "start": 32.92,
+          "end": 33.34,
+          "word": " was"
+        },
+        {
+          "start": 33.34,
+          "end": 33.7,
+          "word": " not"
+        },
+        {
+          "start": 33.7,
+          "end": 34.08,
+          "word": " looking"
+        },
+        {
+          "start": 34.08,
+          "end": 34.38,
+          "word": " forward"
+        },
+        {
+          "start": 34.38,
+          "end": 34.62,
+          "word": " to"
+        },
+        {
+          "start": 34.62,
+          "end": 34.86,
+          "word": " seeing"
+        },
+        {
+          "start": 34.86,
+          "end": 35.1,
+          "word": " this"
+        },
+        {
+          "start": 35.1,
+          "end": 35.5,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 36.76,
+      "end": 44.36,
+      "text": " But I gotta say, maybe my expectations were lowered by these other reviews I read, but I didn't mind it, to be honest with you.",
+      "words": [
+        {
+          "start": 36.76,
+          "end": 37.24,
+          "word": " But"
+        },
+        {
+          "start": 37.24,
+          "end": 37.66,
+          "word": " I"
+        },
+        {
+          "start": 37.66,
+          "end": 37.84,
+          "word": " gotta"
+        },
+        {
+          "start": 37.84,
+          "end": 38.22,
+          "word": " say,"
+        },
+        {
+          "start": 38.42,
+          "end": 38.62,
+          "word": " maybe"
+        },
+        {
+          "start": 38.62,
+          "end": 38.86,
+          "word": " my"
+        },
+        {
+          "start": 38.86,
+          "end": 39.26,
+          "word": " expectations"
+        },
+        {
+          "start": 39.26,
+          "end": 39.62,
+          "word": " were"
+        },
+        {
+          "start": 39.62,
+          "end": 39.9,
+          "word": " lowered"
+        },
+        {
+          "start": 39.9,
+          "end": 40.18,
+          "word": " by"
+        },
+        {
+          "start": 40.18,
+          "end": 40.32,
+          "word": " these"
+        },
+        {
+          "start": 40.32,
+          "end": 40.52,
+          "word": " other"
+        },
+        {
+          "start": 40.52,
+          "end": 40.92,
+          "word": " reviews"
+        },
+        {
+          "start": 40.92,
+          "end": 41.22,
+          "word": " I"
+        },
+        {
+          "start": 41.22,
+          "end": 41.54,
+          "word": " read,"
+        },
+        {
+          "start": 41.66,
+          "end": 41.86,
+          "word": " but"
+        },
+        {
+          "start": 41.86,
+          "end": 42.58,
+          "word": " I"
+        },
+        {
+          "start": 42.58,
+          "end": 42.82,
+          "word": " didn't"
+        },
+        {
+          "start": 42.82,
+          "end": 43.06,
+          "word": " mind"
+        },
+        {
+          "start": 43.06,
+          "end": 43.34,
+          "word": " it,"
+        },
+        {
+          "start": 43.46,
+          "end": 43.54,
+          "word": " to"
+        },
+        {
+          "start": 43.54,
+          "end": 43.64,
+          "word": " be"
+        },
+        {
+          "start": 43.64,
+          "end": 43.88,
+          "word": " honest"
+        },
+        {
+          "start": 43.88,
+          "end": 44.18,
+          "word": " with"
+        },
+        {
+          "start": 44.18,
+          "end": 44.36,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 45.22,
+      "end": 51.6,
+      "text": " I know it's been really just getting nailed to the cross as far as, you know, movies going on at a film festival right now.",
+      "words": [
+        {
+          "start": 45.22,
+          "end": 45.66,
+          "word": " I"
+        },
+        {
+          "start": 45.66,
+          "end": 45.82,
+          "word": " know"
+        },
+        {
+          "start": 45.82,
+          "end": 45.96,
+          "word": " it's"
+        },
+        {
+          "start": 45.96,
+          "end": 46.08,
+          "word": " been"
+        },
+        {
+          "start": 46.08,
+          "end": 46.48,
+          "word": " really"
+        },
+        {
+          "start": 46.48,
+          "end": 46.72,
+          "word": " just"
+        },
+        {
+          "start": 46.72,
+          "end": 46.96,
+          "word": " getting"
+        },
+        {
+          "start": 46.96,
+          "end": 47.4,
+          "word": " nailed"
+        },
+        {
+          "start": 47.4,
+          "end": 47.6,
+          "word": " to"
+        },
+        {
+          "start": 47.6,
+          "end": 47.72,
+          "word": " the"
+        },
+        {
+          "start": 47.72,
+          "end": 48.12,
+          "word": " cross"
+        },
+        {
+          "start": 48.12,
+          "end": 48.58,
+          "word": " as"
+        },
+        {
+          "start": 48.58,
+          "end": 48.86,
+          "word": " far"
+        },
+        {
+          "start": 48.86,
+          "end": 49.24,
+          "word": " as,"
+        },
+        {
+          "start": 49.24,
+          "end": 49.46,
+          "word": " you"
+        },
+        {
+          "start": 49.46,
+          "end": 49.64,
+          "word": " know,"
+        },
+        {
+          "start": 49.68,
+          "end": 49.92,
+          "word": " movies"
+        },
+        {
+          "start": 49.92,
+          "end": 50.12,
+          "word": " going"
+        },
+        {
+          "start": 50.12,
+          "end": 50.36,
+          "word": " on"
+        },
+        {
+          "start": 50.36,
+          "end": 50.48,
+          "word": " at"
+        },
+        {
+          "start": 50.48,
+          "end": 50.54,
+          "word": " a"
+        },
+        {
+          "start": 50.54,
+          "end": 50.7,
+          "word": " film"
+        },
+        {
+          "start": 50.7,
+          "end": 51.02,
+          "word": " festival"
+        },
+        {
+          "start": 51.02,
+          "end": 51.32,
+          "word": " right"
+        },
+        {
+          "start": 51.32,
+          "end": 51.6,
+          "word": " now."
+        }
+      ]
+    },
+    {
+      "start": 51.76,
+      "end": 55.44,
+      "text": " But I didn't find it all that bad. I didn't find all that good.",
+      "words": [
+        {
+          "start": 51.76,
+          "end": 51.86,
+          "word": " But"
+        },
+        {
+          "start": 51.86,
+          "end": 52.9,
+          "word": " I"
+        },
+        {
+          "start": 52.9,
+          "end": 53.1,
+          "word": " didn't"
+        },
+        {
+          "start": 53.1,
+          "end": 53.32,
+          "word": " find"
+        },
+        {
+          "start": 53.32,
+          "end": 53.44,
+          "word": " it"
+        },
+        {
+          "start": 53.44,
+          "end": 53.62,
+          "word": " all"
+        },
+        {
+          "start": 53.62,
+          "end": 53.82,
+          "word": " that"
+        },
+        {
+          "start": 53.82,
+          "end": 54.26,
+          "word": " bad."
+        },
+        {
+          "start": 54.42,
+          "end": 54.44,
+          "word": " I"
+        },
+        {
+          "start": 54.44,
+          "end": 54.54,
+          "word": " didn't"
+        },
+        {
+          "start": 54.54,
+          "end": 54.72,
+          "word": " find"
+        },
+        {
+          "start": 54.72,
+          "end": 54.86,
+          "word": " all"
+        },
+        {
+          "start": 54.86,
+          "end": 55.04,
+          "word": " that"
+        },
+        {
+          "start": 55.04,
+          "end": 55.44,
+          "word": " good."
+        }
+      ]
+    },
+    {
+      "start": 55.44,
+      "end": 62.12,
+      "text": " Like I said, maybe my expectations were lowered because of all these reviews, but I really didn't hate it.",
+      "words": [
+        {
+          "start": 55.44,
+          "end": 55.78,
+          "word": " Like"
+        },
+        {
+          "start": 55.78,
+          "end": 55.94,
+          "word": " I"
+        },
+        {
+          "start": 55.94,
+          "end": 56.18,
+          "word": " said,"
+        },
+        {
+          "start": 56.28,
+          "end": 56.4,
+          "word": " maybe"
+        },
+        {
+          "start": 56.4,
+          "end": 56.68,
+          "word": " my"
+        },
+        {
+          "start": 56.68,
+          "end": 57.4,
+          "word": " expectations"
+        },
+        {
+          "start": 57.4,
+          "end": 57.78,
+          "word": " were"
+        },
+        {
+          "start": 57.78,
+          "end": 58.2,
+          "word": " lowered"
+        },
+        {
+          "start": 58.2,
+          "end": 58.58,
+          "word": " because"
+        },
+        {
+          "start": 58.58,
+          "end": 58.7,
+          "word": " of"
+        },
+        {
+          "start": 58.7,
+          "end": 58.8,
+          "word": " all"
+        },
+        {
+          "start": 58.8,
+          "end": 58.92,
+          "word": " these"
+        },
+        {
+          "start": 58.92,
+          "end": 59.22,
+          "word": " reviews,"
+        },
+        {
+          "start": 59.34,
+          "end": 59.58,
+          "word": " but"
+        },
+        {
+          "start": 59.58,
+          "end": 60.44,
+          "word": " I"
+        },
+        {
+          "start": 60.44,
+          "end": 60.86,
+          "word": " really"
+        },
+        {
+          "start": 60.86,
+          "end": 61.58,
+          "word": " didn't"
+        },
+        {
+          "start": 61.58,
+          "end": 61.76,
+          "word": " hate"
+        },
+        {
+          "start": 61.76,
+          "end": 62.12,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 63.52,
+      "end": 69.18,
+      "text": " I guess we'll start right off, like, what people could hate about this movie. There are some negatives, to say the least.",
+      "words": [
+        {
+          "start": 63.52,
+          "end": 63.52,
+          "word": " I"
+        },
+        {
+          "start": 63.52,
+          "end": 63.62,
+          "word": " guess"
+        },
+        {
+          "start": 63.62,
+          "end": 63.82,
+          "word": " we'll"
+        },
+        {
+          "start": 63.82,
+          "end": 64.0,
+          "word": " start"
+        },
+        {
+          "start": 64.0,
+          "end": 64.26,
+          "word": " right"
+        },
+        {
+          "start": 64.26,
+          "end": 64.54,
+          "word": " off,"
+        },
+        {
+          "start": 64.8,
+          "end": 64.8,
+          "word": " like,"
+        },
+        {
+          "start": 65.14,
+          "end": 65.38,
+          "word": " what"
+        },
+        {
+          "start": 65.38,
+          "end": 65.78,
+          "word": " people"
+        },
+        {
+          "start": 65.78,
+          "end": 66.12,
+          "word": " could"
+        },
+        {
+          "start": 66.12,
+          "end": 66.38,
+          "word": " hate"
+        },
+        {
+          "start": 66.38,
+          "end": 66.62,
+          "word": " about"
+        },
+        {
+          "start": 66.62,
+          "end": 66.84,
+          "word": " this"
+        },
+        {
+          "start": 66.84,
+          "end": 67.08,
+          "word": " movie."
+        },
+        {
+          "start": 67.24,
+          "end": 67.32,
+          "word": " There"
+        },
+        {
+          "start": 67.32,
+          "end": 67.48,
+          "word": " are"
+        },
+        {
+          "start": 67.48,
+          "end": 67.72,
+          "word": " some"
+        },
+        {
+          "start": 67.72,
+          "end": 68.16,
+          "word": " negatives,"
+        },
+        {
+          "start": 68.34,
+          "end": 68.48,
+          "word": " to"
+        },
+        {
+          "start": 68.48,
+          "end": 68.7,
+          "word": " say"
+        },
+        {
+          "start": 68.7,
+          "end": 68.88,
+          "word": " the"
+        },
+        {
+          "start": 68.88,
+          "end": 69.18,
+          "word": " least."
+        }
+      ]
+    },
+    {
+      "start": 71.76,
+      "end": 77.52,
+      "text": " Really, first and foremost, it just lacked the charm of these past Robin Hood movies that we know.",
+      "words": [
+        {
+          "start": 71.76,
+          "end": 72.1,
+          "word": " Really,"
+        },
+        {
+          "start": 72.3,
+          "end": 72.46,
+          "word": " first"
+        },
+        {
+          "start": 72.46,
+          "end": 72.7,
+          "word": " and"
+        },
+        {
+          "start": 72.7,
+          "end": 73.12,
+          "word": " foremost,"
+        },
+        {
+          "start": 73.14,
+          "end": 73.34,
+          "word": " it"
+        },
+        {
+          "start": 73.34,
+          "end": 73.48,
+          "word": " just"
+        },
+        {
+          "start": 73.48,
+          "end": 73.84,
+          "word": " lacked"
+        },
+        {
+          "start": 73.84,
+          "end": 74.08,
+          "word": " the"
+        },
+        {
+          "start": 74.08,
+          "end": 74.56,
+          "word": " charm"
+        },
+        {
+          "start": 74.56,
+          "end": 75.34,
+          "word": " of"
+        },
+        {
+          "start": 75.34,
+          "end": 75.56,
+          "word": " these"
+        },
+        {
+          "start": 75.56,
+          "end": 75.92,
+          "word": " past"
+        },
+        {
+          "start": 75.92,
+          "end": 76.24,
+          "word": " Robin"
+        },
+        {
+          "start": 76.24,
+          "end": 76.44,
+          "word": " Hood"
+        },
+        {
+          "start": 76.44,
+          "end": 76.86,
+          "word": " movies"
+        },
+        {
+          "start": 76.86,
+          "end": 77.08,
+          "word": " that"
+        },
+        {
+          "start": 77.08,
+          "end": 77.26,
+          "word": " we"
+        },
+        {
+          "start": 77.26,
+          "end": 77.52,
+          "word": " know."
+        }
+      ]
+    },
+    {
+      "start": 77.76,
+      "end": 82.14,
+      "text": " I mean, there was the classic Disney version, which everyone watched when there were kids.",
+      "words": [
+        {
+          "start": 77.76,
+          "end": 77.78,
+          "word": " I"
+        },
+        {
+          "start": 77.78,
+          "end": 77.94,
+          "word": " mean,"
+        },
+        {
+          "start": 78.56,
+          "end": 78.76,
+          "word": " there"
+        },
+        {
+          "start": 78.76,
+          "end": 78.98,
+          "word": " was"
+        },
+        {
+          "start": 78.98,
+          "end": 79.16,
+          "word": " the"
+        },
+        {
+          "start": 79.16,
+          "end": 79.52,
+          "word": " classic"
+        },
+        {
+          "start": 79.52,
+          "end": 79.86,
+          "word": " Disney"
+        },
+        {
+          "start": 79.86,
+          "end": 80.22,
+          "word": " version,"
+        },
+        {
+          "start": 80.22,
+          "end": 80.6,
+          "word": " which"
+        },
+        {
+          "start": 80.6,
+          "end": 80.9,
+          "word": " everyone"
+        },
+        {
+          "start": 80.9,
+          "end": 81.34,
+          "word": " watched"
+        },
+        {
+          "start": 81.34,
+          "end": 81.54,
+          "word": " when"
+        },
+        {
+          "start": 81.54,
+          "end": 81.66,
+          "word": " there"
+        },
+        {
+          "start": 81.66,
+          "end": 81.78,
+          "word": " were"
+        },
+        {
+          "start": 81.78,
+          "end": 82.14,
+          "word": " kids."
+        }
+      ]
+    },
+    {
+      "start": 83.2,
+      "end": 87.02,
+      "text": " There's Men in Tights, which, you know, hilarious spoof of the story.",
+      "words": [
+        {
+          "start": 83.2,
+          "end": 83.64,
+          "word": " There's"
+        },
+        {
+          "start": 83.64,
+          "end": 83.78,
+          "word": " Men"
+        },
+        {
+          "start": 83.78,
+          "end": 83.96,
+          "word": " in"
+        },
+        {
+          "start": 83.96,
+          "end": 84.42,
+          "word": " Tights,"
+        },
+        {
+          "start": 84.66,
+          "end": 84.74,
+          "word": " which,"
+        },
+        {
+          "start": 85.0,
+          "end": 85.0,
+          "word": " you"
+        },
+        {
+          "start": 85.0,
+          "end": 85.12,
+          "word": " know,"
+        },
+        {
+          "start": 85.88,
+          "end": 85.88,
+          "word": " hilarious"
+        },
+        {
+          "start": 85.88,
+          "end": 86.3,
+          "word": " spoof"
+        },
+        {
+          "start": 86.3,
+          "end": 86.48,
+          "word": " of"
+        },
+        {
+          "start": 86.48,
+          "end": 86.64,
+          "word": " the"
+        },
+        {
+          "start": 86.64,
+          "end": 87.02,
+          "word": " story."
+        }
+      ]
+    },
+    {
+      "start": 87.66,
+      "end": 93.0,
+      "text": " There was a Kevin Costner, Prince of Thieves version, which was supposed to be the dark and edgy version of its time.",
+      "words": [
+        {
+          "start": 87.66,
+          "end": 87.7,
+          "word": " There"
+        },
+        {
+          "start": 87.7,
+          "end": 87.8,
+          "word": " was"
+        },
+        {
+          "start": 87.8,
+          "end": 87.92,
+          "word": " a"
+        },
+        {
+          "start": 87.92,
+          "end": 88.14,
+          "word": " Kevin"
+        },
+        {
+          "start": 88.14,
+          "end": 88.6,
+          "word": " Costner,"
+        },
+        {
+          "start": 88.64,
+          "end": 88.86,
+          "word": " Prince"
+        },
+        {
+          "start": 88.86,
+          "end": 89.04,
+          "word": " of"
+        },
+        {
+          "start": 89.04,
+          "end": 89.24,
+          "word": " Thieves"
+        },
+        {
+          "start": 89.24,
+          "end": 89.58,
+          "word": " version,"
+        },
+        {
+          "start": 89.92,
+          "end": 90.04,
+          "word": " which"
+        },
+        {
+          "start": 90.04,
+          "end": 90.22,
+          "word": " was"
+        },
+        {
+          "start": 90.22,
+          "end": 90.46,
+          "word": " supposed"
+        },
+        {
+          "start": 90.46,
+          "end": 90.68,
+          "word": " to"
+        },
+        {
+          "start": 90.68,
+          "end": 90.8,
+          "word": " be"
+        },
+        {
+          "start": 90.8,
+          "end": 90.96,
+          "word": " the"
+        },
+        {
+          "start": 90.96,
+          "end": 91.2,
+          "word": " dark"
+        },
+        {
+          "start": 91.2,
+          "end": 91.38,
+          "word": " and"
+        },
+        {
+          "start": 91.38,
+          "end": 91.82,
+          "word": " edgy"
+        },
+        {
+          "start": 91.82,
+          "end": 92.08,
+          "word": " version"
+        },
+        {
+          "start": 92.08,
+          "end": 92.44,
+          "word": " of"
+        },
+        {
+          "start": 92.44,
+          "end": 92.58,
+          "word": " its"
+        },
+        {
+          "start": 92.58,
+          "end": 93.0,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 93.28,
+      "end": 97.6,
+      "text": " But I mean, that was, what, 13 years ago? 14 years ago? Probably more than that.",
+      "words": [
+        {
+          "start": 93.28,
+          "end": 93.32,
+          "word": " But"
+        },
+        {
+          "start": 93.32,
+          "end": 93.4,
+          "word": " I"
+        },
+        {
+          "start": 93.4,
+          "end": 93.56,
+          "word": " mean,"
+        },
+        {
+          "start": 93.72,
+          "end": 93.84,
+          "word": " that"
+        },
+        {
+          "start": 93.84,
+          "end": 94.06,
+          "word": " was,"
+        },
+        {
+          "start": 94.08,
+          "end": 94.38,
+          "word": " what,"
+        },
+        {
+          "start": 95.1,
+          "end": 95.26,
+          "word": " 13"
+        },
+        {
+          "start": 95.26,
+          "end": 95.52,
+          "word": " years"
+        },
+        {
+          "start": 95.52,
+          "end": 95.88,
+          "word": " ago?"
+        },
+        {
+          "start": 96.14,
+          "end": 96.4,
+          "word": " 14"
+        },
+        {
+          "start": 96.4,
+          "end": 96.6,
+          "word": " years"
+        },
+        {
+          "start": 96.6,
+          "end": 96.8,
+          "word": " ago?"
+        },
+        {
+          "start": 96.88,
+          "end": 97.02,
+          "word": " Probably"
+        },
+        {
+          "start": 97.02,
+          "end": 97.26,
+          "word": " more"
+        },
+        {
+          "start": 97.26,
+          "end": 97.42,
+          "word": " than"
+        },
+        {
+          "start": 97.42,
+          "end": 97.6,
+          "word": " that."
+        }
+      ]
+    },
+    {
+      "start": 98.06,
+      "end": 105.65,
+      "text": " So, maybe in Hollywood's eyes it was time for a remake, and it just lacked the charm of those past movies.",
+      "words": [
+        {
+          "start": 98.06,
+          "end": 98.5,
+          "word": " So,"
+        },
+        {
+          "start": 99.2,
+          "end": 99.62,
+          "word": " maybe"
+        },
+        {
+          "start": 99.62,
+          "end": 99.8,
+          "word": " in"
+        },
+        {
+          "start": 99.8,
+          "end": 100.3,
+          "word": " Hollywood's"
+        },
+        {
+          "start": 100.3,
+          "end": 100.5,
+          "word": " eyes"
+        },
+        {
+          "start": 100.5,
+          "end": 100.66,
+          "word": " it"
+        },
+        {
+          "start": 100.66,
+          "end": 100.76,
+          "word": " was"
+        },
+        {
+          "start": 100.76,
+          "end": 100.94,
+          "word": " time"
+        },
+        {
+          "start": 100.94,
+          "end": 101.16,
+          "word": " for"
+        },
+        {
+          "start": 101.16,
+          "end": 101.28,
+          "word": " a"
+        },
+        {
+          "start": 101.28,
+          "end": 101.52,
+          "word": " remake,"
+        },
+        {
+          "start": 101.68,
+          "end": 102.08,
+          "word": " and"
+        },
+        {
+          "start": 102.08,
+          "end": 103.12,
+          "word": " it"
+        },
+        {
+          "start": 103.31,
+          "end": 103.43,
+          "word": " just"
+        },
+        {
+          "start": 103.43,
+          "end": 103.75,
+          "word": " lacked"
+        },
+        {
+          "start": 103.75,
+          "end": 103.97,
+          "word": " the"
+        },
+        {
+          "start": 103.97,
+          "end": 104.25,
+          "word": " charm"
+        },
+        {
+          "start": 104.25,
+          "end": 104.69,
+          "word": " of"
+        },
+        {
+          "start": 104.69,
+          "end": 104.95,
+          "word": " those"
+        },
+        {
+          "start": 104.95,
+          "end": 105.23,
+          "word": " past"
+        },
+        {
+          "start": 105.23,
+          "end": 105.65,
+          "word": " movies."
+        }
+      ]
+    },
+    {
+      "start": 105.65,
+      "end": 115.53,
+      "text": " It did seem to focus too much on epic, epic, epic, and it really just lacked what made the other movies more enjoyable.",
+      "words": [
+        {
+          "start": 105.65,
+          "end": 105.99,
+          "word": " It"
+        },
+        {
+          "start": 105.99,
+          "end": 106.47,
+          "word": " did"
+        },
+        {
+          "start": 106.47,
+          "end": 106.77,
+          "word": " seem"
+        },
+        {
+          "start": 106.77,
+          "end": 106.99,
+          "word": " to"
+        },
+        {
+          "start": 106.99,
+          "end": 107.35,
+          "word": " focus"
+        },
+        {
+          "start": 107.35,
+          "end": 107.67,
+          "word": " too"
+        },
+        {
+          "start": 107.67,
+          "end": 107.91,
+          "word": " much"
+        },
+        {
+          "start": 107.91,
+          "end": 108.39,
+          "word": " on"
+        },
+        {
+          "start": 108.39,
+          "end": 109.19,
+          "word": " epic,"
+        },
+        {
+          "start": 109.35,
+          "end": 109.65,
+          "word": " epic,"
+        },
+        {
+          "start": 109.79,
+          "end": 110.15,
+          "word": " epic,"
+        },
+        {
+          "start": 110.55,
+          "end": 110.87,
+          "word": " and"
+        },
+        {
+          "start": 110.87,
+          "end": 111.93,
+          "word": " it"
+        },
+        {
+          "start": 111.93,
+          "end": 112.29,
+          "word": " really"
+        },
+        {
+          "start": 112.29,
+          "end": 112.57,
+          "word": " just"
+        },
+        {
+          "start": 112.57,
+          "end": 113.03,
+          "word": " lacked"
+        },
+        {
+          "start": 113.03,
+          "end": 113.49,
+          "word": " what"
+        },
+        {
+          "start": 113.49,
+          "end": 113.85,
+          "word": " made"
+        },
+        {
+          "start": 113.85,
+          "end": 114.01,
+          "word": " the"
+        },
+        {
+          "start": 114.01,
+          "end": 114.15,
+          "word": " other"
+        },
+        {
+          "start": 114.15,
+          "end": 114.45,
+          "word": " movies"
+        },
+        {
+          "start": 114.45,
+          "end": 114.91,
+          "word": " more"
+        },
+        {
+          "start": 114.91,
+          "end": 115.53,
+          "word": " enjoyable."
+        }
+      ]
+    },
+    {
+      "start": 115.75,
+      "end": 123.63,
+      "text": " It suffers from what I call Kingdom of Heaven Syndrome, where it builds too much for these huge, catastrophic war sequences.",
+      "words": [
+        {
+          "start": 115.75,
+          "end": 115.81,
+          "word": " It"
+        },
+        {
+          "start": 115.81,
+          "end": 116.01,
+          "word": " suffers"
+        },
+        {
+          "start": 116.01,
+          "end": 116.31,
+          "word": " from"
+        },
+        {
+          "start": 116.31,
+          "end": 116.39,
+          "word": " what"
+        },
+        {
+          "start": 116.39,
+          "end": 116.53,
+          "word": " I"
+        },
+        {
+          "start": 116.53,
+          "end": 116.73,
+          "word": " call"
+        },
+        {
+          "start": 116.73,
+          "end": 116.99,
+          "word": " Kingdom"
+        },
+        {
+          "start": 116.99,
+          "end": 117.19,
+          "word": " of"
+        },
+        {
+          "start": 117.19,
+          "end": 117.45,
+          "word": " Heaven"
+        },
+        {
+          "start": 117.45,
+          "end": 117.93,
+          "word": " Syndrome,"
+        },
+        {
+          "start": 118.23,
+          "end": 118.49,
+          "word": " where"
+        },
+        {
+          "start": 118.49,
+          "end": 119.63,
+          "word": " it"
+        },
+        {
+          "start": 119.63,
+          "end": 119.95,
+          "word": " builds"
+        },
+        {
+          "start": 119.95,
+          "end": 120.19,
+          "word": " too"
+        },
+        {
+          "start": 120.19,
+          "end": 120.41,
+          "word": " much"
+        },
+        {
+          "start": 120.41,
+          "end": 120.65,
+          "word": " for"
+        },
+        {
+          "start": 120.65,
+          "end": 120.89,
+          "word": " these"
+        },
+        {
+          "start": 120.89,
+          "end": 121.57,
+          "word": " huge,"
+        },
+        {
+          "start": 121.77,
+          "end": 122.63,
+          "word": " catastrophic"
+        },
+        {
+          "start": 122.63,
+          "end": 123.05,
+          "word": " war"
+        },
+        {
+          "start": 123.05,
+          "end": 123.63,
+          "word": " sequences."
+        }
+      ]
+    },
+    {
+      "start": 124.01,
+      "end": 132.57,
+      "text": " They're supposed to blow you away, but the problem is you don't give a damn, because it just lacks that charm of the past movies.",
+      "words": [
+        {
+          "start": 124.01,
+          "end": 124.05,
+          "word": " They're"
+        },
+        {
+          "start": 124.05,
+          "end": 124.29,
+          "word": " supposed"
+        },
+        {
+          "start": 124.29,
+          "end": 124.51,
+          "word": " to"
+        },
+        {
+          "start": 124.51,
+          "end": 124.67,
+          "word": " blow"
+        },
+        {
+          "start": 124.67,
+          "end": 124.89,
+          "word": " you"
+        },
+        {
+          "start": 124.89,
+          "end": 125.25,
+          "word": " away,"
+        },
+        {
+          "start": 125.41,
+          "end": 125.51,
+          "word": " but"
+        },
+        {
+          "start": 125.51,
+          "end": 125.67,
+          "word": " the"
+        },
+        {
+          "start": 125.67,
+          "end": 125.93,
+          "word": " problem"
+        },
+        {
+          "start": 125.93,
+          "end": 126.31,
+          "word": " is"
+        },
+        {
+          "start": 126.31,
+          "end": 127.39,
+          "word": " you"
+        },
+        {
+          "start": 127.39,
+          "end": 127.59,
+          "word": " don't"
+        },
+        {
+          "start": 127.59,
+          "end": 127.87,
+          "word": " give"
+        },
+        {
+          "start": 127.87,
+          "end": 128.07,
+          "word": " a"
+        },
+        {
+          "start": 128.07,
+          "end": 128.39,
+          "word": " damn,"
+        },
+        {
+          "start": 128.49,
+          "end": 128.85,
+          "word": " because"
+        },
+        {
+          "start": 128.85,
+          "end": 130.19,
+          "word": " it"
+        },
+        {
+          "start": 130.19,
+          "end": 130.41,
+          "word": " just"
+        },
+        {
+          "start": 130.41,
+          "end": 130.79,
+          "word": " lacks"
+        },
+        {
+          "start": 130.79,
+          "end": 131.09,
+          "word": " that"
+        },
+        {
+          "start": 131.09,
+          "end": 131.43,
+          "word": " charm"
+        },
+        {
+          "start": 131.43,
+          "end": 131.61,
+          "word": " of"
+        },
+        {
+          "start": 131.61,
+          "end": 131.73,
+          "word": " the"
+        },
+        {
+          "start": 131.73,
+          "end": 131.97,
+          "word": " past"
+        },
+        {
+          "start": 131.97,
+          "end": 132.57,
+          "word": " movies."
+        }
+      ]
+    },
+    {
+      "start": 132.57,
+      "end": 137.85,
+      "text": " Not in all instances, but the ones that matter the most, yeah.",
+      "words": [
+        {
+          "start": 132.57,
+          "end": 133.11,
+          "word": " Not"
+        },
+        {
+          "start": 133.11,
+          "end": 134.35,
+          "word": " in"
+        },
+        {
+          "start": 134.35,
+          "end": 134.53,
+          "word": " all"
+        },
+        {
+          "start": 134.53,
+          "end": 134.99,
+          "word": " instances,"
+        },
+        {
+          "start": 135.27,
+          "end": 135.51,
+          "word": " but"
+        },
+        {
+          "start": 135.51,
+          "end": 135.67,
+          "word": " the"
+        },
+        {
+          "start": 135.67,
+          "end": 135.83,
+          "word": " ones"
+        },
+        {
+          "start": 135.83,
+          "end": 136.01,
+          "word": " that"
+        },
+        {
+          "start": 136.01,
+          "end": 136.25,
+          "word": " matter"
+        },
+        {
+          "start": 136.25,
+          "end": 136.43,
+          "word": " the"
+        },
+        {
+          "start": 136.43,
+          "end": 136.81,
+          "word": " most,"
+        },
+        {
+          "start": 137.85,
+          "end": 137.85,
+          "word": " yeah."
+        }
+      ]
+    },
+    {
+      "start": 138.53,
+      "end": 142.57,
+      "text": " Russell Crowe and Cate Blanchett just did not sell it for me.",
+      "words": [
+        {
+          "start": 138.53,
+          "end": 138.69,
+          "word": " Russell"
+        },
+        {
+          "start": 138.69,
+          "end": 139.23,
+          "word": " Crowe"
+        },
+        {
+          "start": 139.23,
+          "end": 139.51,
+          "word": " and"
+        },
+        {
+          "start": 139.51,
+          "end": 139.97,
+          "word": " Cate"
+        },
+        {
+          "start": 139.97,
+          "end": 140.61,
+          "word": " Blanchett"
+        },
+        {
+          "start": 140.61,
+          "end": 140.79,
+          "word": " just"
+        },
+        {
+          "start": 140.79,
+          "end": 141.35,
+          "word": " did"
+        },
+        {
+          "start": 141.35,
+          "end": 141.67,
+          "word": " not"
+        },
+        {
+          "start": 141.67,
+          "end": 142.03,
+          "word": " sell"
+        },
+        {
+          "start": 142.03,
+          "end": 142.19,
+          "word": " it"
+        },
+        {
+          "start": 142.19,
+          "end": 142.37,
+          "word": " for"
+        },
+        {
+          "start": 142.37,
+          "end": 142.57,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 142.71,
+      "end": 146.51,
+      "text": " I had a very hard time just buying it.",
+      "words": [
+        {
+          "start": 142.71,
+          "end": 142.81,
+          "word": " I"
+        },
+        {
+          "start": 142.81,
+          "end": 142.97,
+          "word": " had"
+        },
+        {
+          "start": 142.97,
+          "end": 143.23,
+          "word": " a"
+        },
+        {
+          "start": 143.23,
+          "end": 143.49,
+          "word": " very"
+        },
+        {
+          "start": 143.49,
+          "end": 144.05,
+          "word": " hard"
+        },
+        {
+          "start": 144.05,
+          "end": 144.53,
+          "word": " time"
+        },
+        {
+          "start": 144.53,
+          "end": 145.51,
+          "word": " just"
+        },
+        {
+          "start": 145.51,
+          "end": 145.99,
+          "word": " buying"
+        },
+        {
+          "start": 145.99,
+          "end": 146.51,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 147.21,
+      "end": 157.33,
+      "text": " We're supposed to believe that these two are in their mid-30s at the oldest, and they're looking pretty rough in this movie.",
+      "words": [
+        {
+          "start": 147.21,
+          "end": 147.77,
+          "word": " We're"
+        },
+        {
+          "start": 147.77,
+          "end": 147.97,
+          "word": " supposed"
+        },
+        {
+          "start": 147.97,
+          "end": 148.19,
+          "word": " to"
+        },
+        {
+          "start": 148.19,
+          "end": 148.49,
+          "word": " believe"
+        },
+        {
+          "start": 148.49,
+          "end": 148.77,
+          "word": " that"
+        },
+        {
+          "start": 148.77,
+          "end": 149.01,
+          "word": " these"
+        },
+        {
+          "start": 149.01,
+          "end": 149.27,
+          "word": " two"
+        },
+        {
+          "start": 149.27,
+          "end": 149.53,
+          "word": " are"
+        },
+        {
+          "start": 149.53,
+          "end": 149.69,
+          "word": " in"
+        },
+        {
+          "start": 149.69,
+          "end": 150.07,
+          "word": " their"
+        },
+        {
+          "start": 150.07,
+          "end": 150.63,
+          "word": " mid"
+        },
+        {
+          "start": 150.63,
+          "end": 152.19,
+          "word": "-30s"
+        },
+        {
+          "start": 152.19,
+          "end": 152.35,
+          "word": " at"
+        },
+        {
+          "start": 152.35,
+          "end": 152.51,
+          "word": " the"
+        },
+        {
+          "start": 152.51,
+          "end": 152.99,
+          "word": " oldest,"
+        },
+        {
+          "start": 153.65,
+          "end": 153.99,
+          "word": " and"
+        },
+        {
+          "start": 153.99,
+          "end": 155.41,
+          "word": " they're"
+        },
+        {
+          "start": 155.89,
+          "end": 156.11,
+          "word": " looking"
+        },
+        {
+          "start": 156.11,
+          "end": 156.39,
+          "word": " pretty"
+        },
+        {
+          "start": 156.39,
+          "end": 156.71,
+          "word": " rough"
+        },
+        {
+          "start": 156.71,
+          "end": 156.85,
+          "word": " in"
+        },
+        {
+          "start": 156.85,
+          "end": 157.01,
+          "word": " this"
+        },
+        {
+          "start": 157.01,
+          "end": 157.33,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 157.33,
+      "end": 161.81,
+      "text": " Like, okay, yes, Russell Crowe's Robin Hood is a crusader. He just got back from the crusades.",
+      "words": [
+        {
+          "start": 157.33,
+          "end": 157.65,
+          "word": " Like,"
+        },
+        {
+          "start": 157.83,
+          "end": 158.17,
+          "word": " okay,"
+        },
+        {
+          "start": 158.39,
+          "end": 158.61,
+          "word": " yes,"
+        },
+        {
+          "start": 158.75,
+          "end": 158.91,
+          "word": " Russell"
+        },
+        {
+          "start": 158.91,
+          "end": 159.45,
+          "word": " Crowe's"
+        },
+        {
+          "start": 159.45,
+          "end": 159.65,
+          "word": " Robin"
+        },
+        {
+          "start": 159.65,
+          "end": 159.89,
+          "word": " Hood"
+        },
+        {
+          "start": 159.89,
+          "end": 160.05,
+          "word": " is"
+        },
+        {
+          "start": 160.05,
+          "end": 160.17,
+          "word": " a"
+        },
+        {
+          "start": 160.17,
+          "end": 160.59,
+          "word": " crusader."
+        },
+        {
+          "start": 160.69,
+          "end": 160.77,
+          "word": " He"
+        },
+        {
+          "start": 160.77,
+          "end": 160.89,
+          "word": " just"
+        },
+        {
+          "start": 160.89,
+          "end": 161.01,
+          "word": " got"
+        },
+        {
+          "start": 161.01,
+          "end": 161.17,
+          "word": " back"
+        },
+        {
+          "start": 161.17,
+          "end": 161.29,
+          "word": " from"
+        },
+        {
+          "start": 161.29,
+          "end": 161.39,
+          "word": " the"
+        },
+        {
+          "start": 161.39,
+          "end": 161.81,
+          "word": " crusades."
+        }
+      ]
+    },
+    {
+      "start": 161.95,
+      "end": 170.74,
+      "text": " I can appreciate that he's not going to be looking like a chipper, bright young man, but early 30s, really? You want me to buy that?",
+      "words": [
+        {
+          "start": 161.95,
+          "end": 162.01,
+          "word": " I"
+        },
+        {
+          "start": 162.01,
+          "end": 162.17,
+          "word": " can"
+        },
+        {
+          "start": 162.17,
+          "end": 162.67,
+          "word": " appreciate"
+        },
+        {
+          "start": 162.67,
+          "end": 163.25,
+          "word": " that"
+        },
+        {
+          "start": 163.25,
+          "end": 164.29,
+          "word": " he's"
+        },
+        {
+          "start": 164.29,
+          "end": 164.49,
+          "word": " not"
+        },
+        {
+          "start": 164.49,
+          "end": 164.71,
+          "word": " going"
+        },
+        {
+          "start": 164.71,
+          "end": 164.79,
+          "word": " to"
+        },
+        {
+          "start": 164.79,
+          "end": 164.89,
+          "word": " be"
+        },
+        {
+          "start": 164.89,
+          "end": 165.09,
+          "word": " looking"
+        },
+        {
+          "start": 165.09,
+          "end": 165.29,
+          "word": " like"
+        },
+        {
+          "start": 165.29,
+          "end": 165.45,
+          "word": " a"
+        },
+        {
+          "start": 165.45,
+          "end": 165.75,
+          "word": " chipper,"
+        },
+        {
+          "start": 166.05,
+          "end": 166.07,
+          "word": " bright"
+        },
+        {
+          "start": 166.07,
+          "end": 166.31,
+          "word": " young"
+        },
+        {
+          "start": 166.31,
+          "end": 166.75,
+          "word": " man,"
+        },
+        {
+          "start": 166.87,
+          "end": 167.09,
+          "word": " but"
+        },
+        {
+          "start": 167.22,
+          "end": 168.28,
+          "word": " early"
+        },
+        {
+          "start": 168.28,
+          "end": 168.96,
+          "word": " 30s,"
+        },
+        {
+          "start": 169.08,
+          "end": 169.38,
+          "word": " really?"
+        },
+        {
+          "start": 169.7,
+          "end": 169.78,
+          "word": " You"
+        },
+        {
+          "start": 169.78,
+          "end": 169.92,
+          "word": " want"
+        },
+        {
+          "start": 169.92,
+          "end": 170.02,
+          "word": " me"
+        },
+        {
+          "start": 170.02,
+          "end": 170.16,
+          "word": " to"
+        },
+        {
+          "start": 170.16,
+          "end": 170.36,
+          "word": " buy"
+        },
+        {
+          "start": 170.36,
+          "end": 170.74,
+          "word": " that?"
+        }
+      ]
+    },
+    {
+      "start": 171.5,
+      "end": 182.6,
+      "text": " I can't do it. Especially when he's hanging out with the Merry Men, who all but one of them are probably early 20s, and one of them is maybe mid-20s.",
+      "words": [
+        {
+          "start": 171.5,
+          "end": 171.78,
+          "word": " I"
+        },
+        {
+          "start": 171.78,
+          "end": 172.14,
+          "word": " can't"
+        },
+        {
+          "start": 172.14,
+          "end": 172.28,
+          "word": " do"
+        },
+        {
+          "start": 172.28,
+          "end": 172.56,
+          "word": " it."
+        },
+        {
+          "start": 172.92,
+          "end": 173.28,
+          "word": " Especially"
+        },
+        {
+          "start": 173.28,
+          "end": 173.84,
+          "word": " when"
+        },
+        {
+          "start": 173.84,
+          "end": 174.36,
+          "word": " he's"
+        },
+        {
+          "start": 174.36,
+          "end": 174.56,
+          "word": " hanging"
+        },
+        {
+          "start": 174.56,
+          "end": 174.7,
+          "word": " out"
+        },
+        {
+          "start": 174.7,
+          "end": 174.8,
+          "word": " with"
+        },
+        {
+          "start": 174.8,
+          "end": 174.88,
+          "word": " the"
+        },
+        {
+          "start": 174.88,
+          "end": 175.06,
+          "word": " Merry"
+        },
+        {
+          "start": 175.06,
+          "end": 175.42,
+          "word": " Men,"
+        },
+        {
+          "start": 175.64,
+          "end": 175.98,
+          "word": " who"
+        },
+        {
+          "start": 175.98,
+          "end": 176.64,
+          "word": " all"
+        },
+        {
+          "start": 176.64,
+          "end": 176.84,
+          "word": " but"
+        },
+        {
+          "start": 176.84,
+          "end": 177.1,
+          "word": " one"
+        },
+        {
+          "start": 177.1,
+          "end": 177.28,
+          "word": " of"
+        },
+        {
+          "start": 177.28,
+          "end": 177.48,
+          "word": " them"
+        },
+        {
+          "start": 177.48,
+          "end": 177.64,
+          "word": " are"
+        },
+        {
+          "start": 177.64,
+          "end": 178.02,
+          "word": " probably"
+        },
+        {
+          "start": 178.02,
+          "end": 178.38,
+          "word": " early"
+        },
+        {
+          "start": 178.38,
+          "end": 179.58,
+          "word": " 20s,"
+        },
+        {
+          "start": 179.8,
+          "end": 180.2,
+          "word": " and"
+        },
+        {
+          "start": 180.2,
+          "end": 180.5,
+          "word": " one"
+        },
+        {
+          "start": 180.5,
+          "end": 180.6,
+          "word": " of"
+        },
+        {
+          "start": 180.6,
+          "end": 180.66,
+          "word": " them"
+        },
+        {
+          "start": 180.66,
+          "end": 180.82,
+          "word": " is"
+        },
+        {
+          "start": 180.82,
+          "end": 181.04,
+          "word": " maybe"
+        },
+        {
+          "start": 181.04,
+          "end": 181.42,
+          "word": " mid"
+        },
+        {
+          "start": 181.42,
+          "end": 182.6,
+          "word": "-20s."
+        }
+      ]
+    },
+    {
+      "start": 182.6,
+      "end": 189.2,
+      "text": " Meanwhile, they're hanging out with Papa Russell. It just looks like there's a bunch of guys hanging out, and someone brought their dad along because he offered to drive.",
+      "words": [
+        {
+          "start": 182.6,
+          "end": 183.2,
+          "word": " Meanwhile,"
+        },
+        {
+          "start": 183.4,
+          "end": 183.52,
+          "word": " they're"
+        },
+        {
+          "start": 183.52,
+          "end": 183.72,
+          "word": " hanging"
+        },
+        {
+          "start": 183.72,
+          "end": 183.9,
+          "word": " out"
+        },
+        {
+          "start": 183.9,
+          "end": 184.06,
+          "word": " with"
+        },
+        {
+          "start": 184.06,
+          "end": 184.32,
+          "word": " Papa"
+        },
+        {
+          "start": 184.32,
+          "end": 184.78,
+          "word": " Russell."
+        },
+        {
+          "start": 185.02,
+          "end": 185.02,
+          "word": " It"
+        },
+        {
+          "start": 185.02,
+          "end": 185.18,
+          "word": " just"
+        },
+        {
+          "start": 185.18,
+          "end": 185.42,
+          "word": " looks"
+        },
+        {
+          "start": 185.42,
+          "end": 185.7,
+          "word": " like"
+        },
+        {
+          "start": 185.7,
+          "end": 186.06,
+          "word": " there's"
+        },
+        {
+          "start": 186.06,
+          "end": 186.1,
+          "word": " a"
+        },
+        {
+          "start": 186.1,
+          "end": 186.16,
+          "word": " bunch"
+        },
+        {
+          "start": 186.16,
+          "end": 186.3,
+          "word": " of"
+        },
+        {
+          "start": 186.3,
+          "end": 186.52,
+          "word": " guys"
+        },
+        {
+          "start": 186.52,
+          "end": 186.78,
+          "word": " hanging"
+        },
+        {
+          "start": 186.78,
+          "end": 187.08,
+          "word": " out,"
+        },
+        {
+          "start": 187.14,
+          "end": 187.18,
+          "word": " and"
+        },
+        {
+          "start": 187.18,
+          "end": 187.32,
+          "word": " someone"
+        },
+        {
+          "start": 187.32,
+          "end": 187.5,
+          "word": " brought"
+        },
+        {
+          "start": 187.5,
+          "end": 187.66,
+          "word": " their"
+        },
+        {
+          "start": 187.66,
+          "end": 187.88,
+          "word": " dad"
+        },
+        {
+          "start": 187.88,
+          "end": 188.2,
+          "word": " along"
+        },
+        {
+          "start": 188.2,
+          "end": 188.36,
+          "word": " because"
+        },
+        {
+          "start": 188.36,
+          "end": 188.5,
+          "word": " he"
+        },
+        {
+          "start": 188.5,
+          "end": 188.74,
+          "word": " offered"
+        },
+        {
+          "start": 188.74,
+          "end": 188.92,
+          "word": " to"
+        },
+        {
+          "start": 188.92,
+          "end": 189.2,
+          "word": " drive."
+        }
+      ]
+    },
+    {
+      "start": 190.36,
+      "end": 199.62,
+      "text": " I had a really, really tough time buying Russell Crowe as a mid-30s Robin Hood. I couldn't do it.",
+      "words": [
+        {
+          "start": 190.36,
+          "end": 190.88,
+          "word": " I"
+        },
+        {
+          "start": 190.88,
+          "end": 191.0,
+          "word": " had"
+        },
+        {
+          "start": 191.0,
+          "end": 191.18,
+          "word": " a"
+        },
+        {
+          "start": 191.18,
+          "end": 191.62,
+          "word": " really,"
+        },
+        {
+          "start": 191.68,
+          "end": 192.24,
+          "word": " really"
+        },
+        {
+          "start": 192.24,
+          "end": 192.5,
+          "word": " tough"
+        },
+        {
+          "start": 192.5,
+          "end": 192.96,
+          "word": " time"
+        },
+        {
+          "start": 192.96,
+          "end": 193.46,
+          "word": " buying"
+        },
+        {
+          "start": 193.46,
+          "end": 193.88,
+          "word": " Russell"
+        },
+        {
+          "start": 193.88,
+          "end": 194.72,
+          "word": " Crowe"
+        },
+        {
+          "start": 194.72,
+          "end": 195.34,
+          "word": " as"
+        },
+        {
+          "start": 195.34,
+          "end": 195.64,
+          "word": " a"
+        },
+        {
+          "start": 195.64,
+          "end": 197.02,
+          "word": " mid"
+        },
+        {
+          "start": 197.02,
+          "end": 197.88,
+          "word": "-30s"
+        },
+        {
+          "start": 197.88,
+          "end": 198.24,
+          "word": " Robin"
+        },
+        {
+          "start": 198.24,
+          "end": 198.48,
+          "word": " Hood."
+        },
+        {
+          "start": 198.84,
+          "end": 198.92,
+          "word": " I"
+        },
+        {
+          "start": 198.92,
+          "end": 199.12,
+          "word": " couldn't"
+        },
+        {
+          "start": 199.12,
+          "end": 199.34,
+          "word": " do"
+        },
+        {
+          "start": 199.34,
+          "end": 199.62,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 204.35,
+      "end": 214.43,
+      "text": " Cate Blanchett as Lady Marion, again, just did not sell it. I couldn't get behind this character.",
+      "words": [
+        {
+          "start": 204.35,
+          "end": 204.51,
+          "word": " Cate"
+        },
+        {
+          "start": 204.51,
+          "end": 205.23,
+          "word": " Blanchett"
+        },
+        {
+          "start": 205.23,
+          "end": 205.79,
+          "word": " as"
+        },
+        {
+          "start": 205.79,
+          "end": 206.45,
+          "word": " Lady"
+        },
+        {
+          "start": 206.45,
+          "end": 207.01,
+          "word": " Marion,"
+        },
+        {
+          "start": 207.15,
+          "end": 208.59,
+          "word": " again,"
+        },
+        {
+          "start": 210.73,
+          "end": 210.73,
+          "word": " just"
+        },
+        {
+          "start": 210.73,
+          "end": 211.09,
+          "word": " did"
+        },
+        {
+          "start": 211.09,
+          "end": 211.37,
+          "word": " not"
+        },
+        {
+          "start": 211.37,
+          "end": 211.75,
+          "word": " sell"
+        },
+        {
+          "start": 211.75,
+          "end": 211.93,
+          "word": " it."
+        },
+        {
+          "start": 212.29,
+          "end": 212.29,
+          "word": " I"
+        },
+        {
+          "start": 212.29,
+          "end": 213.09,
+          "word": " couldn't"
+        },
+        {
+          "start": 213.09,
+          "end": 213.23,
+          "word": " get"
+        },
+        {
+          "start": 213.23,
+          "end": 213.61,
+          "word": " behind"
+        },
+        {
+          "start": 213.61,
+          "end": 213.93,
+          "word": " this"
+        },
+        {
+          "start": 213.93,
+          "end": 214.43,
+          "word": " character."
+        }
+      ]
+    },
+    {
+      "start": 215.77,
+      "end": 224.11,
+      "text": " She was too stoic, too cold, just nothing really fazed her. She'd be given news that would devastate a normal human being, and she was kind of like, oh.",
+      "words": [
+        {
+          "start": 215.77,
+          "end": 216.21,
+          "word": " She"
+        },
+        {
+          "start": 216.21,
+          "end": 216.35,
+          "word": " was"
+        },
+        {
+          "start": 216.35,
+          "end": 216.57,
+          "word": " too"
+        },
+        {
+          "start": 216.57,
+          "end": 217.07,
+          "word": " stoic,"
+        },
+        {
+          "start": 217.17,
+          "end": 217.33,
+          "word": " too"
+        },
+        {
+          "start": 217.33,
+          "end": 217.77,
+          "word": " cold,"
+        },
+        {
+          "start": 217.95,
+          "end": 218.17,
+          "word": " just"
+        },
+        {
+          "start": 218.17,
+          "end": 218.59,
+          "word": " nothing"
+        },
+        {
+          "start": 218.59,
+          "end": 218.89,
+          "word": " really"
+        },
+        {
+          "start": 218.89,
+          "end": 219.37,
+          "word": " fazed"
+        },
+        {
+          "start": 219.37,
+          "end": 219.59,
+          "word": " her."
+        },
+        {
+          "start": 219.73,
+          "end": 219.91,
+          "word": " She'd"
+        },
+        {
+          "start": 219.91,
+          "end": 220.01,
+          "word": " be"
+        },
+        {
+          "start": 220.01,
+          "end": 220.29,
+          "word": " given"
+        },
+        {
+          "start": 220.29,
+          "end": 220.75,
+          "word": " news"
+        },
+        {
+          "start": 220.75,
+          "end": 220.95,
+          "word": " that"
+        },
+        {
+          "start": 220.95,
+          "end": 221.07,
+          "word": " would"
+        },
+        {
+          "start": 221.07,
+          "end": 221.75,
+          "word": " devastate"
+        },
+        {
+          "start": 221.75,
+          "end": 221.91,
+          "word": " a"
+        },
+        {
+          "start": 221.91,
+          "end": 222.01,
+          "word": " normal"
+        },
+        {
+          "start": 222.01,
+          "end": 222.27,
+          "word": " human"
+        },
+        {
+          "start": 222.27,
+          "end": 222.69,
+          "word": " being,"
+        },
+        {
+          "start": 222.77,
+          "end": 223.01,
+          "word": " and"
+        },
+        {
+          "start": 223.01,
+          "end": 223.13,
+          "word": " she"
+        },
+        {
+          "start": 223.13,
+          "end": 223.23,
+          "word": " was"
+        },
+        {
+          "start": 223.23,
+          "end": 223.37,
+          "word": " kind"
+        },
+        {
+          "start": 223.37,
+          "end": 223.45,
+          "word": " of"
+        },
+        {
+          "start": 223.45,
+          "end": 223.57,
+          "word": " like,"
+        },
+        {
+          "start": 223.85,
+          "end": 224.11,
+          "word": " oh."
+        }
+      ]
+    },
+    {
+      "start": 225.3,
+      "end": 230.88,
+      "text": " And I can appreciate maybe they were trying to build her up as a stronger Marion, as we've seen in the past, not damsel in distress.",
+      "words": [
+        {
+          "start": 225.3,
+          "end": 225.5,
+          "word": " And"
+        },
+        {
+          "start": 225.5,
+          "end": 225.62,
+          "word": " I"
+        },
+        {
+          "start": 225.62,
+          "end": 225.76,
+          "word": " can"
+        },
+        {
+          "start": 225.76,
+          "end": 226.18,
+          "word": " appreciate"
+        },
+        {
+          "start": 226.18,
+          "end": 226.52,
+          "word": " maybe"
+        },
+        {
+          "start": 226.52,
+          "end": 226.68,
+          "word": " they"
+        },
+        {
+          "start": 226.68,
+          "end": 226.72,
+          "word": " were"
+        },
+        {
+          "start": 226.72,
+          "end": 226.88,
+          "word": " trying"
+        },
+        {
+          "start": 226.88,
+          "end": 226.96,
+          "word": " to"
+        },
+        {
+          "start": 226.96,
+          "end": 227.16,
+          "word": " build"
+        },
+        {
+          "start": 227.16,
+          "end": 227.28,
+          "word": " her"
+        },
+        {
+          "start": 227.28,
+          "end": 227.36,
+          "word": " up"
+        },
+        {
+          "start": 227.36,
+          "end": 227.44,
+          "word": " as"
+        },
+        {
+          "start": 227.44,
+          "end": 227.72,
+          "word": " a"
+        },
+        {
+          "start": 227.72,
+          "end": 228.02,
+          "word": " stronger"
+        },
+        {
+          "start": 228.02,
+          "end": 228.42,
+          "word": " Marion,"
+        },
+        {
+          "start": 228.84,
+          "end": 228.9,
+          "word": " as"
+        },
+        {
+          "start": 228.9,
+          "end": 229.16,
+          "word": " we've"
+        },
+        {
+          "start": 229.16,
+          "end": 229.3,
+          "word": " seen"
+        },
+        {
+          "start": 229.3,
+          "end": 229.42,
+          "word": " in"
+        },
+        {
+          "start": 229.42,
+          "end": 229.48,
+          "word": " the"
+        },
+        {
+          "start": 229.48,
+          "end": 229.74,
+          "word": " past,"
+        },
+        {
+          "start": 229.94,
+          "end": 230.02,
+          "word": " not"
+        },
+        {
+          "start": 230.02,
+          "end": 230.44,
+          "word": " damsel"
+        },
+        {
+          "start": 230.44,
+          "end": 230.54,
+          "word": " in"
+        },
+        {
+          "start": 230.54,
+          "end": 230.88,
+          "word": " distress."
+        }
+      ]
+    },
+    {
+      "start": 231.48,
+      "end": 241.06,
+      "text": " But there's strong willed, and there's a cardboard cutout supposed to be an actress, and unfortunately, she really was that cardboard cutout for about 90% of the movie.",
+      "words": [
+        {
+          "start": 231.48,
+          "end": 231.72,
+          "word": " But"
+        },
+        {
+          "start": 231.72,
+          "end": 231.94,
+          "word": " there's"
+        },
+        {
+          "start": 231.94,
+          "end": 232.2,
+          "word": " strong"
+        },
+        {
+          "start": 232.2,
+          "end": 232.7,
+          "word": " willed,"
+        },
+        {
+          "start": 232.84,
+          "end": 232.96,
+          "word": " and"
+        },
+        {
+          "start": 232.96,
+          "end": 233.54,
+          "word": " there's"
+        },
+        {
+          "start": 233.54,
+          "end": 233.78,
+          "word": " a"
+        },
+        {
+          "start": 233.78,
+          "end": 234.16,
+          "word": " cardboard"
+        },
+        {
+          "start": 234.16,
+          "end": 234.64,
+          "word": " cutout"
+        },
+        {
+          "start": 234.64,
+          "end": 234.94,
+          "word": " supposed"
+        },
+        {
+          "start": 234.94,
+          "end": 235.04,
+          "word": " to"
+        },
+        {
+          "start": 235.04,
+          "end": 235.14,
+          "word": " be"
+        },
+        {
+          "start": 235.14,
+          "end": 235.24,
+          "word": " an"
+        },
+        {
+          "start": 235.24,
+          "end": 235.58,
+          "word": " actress,"
+        },
+        {
+          "start": 235.84,
+          "end": 236.24,
+          "word": " and"
+        },
+        {
+          "start": 236.24,
+          "end": 237.42,
+          "word": " unfortunately,"
+        },
+        {
+          "start": 237.6,
+          "end": 237.92,
+          "word": " she"
+        },
+        {
+          "start": 237.92,
+          "end": 238.2,
+          "word": " really"
+        },
+        {
+          "start": 238.2,
+          "end": 238.54,
+          "word": " was"
+        },
+        {
+          "start": 238.54,
+          "end": 238.76,
+          "word": " that"
+        },
+        {
+          "start": 238.76,
+          "end": 239.18,
+          "word": " cardboard"
+        },
+        {
+          "start": 239.18,
+          "end": 239.66,
+          "word": " cutout"
+        },
+        {
+          "start": 239.66,
+          "end": 239.82,
+          "word": " for"
+        },
+        {
+          "start": 239.82,
+          "end": 239.96,
+          "word": " about"
+        },
+        {
+          "start": 239.96,
+          "end": 240.34,
+          "word": " 90"
+        },
+        {
+          "start": 240.34,
+          "end": 240.54,
+          "word": "%"
+        },
+        {
+          "start": 240.54,
+          "end": 240.74,
+          "word": " of"
+        },
+        {
+          "start": 240.74,
+          "end": 240.84,
+          "word": " the"
+        },
+        {
+          "start": 240.84,
+          "end": 241.06,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 241.06,
+      "end": 245.06,
+      "text": " She started emoting near the end, but by then, it was just too late. It was unsalvageable.",
+      "words": [
+        {
+          "start": 241.06,
+          "end": 241.3,
+          "word": " She"
+        },
+        {
+          "start": 241.3,
+          "end": 241.66,
+          "word": " started"
+        },
+        {
+          "start": 241.66,
+          "end": 242.24,
+          "word": " emoting"
+        },
+        {
+          "start": 242.24,
+          "end": 242.42,
+          "word": " near"
+        },
+        {
+          "start": 242.42,
+          "end": 242.6,
+          "word": " the"
+        },
+        {
+          "start": 242.6,
+          "end": 242.84,
+          "word": " end,"
+        },
+        {
+          "start": 242.86,
+          "end": 243.0,
+          "word": " but"
+        },
+        {
+          "start": 243.0,
+          "end": 243.14,
+          "word": " by"
+        },
+        {
+          "start": 243.14,
+          "end": 243.4,
+          "word": " then,"
+        },
+        {
+          "start": 243.48,
+          "end": 243.5,
+          "word": " it"
+        },
+        {
+          "start": 243.5,
+          "end": 243.6,
+          "word": " was"
+        },
+        {
+          "start": 243.6,
+          "end": 243.74,
+          "word": " just"
+        },
+        {
+          "start": 243.74,
+          "end": 244.08,
+          "word": " too"
+        },
+        {
+          "start": 244.08,
+          "end": 244.34,
+          "word": " late."
+        },
+        {
+          "start": 244.44,
+          "end": 244.46,
+          "word": " It"
+        },
+        {
+          "start": 244.46,
+          "end": 244.54,
+          "word": " was"
+        },
+        {
+          "start": 244.54,
+          "end": 245.06,
+          "word": " unsalvageable."
+        }
+      ]
+    },
+    {
+      "start": 247.54,
+      "end": 254.94,
+      "text": " Another thing, maybe I sound like a jerk for saying this, but like, made Marion in the stories. She's supposed to be the object of all men's desires.",
+      "words": [
+        {
+          "start": 247.54,
+          "end": 247.62,
+          "word": " Another"
+        },
+        {
+          "start": 247.62,
+          "end": 247.92,
+          "word": " thing,"
+        },
+        {
+          "start": 248.0,
+          "end": 248.1,
+          "word": " maybe"
+        },
+        {
+          "start": 248.1,
+          "end": 248.28,
+          "word": " I"
+        },
+        {
+          "start": 248.28,
+          "end": 248.42,
+          "word": " sound"
+        },
+        {
+          "start": 248.42,
+          "end": 248.56,
+          "word": " like"
+        },
+        {
+          "start": 248.56,
+          "end": 248.66,
+          "word": " a"
+        },
+        {
+          "start": 248.66,
+          "end": 248.86,
+          "word": " jerk"
+        },
+        {
+          "start": 248.86,
+          "end": 249.12,
+          "word": " for"
+        },
+        {
+          "start": 249.12,
+          "end": 249.4,
+          "word": " saying"
+        },
+        {
+          "start": 249.4,
+          "end": 249.76,
+          "word": " this,"
+        },
+        {
+          "start": 249.98,
+          "end": 250.06,
+          "word": " but"
+        },
+        {
+          "start": 250.06,
+          "end": 250.2,
+          "word": " like,"
+        },
+        {
+          "start": 250.4,
+          "end": 250.46,
+          "word": " made"
+        },
+        {
+          "start": 250.46,
+          "end": 250.86,
+          "word": " Marion"
+        },
+        {
+          "start": 250.86,
+          "end": 251.02,
+          "word": " in"
+        },
+        {
+          "start": 251.02,
+          "end": 251.18,
+          "word": " the"
+        },
+        {
+          "start": 251.18,
+          "end": 251.56,
+          "word": " stories."
+        },
+        {
+          "start": 251.84,
+          "end": 252.04,
+          "word": " She's"
+        },
+        {
+          "start": 252.04,
+          "end": 252.22,
+          "word": " supposed"
+        },
+        {
+          "start": 252.22,
+          "end": 252.4,
+          "word": " to"
+        },
+        {
+          "start": 252.4,
+          "end": 252.7,
+          "word": " be"
+        },
+        {
+          "start": 252.7,
+          "end": 253.12,
+          "word": " the"
+        },
+        {
+          "start": 253.12,
+          "end": 253.58,
+          "word": " object"
+        },
+        {
+          "start": 253.58,
+          "end": 253.82,
+          "word": " of"
+        },
+        {
+          "start": 253.82,
+          "end": 253.98,
+          "word": " all"
+        },
+        {
+          "start": 253.98,
+          "end": 254.38,
+          "word": " men's"
+        },
+        {
+          "start": 254.38,
+          "end": 254.94,
+          "word": " desires."
+        }
+      ]
+    },
+    {
+      "start": 255.4,
+      "end": 261.6,
+      "text": " Like, you know, all the guys want to get with her. I can appreciate that. That's what a story, literature's heroine, is supposed to be like.",
+      "words": [
+        {
+          "start": 255.4,
+          "end": 255.42,
+          "word": " Like,"
+        },
+        {
+          "start": 255.48,
+          "end": 255.52,
+          "word": " you"
+        },
+        {
+          "start": 255.52,
+          "end": 255.62,
+          "word": " know,"
+        },
+        {
+          "start": 255.7,
+          "end": 255.88,
+          "word": " all"
+        },
+        {
+          "start": 255.88,
+          "end": 256.04,
+          "word": " the"
+        },
+        {
+          "start": 256.04,
+          "end": 256.28,
+          "word": " guys"
+        },
+        {
+          "start": 256.28,
+          "end": 256.52,
+          "word": " want"
+        },
+        {
+          "start": 256.52,
+          "end": 256.62,
+          "word": " to"
+        },
+        {
+          "start": 256.62,
+          "end": 256.74,
+          "word": " get"
+        },
+        {
+          "start": 256.74,
+          "end": 256.98,
+          "word": " with"
+        },
+        {
+          "start": 256.98,
+          "end": 257.18,
+          "word": " her."
+        },
+        {
+          "start": 257.2,
+          "end": 257.32,
+          "word": " I"
+        },
+        {
+          "start": 257.32,
+          "end": 257.46,
+          "word": " can"
+        },
+        {
+          "start": 257.46,
+          "end": 257.74,
+          "word": " appreciate"
+        },
+        {
+          "start": 257.74,
+          "end": 258.16,
+          "word": " that."
+        },
+        {
+          "start": 258.2,
+          "end": 258.5,
+          "word": " That's"
+        },
+        {
+          "start": 258.5,
+          "end": 258.72,
+          "word": " what"
+        },
+        {
+          "start": 258.72,
+          "end": 258.96,
+          "word": " a"
+        },
+        {
+          "start": 258.96,
+          "end": 259.7,
+          "word": " story,"
+        },
+        {
+          "start": 259.8,
+          "end": 260.44,
+          "word": " literature's"
+        },
+        {
+          "start": 260.44,
+          "end": 260.74,
+          "word": " heroine,"
+        },
+        {
+          "start": 260.8,
+          "end": 260.98,
+          "word": " is"
+        },
+        {
+          "start": 260.98,
+          "end": 261.16,
+          "word": " supposed"
+        },
+        {
+          "start": 261.16,
+          "end": 261.3,
+          "word": " to"
+        },
+        {
+          "start": 261.3,
+          "end": 261.42,
+          "word": " be"
+        },
+        {
+          "start": 261.42,
+          "end": 261.6,
+          "word": " like."
+        }
+      ]
+    },
+    {
+      "start": 261.6,
+      "end": 265.34,
+      "text": " They're supposed to be that centricle force of all male's attention.",
+      "words": [
+        {
+          "start": 261.6,
+          "end": 261.88,
+          "word": " They're"
+        },
+        {
+          "start": 261.88,
+          "end": 262.1,
+          "word": " supposed"
+        },
+        {
+          "start": 262.1,
+          "end": 262.42,
+          "word": " to"
+        },
+        {
+          "start": 262.42,
+          "end": 263.12,
+          "word": " be"
+        },
+        {
+          "start": 263.12,
+          "end": 263.32,
+          "word": " that"
+        },
+        {
+          "start": 263.32,
+          "end": 263.8,
+          "word": " centricle"
+        },
+        {
+          "start": 263.8,
+          "end": 264.18,
+          "word": " force"
+        },
+        {
+          "start": 264.18,
+          "end": 264.42,
+          "word": " of"
+        },
+        {
+          "start": 264.42,
+          "end": 264.62,
+          "word": " all"
+        },
+        {
+          "start": 264.62,
+          "end": 264.94,
+          "word": " male's"
+        },
+        {
+          "start": 264.94,
+          "end": 265.34,
+          "word": " attention."
+        }
+      ]
+    },
+    {
+      "start": 266.86,
+      "end": 284.18,
+      "text": " But, I'm sorry, Cate Blanchett in a town full of very attractive early 20's young women, and we're supposed to buy that everyone wants to get with her and completely disregard these other girls who maybe their personalities suck.",
+      "words": [
+        {
+          "start": 266.86,
+          "end": 266.86,
+          "word": " But,"
+        },
+        {
+          "start": 267.34,
+          "end": 267.52,
+          "word": " I'm"
+        },
+        {
+          "start": 267.52,
+          "end": 267.8,
+          "word": " sorry,"
+        },
+        {
+          "start": 269.03,
+          "end": 269.19,
+          "word": " Cate"
+        },
+        {
+          "start": 269.19,
+          "end": 269.77,
+          "word": " Blanchett"
+        },
+        {
+          "start": 269.77,
+          "end": 270.05,
+          "word": " in"
+        },
+        {
+          "start": 270.05,
+          "end": 270.19,
+          "word": " a"
+        },
+        {
+          "start": 270.19,
+          "end": 270.59,
+          "word": " town"
+        },
+        {
+          "start": 270.59,
+          "end": 271.21,
+          "word": " full"
+        },
+        {
+          "start": 271.21,
+          "end": 271.75,
+          "word": " of"
+        },
+        {
+          "start": 271.75,
+          "end": 272.09,
+          "word": " very"
+        },
+        {
+          "start": 272.09,
+          "end": 272.91,
+          "word": " attractive"
+        },
+        {
+          "start": 272.91,
+          "end": 274.41,
+          "word": " early"
+        },
+        {
+          "start": 274.41,
+          "end": 275.23,
+          "word": " 20's"
+        },
+        {
+          "start": 275.23,
+          "end": 275.47,
+          "word": " young"
+        },
+        {
+          "start": 275.47,
+          "end": 275.93,
+          "word": " women,"
+        },
+        {
+          "start": 276.19,
+          "end": 276.25,
+          "word": " and"
+        },
+        {
+          "start": 276.25,
+          "end": 276.43,
+          "word": " we're"
+        },
+        {
+          "start": 276.43,
+          "end": 276.69,
+          "word": " supposed"
+        },
+        {
+          "start": 276.69,
+          "end": 276.91,
+          "word": " to"
+        },
+        {
+          "start": 276.91,
+          "end": 277.19,
+          "word": " buy"
+        },
+        {
+          "start": 277.19,
+          "end": 277.45,
+          "word": " that"
+        },
+        {
+          "start": 277.45,
+          "end": 277.77,
+          "word": " everyone"
+        },
+        {
+          "start": 277.77,
+          "end": 278.17,
+          "word": " wants"
+        },
+        {
+          "start": 278.17,
+          "end": 278.35,
+          "word": " to"
+        },
+        {
+          "start": 278.35,
+          "end": 278.49,
+          "word": " get"
+        },
+        {
+          "start": 278.49,
+          "end": 278.67,
+          "word": " with"
+        },
+        {
+          "start": 278.67,
+          "end": 278.89,
+          "word": " her"
+        },
+        {
+          "start": 278.89,
+          "end": 279.11,
+          "word": " and"
+        },
+        {
+          "start": 279.11,
+          "end": 279.57,
+          "word": " completely"
+        },
+        {
+          "start": 279.57,
+          "end": 280.19,
+          "word": " disregard"
+        },
+        {
+          "start": 280.19,
+          "end": 280.45,
+          "word": " these"
+        },
+        {
+          "start": 280.45,
+          "end": 280.71,
+          "word": " other"
+        },
+        {
+          "start": 280.71,
+          "end": 280.99,
+          "word": " girls"
+        },
+        {
+          "start": 280.99,
+          "end": 281.49,
+          "word": " who"
+        },
+        {
+          "start": 281.49,
+          "end": 282.81,
+          "word": " maybe"
+        },
+        {
+          "start": 283.06,
+          "end": 283.28,
+          "word": " their"
+        },
+        {
+          "start": 283.28,
+          "end": 283.74,
+          "word": " personalities"
+        },
+        {
+          "start": 283.74,
+          "end": 284.18,
+          "word": " suck."
+        }
+      ]
+    },
+    {
+      "start": 284.36,
+      "end": 289.72,
+      "text": " I don't know, but as far as them all going, looking at Cate Blanchett and going, hey, I want a piece of that.",
+      "words": [
+        {
+          "start": 284.36,
+          "end": 284.5,
+          "word": " I"
+        },
+        {
+          "start": 284.5,
+          "end": 284.68,
+          "word": " don't"
+        },
+        {
+          "start": 284.68,
+          "end": 285.08,
+          "word": " know,"
+        },
+        {
+          "start": 285.32,
+          "end": 285.54,
+          "word": " but"
+        },
+        {
+          "start": 285.54,
+          "end": 286.2,
+          "word": " as"
+        },
+        {
+          "start": 286.2,
+          "end": 286.42,
+          "word": " far"
+        },
+        {
+          "start": 286.42,
+          "end": 286.58,
+          "word": " as"
+        },
+        {
+          "start": 286.58,
+          "end": 286.7,
+          "word": " them"
+        },
+        {
+          "start": 286.7,
+          "end": 286.84,
+          "word": " all"
+        },
+        {
+          "start": 286.84,
+          "end": 287.1,
+          "word": " going,"
+        },
+        {
+          "start": 287.2,
+          "end": 287.3,
+          "word": " looking"
+        },
+        {
+          "start": 287.3,
+          "end": 287.52,
+          "word": " at"
+        },
+        {
+          "start": 287.52,
+          "end": 287.62,
+          "word": " Cate"
+        },
+        {
+          "start": 287.62,
+          "end": 287.88,
+          "word": " Blanchett"
+        },
+        {
+          "start": 287.88,
+          "end": 288.18,
+          "word": " and"
+        },
+        {
+          "start": 288.18,
+          "end": 288.18,
+          "word": " going,"
+        },
+        {
+          "start": 288.38,
+          "end": 288.44,
+          "word": " hey,"
+        },
+        {
+          "start": 288.74,
+          "end": 288.82,
+          "word": " I"
+        },
+        {
+          "start": 288.82,
+          "end": 288.96,
+          "word": " want"
+        },
+        {
+          "start": 288.96,
+          "end": 289.1,
+          "word": " a"
+        },
+        {
+          "start": 289.1,
+          "end": 289.22,
+          "word": " piece"
+        },
+        {
+          "start": 289.22,
+          "end": 289.4,
+          "word": " of"
+        },
+        {
+          "start": 289.4,
+          "end": 289.72,
+          "word": " that."
+        }
+      ]
+    },
+    {
+      "start": 291.06,
+      "end": 302.12,
+      "text": " Again, I can't really buy it. Clearly, they're trying to make us believe that these were younger characters, and I just can't buy that.",
+      "words": [
+        {
+          "start": 291.06,
+          "end": 291.7,
+          "word": " Again,"
+        },
+        {
+          "start": 291.72,
+          "end": 291.72,
+          "word": " I"
+        },
+        {
+          "start": 291.72,
+          "end": 292.72,
+          "word": " can't"
+        },
+        {
+          "start": 292.72,
+          "end": 292.96,
+          "word": " really"
+        },
+        {
+          "start": 292.96,
+          "end": 293.24,
+          "word": " buy"
+        },
+        {
+          "start": 293.24,
+          "end": 293.48,
+          "word": " it."
+        },
+        {
+          "start": 294.68,
+          "end": 294.96,
+          "word": " Clearly,"
+        },
+        {
+          "start": 295.24,
+          "end": 295.36,
+          "word": " they're"
+        },
+        {
+          "start": 295.36,
+          "end": 295.58,
+          "word": " trying"
+        },
+        {
+          "start": 295.58,
+          "end": 295.64,
+          "word": " to"
+        },
+        {
+          "start": 295.64,
+          "end": 295.8,
+          "word": " make"
+        },
+        {
+          "start": 295.8,
+          "end": 295.98,
+          "word": " us"
+        },
+        {
+          "start": 295.98,
+          "end": 296.36,
+          "word": " believe"
+        },
+        {
+          "start": 296.36,
+          "end": 296.62,
+          "word": " that"
+        },
+        {
+          "start": 296.62,
+          "end": 296.82,
+          "word": " these"
+        },
+        {
+          "start": 296.82,
+          "end": 297.06,
+          "word": " were"
+        },
+        {
+          "start": 297.06,
+          "end": 297.6,
+          "word": " younger"
+        },
+        {
+          "start": 297.6,
+          "end": 298.34,
+          "word": " characters,"
+        },
+        {
+          "start": 298.96,
+          "end": 299.74,
+          "word": " and"
+        },
+        {
+          "start": 299.74,
+          "end": 300.58,
+          "word": " I"
+        },
+        {
+          "start": 300.58,
+          "end": 300.92,
+          "word": " just"
+        },
+        {
+          "start": 300.92,
+          "end": 301.52,
+          "word": " can't"
+        },
+        {
+          "start": 301.52,
+          "end": 301.9,
+          "word": " buy"
+        },
+        {
+          "start": 301.9,
+          "end": 302.12,
+          "word": " that."
+        }
+      ]
+    },
+    {
+      "start": 302.2,
+      "end": 306.5,
+      "text": " If you want younger characters, get younger actors. It's just that simple.",
+      "words": [
+        {
+          "start": 302.2,
+          "end": 302.24,
+          "word": " If"
+        },
+        {
+          "start": 302.24,
+          "end": 302.36,
+          "word": " you"
+        },
+        {
+          "start": 302.36,
+          "end": 302.62,
+          "word": " want"
+        },
+        {
+          "start": 302.62,
+          "end": 302.98,
+          "word": " younger"
+        },
+        {
+          "start": 302.98,
+          "end": 303.54,
+          "word": " characters,"
+        },
+        {
+          "start": 303.9,
+          "end": 304.06,
+          "word": " get"
+        },
+        {
+          "start": 304.06,
+          "end": 304.64,
+          "word": " younger"
+        },
+        {
+          "start": 304.64,
+          "end": 305.24,
+          "word": " actors."
+        },
+        {
+          "start": 305.56,
+          "end": 305.7,
+          "word": " It's"
+        },
+        {
+          "start": 305.7,
+          "end": 305.88,
+          "word": " just"
+        },
+        {
+          "start": 305.88,
+          "end": 306.14,
+          "word": " that"
+        },
+        {
+          "start": 306.14,
+          "end": 306.5,
+          "word": " simple."
+        }
+      ]
+    },
+    {
+      "start": 306.7,
+      "end": 318.54,
+      "text": " I know that Russell Crowe is kind of really Scott's go-to guy, but you've done like 45,000 movies together. It's time to move on.",
+      "words": [
+        {
+          "start": 306.7,
+          "end": 306.72,
+          "word": " I"
+        },
+        {
+          "start": 306.72,
+          "end": 307.04,
+          "word": " know"
+        },
+        {
+          "start": 307.04,
+          "end": 307.68,
+          "word": " that"
+        },
+        {
+          "start": 307.68,
+          "end": 308.36,
+          "word": " Russell"
+        },
+        {
+          "start": 308.36,
+          "end": 308.88,
+          "word": " Crowe"
+        },
+        {
+          "start": 308.88,
+          "end": 309.48,
+          "word": " is"
+        },
+        {
+          "start": 309.48,
+          "end": 309.78,
+          "word": " kind"
+        },
+        {
+          "start": 309.78,
+          "end": 310.04,
+          "word": " of"
+        },
+        {
+          "start": 310.04,
+          "end": 310.28,
+          "word": " really"
+        },
+        {
+          "start": 310.28,
+          "end": 310.74,
+          "word": " Scott's"
+        },
+        {
+          "start": 310.74,
+          "end": 310.94,
+          "word": " go"
+        },
+        {
+          "start": 310.94,
+          "end": 311.18,
+          "word": "-to"
+        },
+        {
+          "start": 311.18,
+          "end": 311.78,
+          "word": " guy,"
+        },
+        {
+          "start": 312.32,
+          "end": 312.78,
+          "word": " but"
+        },
+        {
+          "start": 312.78,
+          "end": 313.8,
+          "word": " you've"
+        },
+        {
+          "start": 313.8,
+          "end": 313.98,
+          "word": " done"
+        },
+        {
+          "start": 313.98,
+          "end": 314.16,
+          "word": " like"
+        },
+        {
+          "start": 314.16,
+          "end": 314.64,
+          "word": " 45"
+        },
+        {
+          "start": 314.64,
+          "end": 315.36,
+          "word": ",000"
+        },
+        {
+          "start": 315.36,
+          "end": 315.74,
+          "word": " movies"
+        },
+        {
+          "start": 315.74,
+          "end": 316.3,
+          "word": " together."
+        },
+        {
+          "start": 316.8,
+          "end": 317.08,
+          "word": " It's"
+        },
+        {
+          "start": 317.08,
+          "end": 317.4,
+          "word": " time"
+        },
+        {
+          "start": 317.4,
+          "end": 317.72,
+          "word": " to"
+        },
+        {
+          "start": 317.72,
+          "end": 318.02,
+          "word": " move"
+        },
+        {
+          "start": 318.02,
+          "end": 318.54,
+          "word": " on."
+        }
+      ]
+    },
+    {
+      "start": 319.94,
+      "end": 327.5,
+      "text": " Have a role as a more mature Robin Hood, maybe. It worked for when Sean Connery and him and Audrey Hepburn were Robin and Marion.",
+      "words": [
+        {
+          "start": 319.94,
+          "end": 320.38,
+          "word": " Have"
+        },
+        {
+          "start": 320.38,
+          "end": 320.82,
+          "word": " a"
+        },
+        {
+          "start": 320.82,
+          "end": 321.06,
+          "word": " role"
+        },
+        {
+          "start": 321.06,
+          "end": 321.36,
+          "word": " as"
+        },
+        {
+          "start": 321.36,
+          "end": 321.48,
+          "word": " a"
+        },
+        {
+          "start": 321.48,
+          "end": 321.64,
+          "word": " more"
+        },
+        {
+          "start": 321.64,
+          "end": 322.06,
+          "word": " mature"
+        },
+        {
+          "start": 322.06,
+          "end": 322.28,
+          "word": " Robin"
+        },
+        {
+          "start": 322.28,
+          "end": 322.48,
+          "word": " Hood,"
+        },
+        {
+          "start": 322.78,
+          "end": 322.78,
+          "word": " maybe."
+        },
+        {
+          "start": 322.96,
+          "end": 322.96,
+          "word": " It"
+        },
+        {
+          "start": 322.96,
+          "end": 323.16,
+          "word": " worked"
+        },
+        {
+          "start": 323.16,
+          "end": 323.42,
+          "word": " for"
+        },
+        {
+          "start": 323.42,
+          "end": 323.68,
+          "word": " when"
+        },
+        {
+          "start": 323.68,
+          "end": 323.88,
+          "word": " Sean"
+        },
+        {
+          "start": 323.88,
+          "end": 324.44,
+          "word": " Connery"
+        },
+        {
+          "start": 324.44,
+          "end": 324.76,
+          "word": " and"
+        },
+        {
+          "start": 324.76,
+          "end": 325.18,
+          "word": " him"
+        },
+        {
+          "start": 325.18,
+          "end": 325.26,
+          "word": " and"
+        },
+        {
+          "start": 325.26,
+          "end": 325.52,
+          "word": " Audrey"
+        },
+        {
+          "start": 325.52,
+          "end": 325.92,
+          "word": " Hepburn"
+        },
+        {
+          "start": 325.92,
+          "end": 326.3,
+          "word": " were"
+        },
+        {
+          "start": 326.3,
+          "end": 327.04,
+          "word": " Robin"
+        },
+        {
+          "start": 327.04,
+          "end": 327.22,
+          "word": " and"
+        },
+        {
+          "start": 327.22,
+          "end": 327.5,
+          "word": " Marion."
+        }
+      ]
+    },
+    {
+      "start": 328.88,
+      "end": 337.12,
+      "text": " Sean Connery is a great Robin Hood. Too old? What do we do? Take it out 20 years. Don't do an origin story with a 50-year-old Robin Hood. It's not going to work.",
+      "words": [
+        {
+          "start": 328.88,
+          "end": 329.04,
+          "word": " Sean"
+        },
+        {
+          "start": 329.04,
+          "end": 329.42,
+          "word": " Connery"
+        },
+        {
+          "start": 329.42,
+          "end": 329.54,
+          "word": " is"
+        },
+        {
+          "start": 329.54,
+          "end": 329.6,
+          "word": " a"
+        },
+        {
+          "start": 329.6,
+          "end": 329.74,
+          "word": " great"
+        },
+        {
+          "start": 329.74,
+          "end": 330.02,
+          "word": " Robin"
+        },
+        {
+          "start": 330.02,
+          "end": 330.2,
+          "word": " Hood."
+        },
+        {
+          "start": 330.44,
+          "end": 330.56,
+          "word": " Too"
+        },
+        {
+          "start": 330.56,
+          "end": 330.8,
+          "word": " old?"
+        },
+        {
+          "start": 331.02,
+          "end": 331.06,
+          "word": " What"
+        },
+        {
+          "start": 331.06,
+          "end": 331.14,
+          "word": " do"
+        },
+        {
+          "start": 331.14,
+          "end": 331.24,
+          "word": " we"
+        },
+        {
+          "start": 331.24,
+          "end": 331.46,
+          "word": " do?"
+        },
+        {
+          "start": 331.88,
+          "end": 332.12,
+          "word": " Take"
+        },
+        {
+          "start": 332.12,
+          "end": 332.2,
+          "word": " it"
+        },
+        {
+          "start": 332.2,
+          "end": 332.34,
+          "word": " out"
+        },
+        {
+          "start": 332.34,
+          "end": 332.58,
+          "word": " 20"
+        },
+        {
+          "start": 332.58,
+          "end": 332.82,
+          "word": " years."
+        },
+        {
+          "start": 332.96,
+          "end": 333.14,
+          "word": " Don't"
+        },
+        {
+          "start": 333.14,
+          "end": 333.28,
+          "word": " do"
+        },
+        {
+          "start": 333.28,
+          "end": 333.4,
+          "word": " an"
+        },
+        {
+          "start": 333.4,
+          "end": 333.66,
+          "word": " origin"
+        },
+        {
+          "start": 333.66,
+          "end": 334.22,
+          "word": " story"
+        },
+        {
+          "start": 334.22,
+          "end": 334.62,
+          "word": " with"
+        },
+        {
+          "start": 334.62,
+          "end": 334.92,
+          "word": " a"
+        },
+        {
+          "start": 334.92,
+          "end": 335.22,
+          "word": " 50"
+        },
+        {
+          "start": 335.22,
+          "end": 335.34,
+          "word": "-year"
+        },
+        {
+          "start": 335.34,
+          "end": 335.52,
+          "word": "-old"
+        },
+        {
+          "start": 335.52,
+          "end": 335.78,
+          "word": " Robin"
+        },
+        {
+          "start": 335.78,
+          "end": 336.0,
+          "word": " Hood."
+        },
+        {
+          "start": 336.14,
+          "end": 336.4,
+          "word": " It's"
+        },
+        {
+          "start": 336.4,
+          "end": 336.58,
+          "word": " not"
+        },
+        {
+          "start": 336.58,
+          "end": 336.76,
+          "word": " going"
+        },
+        {
+          "start": 336.76,
+          "end": 336.92,
+          "word": " to"
+        },
+        {
+          "start": 336.92,
+          "end": 337.12,
+          "word": " work."
+        }
+      ]
+    },
+    {
+      "start": 338.06,
+      "end": 344.62,
+      "text": " I'm sorry. I probably sound like a jerk for that. They're not bad actors. They weren't selling it in this movie. I just couldn't get behind it.",
+      "words": [
+        {
+          "start": 338.06,
+          "end": 338.22,
+          "word": " I'm"
+        },
+        {
+          "start": 338.22,
+          "end": 338.4,
+          "word": " sorry."
+        },
+        {
+          "start": 338.56,
+          "end": 338.6,
+          "word": " I"
+        },
+        {
+          "start": 338.6,
+          "end": 338.74,
+          "word": " probably"
+        },
+        {
+          "start": 338.74,
+          "end": 338.94,
+          "word": " sound"
+        },
+        {
+          "start": 338.94,
+          "end": 339.02,
+          "word": " like"
+        },
+        {
+          "start": 339.02,
+          "end": 339.14,
+          "word": " a"
+        },
+        {
+          "start": 339.14,
+          "end": 339.28,
+          "word": " jerk"
+        },
+        {
+          "start": 339.28,
+          "end": 339.48,
+          "word": " for"
+        },
+        {
+          "start": 339.48,
+          "end": 339.7,
+          "word": " that."
+        },
+        {
+          "start": 340.1,
+          "end": 340.28,
+          "word": " They're"
+        },
+        {
+          "start": 340.28,
+          "end": 340.42,
+          "word": " not"
+        },
+        {
+          "start": 340.42,
+          "end": 340.62,
+          "word": " bad"
+        },
+        {
+          "start": 340.62,
+          "end": 341.0,
+          "word": " actors."
+        },
+        {
+          "start": 341.28,
+          "end": 341.64,
+          "word": " They"
+        },
+        {
+          "start": 341.64,
+          "end": 341.84,
+          "word": " weren't"
+        },
+        {
+          "start": 341.84,
+          "end": 342.16,
+          "word": " selling"
+        },
+        {
+          "start": 342.16,
+          "end": 342.32,
+          "word": " it"
+        },
+        {
+          "start": 342.32,
+          "end": 342.42,
+          "word": " in"
+        },
+        {
+          "start": 342.42,
+          "end": 342.56,
+          "word": " this"
+        },
+        {
+          "start": 342.56,
+          "end": 342.8,
+          "word": " movie."
+        },
+        {
+          "start": 343.06,
+          "end": 343.24,
+          "word": " I"
+        },
+        {
+          "start": 343.24,
+          "end": 343.46,
+          "word": " just"
+        },
+        {
+          "start": 343.46,
+          "end": 343.92,
+          "word": " couldn't"
+        },
+        {
+          "start": 343.92,
+          "end": 344.08,
+          "word": " get"
+        },
+        {
+          "start": 344.08,
+          "end": 344.38,
+          "word": " behind"
+        },
+        {
+          "start": 344.38,
+          "end": 344.62,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 345.28,
+      "end": 355.6,
+      "text": " The characters just lacked depth. They were all so one-dimensional. The good guys were good guys. The bad guys were bad guys. We're given really no explanation why.",
+      "words": [
+        {
+          "start": 345.28,
+          "end": 345.76,
+          "word": " The"
+        },
+        {
+          "start": 345.76,
+          "end": 346.14,
+          "word": " characters"
+        },
+        {
+          "start": 346.14,
+          "end": 346.52,
+          "word": " just"
+        },
+        {
+          "start": 346.52,
+          "end": 347.14,
+          "word": " lacked"
+        },
+        {
+          "start": 347.14,
+          "end": 348.02,
+          "word": " depth."
+        },
+        {
+          "start": 348.42,
+          "end": 348.42,
+          "word": " They"
+        },
+        {
+          "start": 348.42,
+          "end": 348.52,
+          "word": " were"
+        },
+        {
+          "start": 348.52,
+          "end": 348.74,
+          "word": " all"
+        },
+        {
+          "start": 348.74,
+          "end": 349.04,
+          "word": " so"
+        },
+        {
+          "start": 349.04,
+          "end": 349.3,
+          "word": " one"
+        },
+        {
+          "start": 349.3,
+          "end": 349.68,
+          "word": "-dimensional."
+        },
+        {
+          "start": 350.66,
+          "end": 350.68,
+          "word": " The"
+        },
+        {
+          "start": 350.68,
+          "end": 350.86,
+          "word": " good"
+        },
+        {
+          "start": 350.86,
+          "end": 351.06,
+          "word": " guys"
+        },
+        {
+          "start": 351.06,
+          "end": 351.22,
+          "word": " were"
+        },
+        {
+          "start": 351.22,
+          "end": 351.4,
+          "word": " good"
+        },
+        {
+          "start": 351.4,
+          "end": 351.64,
+          "word": " guys."
+        },
+        {
+          "start": 351.8,
+          "end": 351.86,
+          "word": " The"
+        },
+        {
+          "start": 351.86,
+          "end": 352.06,
+          "word": " bad"
+        },
+        {
+          "start": 352.06,
+          "end": 352.3,
+          "word": " guys"
+        },
+        {
+          "start": 352.3,
+          "end": 352.48,
+          "word": " were"
+        },
+        {
+          "start": 352.48,
+          "end": 352.7,
+          "word": " bad"
+        },
+        {
+          "start": 352.7,
+          "end": 353.08,
+          "word": " guys."
+        },
+        {
+          "start": 353.3,
+          "end": 353.38,
+          "word": " We're"
+        },
+        {
+          "start": 353.38,
+          "end": 353.58,
+          "word": " given"
+        },
+        {
+          "start": 353.58,
+          "end": 353.92,
+          "word": " really"
+        },
+        {
+          "start": 353.92,
+          "end": 354.44,
+          "word": " no"
+        },
+        {
+          "start": 354.44,
+          "end": 354.92,
+          "word": " explanation"
+        },
+        {
+          "start": 354.92,
+          "end": 355.6,
+          "word": " why."
+        }
+      ]
+    },
+    {
+      "start": 357.6,
+      "end": 363.68,
+      "text": " Robin Hood, for the beginning of the movie, basically comes across as this heartless badass.",
+      "words": [
+        {
+          "start": 357.6,
+          "end": 358.08,
+          "word": " Robin"
+        },
+        {
+          "start": 358.08,
+          "end": 358.42,
+          "word": " Hood,"
+        },
+        {
+          "start": 358.56,
+          "end": 358.78,
+          "word": " for"
+        },
+        {
+          "start": 358.78,
+          "end": 358.9,
+          "word": " the"
+        },
+        {
+          "start": 358.9,
+          "end": 359.14,
+          "word": " beginning"
+        },
+        {
+          "start": 359.14,
+          "end": 359.38,
+          "word": " of"
+        },
+        {
+          "start": 359.38,
+          "end": 359.52,
+          "word": " the"
+        },
+        {
+          "start": 359.52,
+          "end": 359.86,
+          "word": " movie,"
+        },
+        {
+          "start": 360.36,
+          "end": 360.54,
+          "word": " basically"
+        },
+        {
+          "start": 360.54,
+          "end": 360.88,
+          "word": " comes"
+        },
+        {
+          "start": 360.88,
+          "end": 361.2,
+          "word": " across"
+        },
+        {
+          "start": 361.2,
+          "end": 361.74,
+          "word": " as"
+        },
+        {
+          "start": 361.74,
+          "end": 361.94,
+          "word": " this"
+        },
+        {
+          "start": 361.94,
+          "end": 362.68,
+          "word": " heartless"
+        },
+        {
+          "start": 362.68,
+          "end": 363.68,
+          "word": " badass."
+        }
+      ]
+    },
+    {
+      "start": 364.88,
+      "end": 370.36,
+      "text": " And then we don't really know what inspires him to take up his sword and bow and defend the innocent.",
+      "words": [
+        {
+          "start": 364.88,
+          "end": 364.94,
+          "word": " And"
+        },
+        {
+          "start": 364.94,
+          "end": 365.18,
+          "word": " then"
+        },
+        {
+          "start": 365.18,
+          "end": 365.94,
+          "word": " we"
+        },
+        {
+          "start": 365.94,
+          "end": 366.08,
+          "word": " don't"
+        },
+        {
+          "start": 366.08,
+          "end": 366.32,
+          "word": " really"
+        },
+        {
+          "start": 366.32,
+          "end": 366.56,
+          "word": " know"
+        },
+        {
+          "start": 366.56,
+          "end": 366.84,
+          "word": " what"
+        },
+        {
+          "start": 366.84,
+          "end": 367.36,
+          "word": " inspires"
+        },
+        {
+          "start": 367.36,
+          "end": 367.6,
+          "word": " him"
+        },
+        {
+          "start": 367.6,
+          "end": 367.74,
+          "word": " to"
+        },
+        {
+          "start": 367.74,
+          "end": 367.88,
+          "word": " take"
+        },
+        {
+          "start": 367.88,
+          "end": 368.04,
+          "word": " up"
+        },
+        {
+          "start": 368.04,
+          "end": 368.22,
+          "word": " his"
+        },
+        {
+          "start": 368.22,
+          "end": 368.52,
+          "word": " sword"
+        },
+        {
+          "start": 368.52,
+          "end": 368.74,
+          "word": " and"
+        },
+        {
+          "start": 368.74,
+          "end": 368.98,
+          "word": " bow"
+        },
+        {
+          "start": 368.98,
+          "end": 369.4,
+          "word": " and"
+        },
+        {
+          "start": 369.4,
+          "end": 369.8,
+          "word": " defend"
+        },
+        {
+          "start": 369.8,
+          "end": 370.08,
+          "word": " the"
+        },
+        {
+          "start": 370.08,
+          "end": 370.36,
+          "word": " innocent."
+        }
+      ]
+    },
+    {
+      "start": 370.36,
+      "end": 379.42,
+      "text": " He does it. Cool. That's the story. But why? It's never explored. And it just kind of leaves you feeling hollow.",
+      "words": [
+        {
+          "start": 370.36,
+          "end": 371.36,
+          "word": " He"
+        },
+        {
+          "start": 371.36,
+          "end": 371.6,
+          "word": " does"
+        },
+        {
+          "start": 371.6,
+          "end": 371.92,
+          "word": " it."
+        },
+        {
+          "start": 372.44,
+          "end": 372.72,
+          "word": " Cool."
+        },
+        {
+          "start": 373.0,
+          "end": 373.1,
+          "word": " That's"
+        },
+        {
+          "start": 373.1,
+          "end": 373.26,
+          "word": " the"
+        },
+        {
+          "start": 373.26,
+          "end": 373.56,
+          "word": " story."
+        },
+        {
+          "start": 374.1,
+          "end": 374.2,
+          "word": " But"
+        },
+        {
+          "start": 374.2,
+          "end": 374.66,
+          "word": " why?"
+        },
+        {
+          "start": 375.1,
+          "end": 375.46,
+          "word": " It's"
+        },
+        {
+          "start": 375.46,
+          "end": 375.72,
+          "word": " never"
+        },
+        {
+          "start": 375.72,
+          "end": 376.4,
+          "word": " explored."
+        },
+        {
+          "start": 377.08,
+          "end": 377.08,
+          "word": " And"
+        },
+        {
+          "start": 377.08,
+          "end": 377.66,
+          "word": " it"
+        },
+        {
+          "start": 377.66,
+          "end": 377.82,
+          "word": " just"
+        },
+        {
+          "start": 377.82,
+          "end": 378.1,
+          "word": " kind"
+        },
+        {
+          "start": 378.1,
+          "end": 378.26,
+          "word": " of"
+        },
+        {
+          "start": 378.26,
+          "end": 378.52,
+          "word": " leaves"
+        },
+        {
+          "start": 378.52,
+          "end": 378.7,
+          "word": " you"
+        },
+        {
+          "start": 378.7,
+          "end": 378.96,
+          "word": " feeling"
+        },
+        {
+          "start": 378.96,
+          "end": 379.42,
+          "word": " hollow."
+        }
+      ]
+    },
+    {
+      "start": 380.96,
+      "end": 388.1,
+      "text": " Same with the villain characters. Sheriff of Nottingham kind of got the boot as the main mega-moniacal villain.",
+      "words": [
+        {
+          "start": 380.96,
+          "end": 381.08,
+          "word": " Same"
+        },
+        {
+          "start": 381.08,
+          "end": 381.34,
+          "word": " with"
+        },
+        {
+          "start": 381.34,
+          "end": 381.54,
+          "word": " the"
+        },
+        {
+          "start": 381.54,
+          "end": 381.8,
+          "word": " villain"
+        },
+        {
+          "start": 381.8,
+          "end": 382.36,
+          "word": " characters."
+        },
+        {
+          "start": 382.94,
+          "end": 383.34,
+          "word": " Sheriff"
+        },
+        {
+          "start": 383.34,
+          "end": 383.56,
+          "word": " of"
+        },
+        {
+          "start": 383.56,
+          "end": 383.8,
+          "word": " Nottingham"
+        },
+        {
+          "start": 383.8,
+          "end": 384.16,
+          "word": " kind"
+        },
+        {
+          "start": 384.16,
+          "end": 384.3,
+          "word": " of"
+        },
+        {
+          "start": 384.3,
+          "end": 384.42,
+          "word": " got"
+        },
+        {
+          "start": 384.42,
+          "end": 384.6,
+          "word": " the"
+        },
+        {
+          "start": 384.6,
+          "end": 384.82,
+          "word": " boot"
+        },
+        {
+          "start": 384.82,
+          "end": 385.16,
+          "word": " as"
+        },
+        {
+          "start": 385.16,
+          "end": 385.48,
+          "word": " the"
+        },
+        {
+          "start": 385.48,
+          "end": 386.08,
+          "word": " main"
+        },
+        {
+          "start": 386.08,
+          "end": 387.18,
+          "word": " mega"
+        },
+        {
+          "start": 387.18,
+          "end": 387.76,
+          "word": "-moniacal"
+        },
+        {
+          "start": 387.76,
+          "end": 388.1,
+          "word": " villain."
+        }
+      ]
+    },
+    {
+      "start": 388.84,
+      "end": 393.76,
+      "text": " And we get this martial godfrey who sold it huge. He was a great role. It gets at it in a bit.",
+      "words": [
+        {
+          "start": 388.84,
+          "end": 388.98,
+          "word": " And"
+        },
+        {
+          "start": 388.98,
+          "end": 389.08,
+          "word": " we"
+        },
+        {
+          "start": 389.08,
+          "end": 389.2,
+          "word": " get"
+        },
+        {
+          "start": 389.2,
+          "end": 389.34,
+          "word": " this"
+        },
+        {
+          "start": 389.34,
+          "end": 389.62,
+          "word": " martial"
+        },
+        {
+          "start": 389.62,
+          "end": 390.3,
+          "word": " godfrey"
+        },
+        {
+          "start": 390.3,
+          "end": 390.54,
+          "word": " who"
+        },
+        {
+          "start": 390.54,
+          "end": 391.2,
+          "word": " sold"
+        },
+        {
+          "start": 391.2,
+          "end": 391.46,
+          "word": " it"
+        },
+        {
+          "start": 391.46,
+          "end": 391.92,
+          "word": " huge."
+        },
+        {
+          "start": 392.18,
+          "end": 392.24,
+          "word": " He"
+        },
+        {
+          "start": 392.24,
+          "end": 392.32,
+          "word": " was"
+        },
+        {
+          "start": 392.32,
+          "end": 392.48,
+          "word": " a"
+        },
+        {
+          "start": 392.48,
+          "end": 392.8,
+          "word": " great"
+        },
+        {
+          "start": 392.8,
+          "end": 393.04,
+          "word": " role."
+        },
+        {
+          "start": 393.16,
+          "end": 393.16,
+          "word": " It"
+        },
+        {
+          "start": 393.16,
+          "end": 393.28,
+          "word": " gets"
+        },
+        {
+          "start": 393.28,
+          "end": 393.42,
+          "word": " at"
+        },
+        {
+          "start": 393.42,
+          "end": 393.5,
+          "word": " it"
+        },
+        {
+          "start": 393.5,
+          "end": 393.54,
+          "word": " in"
+        },
+        {
+          "start": 393.54,
+          "end": 393.64,
+          "word": " a"
+        },
+        {
+          "start": 393.64,
+          "end": 393.76,
+          "word": " bit."
+        }
+      ]
+    },
+    {
+      "start": 394.28,
+      "end": 401.72,
+      "text": " But we don't know why he did the things that he did. It's not covered. It's just, I'm the villain. I'm going to do villain stuff.",
+      "words": [
+        {
+          "start": 394.28,
+          "end": 394.68,
+          "word": " But"
+        },
+        {
+          "start": 394.68,
+          "end": 394.78,
+          "word": " we"
+        },
+        {
+          "start": 394.78,
+          "end": 394.96,
+          "word": " don't"
+        },
+        {
+          "start": 394.96,
+          "end": 395.14,
+          "word": " know"
+        },
+        {
+          "start": 395.14,
+          "end": 395.68,
+          "word": " why"
+        },
+        {
+          "start": 395.68,
+          "end": 396.44,
+          "word": " he"
+        },
+        {
+          "start": 396.44,
+          "end": 396.64,
+          "word": " did"
+        },
+        {
+          "start": 396.64,
+          "end": 396.82,
+          "word": " the"
+        },
+        {
+          "start": 396.82,
+          "end": 397.1,
+          "word": " things"
+        },
+        {
+          "start": 397.1,
+          "end": 397.42,
+          "word": " that"
+        },
+        {
+          "start": 397.42,
+          "end": 397.58,
+          "word": " he"
+        },
+        {
+          "start": 397.58,
+          "end": 397.82,
+          "word": " did."
+        },
+        {
+          "start": 398.26,
+          "end": 398.34,
+          "word": " It's"
+        },
+        {
+          "start": 398.34,
+          "end": 398.54,
+          "word": " not"
+        },
+        {
+          "start": 398.54,
+          "end": 398.9,
+          "word": " covered."
+        },
+        {
+          "start": 399.12,
+          "end": 399.2,
+          "word": " It's"
+        },
+        {
+          "start": 399.2,
+          "end": 399.42,
+          "word": " just,"
+        },
+        {
+          "start": 399.74,
+          "end": 399.86,
+          "word": " I'm"
+        },
+        {
+          "start": 399.86,
+          "end": 399.94,
+          "word": " the"
+        },
+        {
+          "start": 399.94,
+          "end": 400.1,
+          "word": " villain."
+        },
+        {
+          "start": 400.64,
+          "end": 400.88,
+          "word": " I'm"
+        },
+        {
+          "start": 400.88,
+          "end": 400.96,
+          "word": " going"
+        },
+        {
+          "start": 400.96,
+          "end": 401.02,
+          "word": " to"
+        },
+        {
+          "start": 401.02,
+          "end": 401.14,
+          "word": " do"
+        },
+        {
+          "start": 401.14,
+          "end": 401.36,
+          "word": " villain"
+        },
+        {
+          "start": 401.36,
+          "end": 401.72,
+          "word": " stuff."
+        }
+      ]
+    },
+    {
+      "start": 403.27,
+      "end": 409.73,
+      "text": " You need a villain, but come on. At least throw us a bone here, release god. Throw us something. Give us anything.",
+      "words": [
+        {
+          "start": 403.27,
+          "end": 403.53,
+          "word": " You"
+        },
+        {
+          "start": 403.53,
+          "end": 403.65,
+          "word": " need"
+        },
+        {
+          "start": 403.65,
+          "end": 403.83,
+          "word": " a"
+        },
+        {
+          "start": 403.83,
+          "end": 404.05,
+          "word": " villain,"
+        },
+        {
+          "start": 404.27,
+          "end": 404.33,
+          "word": " but"
+        },
+        {
+          "start": 404.33,
+          "end": 404.49,
+          "word": " come"
+        },
+        {
+          "start": 404.49,
+          "end": 404.75,
+          "word": " on."
+        },
+        {
+          "start": 404.97,
+          "end": 404.97,
+          "word": " At"
+        },
+        {
+          "start": 404.97,
+          "end": 405.15,
+          "word": " least"
+        },
+        {
+          "start": 405.15,
+          "end": 406.25,
+          "word": " throw"
+        },
+        {
+          "start": 406.25,
+          "end": 406.37,
+          "word": " us"
+        },
+        {
+          "start": 406.37,
+          "end": 406.47,
+          "word": " a"
+        },
+        {
+          "start": 406.47,
+          "end": 406.71,
+          "word": " bone"
+        },
+        {
+          "start": 406.71,
+          "end": 407.03,
+          "word": " here,"
+        },
+        {
+          "start": 407.33,
+          "end": 407.43,
+          "word": " release"
+        },
+        {
+          "start": 407.43,
+          "end": 407.67,
+          "word": " god."
+        },
+        {
+          "start": 407.87,
+          "end": 407.99,
+          "word": " Throw"
+        },
+        {
+          "start": 407.99,
+          "end": 408.17,
+          "word": " us"
+        },
+        {
+          "start": 408.17,
+          "end": 408.59,
+          "word": " something."
+        },
+        {
+          "start": 408.91,
+          "end": 409.01,
+          "word": " Give"
+        },
+        {
+          "start": 409.01,
+          "end": 409.19,
+          "word": " us"
+        },
+        {
+          "start": 409.19,
+          "end": 409.73,
+          "word": " anything."
+        }
+      ]
+    },
+    {
+      "start": 410.67,
+      "end": 411.69,
+      "text": " I don't want too much on negatives.",
+      "words": [
+        {
+          "start": 410.67,
+          "end": 410.75,
+          "word": " I"
+        },
+        {
+          "start": 410.75,
+          "end": 410.81,
+          "word": " don't"
+        },
+        {
+          "start": 410.81,
+          "end": 410.97,
+          "word": " want"
+        },
+        {
+          "start": 410.97,
+          "end": 411.11,
+          "word": " too"
+        },
+        {
+          "start": 411.11,
+          "end": 411.25,
+          "word": " much"
+        },
+        {
+          "start": 411.25,
+          "end": 411.37,
+          "word": " on"
+        },
+        {
+          "start": 411.37,
+          "end": 411.69,
+          "word": " negatives."
+        }
+      ]
+    }
+  ]
+}

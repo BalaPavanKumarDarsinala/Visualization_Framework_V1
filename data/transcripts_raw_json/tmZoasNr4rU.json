@@ -1,0 +1,2730 @@
+{
+  "segments": [
+    {
+      "start": 1.26,
+      "end": 5.58,
+      "text": " Hi folks, I'd like to quickly talk about Machete.",
+      "words": [
+        {
+          "start": 1.26,
+          "end": 1.78,
+          "word": " Hi"
+        },
+        {
+          "start": 1.78,
+          "end": 2.14,
+          "word": " folks,"
+        },
+        {
+          "start": 2.38,
+          "end": 3.08,
+          "word": " I'd"
+        },
+        {
+          "start": 3.08,
+          "end": 3.14,
+          "word": " like"
+        },
+        {
+          "start": 3.14,
+          "end": 3.58,
+          "word": " to"
+        },
+        {
+          "start": 3.58,
+          "end": 4.42,
+          "word": " quickly"
+        },
+        {
+          "start": 4.42,
+          "end": 4.74,
+          "word": " talk"
+        },
+        {
+          "start": 4.74,
+          "end": 5.18,
+          "word": " about"
+        },
+        {
+          "start": 5.18,
+          "end": 5.58,
+          "word": " Machete."
+        }
+      ]
+    },
+    {
+      "start": 6.51,
+      "end": 10.48,
+      "text": " I'm sorry and disappointed to say this.",
+      "words": [
+        {
+          "start": 6.51,
+          "end": 7.01,
+          "word": " I'm"
+        },
+        {
+          "start": 7.01,
+          "end": 7.33,
+          "word": " sorry"
+        },
+        {
+          "start": 7.33,
+          "end": 7.83,
+          "word": " and"
+        },
+        {
+          "start": 8.12,
+          "end": 9.64,
+          "word": " disappointed"
+        },
+        {
+          "start": 9.64,
+          "end": 9.88,
+          "word": " to"
+        },
+        {
+          "start": 9.88,
+          "end": 10.1,
+          "word": " say"
+        },
+        {
+          "start": 10.1,
+          "end": 10.48,
+          "word": " this."
+        }
+      ]
+    },
+    {
+      "start": 11.51,
+      "end": 15.04,
+      "text": " I didn't like it. I couldn't get into it.",
+      "words": [
+        {
+          "start": 11.51,
+          "end": 11.97,
+          "word": " I"
+        },
+        {
+          "start": 11.97,
+          "end": 12.39,
+          "word": " didn't"
+        },
+        {
+          "start": 12.39,
+          "end": 12.57,
+          "word": " like"
+        },
+        {
+          "start": 12.57,
+          "end": 12.97,
+          "word": " it."
+        },
+        {
+          "start": 13.68,
+          "end": 13.92,
+          "word": " I"
+        },
+        {
+          "start": 13.92,
+          "end": 14.42,
+          "word": " couldn't"
+        },
+        {
+          "start": 14.42,
+          "end": 14.58,
+          "word": " get"
+        },
+        {
+          "start": 14.58,
+          "end": 14.8,
+          "word": " into"
+        },
+        {
+          "start": 14.8,
+          "end": 15.04,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 15.28,
+      "end": 19.32,
+      "text": " I actually knew what I was getting myself into.",
+      "words": [
+        {
+          "start": 15.28,
+          "end": 15.64,
+          "word": " I"
+        },
+        {
+          "start": 15.64,
+          "end": 16.04,
+          "word": " actually"
+        },
+        {
+          "start": 16.04,
+          "end": 16.34,
+          "word": " knew"
+        },
+        {
+          "start": 16.34,
+          "end": 16.84,
+          "word": " what"
+        },
+        {
+          "start": 16.84,
+          "end": 16.98,
+          "word": " I"
+        },
+        {
+          "start": 16.98,
+          "end": 17.1,
+          "word": " was"
+        },
+        {
+          "start": 17.1,
+          "end": 17.44,
+          "word": " getting"
+        },
+        {
+          "start": 17.44,
+          "end": 18.96,
+          "word": " myself"
+        },
+        {
+          "start": 18.96,
+          "end": 19.32,
+          "word": " into."
+        }
+      ]
+    },
+    {
+      "start": 19.5,
+      "end": 22.7,
+      "text": " I know it's not meant to be taken seriously.",
+      "words": [
+        {
+          "start": 19.5,
+          "end": 19.54,
+          "word": " I"
+        },
+        {
+          "start": 19.54,
+          "end": 19.78,
+          "word": " know"
+        },
+        {
+          "start": 19.78,
+          "end": 20.42,
+          "word": " it's"
+        },
+        {
+          "start": 20.42,
+          "end": 20.58,
+          "word": " not"
+        },
+        {
+          "start": 20.58,
+          "end": 20.76,
+          "word": " meant"
+        },
+        {
+          "start": 20.76,
+          "end": 20.9,
+          "word": " to"
+        },
+        {
+          "start": 20.9,
+          "end": 21.0,
+          "word": " be"
+        },
+        {
+          "start": 21.0,
+          "end": 21.4,
+          "word": " taken"
+        },
+        {
+          "start": 21.4,
+          "end": 22.7,
+          "word": " seriously."
+        }
+      ]
+    },
+    {
+      "start": 26.93,
+      "end": 35.0,
+      "text": " Maybe 70s exploitation movies are more cheesy than Machete",
+      "words": [
+        {
+          "start": 26.93,
+          "end": 27.73,
+          "word": " Maybe"
+        },
+        {
+          "start": 27.73,
+          "end": 28.53,
+          "word": " 70s"
+        },
+        {
+          "start": 28.53,
+          "end": 29.05,
+          "word": " exploitation"
+        },
+        {
+          "start": 29.05,
+          "end": 29.69,
+          "word": " movies"
+        },
+        {
+          "start": 29.69,
+          "end": 29.99,
+          "word": " are"
+        },
+        {
+          "start": 29.99,
+          "end": 30.49,
+          "word": " more"
+        },
+        {
+          "start": 31.9,
+          "end": 33.1,
+          "word": " cheesy"
+        },
+        {
+          "start": 33.1,
+          "end": 33.86,
+          "word": " than"
+        },
+        {
+          "start": 33.86,
+          "end": 35.0,
+          "word": " Machete"
+        }
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 39.91,
+      "text": " and maybe Planet Terror. I'm not sure. I'm just guessing.",
+      "words": [
+        {
+          "start": 35.0,
+          "end": 35.38,
+          "word": " and"
+        },
+        {
+          "start": 35.38,
+          "end": 35.74,
+          "word": " maybe"
+        },
+        {
+          "start": 35.74,
+          "end": 36.44,
+          "word": " Planet"
+        },
+        {
+          "start": 36.44,
+          "end": 36.82,
+          "word": " Terror."
+        },
+        {
+          "start": 37.2,
+          "end": 37.4,
+          "word": " I'm"
+        },
+        {
+          "start": 37.4,
+          "end": 38.02,
+          "word": " not"
+        },
+        {
+          "start": 38.02,
+          "end": 38.26,
+          "word": " sure."
+        },
+        {
+          "start": 38.46,
+          "end": 38.48,
+          "word": " I'm"
+        },
+        {
+          "start": 38.48,
+          "end": 38.84,
+          "word": " just"
+        },
+        {
+          "start": 38.87,
+          "end": 39.91,
+          "word": " guessing."
+        }
+      ]
+    },
+    {
+      "start": 45.31,
+      "end": 47.91,
+      "text": " The action and humor were mostly flat.",
+      "words": [
+        {
+          "start": 45.31,
+          "end": 45.31,
+          "word": " The"
+        },
+        {
+          "start": 45.31,
+          "end": 45.91,
+          "word": " action"
+        },
+        {
+          "start": 45.91,
+          "end": 46.17,
+          "word": " and"
+        },
+        {
+          "start": 46.17,
+          "end": 46.55,
+          "word": " humor"
+        },
+        {
+          "start": 46.55,
+          "end": 46.93,
+          "word": " were"
+        },
+        {
+          "start": 46.93,
+          "end": 47.25,
+          "word": " mostly"
+        },
+        {
+          "start": 47.25,
+          "end": 47.91,
+          "word": " flat."
+        }
+      ]
+    },
+    {
+      "start": 48.99,
+      "end": 53.87,
+      "text": " I can't explain why the humor was multi-flat",
+      "words": [
+        {
+          "start": 48.99,
+          "end": 49.13,
+          "word": " I"
+        },
+        {
+          "start": 49.13,
+          "end": 50.43,
+          "word": " can't"
+        },
+        {
+          "start": 50.43,
+          "end": 51.03,
+          "word": " explain"
+        },
+        {
+          "start": 51.03,
+          "end": 51.61,
+          "word": " why"
+        },
+        {
+          "start": 51.61,
+          "end": 52.27,
+          "word": " the"
+        },
+        {
+          "start": 52.27,
+          "end": 52.61,
+          "word": " humor"
+        },
+        {
+          "start": 52.61,
+          "end": 53.21,
+          "word": " was"
+        },
+        {
+          "start": 53.21,
+          "end": 53.53,
+          "word": " multi"
+        },
+        {
+          "start": 53.53,
+          "end": 53.87,
+          "word": "-flat"
+        }
+      ]
+    },
+    {
+      "start": 53.87,
+      "end": 63.03,
+      "text": " because a few or several jokes actually felt funny,",
+      "words": [
+        {
+          "start": 53.87,
+          "end": 54.39,
+          "word": " because"
+        },
+        {
+          "start": 54.39,
+          "end": 55.75,
+          "word": " a"
+        },
+        {
+          "start": 55.97,
+          "end": 56.33,
+          "word": " few"
+        },
+        {
+          "start": 56.33,
+          "end": 56.63,
+          "word": " or"
+        },
+        {
+          "start": 56.63,
+          "end": 57.15,
+          "word": " several"
+        },
+        {
+          "start": 57.15,
+          "end": 57.57,
+          "word": " jokes"
+        },
+        {
+          "start": 57.57,
+          "end": 58.09,
+          "word": " actually"
+        },
+        {
+          "start": 58.09,
+          "end": 58.51,
+          "word": " felt"
+        },
+        {
+          "start": 59.73,
+          "end": 63.03,
+          "word": " funny,"
+        }
+      ]
+    },
+    {
+      "start": 64.69,
+      "end": 67.65,
+      "text": " but I just didn't laugh.",
+      "words": [
+        {
+          "start": 64.69,
+          "end": 64.69,
+          "word": " but"
+        },
+        {
+          "start": 64.69,
+          "end": 65.11,
+          "word": " I"
+        },
+        {
+          "start": 65.11,
+          "end": 65.31,
+          "word": " just"
+        },
+        {
+          "start": 65.95,
+          "end": 67.29,
+          "word": " didn't"
+        },
+        {
+          "start": 67.29,
+          "end": 67.65,
+          "word": " laugh."
+        }
+      ]
+    },
+    {
+      "start": 67.65,
+      "end": 76.54,
+      "text": " It probably would have helped if I went with someone,",
+      "words": [
+        {
+          "start": 67.65,
+          "end": 68.53,
+          "word": " It"
+        },
+        {
+          "start": 73.36,
+          "end": 73.68,
+          "word": " probably"
+        },
+        {
+          "start": 73.68,
+          "end": 73.88,
+          "word": " would"
+        },
+        {
+          "start": 73.88,
+          "end": 74.0,
+          "word": " have"
+        },
+        {
+          "start": 74.0,
+          "end": 74.32,
+          "word": " helped"
+        },
+        {
+          "start": 74.32,
+          "end": 74.54,
+          "word": " if"
+        },
+        {
+          "start": 74.54,
+          "end": 74.74,
+          "word": " I"
+        },
+        {
+          "start": 74.74,
+          "end": 75.38,
+          "word": " went"
+        },
+        {
+          "start": 75.38,
+          "end": 75.76,
+          "word": " with"
+        },
+        {
+          "start": 75.76,
+          "end": 76.54,
+          "word": " someone,"
+        }
+      ]
+    },
+    {
+      "start": 77.38,
+      "end": 81.32,
+      "text": " if at least one other person went with me.",
+      "words": [
+        {
+          "start": 77.38,
+          "end": 77.8,
+          "word": " if"
+        },
+        {
+          "start": 77.8,
+          "end": 77.96,
+          "word": " at"
+        },
+        {
+          "start": 77.96,
+          "end": 78.1,
+          "word": " least"
+        },
+        {
+          "start": 78.1,
+          "end": 78.54,
+          "word": " one"
+        },
+        {
+          "start": 78.54,
+          "end": 79.06,
+          "word": " other"
+        },
+        {
+          "start": 79.06,
+          "end": 79.48,
+          "word": " person"
+        },
+        {
+          "start": 79.48,
+          "end": 80.82,
+          "word": " went"
+        },
+        {
+          "start": 80.82,
+          "end": 81.0,
+          "word": " with"
+        },
+        {
+          "start": 81.0,
+          "end": 81.32,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 84.11,
+      "end": 85.69,
+      "text": " But whatever, I'm just guessing again.",
+      "words": [
+        {
+          "start": 84.11,
+          "end": 84.47,
+          "word": " But"
+        },
+        {
+          "start": 84.47,
+          "end": 84.69,
+          "word": " whatever,"
+        },
+        {
+          "start": 84.79,
+          "end": 84.89,
+          "word": " I'm"
+        },
+        {
+          "start": 84.89,
+          "end": 85.03,
+          "word": " just"
+        },
+        {
+          "start": 85.03,
+          "end": 85.25,
+          "word": " guessing"
+        },
+        {
+          "start": 85.25,
+          "end": 85.69,
+          "word": " again."
+        }
+      ]
+    },
+    {
+      "start": 87.09,
+      "end": 88.99,
+      "text": " Maybe only five jokes made me laugh.",
+      "words": [
+        {
+          "start": 87.09,
+          "end": 87.37,
+          "word": " Maybe"
+        },
+        {
+          "start": 87.37,
+          "end": 87.63,
+          "word": " only"
+        },
+        {
+          "start": 87.63,
+          "end": 87.93,
+          "word": " five"
+        },
+        {
+          "start": 87.93,
+          "end": 88.25,
+          "word": " jokes"
+        },
+        {
+          "start": 88.25,
+          "end": 88.53,
+          "word": " made"
+        },
+        {
+          "start": 88.53,
+          "end": 88.69,
+          "word": " me"
+        },
+        {
+          "start": 88.69,
+          "end": 88.99,
+          "word": " laugh."
+        }
+      ]
+    },
+    {
+      "start": 90.48,
+      "end": 95.0,
+      "text": " It's clear to me that Steven Seagal's death was supposed to be darkly funny",
+      "words": [
+        {
+          "start": 90.48,
+          "end": 90.94,
+          "word": " It's"
+        },
+        {
+          "start": 90.94,
+          "end": 91.16,
+          "word": " clear"
+        },
+        {
+          "start": 91.16,
+          "end": 91.34,
+          "word": " to"
+        },
+        {
+          "start": 91.34,
+          "end": 91.54,
+          "word": " me"
+        },
+        {
+          "start": 91.54,
+          "end": 91.8,
+          "word": " that"
+        },
+        {
+          "start": 91.8,
+          "end": 92.18,
+          "word": " Steven"
+        },
+        {
+          "start": 92.18,
+          "end": 92.8,
+          "word": " Seagal's"
+        },
+        {
+          "start": 92.8,
+          "end": 93.04,
+          "word": " death"
+        },
+        {
+          "start": 93.04,
+          "end": 93.3,
+          "word": " was"
+        },
+        {
+          "start": 93.3,
+          "end": 93.58,
+          "word": " supposed"
+        },
+        {
+          "start": 93.58,
+          "end": 93.74,
+          "word": " to"
+        },
+        {
+          "start": 93.74,
+          "end": 94.2,
+          "word": " be"
+        },
+        {
+          "start": 94.2,
+          "end": 94.74,
+          "word": " darkly"
+        },
+        {
+          "start": 94.74,
+          "end": 95.0,
+          "word": " funny"
+        }
+      ]
+    },
+    {
+      "start": 95.0,
+      "end": 101.98,
+      "text": " and although I like dark humor, but I just couldn't find it funny.",
+      "words": [
+        {
+          "start": 95.0,
+          "end": 95.4,
+          "word": " and"
+        },
+        {
+          "start": 95.4,
+          "end": 96.1,
+          "word": " although"
+        },
+        {
+          "start": 96.1,
+          "end": 96.4,
+          "word": " I"
+        },
+        {
+          "start": 96.4,
+          "end": 97.18,
+          "word": " like"
+        },
+        {
+          "start": 97.44,
+          "end": 98.16,
+          "word": " dark"
+        },
+        {
+          "start": 98.16,
+          "end": 98.46,
+          "word": " humor,"
+        },
+        {
+          "start": 98.64,
+          "end": 98.8,
+          "word": " but"
+        },
+        {
+          "start": 98.8,
+          "end": 99.64,
+          "word": " I"
+        },
+        {
+          "start": 99.64,
+          "end": 99.8,
+          "word": " just"
+        },
+        {
+          "start": 99.8,
+          "end": 100.74,
+          "word": " couldn't"
+        },
+        {
+          "start": 100.74,
+          "end": 101.54,
+          "word": " find"
+        },
+        {
+          "start": 101.54,
+          "end": 101.72,
+          "word": " it"
+        },
+        {
+          "start": 101.72,
+          "end": 101.98,
+          "word": " funny."
+        }
+      ]
+    },
+    {
+      "start": 102.67,
+      "end": 105.42,
+      "text": " Was it silly in a good way?",
+      "words": [
+        {
+          "start": 102.67,
+          "end": 103.06,
+          "word": " Was"
+        },
+        {
+          "start": 103.06,
+          "end": 103.9,
+          "word": " it"
+        },
+        {
+          "start": 103.9,
+          "end": 104.3,
+          "word": " silly"
+        },
+        {
+          "start": 104.3,
+          "end": 104.96,
+          "word": " in"
+        },
+        {
+          "start": 104.96,
+          "end": 105.06,
+          "word": " a"
+        },
+        {
+          "start": 105.06,
+          "end": 105.16,
+          "word": " good"
+        },
+        {
+          "start": 105.16,
+          "end": 105.42,
+          "word": " way?"
+        }
+      ]
+    },
+    {
+      "start": 106.36,
+      "end": 118.23,
+      "text": " I guess so. It wasn't annoying. It was just there. I wasn't amused.",
+      "words": [
+        {
+          "start": 106.36,
+          "end": 106.36,
+          "word": " I"
+        },
+        {
+          "start": 106.36,
+          "end": 107.26,
+          "word": " guess"
+        },
+        {
+          "start": 107.26,
+          "end": 107.58,
+          "word": " so."
+        },
+        {
+          "start": 108.06,
+          "end": 108.06,
+          "word": " It"
+        },
+        {
+          "start": 108.06,
+          "end": 110.78,
+          "word": " wasn't"
+        },
+        {
+          "start": 114.11,
+          "end": 114.41,
+          "word": " annoying."
+        },
+        {
+          "start": 115.05,
+          "end": 115.27,
+          "word": " It"
+        },
+        {
+          "start": 115.27,
+          "end": 115.43,
+          "word": " was"
+        },
+        {
+          "start": 115.43,
+          "end": 115.67,
+          "word": " just"
+        },
+        {
+          "start": 115.67,
+          "end": 116.29,
+          "word": " there."
+        },
+        {
+          "start": 116.95,
+          "end": 116.97,
+          "word": " I"
+        },
+        {
+          "start": 116.97,
+          "end": 117.93,
+          "word": " wasn't"
+        },
+        {
+          "start": 117.93,
+          "end": 118.23,
+          "word": " amused."
+        }
+      ]
+    },
+    {
+      "start": 122.76,
+      "end": 128.6,
+      "text": " I knew obviously the movie would be gory maybe a lot more than The Expendables,",
+      "words": [
+        {
+          "start": 122.76,
+          "end": 122.98,
+          "word": " I"
+        },
+        {
+          "start": 122.98,
+          "end": 123.44,
+          "word": " knew"
+        },
+        {
+          "start": 123.44,
+          "end": 123.88,
+          "word": " obviously"
+        },
+        {
+          "start": 123.88,
+          "end": 124.14,
+          "word": " the"
+        },
+        {
+          "start": 124.14,
+          "end": 124.3,
+          "word": " movie"
+        },
+        {
+          "start": 124.3,
+          "end": 124.66,
+          "word": " would"
+        },
+        {
+          "start": 124.72,
+          "end": 125.76,
+          "word": " be"
+        },
+        {
+          "start": 125.76,
+          "end": 126.32,
+          "word": " gory"
+        },
+        {
+          "start": 126.32,
+          "end": 126.74,
+          "word": " maybe"
+        },
+        {
+          "start": 126.74,
+          "end": 127.06,
+          "word": " a"
+        },
+        {
+          "start": 127.06,
+          "end": 127.2,
+          "word": " lot"
+        },
+        {
+          "start": 127.2,
+          "end": 127.5,
+          "word": " more"
+        },
+        {
+          "start": 127.5,
+          "end": 127.74,
+          "word": " than"
+        },
+        {
+          "start": 127.74,
+          "end": 127.86,
+          "word": " The"
+        },
+        {
+          "start": 127.86,
+          "end": 128.6,
+          "word": " Expendables,"
+        }
+      ]
+    },
+    {
+      "start": 129.75,
+      "end": 135.52,
+      "text": " but I feel that the movie wasn't really concerned with being exciting.",
+      "words": [
+        {
+          "start": 129.75,
+          "end": 130.13,
+          "word": " but"
+        },
+        {
+          "start": 130.13,
+          "end": 131.09,
+          "word": " I"
+        },
+        {
+          "start": 131.38,
+          "end": 131.68,
+          "word": " feel"
+        },
+        {
+          "start": 131.68,
+          "end": 131.94,
+          "word": " that"
+        },
+        {
+          "start": 131.94,
+          "end": 132.1,
+          "word": " the"
+        },
+        {
+          "start": 132.1,
+          "end": 132.38,
+          "word": " movie"
+        },
+        {
+          "start": 132.38,
+          "end": 132.82,
+          "word": " wasn't"
+        },
+        {
+          "start": 132.82,
+          "end": 133.02,
+          "word": " really"
+        },
+        {
+          "start": 133.02,
+          "end": 133.54,
+          "word": " concerned"
+        },
+        {
+          "start": 133.54,
+          "end": 134.66,
+          "word": " with"
+        },
+        {
+          "start": 134.66,
+          "end": 135.0,
+          "word": " being"
+        },
+        {
+          "start": 135.0,
+          "end": 135.52,
+          "word": " exciting."
+        }
+      ]
+    },
+    {
+      "start": 136.63,
+      "end": 155.93,
+      "text": " The action feels that it's pretty much just a quick cut or slash,",
+      "words": [
+        {
+          "start": 136.63,
+          "end": 137.05,
+          "word": " The"
+        },
+        {
+          "start": 137.05,
+          "end": 137.49,
+          "word": " action"
+        },
+        {
+          "start": 137.49,
+          "end": 139.15,
+          "word": " feels"
+        },
+        {
+          "start": 142.67,
+          "end": 143.51,
+          "word": " that"
+        },
+        {
+          "start": 144.98,
+          "end": 149.02,
+          "word": " it's"
+        },
+        {
+          "start": 151.1,
+          "end": 151.5,
+          "word": " pretty"
+        },
+        {
+          "start": 151.5,
+          "end": 151.86,
+          "word": " much"
+        },
+        {
+          "start": 151.86,
+          "end": 152.44,
+          "word": " just"
+        },
+        {
+          "start": 152.44,
+          "end": 153.12,
+          "word": " a"
+        },
+        {
+          "start": 153.47,
+          "end": 154.49,
+          "word": " quick"
+        },
+        {
+          "start": 154.49,
+          "end": 154.91,
+          "word": " cut"
+        },
+        {
+          "start": 154.91,
+          "end": 155.23,
+          "word": " or"
+        },
+        {
+          "start": 155.23,
+          "end": 155.93,
+          "word": " slash,"
+        }
+      ]
+    },
+    {
+      "start": 157.0,
+      "end": 164.33,
+      "text": " blood-screen, you know, flat shit.",
+      "words": [
+        {
+          "start": 157.0,
+          "end": 157.5,
+          "word": " blood"
+        },
+        {
+          "start": 157.5,
+          "end": 158.6,
+          "word": "-screen,"
+        },
+        {
+          "start": 159.44,
+          "end": 159.46,
+          "word": " you"
+        },
+        {
+          "start": 159.46,
+          "end": 160.0,
+          "word": " know,"
+        },
+        {
+          "start": 163.39,
+          "end": 163.95,
+          "word": " flat"
+        },
+        {
+          "start": 163.95,
+          "end": 164.33,
+          "word": " shit."
+        }
+      ]
+    },
+    {
+      "start": 165.86,
+      "end": 170.68,
+      "text": " Still, the church shootout, however brief that was, it was alright.",
+      "words": [
+        {
+          "start": 165.86,
+          "end": 166.12,
+          "word": " Still,"
+        },
+        {
+          "start": 166.8,
+          "end": 167.36,
+          "word": " the"
+        },
+        {
+          "start": 167.36,
+          "end": 167.7,
+          "word": " church"
+        },
+        {
+          "start": 167.7,
+          "end": 168.26,
+          "word": " shootout,"
+        },
+        {
+          "start": 168.4,
+          "end": 168.7,
+          "word": " however"
+        },
+        {
+          "start": 168.7,
+          "end": 169.12,
+          "word": " brief"
+        },
+        {
+          "start": 169.12,
+          "end": 169.38,
+          "word": " that"
+        },
+        {
+          "start": 169.38,
+          "end": 169.68,
+          "word": " was,"
+        },
+        {
+          "start": 169.9,
+          "end": 170.08,
+          "word": " it"
+        },
+        {
+          "start": 170.08,
+          "end": 170.28,
+          "word": " was"
+        },
+        {
+          "start": 170.28,
+          "end": 170.68,
+          "word": " alright."
+        }
+      ]
+    },
+    {
+      "start": 172.38,
+      "end": 174.94,
+      "text": " Maybe it could have been 20 seconds longer.",
+      "words": [
+        {
+          "start": 172.38,
+          "end": 172.7,
+          "word": " Maybe"
+        },
+        {
+          "start": 172.7,
+          "end": 172.92,
+          "word": " it"
+        },
+        {
+          "start": 172.92,
+          "end": 173.08,
+          "word": " could"
+        },
+        {
+          "start": 173.08,
+          "end": 173.18,
+          "word": " have"
+        },
+        {
+          "start": 173.18,
+          "end": 173.58,
+          "word": " been"
+        },
+        {
+          "start": 173.58,
+          "end": 174.18,
+          "word": " 20"
+        },
+        {
+          "start": 174.18,
+          "end": 174.46,
+          "word": " seconds"
+        },
+        {
+          "start": 174.46,
+          "end": 174.94,
+          "word": " longer."
+        }
+      ]
+    },
+    {
+      "start": 176.47,
+      "end": 184.29,
+      "text": " The final shootout would actually look good. It was alright.",
+      "words": [
+        {
+          "start": 176.47,
+          "end": 176.91,
+          "word": " The"
+        },
+        {
+          "start": 176.91,
+          "end": 178.45,
+          "word": " final"
+        },
+        {
+          "start": 178.45,
+          "end": 179.15,
+          "word": " shootout"
+        },
+        {
+          "start": 179.15,
+          "end": 179.95,
+          "word": " would"
+        },
+        {
+          "start": 179.95,
+          "end": 180.21,
+          "word": " actually"
+        },
+        {
+          "start": 180.21,
+          "end": 182.63,
+          "word": " look"
+        },
+        {
+          "start": 182.63,
+          "end": 183.07,
+          "word": " good."
+        },
+        {
+          "start": 183.57,
+          "end": 183.73,
+          "word": " It"
+        },
+        {
+          "start": 183.73,
+          "end": 183.89,
+          "word": " was"
+        },
+        {
+          "start": 183.89,
+          "end": 184.29,
+          "word": " alright."
+        }
+      ]
+    },
+    {
+      "start": 184.63,
+      "end": 190.71,
+      "text": " There was effort. It actually felt fun.",
+      "words": [
+        {
+          "start": 184.63,
+          "end": 184.81,
+          "word": " There"
+        },
+        {
+          "start": 184.81,
+          "end": 186.93,
+          "word": " was"
+        },
+        {
+          "start": 186.93,
+          "end": 187.31,
+          "word": " effort."
+        },
+        {
+          "start": 188.19,
+          "end": 188.25,
+          "word": " It"
+        },
+        {
+          "start": 188.25,
+          "end": 188.67,
+          "word": " actually"
+        },
+        {
+          "start": 188.67,
+          "end": 190.25,
+          "word": " felt"
+        },
+        {
+          "start": 190.31,
+          "end": 190.71,
+          "word": " fun."
+        }
+      ]
+    },
+    {
+      "start": 193.07,
+      "end": 197.44,
+      "text": " More than just cut and slash and whatever.",
+      "words": [
+        {
+          "start": 193.07,
+          "end": 193.47,
+          "word": " More"
+        },
+        {
+          "start": 193.47,
+          "end": 194.09,
+          "word": " than"
+        },
+        {
+          "start": 194.09,
+          "end": 194.59,
+          "word": " just"
+        },
+        {
+          "start": 194.59,
+          "end": 195.85,
+          "word": " cut"
+        },
+        {
+          "start": 196.2,
+          "end": 196.44,
+          "word": " and"
+        },
+        {
+          "start": 196.44,
+          "end": 196.88,
+          "word": " slash"
+        },
+        {
+          "start": 196.88,
+          "end": 197.1,
+          "word": " and"
+        },
+        {
+          "start": 197.1,
+          "end": 197.44,
+          "word": " whatever."
+        }
+      ]
+    },
+    {
+      "start": 202.29,
+      "end": 213.98,
+      "text": " I knew the sword fight was short, but I thought it would be decent.",
+      "words": [
+        {
+          "start": 202.29,
+          "end": 202.73,
+          "word": " I"
+        },
+        {
+          "start": 205.1,
+          "end": 206.76,
+          "word": " knew"
+        },
+        {
+          "start": 206.76,
+          "end": 207.1,
+          "word": " the"
+        },
+        {
+          "start": 207.1,
+          "end": 207.44,
+          "word": " sword"
+        },
+        {
+          "start": 207.44,
+          "end": 207.88,
+          "word": " fight"
+        },
+        {
+          "start": 207.88,
+          "end": 208.54,
+          "word": " was"
+        },
+        {
+          "start": 208.54,
+          "end": 209.78,
+          "word": " short,"
+        },
+        {
+          "start": 209.98,
+          "end": 210.32,
+          "word": " but"
+        },
+        {
+          "start": 210.42,
+          "end": 212.1,
+          "word": " I"
+        },
+        {
+          "start": 212.1,
+          "end": 212.8,
+          "word": " thought"
+        },
+        {
+          "start": 212.8,
+          "end": 213.06,
+          "word": " it"
+        },
+        {
+          "start": 213.06,
+          "end": 213.36,
+          "word": " would"
+        },
+        {
+          "start": 213.36,
+          "end": 213.54,
+          "word": " be"
+        },
+        {
+          "start": 213.54,
+          "end": 213.98,
+          "word": " decent."
+        }
+      ]
+    },
+    {
+      "start": 218.57,
+      "end": 228.89,
+      "text": " But no, it was bad. It probably wouldn't have helped if it were maybe 30 seconds longer.",
+      "words": [
+        {
+          "start": 218.57,
+          "end": 218.61,
+          "word": " But"
+        },
+        {
+          "start": 218.61,
+          "end": 219.53,
+          "word": " no,"
+        },
+        {
+          "start": 219.75,
+          "end": 219.79,
+          "word": " it"
+        },
+        {
+          "start": 219.79,
+          "end": 219.93,
+          "word": " was"
+        },
+        {
+          "start": 219.93,
+          "end": 220.27,
+          "word": " bad."
+        },
+        {
+          "start": 222.43,
+          "end": 222.77,
+          "word": " It"
+        },
+        {
+          "start": 222.77,
+          "end": 223.67,
+          "word": " probably"
+        },
+        {
+          "start": 223.67,
+          "end": 225.23,
+          "word": " wouldn't"
+        },
+        {
+          "start": 225.23,
+          "end": 225.35,
+          "word": " have"
+        },
+        {
+          "start": 225.35,
+          "end": 225.73,
+          "word": " helped"
+        },
+        {
+          "start": 225.73,
+          "end": 225.91,
+          "word": " if"
+        },
+        {
+          "start": 225.91,
+          "end": 226.03,
+          "word": " it"
+        },
+        {
+          "start": 226.03,
+          "end": 226.41,
+          "word": " were"
+        },
+        {
+          "start": 226.41,
+          "end": 227.27,
+          "word": " maybe"
+        },
+        {
+          "start": 227.27,
+          "end": 228.03,
+          "word": " 30"
+        },
+        {
+          "start": 228.03,
+          "end": 228.31,
+          "word": " seconds"
+        },
+        {
+          "start": 228.31,
+          "end": 228.89,
+          "word": " longer."
+        }
+      ]
+    },
+    {
+      "start": 229.83,
+      "end": 237.3,
+      "text": " The sword fight just feels several slashes, sword crosses,",
+      "words": [
+        {
+          "start": 229.83,
+          "end": 230.63,
+          "word": " The"
+        },
+        {
+          "start": 230.63,
+          "end": 231.15,
+          "word": " sword"
+        },
+        {
+          "start": 231.15,
+          "end": 231.45,
+          "word": " fight"
+        },
+        {
+          "start": 231.45,
+          "end": 231.71,
+          "word": " just"
+        },
+        {
+          "start": 231.71,
+          "end": 232.39,
+          "word": " feels"
+        },
+        {
+          "start": 233.22,
+          "end": 234.86,
+          "word": " several"
+        },
+        {
+          "start": 234.86,
+          "end": 236.08,
+          "word": " slashes,"
+        },
+        {
+          "start": 236.7,
+          "end": 236.88,
+          "word": " sword"
+        },
+        {
+          "start": 236.88,
+          "end": 237.3,
+          "word": " crosses,"
+        }
+      ]
+    },
+    {
+      "start": 240.3,
+      "end": 244.1,
+      "text": " several quick cuts, and one huge stab. That's it.",
+      "words": [
+        {
+          "start": 240.3,
+          "end": 240.94,
+          "word": " several"
+        },
+        {
+          "start": 240.94,
+          "end": 241.26,
+          "word": " quick"
+        },
+        {
+          "start": 241.26,
+          "end": 241.54,
+          "word": " cuts,"
+        },
+        {
+          "start": 241.98,
+          "end": 241.98,
+          "word": " and"
+        },
+        {
+          "start": 241.98,
+          "end": 242.18,
+          "word": " one"
+        },
+        {
+          "start": 242.18,
+          "end": 242.42,
+          "word": " huge"
+        },
+        {
+          "start": 242.42,
+          "end": 242.72,
+          "word": " stab."
+        },
+        {
+          "start": 243.54,
+          "end": 243.96,
+          "word": " That's"
+        },
+        {
+          "start": 243.96,
+          "end": 244.1,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 244.64,
+      "end": 251.56,
+      "text": " It's nearly as bad as the so-called knife fight in Under Siege.",
+      "words": [
+        {
+          "start": 244.64,
+          "end": 244.96,
+          "word": " It's"
+        },
+        {
+          "start": 244.96,
+          "end": 245.16,
+          "word": " nearly"
+        },
+        {
+          "start": 245.16,
+          "end": 245.42,
+          "word": " as"
+        },
+        {
+          "start": 245.42,
+          "end": 245.8,
+          "word": " bad"
+        },
+        {
+          "start": 245.8,
+          "end": 247.28,
+          "word": " as"
+        },
+        {
+          "start": 247.28,
+          "end": 247.8,
+          "word": " the"
+        },
+        {
+          "start": 247.8,
+          "end": 248.78,
+          "word": " so"
+        },
+        {
+          "start": 250.0,
+          "end": 250.26,
+          "word": "-called"
+        },
+        {
+          "start": 250.26,
+          "end": 250.5,
+          "word": " knife"
+        },
+        {
+          "start": 250.5,
+          "end": 250.86,
+          "word": " fight"
+        },
+        {
+          "start": 250.86,
+          "end": 251.12,
+          "word": " in"
+        },
+        {
+          "start": 251.12,
+          "end": 251.34,
+          "word": " Under"
+        },
+        {
+          "start": 251.34,
+          "end": 251.56,
+          "word": " Siege."
+        }
+      ]
+    },
+    {
+      "start": 254.17,
+      "end": 257.47,
+      "text": " It's probably worth mentioning. I didn't like Under Siege at first.",
+      "words": [
+        {
+          "start": 254.17,
+          "end": 254.57,
+          "word": " It's"
+        },
+        {
+          "start": 254.57,
+          "end": 254.75,
+          "word": " probably"
+        },
+        {
+          "start": 254.75,
+          "end": 255.01,
+          "word": " worth"
+        },
+        {
+          "start": 255.01,
+          "end": 255.41,
+          "word": " mentioning."
+        },
+        {
+          "start": 255.63,
+          "end": 255.75,
+          "word": " I"
+        },
+        {
+          "start": 255.75,
+          "end": 256.29,
+          "word": " didn't"
+        },
+        {
+          "start": 256.29,
+          "end": 256.53,
+          "word": " like"
+        },
+        {
+          "start": 256.53,
+          "end": 256.79,
+          "word": " Under"
+        },
+        {
+          "start": 256.79,
+          "end": 256.95,
+          "word": " Siege"
+        },
+        {
+          "start": 256.95,
+          "end": 257.13,
+          "word": " at"
+        },
+        {
+          "start": 257.13,
+          "end": 257.47,
+          "word": " first."
+        }
+      ]
+    },
+    {
+      "start": 258.53,
+      "end": 265.57,
+      "text": " It's a good movie now, but not... it's always bad.",
+      "words": [
+        {
+          "start": 258.53,
+          "end": 258.71,
+          "word": " It's"
+        },
+        {
+          "start": 258.71,
+          "end": 259.55,
+          "word": " a"
+        },
+        {
+          "start": 259.93,
+          "end": 260.85,
+          "word": " good"
+        },
+        {
+          "start": 260.85,
+          "end": 261.75,
+          "word": " movie"
+        },
+        {
+          "start": 261.75,
+          "end": 262.15,
+          "word": " now,"
+        },
+        {
+          "start": 262.41,
+          "end": 262.53,
+          "word": " but"
+        },
+        {
+          "start": 262.53,
+          "end": 263.85,
+          "word": " not..."
+        },
+        {
+          "start": 263.85,
+          "end": 264.91,
+          "word": " it's"
+        },
+        {
+          "start": 264.91,
+          "end": 265.21,
+          "word": " always"
+        },
+        {
+          "start": 265.21,
+          "end": 265.57,
+          "word": " bad."
+        }
+      ]
+    },
+    {
+      "start": 265.85,
+      "end": 269.05,
+      "text": " Tom Lee's performance was awesome in that movie.",
+      "words": [
+        {
+          "start": 265.85,
+          "end": 266.09,
+          "word": " Tom"
+        },
+        {
+          "start": 266.09,
+          "end": 266.67,
+          "word": " Lee's"
+        },
+        {
+          "start": 266.67,
+          "end": 267.09,
+          "word": " performance"
+        },
+        {
+          "start": 267.09,
+          "end": 267.91,
+          "word": " was"
+        },
+        {
+          "start": 267.91,
+          "end": 268.41,
+          "word": " awesome"
+        },
+        {
+          "start": 268.41,
+          "end": 268.61,
+          "word": " in"
+        },
+        {
+          "start": 268.61,
+          "end": 268.75,
+          "word": " that"
+        },
+        {
+          "start": 268.75,
+          "end": 269.05,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 270.11,
+      "end": 277.83,
+      "text": " Anyway, it's nice that a lot of people like Machete,",
+      "words": [
+        {
+          "start": 270.11,
+          "end": 270.43,
+          "word": " Anyway,"
+        },
+        {
+          "start": 273.6,
+          "end": 274.6,
+          "word": " it's"
+        },
+        {
+          "start": 274.6,
+          "end": 274.94,
+          "word": " nice"
+        },
+        {
+          "start": 274.94,
+          "end": 275.64,
+          "word": " that"
+        },
+        {
+          "start": 275.67,
+          "end": 276.53,
+          "word": " a"
+        },
+        {
+          "start": 276.53,
+          "end": 276.69,
+          "word": " lot"
+        },
+        {
+          "start": 276.69,
+          "end": 276.79,
+          "word": " of"
+        },
+        {
+          "start": 276.79,
+          "end": 276.95,
+          "word": " people"
+        },
+        {
+          "start": 276.95,
+          "end": 277.33,
+          "word": " like"
+        },
+        {
+          "start": 277.33,
+          "end": 277.83,
+          "word": " Machete,"
+        }
+      ]
+    },
+    {
+      "start": 277.95,
+      "end": 280.65,
+      "text": " and I wouldn't be surprised if there will be a sequel.",
+      "words": [
+        {
+          "start": 277.95,
+          "end": 278.25,
+          "word": " and"
+        },
+        {
+          "start": 278.25,
+          "end": 278.91,
+          "word": " I"
+        },
+        {
+          "start": 278.91,
+          "end": 279.23,
+          "word": " wouldn't"
+        },
+        {
+          "start": 279.23,
+          "end": 279.37,
+          "word": " be"
+        },
+        {
+          "start": 279.37,
+          "end": 279.71,
+          "word": " surprised"
+        },
+        {
+          "start": 279.71,
+          "end": 279.93,
+          "word": " if"
+        },
+        {
+          "start": 279.93,
+          "end": 280.03,
+          "word": " there"
+        },
+        {
+          "start": 280.03,
+          "end": 280.15,
+          "word": " will"
+        },
+        {
+          "start": 280.15,
+          "end": 280.31,
+          "word": " be"
+        },
+        {
+          "start": 280.31,
+          "end": 280.65,
+          "word": " a"
+        },
+        {
+          "start": 280.65,
+          "end": 280.65,
+          "word": " sequel."
+        }
+      ]
+    },
+    {
+      "start": 281.31,
+      "end": 284.53,
+      "text": " But no matter how good the trailer will look,",
+      "words": [
+        {
+          "start": 281.31,
+          "end": 281.39,
+          "word": " But"
+        },
+        {
+          "start": 281.39,
+          "end": 281.59,
+          "word": " no"
+        },
+        {
+          "start": 281.59,
+          "end": 281.85,
+          "word": " matter"
+        },
+        {
+          "start": 281.85,
+          "end": 282.19,
+          "word": " how"
+        },
+        {
+          "start": 282.19,
+          "end": 282.47,
+          "word": " good"
+        },
+        {
+          "start": 282.47,
+          "end": 283.53,
+          "word": " the"
+        },
+        {
+          "start": 283.53,
+          "end": 283.95,
+          "word": " trailer"
+        },
+        {
+          "start": 283.95,
+          "end": 284.25,
+          "word": " will"
+        },
+        {
+          "start": 284.25,
+          "end": 284.53,
+          "word": " look,"
+        }
+      ]
+    },
+    {
+      "start": 285.19,
+      "end": 290.51,
+      "text": " I will never watch it because the damn trailer for Machete made the movie look so good.",
+      "words": [
+        {
+          "start": 285.19,
+          "end": 285.45,
+          "word": " I"
+        },
+        {
+          "start": 285.45,
+          "end": 286.11,
+          "word": " will"
+        },
+        {
+          "start": 286.11,
+          "end": 286.27,
+          "word": " never"
+        },
+        {
+          "start": 286.27,
+          "end": 286.59,
+          "word": " watch"
+        },
+        {
+          "start": 286.59,
+          "end": 286.77,
+          "word": " it"
+        },
+        {
+          "start": 286.77,
+          "end": 287.07,
+          "word": " because"
+        },
+        {
+          "start": 287.07,
+          "end": 287.85,
+          "word": " the"
+        },
+        {
+          "start": 287.85,
+          "end": 288.19,
+          "word": " damn"
+        },
+        {
+          "start": 288.19,
+          "end": 288.67,
+          "word": " trailer"
+        },
+        {
+          "start": 288.67,
+          "end": 288.89,
+          "word": " for"
+        },
+        {
+          "start": 288.89,
+          "end": 289.29,
+          "word": " Machete"
+        },
+        {
+          "start": 289.29,
+          "end": 289.45,
+          "word": " made"
+        },
+        {
+          "start": 289.45,
+          "end": 289.59,
+          "word": " the"
+        },
+        {
+          "start": 289.59,
+          "end": 289.77,
+          "word": " movie"
+        },
+        {
+          "start": 289.77,
+          "end": 289.99,
+          "word": " look"
+        },
+        {
+          "start": 289.99,
+          "end": 290.21,
+          "word": " so"
+        },
+        {
+          "start": 290.21,
+          "end": 290.51,
+          "word": " good."
+        }
+      ]
+    },
+    {
+      "start": 291.98,
+      "end": 297.04,
+      "text": " Not as good as The Expendables, but it doesn't have to.",
+      "words": [
+        {
+          "start": 291.98,
+          "end": 292.44,
+          "word": " Not"
+        },
+        {
+          "start": 292.44,
+          "end": 293.16,
+          "word": " as"
+        },
+        {
+          "start": 293.16,
+          "end": 293.46,
+          "word": " good"
+        },
+        {
+          "start": 293.46,
+          "end": 293.96,
+          "word": " as"
+        },
+        {
+          "start": 293.96,
+          "end": 294.08,
+          "word": " The"
+        },
+        {
+          "start": 294.08,
+          "end": 294.62,
+          "word": " Expendables,"
+        },
+        {
+          "start": 294.8,
+          "end": 295.02,
+          "word": " but"
+        },
+        {
+          "start": 295.02,
+          "end": 295.7,
+          "word": " it"
+        },
+        {
+          "start": 295.7,
+          "end": 296.16,
+          "word": " doesn't"
+        },
+        {
+          "start": 296.16,
+          "end": 296.72,
+          "word": " have"
+        },
+        {
+          "start": 296.72,
+          "end": 297.04,
+          "word": " to."
+        }
+      ]
+    },
+    {
+      "start": 297.04,
+      "end": 305.28,
+      "text": " I'm disappointed with Machete. It's unlikely. I'll try it again.",
+      "words": [
+        {
+          "start": 297.04,
+          "end": 298.14,
+          "word": " I'm"
+        },
+        {
+          "start": 298.14,
+          "end": 299.92,
+          "word": " disappointed"
+        },
+        {
+          "start": 299.92,
+          "end": 301.84,
+          "word": " with"
+        },
+        {
+          "start": 301.84,
+          "end": 302.34,
+          "word": " Machete."
+        },
+        {
+          "start": 302.54,
+          "end": 303.14,
+          "word": " It's"
+        },
+        {
+          "start": 303.14,
+          "end": 303.48,
+          "word": " unlikely."
+        },
+        {
+          "start": 304.22,
+          "end": 304.52,
+          "word": " I'll"
+        },
+        {
+          "start": 304.52,
+          "end": 304.82,
+          "word": " try"
+        },
+        {
+          "start": 304.82,
+          "end": 304.96,
+          "word": " it"
+        },
+        {
+          "start": 304.96,
+          "end": 305.28,
+          "word": " again."
+        }
+      ]
+    },
+    {
+      "start": 307.12,
+      "end": 309.2,
+      "text": " Machete is a huge failure for me.",
+      "words": [
+        {
+          "start": 307.12,
+          "end": 307.82,
+          "word": " Machete"
+        },
+        {
+          "start": 307.82,
+          "end": 307.98,
+          "word": " is"
+        },
+        {
+          "start": 307.98,
+          "end": 308.08,
+          "word": " a"
+        },
+        {
+          "start": 308.08,
+          "end": 308.26,
+          "word": " huge"
+        },
+        {
+          "start": 308.26,
+          "end": 308.68,
+          "word": " failure"
+        },
+        {
+          "start": 308.68,
+          "end": 308.92,
+          "word": " for"
+        },
+        {
+          "start": 308.92,
+          "end": 309.2,
+          "word": " me."
+        }
+      ]
+    },
+    {
+      "start": 310.04,
+      "end": 313.3,
+      "text": " I probably should have just waited for the damn DVD.",
+      "words": [
+        {
+          "start": 310.04,
+          "end": 310.16,
+          "word": " I"
+        },
+        {
+          "start": 310.16,
+          "end": 310.46,
+          "word": " probably"
+        },
+        {
+          "start": 310.46,
+          "end": 310.84,
+          "word": " should"
+        },
+        {
+          "start": 310.84,
+          "end": 310.92,
+          "word": " have"
+        },
+        {
+          "start": 310.92,
+          "end": 311.16,
+          "word": " just"
+        },
+        {
+          "start": 311.16,
+          "end": 312.16,
+          "word": " waited"
+        },
+        {
+          "start": 312.16,
+          "end": 312.5,
+          "word": " for"
+        },
+        {
+          "start": 312.5,
+          "end": 312.68,
+          "word": " the"
+        },
+        {
+          "start": 312.68,
+          "end": 312.96,
+          "word": " damn"
+        },
+        {
+          "start": 312.96,
+          "end": 313.3,
+          "word": " DVD."
+        }
+      ]
+    },
+    {
+      "start": 315.02,
+      "end": 321.04,
+      "text": " It's probably worth mentioning that Machete has two nice plot twists or turns.",
+      "words": [
+        {
+          "start": 315.02,
+          "end": 315.72,
+          "word": " It's"
+        },
+        {
+          "start": 315.72,
+          "end": 315.86,
+          "word": " probably"
+        },
+        {
+          "start": 315.86,
+          "end": 316.06,
+          "word": " worth"
+        },
+        {
+          "start": 316.06,
+          "end": 316.44,
+          "word": " mentioning"
+        },
+        {
+          "start": 316.44,
+          "end": 316.64,
+          "word": " that"
+        },
+        {
+          "start": 316.64,
+          "end": 316.98,
+          "word": " Machete"
+        },
+        {
+          "start": 316.98,
+          "end": 317.72,
+          "word": " has"
+        },
+        {
+          "start": 317.72,
+          "end": 318.1,
+          "word": " two"
+        },
+        {
+          "start": 318.1,
+          "end": 319.1,
+          "word": " nice"
+        },
+        {
+          "start": 319.42,
+          "end": 320.0,
+          "word": " plot"
+        },
+        {
+          "start": 320.0,
+          "end": 320.32,
+          "word": " twists"
+        },
+        {
+          "start": 320.32,
+          "end": 320.58,
+          "word": " or"
+        },
+        {
+          "start": 320.58,
+          "end": 321.04,
+          "word": " turns."
+        }
+      ]
+    },
+    {
+      "start": 324.4,
+      "end": 327.06,
+      "text": " Well, Machete's not for me anyway.",
+      "words": [
+        {
+          "start": 324.4,
+          "end": 325.1,
+          "word": " Well,"
+        },
+        {
+          "start": 325.1,
+          "end": 325.8,
+          "word": " Machete's"
+        },
+        {
+          "start": 325.8,
+          "end": 326.34,
+          "word": " not"
+        },
+        {
+          "start": 326.34,
+          "end": 326.54,
+          "word": " for"
+        },
+        {
+          "start": 326.54,
+          "end": 326.7,
+          "word": " me"
+        },
+        {
+          "start": 326.7,
+          "end": 327.06,
+          "word": " anyway."
+        }
+      ]
+    },
+    {
+      "start": 327.06,
+      "end": 335.19,
+      "text": " Thank you for listening, and please comment and subscribe if you want to,",
+      "words": [
+        {
+          "start": 327.06,
+          "end": 328.26,
+          "word": " Thank"
+        },
+        {
+          "start": 328.93,
+          "end": 329.05,
+          "word": " you"
+        },
+        {
+          "start": 329.05,
+          "end": 329.17,
+          "word": " for"
+        },
+        {
+          "start": 329.17,
+          "end": 329.47,
+          "word": " listening,"
+        },
+        {
+          "start": 330.47,
+          "end": 330.47,
+          "word": " and"
+        },
+        {
+          "start": 330.47,
+          "end": 330.97,
+          "word": " please"
+        },
+        {
+          "start": 330.97,
+          "end": 332.53,
+          "word": " comment"
+        },
+        {
+          "start": 332.53,
+          "end": 333.07,
+          "word": " and"
+        },
+        {
+          "start": 333.07,
+          "end": 334.07,
+          "word": " subscribe"
+        },
+        {
+          "start": 334.07,
+          "end": 334.27,
+          "word": " if"
+        },
+        {
+          "start": 334.27,
+          "end": 334.43,
+          "word": " you"
+        },
+        {
+          "start": 334.43,
+          "end": 335.01,
+          "word": " want"
+        },
+        {
+          "start": 335.01,
+          "end": 335.19,
+          "word": " to,"
+        }
+      ]
+    },
+    {
+      "start": 335.29,
+      "end": 339.92,
+      "text": " but I'm more into comments. Thank you for listening.",
+      "words": [
+        {
+          "start": 335.29,
+          "end": 335.39,
+          "word": " but"
+        },
+        {
+          "start": 335.39,
+          "end": 335.69,
+          "word": " I'm"
+        },
+        {
+          "start": 335.69,
+          "end": 335.91,
+          "word": " more"
+        },
+        {
+          "start": 335.91,
+          "end": 336.69,
+          "word": " into"
+        },
+        {
+          "start": 336.69,
+          "end": 337.05,
+          "word": " comments."
+        },
+        {
+          "start": 338.12,
+          "end": 338.84,
+          "word": " Thank"
+        },
+        {
+          "start": 338.84,
+          "end": 339.6,
+          "word": " you"
+        },
+        {
+          "start": 339.6,
+          "end": 339.68,
+          "word": " for"
+        },
+        {
+          "start": 339.68,
+          "end": 339.92,
+          "word": " listening."
+        }
+      ]
+    }
+  ]
+}

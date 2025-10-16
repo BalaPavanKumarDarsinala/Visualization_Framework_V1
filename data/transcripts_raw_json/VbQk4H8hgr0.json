@@ -1,0 +1,4348 @@
+{
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 5.74,
+      "text": " Welcome to this week's movie review on Shrek the third starring Mike Myers, Cameron Diaz and Abraham",
+      "words": [
+        {
+          "start": 0.46,
+          "end": 0.94,
+          "word": " Welcome"
+        },
+        {
+          "start": 0.94,
+          "end": 1.16,
+          "word": " to"
+        },
+        {
+          "start": 1.16,
+          "end": 1.32,
+          "word": " this"
+        },
+        {
+          "start": 1.32,
+          "end": 1.54,
+          "word": " week's"
+        },
+        {
+          "start": 1.54,
+          "end": 1.72,
+          "word": " movie"
+        },
+        {
+          "start": 1.72,
+          "end": 2.1,
+          "word": " review"
+        },
+        {
+          "start": 2.1,
+          "end": 2.62,
+          "word": " on"
+        },
+        {
+          "start": 2.62,
+          "end": 2.86,
+          "word": " Shrek"
+        },
+        {
+          "start": 2.86,
+          "end": 3.04,
+          "word": " the"
+        },
+        {
+          "start": 3.04,
+          "end": 3.3,
+          "word": " third"
+        },
+        {
+          "start": 3.3,
+          "end": 3.8,
+          "word": " starring"
+        },
+        {
+          "start": 3.8,
+          "end": 4.08,
+          "word": " Mike"
+        },
+        {
+          "start": 4.08,
+          "end": 4.46,
+          "word": " Myers,"
+        },
+        {
+          "start": 4.78,
+          "end": 4.88,
+          "word": " Cameron"
+        },
+        {
+          "start": 4.88,
+          "end": 5.18,
+          "word": " Diaz"
+        },
+        {
+          "start": 5.18,
+          "end": 5.46,
+          "word": " and"
+        },
+        {
+          "start": 5.46,
+          "end": 5.74,
+          "word": " Abraham"
+        }
+      ]
+    },
+    {
+      "start": 7.39,
+      "end": 10.69,
+      "text": " Shrek is already the second film that comes out as a sequel",
+      "words": [
+        {
+          "start": 7.39,
+          "end": 7.83,
+          "word": " Shrek"
+        },
+        {
+          "start": 7.83,
+          "end": 8.11,
+          "word": " is"
+        },
+        {
+          "start": 8.11,
+          "end": 8.35,
+          "word": " already"
+        },
+        {
+          "start": 8.35,
+          "end": 8.55,
+          "word": " the"
+        },
+        {
+          "start": 8.55,
+          "end": 8.93,
+          "word": " second"
+        },
+        {
+          "start": 8.93,
+          "end": 9.37,
+          "word": " film"
+        },
+        {
+          "start": 9.37,
+          "end": 9.65,
+          "word": " that"
+        },
+        {
+          "start": 9.65,
+          "end": 9.83,
+          "word": " comes"
+        },
+        {
+          "start": 9.83,
+          "end": 10.07,
+          "word": " out"
+        },
+        {
+          "start": 10.07,
+          "end": 10.23,
+          "word": " as"
+        },
+        {
+          "start": 10.23,
+          "end": 10.37,
+          "word": " a"
+        },
+        {
+          "start": 10.37,
+          "end": 10.69,
+          "word": " sequel"
+        }
+      ]
+    },
+    {
+      "start": 10.69,
+      "end": 15.83,
+      "text": " It's the third installment of the series and we've had spider-man already and we have a ton of them coming up this summer",
+      "words": [
+        {
+          "start": 10.69,
+          "end": 10.99,
+          "word": " It's"
+        },
+        {
+          "start": 10.99,
+          "end": 11.13,
+          "word": " the"
+        },
+        {
+          "start": 11.13,
+          "end": 11.33,
+          "word": " third"
+        },
+        {
+          "start": 11.33,
+          "end": 11.67,
+          "word": " installment"
+        },
+        {
+          "start": 11.67,
+          "end": 11.89,
+          "word": " of"
+        },
+        {
+          "start": 11.89,
+          "end": 12.01,
+          "word": " the"
+        },
+        {
+          "start": 12.01,
+          "end": 12.31,
+          "word": " series"
+        },
+        {
+          "start": 12.31,
+          "end": 12.61,
+          "word": " and"
+        },
+        {
+          "start": 12.61,
+          "end": 12.85,
+          "word": " we've"
+        },
+        {
+          "start": 12.85,
+          "end": 12.99,
+          "word": " had"
+        },
+        {
+          "start": 12.99,
+          "end": 13.31,
+          "word": " spider"
+        },
+        {
+          "start": 13.31,
+          "end": 13.49,
+          "word": "-man"
+        },
+        {
+          "start": 13.49,
+          "end": 13.77,
+          "word": " already"
+        },
+        {
+          "start": 13.77,
+          "end": 13.97,
+          "word": " and"
+        },
+        {
+          "start": 13.97,
+          "end": 14.07,
+          "word": " we"
+        },
+        {
+          "start": 14.07,
+          "end": 14.27,
+          "word": " have"
+        },
+        {
+          "start": 14.27,
+          "end": 14.53,
+          "word": " a"
+        },
+        {
+          "start": 14.53,
+          "end": 14.69,
+          "word": " ton"
+        },
+        {
+          "start": 14.69,
+          "end": 14.79,
+          "word": " of"
+        },
+        {
+          "start": 14.79,
+          "end": 14.91,
+          "word": " them"
+        },
+        {
+          "start": 14.91,
+          "end": 15.07,
+          "word": " coming"
+        },
+        {
+          "start": 15.07,
+          "end": 15.31,
+          "word": " up"
+        },
+        {
+          "start": 15.31,
+          "end": 15.55,
+          "word": " this"
+        },
+        {
+          "start": 15.55,
+          "end": 15.83,
+          "word": " summer"
+        }
+      ]
+    },
+    {
+      "start": 16.27,
+      "end": 18.87,
+      "text": " And this is the one that I can say I was definitely disappointed",
+      "words": [
+        {
+          "start": 16.27,
+          "end": 16.71,
+          "word": " And"
+        },
+        {
+          "start": 16.71,
+          "end": 16.97,
+          "word": " this"
+        },
+        {
+          "start": 16.97,
+          "end": 17.09,
+          "word": " is"
+        },
+        {
+          "start": 17.09,
+          "end": 17.21,
+          "word": " the"
+        },
+        {
+          "start": 17.21,
+          "end": 17.35,
+          "word": " one"
+        },
+        {
+          "start": 17.35,
+          "end": 17.49,
+          "word": " that"
+        },
+        {
+          "start": 17.49,
+          "end": 17.61,
+          "word": " I"
+        },
+        {
+          "start": 17.61,
+          "end": 17.71,
+          "word": " can"
+        },
+        {
+          "start": 17.71,
+          "end": 17.89,
+          "word": " say"
+        },
+        {
+          "start": 17.89,
+          "end": 17.99,
+          "word": " I"
+        },
+        {
+          "start": 17.99,
+          "end": 18.13,
+          "word": " was"
+        },
+        {
+          "start": 18.13,
+          "end": 18.49,
+          "word": " definitely"
+        },
+        {
+          "start": 18.49,
+          "end": 18.87,
+          "word": " disappointed"
+        }
+      ]
+    },
+    {
+      "start": 18.87,
+      "end": 25.03,
+      "text": " I love the first Shrek and the second Shrek and I was really hoping that this won't be just as good and",
+      "words": [
+        {
+          "start": 18.87,
+          "end": 19.41,
+          "word": " I"
+        },
+        {
+          "start": 19.41,
+          "end": 19.87,
+          "word": " love"
+        },
+        {
+          "start": 19.87,
+          "end": 20.31,
+          "word": " the"
+        },
+        {
+          "start": 20.31,
+          "end": 20.49,
+          "word": " first"
+        },
+        {
+          "start": 20.49,
+          "end": 20.77,
+          "word": " Shrek"
+        },
+        {
+          "start": 20.77,
+          "end": 20.97,
+          "word": " and"
+        },
+        {
+          "start": 20.97,
+          "end": 21.07,
+          "word": " the"
+        },
+        {
+          "start": 21.07,
+          "end": 21.25,
+          "word": " second"
+        },
+        {
+          "start": 21.25,
+          "end": 21.67,
+          "word": " Shrek"
+        },
+        {
+          "start": 21.67,
+          "end": 22.51,
+          "word": " and"
+        },
+        {
+          "start": 22.51,
+          "end": 22.67,
+          "word": " I"
+        },
+        {
+          "start": 22.67,
+          "end": 22.81,
+          "word": " was"
+        },
+        {
+          "start": 22.81,
+          "end": 23.27,
+          "word": " really"
+        },
+        {
+          "start": 23.27,
+          "end": 23.73,
+          "word": " hoping"
+        },
+        {
+          "start": 23.73,
+          "end": 23.91,
+          "word": " that"
+        },
+        {
+          "start": 23.91,
+          "end": 24.01,
+          "word": " this"
+        },
+        {
+          "start": 24.01,
+          "end": 24.17,
+          "word": " won't"
+        },
+        {
+          "start": 24.17,
+          "end": 24.25,
+          "word": " be"
+        },
+        {
+          "start": 24.25,
+          "end": 24.43,
+          "word": " just"
+        },
+        {
+          "start": 24.43,
+          "end": 24.59,
+          "word": " as"
+        },
+        {
+          "start": 24.59,
+          "end": 24.79,
+          "word": " good"
+        },
+        {
+          "start": 24.79,
+          "end": 25.03,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 25.71,
+      "end": 29.07,
+      "text": " It just plain didn't have anything new to offer. I was really disappointed in that",
+      "words": [
+        {
+          "start": 25.71,
+          "end": 26.15,
+          "word": " It"
+        },
+        {
+          "start": 26.15,
+          "end": 26.35,
+          "word": " just"
+        },
+        {
+          "start": 26.35,
+          "end": 26.55,
+          "word": " plain"
+        },
+        {
+          "start": 26.55,
+          "end": 26.73,
+          "word": " didn't"
+        },
+        {
+          "start": 26.73,
+          "end": 26.89,
+          "word": " have"
+        },
+        {
+          "start": 26.89,
+          "end": 27.07,
+          "word": " anything"
+        },
+        {
+          "start": 27.07,
+          "end": 27.31,
+          "word": " new"
+        },
+        {
+          "start": 27.31,
+          "end": 27.43,
+          "word": " to"
+        },
+        {
+          "start": 27.43,
+          "end": 27.69,
+          "word": " offer."
+        },
+        {
+          "start": 27.77,
+          "end": 27.93,
+          "word": " I"
+        },
+        {
+          "start": 27.93,
+          "end": 28.05,
+          "word": " was"
+        },
+        {
+          "start": 28.05,
+          "end": 28.29,
+          "word": " really"
+        },
+        {
+          "start": 28.29,
+          "end": 28.65,
+          "word": " disappointed"
+        },
+        {
+          "start": 28.65,
+          "end": 28.91,
+          "word": " in"
+        },
+        {
+          "start": 28.91,
+          "end": 29.07,
+          "word": " that"
+        }
+      ]
+    },
+    {
+      "start": 29.07,
+      "end": 35.53,
+      "text": " I mean, I went in there hoping to see something original and funny like the first two and it offered nothing of the such",
+      "words": [
+        {
+          "start": 29.07,
+          "end": 29.17,
+          "word": " I"
+        },
+        {
+          "start": 29.17,
+          "end": 29.33,
+          "word": " mean,"
+        },
+        {
+          "start": 29.65,
+          "end": 30.07,
+          "word": " I"
+        },
+        {
+          "start": 30.07,
+          "end": 30.33,
+          "word": " went"
+        },
+        {
+          "start": 30.33,
+          "end": 30.51,
+          "word": " in"
+        },
+        {
+          "start": 30.51,
+          "end": 30.71,
+          "word": " there"
+        },
+        {
+          "start": 30.71,
+          "end": 30.93,
+          "word": " hoping"
+        },
+        {
+          "start": 30.93,
+          "end": 31.15,
+          "word": " to"
+        },
+        {
+          "start": 31.15,
+          "end": 31.33,
+          "word": " see"
+        },
+        {
+          "start": 31.33,
+          "end": 31.55,
+          "word": " something"
+        },
+        {
+          "start": 31.55,
+          "end": 31.89,
+          "word": " original"
+        },
+        {
+          "start": 31.89,
+          "end": 32.27,
+          "word": " and"
+        },
+        {
+          "start": 32.27,
+          "end": 32.53,
+          "word": " funny"
+        },
+        {
+          "start": 32.53,
+          "end": 32.71,
+          "word": " like"
+        },
+        {
+          "start": 32.71,
+          "end": 32.85,
+          "word": " the"
+        },
+        {
+          "start": 32.85,
+          "end": 32.99,
+          "word": " first"
+        },
+        {
+          "start": 32.99,
+          "end": 33.23,
+          "word": " two"
+        },
+        {
+          "start": 33.23,
+          "end": 33.45,
+          "word": " and"
+        },
+        {
+          "start": 33.45,
+          "end": 33.59,
+          "word": " it"
+        },
+        {
+          "start": 33.59,
+          "end": 34.19,
+          "word": " offered"
+        },
+        {
+          "start": 34.19,
+          "end": 34.49,
+          "word": " nothing"
+        },
+        {
+          "start": 34.49,
+          "end": 35.23,
+          "word": " of"
+        },
+        {
+          "start": 35.23,
+          "end": 35.35,
+          "word": " the"
+        },
+        {
+          "start": 35.35,
+          "end": 35.53,
+          "word": " such"
+        }
+      ]
+    },
+    {
+      "start": 35.53,
+      "end": 38.07,
+      "text": " It wasn't remotely funny. There was a few jokes",
+      "words": [
+        {
+          "start": 35.53,
+          "end": 35.77,
+          "word": " It"
+        },
+        {
+          "start": 35.77,
+          "end": 36.19,
+          "word": " wasn't"
+        },
+        {
+          "start": 36.19,
+          "end": 36.61,
+          "word": " remotely"
+        },
+        {
+          "start": 36.61,
+          "end": 36.99,
+          "word": " funny."
+        },
+        {
+          "start": 37.05,
+          "end": 37.15,
+          "word": " There"
+        },
+        {
+          "start": 37.15,
+          "end": 37.27,
+          "word": " was"
+        },
+        {
+          "start": 37.27,
+          "end": 37.39,
+          "word": " a"
+        },
+        {
+          "start": 37.39,
+          "end": 37.65,
+          "word": " few"
+        },
+        {
+          "start": 37.65,
+          "end": 38.07,
+          "word": " jokes"
+        }
+      ]
+    },
+    {
+      "start": 38.07,
+      "end": 38.45,
+      "text": " Okay",
+      "words": [
+        {
+          "start": 38.07,
+          "end": 38.45,
+          "word": " Okay"
+        }
+      ]
+    },
+    {
+      "start": 38.45,
+      "end": 38.69,
+      "text": " Yeah",
+      "words": [
+        {
+          "start": 38.45,
+          "end": 38.69,
+          "word": " Yeah"
+        }
+      ]
+    },
+    {
+      "start": 38.69,
+      "end": 43.79,
+      "text": " That make you giggle or something, but it's nothing major nothing really that funny or anything original",
+      "words": [
+        {
+          "start": 38.69,
+          "end": 38.85,
+          "word": " That"
+        },
+        {
+          "start": 38.85,
+          "end": 39.09,
+          "word": " make"
+        },
+        {
+          "start": 39.09,
+          "end": 39.23,
+          "word": " you"
+        },
+        {
+          "start": 39.23,
+          "end": 39.51,
+          "word": " giggle"
+        },
+        {
+          "start": 39.51,
+          "end": 39.69,
+          "word": " or"
+        },
+        {
+          "start": 39.69,
+          "end": 39.97,
+          "word": " something,"
+        },
+        {
+          "start": 39.97,
+          "end": 40.27,
+          "word": " but"
+        },
+        {
+          "start": 40.27,
+          "end": 40.89,
+          "word": " it's"
+        },
+        {
+          "start": 40.89,
+          "end": 41.15,
+          "word": " nothing"
+        },
+        {
+          "start": 41.15,
+          "end": 41.49,
+          "word": " major"
+        },
+        {
+          "start": 41.49,
+          "end": 41.77,
+          "word": " nothing"
+        },
+        {
+          "start": 41.77,
+          "end": 42.19,
+          "word": " really"
+        },
+        {
+          "start": 42.19,
+          "end": 42.41,
+          "word": " that"
+        },
+        {
+          "start": 42.41,
+          "end": 42.71,
+          "word": " funny"
+        },
+        {
+          "start": 42.71,
+          "end": 42.87,
+          "word": " or"
+        },
+        {
+          "start": 42.87,
+          "end": 43.21,
+          "word": " anything"
+        },
+        {
+          "start": 43.21,
+          "end": 43.79,
+          "word": " original"
+        }
+      ]
+    },
+    {
+      "start": 43.79,
+      "end": 47.73,
+      "text": " The characters are all the same and funny even as good as the first two movies",
+      "words": [
+        {
+          "start": 43.79,
+          "end": 44.37,
+          "word": " The"
+        },
+        {
+          "start": 44.37,
+          "end": 44.77,
+          "word": " characters"
+        },
+        {
+          "start": 44.77,
+          "end": 45.01,
+          "word": " are"
+        },
+        {
+          "start": 45.01,
+          "end": 45.23,
+          "word": " all"
+        },
+        {
+          "start": 45.23,
+          "end": 45.39,
+          "word": " the"
+        },
+        {
+          "start": 45.39,
+          "end": 45.69,
+          "word": " same"
+        },
+        {
+          "start": 45.69,
+          "end": 46.03,
+          "word": " and"
+        },
+        {
+          "start": 46.03,
+          "end": 46.27,
+          "word": " funny"
+        },
+        {
+          "start": 46.27,
+          "end": 46.45,
+          "word": " even"
+        },
+        {
+          "start": 46.45,
+          "end": 46.61,
+          "word": " as"
+        },
+        {
+          "start": 46.61,
+          "end": 46.79,
+          "word": " good"
+        },
+        {
+          "start": 46.79,
+          "end": 46.93,
+          "word": " as"
+        },
+        {
+          "start": 46.93,
+          "end": 47.03,
+          "word": " the"
+        },
+        {
+          "start": 47.03,
+          "end": 47.19,
+          "word": " first"
+        },
+        {
+          "start": 47.19,
+          "end": 47.37,
+          "word": " two"
+        },
+        {
+          "start": 47.37,
+          "end": 47.73,
+          "word": " movies"
+        }
+      ]
+    },
+    {
+      "start": 47.73,
+      "end": 53.89,
+      "text": " last the last Shrek that came out the second one introduced Puss in Boots and I loved Puss in Boots and",
+      "words": [
+        {
+          "start": 47.73,
+          "end": 48.45,
+          "word": " last"
+        },
+        {
+          "start": 48.45,
+          "end": 48.97,
+          "word": " the"
+        },
+        {
+          "start": 48.97,
+          "end": 49.33,
+          "word": " last"
+        },
+        {
+          "start": 49.33,
+          "end": 49.65,
+          "word": " Shrek"
+        },
+        {
+          "start": 49.65,
+          "end": 49.83,
+          "word": " that"
+        },
+        {
+          "start": 49.83,
+          "end": 50.13,
+          "word": " came"
+        },
+        {
+          "start": 50.13,
+          "end": 50.31,
+          "word": " out"
+        },
+        {
+          "start": 50.31,
+          "end": 50.45,
+          "word": " the"
+        },
+        {
+          "start": 50.45,
+          "end": 50.65,
+          "word": " second"
+        },
+        {
+          "start": 50.65,
+          "end": 50.93,
+          "word": " one"
+        },
+        {
+          "start": 50.93,
+          "end": 51.33,
+          "word": " introduced"
+        },
+        {
+          "start": 51.33,
+          "end": 51.65,
+          "word": " Puss"
+        },
+        {
+          "start": 51.65,
+          "end": 51.75,
+          "word": " in"
+        },
+        {
+          "start": 51.75,
+          "end": 51.89,
+          "word": " Boots"
+        },
+        {
+          "start": 51.89,
+          "end": 52.03,
+          "word": " and"
+        },
+        {
+          "start": 52.03,
+          "end": 52.15,
+          "word": " I"
+        },
+        {
+          "start": 52.15,
+          "end": 52.61,
+          "word": " loved"
+        },
+        {
+          "start": 52.61,
+          "end": 52.87,
+          "word": " Puss"
+        },
+        {
+          "start": 52.87,
+          "end": 52.99,
+          "word": " in"
+        },
+        {
+          "start": 52.99,
+          "end": 53.25,
+          "word": " Boots"
+        },
+        {
+          "start": 53.25,
+          "end": 53.89,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 53.89,
+      "end": 58.11,
+      "text": " He wasn't even that great this time around the donkey and Puss in Boots",
+      "words": [
+        {
+          "start": 53.89,
+          "end": 54.57,
+          "word": " He"
+        },
+        {
+          "start": 54.57,
+          "end": 54.81,
+          "word": " wasn't"
+        },
+        {
+          "start": 54.81,
+          "end": 54.95,
+          "word": " even"
+        },
+        {
+          "start": 54.95,
+          "end": 55.15,
+          "word": " that"
+        },
+        {
+          "start": 55.15,
+          "end": 55.29,
+          "word": " great"
+        },
+        {
+          "start": 55.29,
+          "end": 55.47,
+          "word": " this"
+        },
+        {
+          "start": 55.47,
+          "end": 55.63,
+          "word": " time"
+        },
+        {
+          "start": 55.63,
+          "end": 55.93,
+          "word": " around"
+        },
+        {
+          "start": 55.93,
+          "end": 56.71,
+          "word": " the"
+        },
+        {
+          "start": 56.71,
+          "end": 57.39,
+          "word": " donkey"
+        },
+        {
+          "start": 57.39,
+          "end": 57.63,
+          "word": " and"
+        },
+        {
+          "start": 57.63,
+          "end": 57.79,
+          "word": " Puss"
+        },
+        {
+          "start": 57.79,
+          "end": 57.91,
+          "word": " in"
+        },
+        {
+          "start": 57.91,
+          "end": 58.11,
+          "word": " Boots"
+        }
+      ]
+    },
+    {
+      "start": 58.11,
+      "end": 62.21,
+      "text": " rivalry that's going on it just it wasn't as funny the third time around and",
+      "words": [
+        {
+          "start": 58.11,
+          "end": 58.95,
+          "word": " rivalry"
+        },
+        {
+          "start": 58.95,
+          "end": 59.39,
+          "word": " that's"
+        },
+        {
+          "start": 59.39,
+          "end": 59.55,
+          "word": " going"
+        },
+        {
+          "start": 59.55,
+          "end": 59.79,
+          "word": " on"
+        },
+        {
+          "start": 59.79,
+          "end": 59.95,
+          "word": " it"
+        },
+        {
+          "start": 59.95,
+          "end": 60.13,
+          "word": " just"
+        },
+        {
+          "start": 60.13,
+          "end": 60.35,
+          "word": " it"
+        },
+        {
+          "start": 60.35,
+          "end": 60.61,
+          "word": " wasn't"
+        },
+        {
+          "start": 60.61,
+          "end": 60.83,
+          "word": " as"
+        },
+        {
+          "start": 60.83,
+          "end": 61.09,
+          "word": " funny"
+        },
+        {
+          "start": 61.09,
+          "end": 61.37,
+          "word": " the"
+        },
+        {
+          "start": 61.37,
+          "end": 61.51,
+          "word": " third"
+        },
+        {
+          "start": 61.51,
+          "end": 61.71,
+          "word": " time"
+        },
+        {
+          "start": 61.71,
+          "end": 61.99,
+          "word": " around"
+        },
+        {
+          "start": 61.99,
+          "end": 62.21,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 62.93,
+      "end": 68.51,
+      "text": " There was nothing new to offer plain and simply it was dull for me. It could have been so much better",
+      "words": [
+        {
+          "start": 62.93,
+          "end": 63.37,
+          "word": " There"
+        },
+        {
+          "start": 63.37,
+          "end": 63.49,
+          "word": " was"
+        },
+        {
+          "start": 63.49,
+          "end": 63.79,
+          "word": " nothing"
+        },
+        {
+          "start": 63.79,
+          "end": 63.99,
+          "word": " new"
+        },
+        {
+          "start": 63.99,
+          "end": 64.07,
+          "word": " to"
+        },
+        {
+          "start": 64.07,
+          "end": 64.35,
+          "word": " offer"
+        },
+        {
+          "start": 64.35,
+          "end": 64.67,
+          "word": " plain"
+        },
+        {
+          "start": 64.67,
+          "end": 64.81,
+          "word": " and"
+        },
+        {
+          "start": 64.81,
+          "end": 65.15,
+          "word": " simply"
+        },
+        {
+          "start": 65.15,
+          "end": 65.33,
+          "word": " it"
+        },
+        {
+          "start": 65.33,
+          "end": 65.65,
+          "word": " was"
+        },
+        {
+          "start": 65.65,
+          "end": 66.17,
+          "word": " dull"
+        },
+        {
+          "start": 66.17,
+          "end": 66.43,
+          "word": " for"
+        },
+        {
+          "start": 66.43,
+          "end": 66.69,
+          "word": " me."
+        },
+        {
+          "start": 66.91,
+          "end": 67.35,
+          "word": " It"
+        },
+        {
+          "start": 67.35,
+          "end": 67.53,
+          "word": " could"
+        },
+        {
+          "start": 67.53,
+          "end": 67.67,
+          "word": " have"
+        },
+        {
+          "start": 67.67,
+          "end": 67.89,
+          "word": " been"
+        },
+        {
+          "start": 67.89,
+          "end": 68.15,
+          "word": " so"
+        },
+        {
+          "start": 68.15,
+          "end": 68.31,
+          "word": " much"
+        },
+        {
+          "start": 68.31,
+          "end": 68.51,
+          "word": " better"
+        }
+      ]
+    },
+    {
+      "start": 68.51,
+      "end": 72.03,
+      "text": " I could have I saw it being so much better in my head",
+      "words": [
+        {
+          "start": 68.51,
+          "end": 68.67,
+          "word": " I"
+        },
+        {
+          "start": 68.67,
+          "end": 69.11,
+          "word": " could"
+        },
+        {
+          "start": 69.11,
+          "end": 69.21,
+          "word": " have"
+        },
+        {
+          "start": 69.21,
+          "end": 69.39,
+          "word": " I"
+        },
+        {
+          "start": 69.39,
+          "end": 69.77,
+          "word": " saw"
+        },
+        {
+          "start": 69.77,
+          "end": 70.47,
+          "word": " it"
+        },
+        {
+          "start": 70.47,
+          "end": 71.01,
+          "word": " being"
+        },
+        {
+          "start": 71.01,
+          "end": 71.25,
+          "word": " so"
+        },
+        {
+          "start": 71.25,
+          "end": 71.37,
+          "word": " much"
+        },
+        {
+          "start": 71.37,
+          "end": 71.57,
+          "word": " better"
+        },
+        {
+          "start": 71.57,
+          "end": 71.69,
+          "word": " in"
+        },
+        {
+          "start": 71.69,
+          "end": 71.79,
+          "word": " my"
+        },
+        {
+          "start": 71.79,
+          "end": 72.03,
+          "word": " head"
+        }
+      ]
+    },
+    {
+      "start": 72.03,
+      "end": 75.45,
+      "text": " but it just wasn't it disappointed me highly and I",
+      "words": [
+        {
+          "start": 72.03,
+          "end": 72.27,
+          "word": " but"
+        },
+        {
+          "start": 72.27,
+          "end": 73.15,
+          "word": " it"
+        },
+        {
+          "start": 73.15,
+          "end": 73.31,
+          "word": " just"
+        },
+        {
+          "start": 73.31,
+          "end": 73.63,
+          "word": " wasn't"
+        },
+        {
+          "start": 73.63,
+          "end": 73.73,
+          "word": " it"
+        },
+        {
+          "start": 73.73,
+          "end": 74.07,
+          "word": " disappointed"
+        },
+        {
+          "start": 74.07,
+          "end": 74.33,
+          "word": " me"
+        },
+        {
+          "start": 74.33,
+          "end": 74.59,
+          "word": " highly"
+        },
+        {
+          "start": 74.59,
+          "end": 75.19,
+          "word": " and"
+        },
+        {
+          "start": 75.19,
+          "end": 75.45,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 76.03,
+      "end": 83.07,
+      "text": " Was just so discouraged after seeing that movie and I definitely wish I had my money back. It was a waste of my time and",
+      "words": [
+        {
+          "start": 76.03,
+          "end": 76.21,
+          "word": " Was"
+        },
+        {
+          "start": 76.21,
+          "end": 76.39,
+          "word": " just"
+        },
+        {
+          "start": 76.39,
+          "end": 76.61,
+          "word": " so"
+        },
+        {
+          "start": 76.61,
+          "end": 77.09,
+          "word": " discouraged"
+        },
+        {
+          "start": 77.09,
+          "end": 77.57,
+          "word": " after"
+        },
+        {
+          "start": 77.57,
+          "end": 77.83,
+          "word": " seeing"
+        },
+        {
+          "start": 77.83,
+          "end": 78.03,
+          "word": " that"
+        },
+        {
+          "start": 78.03,
+          "end": 78.25,
+          "word": " movie"
+        },
+        {
+          "start": 78.25,
+          "end": 78.39,
+          "word": " and"
+        },
+        {
+          "start": 78.39,
+          "end": 78.51,
+          "word": " I"
+        },
+        {
+          "start": 78.51,
+          "end": 78.83,
+          "word": " definitely"
+        },
+        {
+          "start": 78.83,
+          "end": 79.05,
+          "word": " wish"
+        },
+        {
+          "start": 79.05,
+          "end": 79.17,
+          "word": " I"
+        },
+        {
+          "start": 79.17,
+          "end": 79.29,
+          "word": " had"
+        },
+        {
+          "start": 79.29,
+          "end": 79.41,
+          "word": " my"
+        },
+        {
+          "start": 79.41,
+          "end": 79.57,
+          "word": " money"
+        },
+        {
+          "start": 79.57,
+          "end": 79.83,
+          "word": " back."
+        },
+        {
+          "start": 80.15,
+          "end": 80.59,
+          "word": " It"
+        },
+        {
+          "start": 80.59,
+          "end": 81.39,
+          "word": " was"
+        },
+        {
+          "start": 81.39,
+          "end": 81.51,
+          "word": " a"
+        },
+        {
+          "start": 81.51,
+          "end": 81.69,
+          "word": " waste"
+        },
+        {
+          "start": 81.69,
+          "end": 81.85,
+          "word": " of"
+        },
+        {
+          "start": 81.85,
+          "end": 82.05,
+          "word": " my"
+        },
+        {
+          "start": 82.05,
+          "end": 82.43,
+          "word": " time"
+        },
+        {
+          "start": 82.43,
+          "end": 83.07,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 83.61,
+      "end": 83.97,
+      "text": " I",
+      "words": [
+        {
+          "start": 83.61,
+          "end": 83.97,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 84.47,
+      "end": 90.49,
+      "text": " Don't suggest anyone go see it if you're hoping to if you have to have if you have kids and you're forced to go",
+      "words": [
+        {
+          "start": 84.47,
+          "end": 84.83,
+          "word": " Don't"
+        },
+        {
+          "start": 84.83,
+          "end": 85.15,
+          "word": " suggest"
+        },
+        {
+          "start": 85.15,
+          "end": 85.47,
+          "word": " anyone"
+        },
+        {
+          "start": 85.47,
+          "end": 85.65,
+          "word": " go"
+        },
+        {
+          "start": 85.65,
+          "end": 85.79,
+          "word": " see"
+        },
+        {
+          "start": 85.79,
+          "end": 85.91,
+          "word": " it"
+        },
+        {
+          "start": 85.91,
+          "end": 86.01,
+          "word": " if"
+        },
+        {
+          "start": 86.01,
+          "end": 86.15,
+          "word": " you're"
+        },
+        {
+          "start": 86.15,
+          "end": 86.47,
+          "word": " hoping"
+        },
+        {
+          "start": 86.47,
+          "end": 87.15,
+          "word": " to"
+        },
+        {
+          "start": 87.15,
+          "end": 87.53,
+          "word": " if"
+        },
+        {
+          "start": 87.53,
+          "end": 87.63,
+          "word": " you"
+        },
+        {
+          "start": 87.63,
+          "end": 87.95,
+          "word": " have"
+        },
+        {
+          "start": 87.95,
+          "end": 88.13,
+          "word": " to"
+        },
+        {
+          "start": 88.13,
+          "end": 88.43,
+          "word": " have"
+        },
+        {
+          "start": 88.43,
+          "end": 88.73,
+          "word": " if"
+        },
+        {
+          "start": 88.73,
+          "end": 88.85,
+          "word": " you"
+        },
+        {
+          "start": 88.85,
+          "end": 89.01,
+          "word": " have"
+        },
+        {
+          "start": 89.01,
+          "end": 89.33,
+          "word": " kids"
+        },
+        {
+          "start": 89.33,
+          "end": 89.87,
+          "word": " and"
+        },
+        {
+          "start": 89.87,
+          "end": 90.05,
+          "word": " you're"
+        },
+        {
+          "start": 90.05,
+          "end": 90.23,
+          "word": " forced"
+        },
+        {
+          "start": 90.23,
+          "end": 90.39,
+          "word": " to"
+        },
+        {
+          "start": 90.39,
+          "end": 90.49,
+          "word": " go"
+        }
+      ]
+    },
+    {
+      "start": 90.49,
+      "end": 96.29,
+      "text": " Which you probably will if you have kids, you know put up with it as a parent, but on your own don't go see it",
+      "words": [
+        {
+          "start": 90.49,
+          "end": 90.61,
+          "word": " Which"
+        },
+        {
+          "start": 90.61,
+          "end": 90.73,
+          "word": " you"
+        },
+        {
+          "start": 90.73,
+          "end": 90.93,
+          "word": " probably"
+        },
+        {
+          "start": 90.93,
+          "end": 91.15,
+          "word": " will"
+        },
+        {
+          "start": 91.15,
+          "end": 91.25,
+          "word": " if"
+        },
+        {
+          "start": 91.25,
+          "end": 91.35,
+          "word": " you"
+        },
+        {
+          "start": 91.35,
+          "end": 91.49,
+          "word": " have"
+        },
+        {
+          "start": 91.49,
+          "end": 91.87,
+          "word": " kids,"
+        },
+        {
+          "start": 91.87,
+          "end": 92.21,
+          "word": " you"
+        },
+        {
+          "start": 92.21,
+          "end": 92.39,
+          "word": " know"
+        },
+        {
+          "start": 92.39,
+          "end": 92.77,
+          "word": " put"
+        },
+        {
+          "start": 92.77,
+          "end": 92.93,
+          "word": " up"
+        },
+        {
+          "start": 92.93,
+          "end": 93.07,
+          "word": " with"
+        },
+        {
+          "start": 93.07,
+          "end": 93.31,
+          "word": " it"
+        },
+        {
+          "start": 93.31,
+          "end": 93.73,
+          "word": " as"
+        },
+        {
+          "start": 93.73,
+          "end": 93.85,
+          "word": " a"
+        },
+        {
+          "start": 93.85,
+          "end": 94.19,
+          "word": " parent,"
+        },
+        {
+          "start": 94.19,
+          "end": 94.57,
+          "word": " but"
+        },
+        {
+          "start": 94.57,
+          "end": 95.27,
+          "word": " on"
+        },
+        {
+          "start": 95.27,
+          "end": 95.41,
+          "word": " your"
+        },
+        {
+          "start": 95.41,
+          "end": 95.63,
+          "word": " own"
+        },
+        {
+          "start": 95.63,
+          "end": 95.91,
+          "word": " don't"
+        },
+        {
+          "start": 95.91,
+          "end": 96.01,
+          "word": " go"
+        },
+        {
+          "start": 96.01,
+          "end": 96.17,
+          "word": " see"
+        },
+        {
+          "start": 96.17,
+          "end": 96.29,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 96.29,
+      "end": 97.93,
+      "text": " It's not really that great",
+      "words": [
+        {
+          "start": 96.29,
+          "end": 96.45,
+          "word": " It's"
+        },
+        {
+          "start": 96.45,
+          "end": 96.63,
+          "word": " not"
+        },
+        {
+          "start": 96.63,
+          "end": 96.97,
+          "word": " really"
+        },
+        {
+          "start": 96.97,
+          "end": 97.65,
+          "word": " that"
+        },
+        {
+          "start": 97.65,
+          "end": 97.93,
+          "word": " great"
+        }
+      ]
+    },
+    {
+      "start": 97.93,
+      "end": 102.87,
+      "text": " Everyone is split on this one just as they were with Spider-Man and just as they are with all the other sequels that are",
+      "words": [
+        {
+          "start": 97.93,
+          "end": 98.35,
+          "word": " Everyone"
+        },
+        {
+          "start": 98.35,
+          "end": 98.97,
+          "word": " is"
+        },
+        {
+          "start": 98.97,
+          "end": 99.29,
+          "word": " split"
+        },
+        {
+          "start": 99.29,
+          "end": 99.47,
+          "word": " on"
+        },
+        {
+          "start": 99.47,
+          "end": 99.63,
+          "word": " this"
+        },
+        {
+          "start": 99.63,
+          "end": 99.81,
+          "word": " one"
+        },
+        {
+          "start": 99.81,
+          "end": 99.97,
+          "word": " just"
+        },
+        {
+          "start": 99.97,
+          "end": 100.15,
+          "word": " as"
+        },
+        {
+          "start": 100.15,
+          "end": 100.27,
+          "word": " they"
+        },
+        {
+          "start": 100.27,
+          "end": 100.41,
+          "word": " were"
+        },
+        {
+          "start": 100.41,
+          "end": 100.55,
+          "word": " with"
+        },
+        {
+          "start": 100.55,
+          "end": 100.83,
+          "word": " Spider"
+        },
+        {
+          "start": 100.83,
+          "end": 100.97,
+          "word": "-Man"
+        },
+        {
+          "start": 100.97,
+          "end": 101.11,
+          "word": " and"
+        },
+        {
+          "start": 101.11,
+          "end": 101.27,
+          "word": " just"
+        },
+        {
+          "start": 101.27,
+          "end": 101.43,
+          "word": " as"
+        },
+        {
+          "start": 101.43,
+          "end": 101.55,
+          "word": " they"
+        },
+        {
+          "start": 101.55,
+          "end": 101.69,
+          "word": " are"
+        },
+        {
+          "start": 101.69,
+          "end": 101.87,
+          "word": " with"
+        },
+        {
+          "start": 101.87,
+          "end": 102.05,
+          "word": " all"
+        },
+        {
+          "start": 102.05,
+          "end": 102.17,
+          "word": " the"
+        },
+        {
+          "start": 102.17,
+          "end": 102.35,
+          "word": " other"
+        },
+        {
+          "start": 102.35,
+          "end": 102.59,
+          "word": " sequels"
+        },
+        {
+          "start": 102.59,
+          "end": 102.77,
+          "word": " that"
+        },
+        {
+          "start": 102.77,
+          "end": 102.87,
+          "word": " are"
+        }
+      ]
+    },
+    {
+      "start": 102.87,
+      "end": 108.55,
+      "text": " Coming out and this one I have to agree on the negative side. It was not great. It wasn't even remotely good. I mean",
+      "words": [
+        {
+          "start": 102.87,
+          "end": 103.05,
+          "word": " Coming"
+        },
+        {
+          "start": 103.05,
+          "end": 103.29,
+          "word": " out"
+        },
+        {
+          "start": 103.29,
+          "end": 103.75,
+          "word": " and"
+        },
+        {
+          "start": 103.75,
+          "end": 103.89,
+          "word": " this"
+        },
+        {
+          "start": 103.89,
+          "end": 104.03,
+          "word": " one"
+        },
+        {
+          "start": 104.03,
+          "end": 104.11,
+          "word": " I"
+        },
+        {
+          "start": 104.11,
+          "end": 104.23,
+          "word": " have"
+        },
+        {
+          "start": 104.23,
+          "end": 104.33,
+          "word": " to"
+        },
+        {
+          "start": 104.33,
+          "end": 104.49,
+          "word": " agree"
+        },
+        {
+          "start": 104.49,
+          "end": 104.63,
+          "word": " on"
+        },
+        {
+          "start": 104.63,
+          "end": 104.75,
+          "word": " the"
+        },
+        {
+          "start": 104.75,
+          "end": 104.99,
+          "word": " negative"
+        },
+        {
+          "start": 104.99,
+          "end": 105.31,
+          "word": " side."
+        },
+        {
+          "start": 105.31,
+          "end": 105.45,
+          "word": " It"
+        },
+        {
+          "start": 105.45,
+          "end": 105.59,
+          "word": " was"
+        },
+        {
+          "start": 105.59,
+          "end": 105.83,
+          "word": " not"
+        },
+        {
+          "start": 105.83,
+          "end": 106.13,
+          "word": " great."
+        },
+        {
+          "start": 106.45,
+          "end": 106.81,
+          "word": " It"
+        },
+        {
+          "start": 106.81,
+          "end": 107.07,
+          "word": " wasn't"
+        },
+        {
+          "start": 107.07,
+          "end": 107.23,
+          "word": " even"
+        },
+        {
+          "start": 107.23,
+          "end": 107.53,
+          "word": " remotely"
+        },
+        {
+          "start": 107.53,
+          "end": 107.85,
+          "word": " good."
+        },
+        {
+          "start": 107.87,
+          "end": 108.23,
+          "word": " I"
+        },
+        {
+          "start": 108.23,
+          "end": 108.55,
+          "word": " mean"
+        }
+      ]
+    },
+    {
+      "start": 109.31,
+      "end": 110.61,
+      "text": " There's a few moments",
+      "words": [
+        {
+          "start": 109.31,
+          "end": 109.85,
+          "word": " There's"
+        },
+        {
+          "start": 109.85,
+          "end": 109.97,
+          "word": " a"
+        },
+        {
+          "start": 109.97,
+          "end": 110.21,
+          "word": " few"
+        },
+        {
+          "start": 110.21,
+          "end": 110.61,
+          "word": " moments"
+        }
+      ]
+    },
+    {
+      "start": 110.61,
+      "end": 116.33,
+      "text": " Yeah that are original and funny and there's an introduction of a new character Justin Timberlake's character already in the film",
+      "words": [
+        {
+          "start": 110.61,
+          "end": 110.99,
+          "word": " Yeah"
+        },
+        {
+          "start": 110.99,
+          "end": 111.23,
+          "word": " that"
+        },
+        {
+          "start": 111.23,
+          "end": 111.35,
+          "word": " are"
+        },
+        {
+          "start": 111.35,
+          "end": 111.65,
+          "word": " original"
+        },
+        {
+          "start": 111.65,
+          "end": 111.87,
+          "word": " and"
+        },
+        {
+          "start": 111.87,
+          "end": 112.07,
+          "word": " funny"
+        },
+        {
+          "start": 112.07,
+          "end": 112.47,
+          "word": " and"
+        },
+        {
+          "start": 112.47,
+          "end": 112.77,
+          "word": " there's"
+        },
+        {
+          "start": 112.77,
+          "end": 112.93,
+          "word": " an"
+        },
+        {
+          "start": 112.93,
+          "end": 113.43,
+          "word": " introduction"
+        },
+        {
+          "start": 113.43,
+          "end": 113.65,
+          "word": " of"
+        },
+        {
+          "start": 113.65,
+          "end": 113.73,
+          "word": " a"
+        },
+        {
+          "start": 113.73,
+          "end": 113.85,
+          "word": " new"
+        },
+        {
+          "start": 113.85,
+          "end": 114.25,
+          "word": " character"
+        },
+        {
+          "start": 114.25,
+          "end": 114.69,
+          "word": " Justin"
+        },
+        {
+          "start": 114.69,
+          "end": 115.17,
+          "word": " Timberlake's"
+        },
+        {
+          "start": 115.17,
+          "end": 115.45,
+          "word": " character"
+        },
+        {
+          "start": 115.45,
+          "end": 115.79,
+          "word": " already"
+        },
+        {
+          "start": 115.79,
+          "end": 116.01,
+          "word": " in"
+        },
+        {
+          "start": 116.01,
+          "end": 116.11,
+          "word": " the"
+        },
+        {
+          "start": 116.11,
+          "end": 116.33,
+          "word": " film"
+        }
+      ]
+    },
+    {
+      "start": 116.33,
+      "end": 118.97,
+      "text": " But they didn't even give him that much to do",
+      "words": [
+        {
+          "start": 116.33,
+          "end": 117.07,
+          "word": " But"
+        },
+        {
+          "start": 117.07,
+          "end": 117.47,
+          "word": " they"
+        },
+        {
+          "start": 117.47,
+          "end": 117.59,
+          "word": " didn't"
+        },
+        {
+          "start": 117.59,
+          "end": 117.75,
+          "word": " even"
+        },
+        {
+          "start": 117.75,
+          "end": 117.91,
+          "word": " give"
+        },
+        {
+          "start": 117.91,
+          "end": 118.03,
+          "word": " him"
+        },
+        {
+          "start": 118.03,
+          "end": 118.19,
+          "word": " that"
+        },
+        {
+          "start": 118.19,
+          "end": 118.35,
+          "word": " much"
+        },
+        {
+          "start": 118.35,
+          "end": 118.55,
+          "word": " to"
+        },
+        {
+          "start": 118.55,
+          "end": 118.97,
+          "word": " do"
+        }
+      ]
+    },
+    {
+      "start": 118.97,
+      "end": 125.97,
+      "text": " The he had only few minor lines and none of them were really that great or anything stands out in your mind",
+      "words": [
+        {
+          "start": 118.97,
+          "end": 119.59,
+          "word": " The"
+        },
+        {
+          "start": 119.59,
+          "end": 119.95,
+          "word": " he"
+        },
+        {
+          "start": 119.95,
+          "end": 120.25,
+          "word": " had"
+        },
+        {
+          "start": 120.25,
+          "end": 120.57,
+          "word": " only"
+        },
+        {
+          "start": 120.57,
+          "end": 121.29,
+          "word": " few"
+        },
+        {
+          "start": 121.29,
+          "end": 121.61,
+          "word": " minor"
+        },
+        {
+          "start": 121.61,
+          "end": 122.03,
+          "word": " lines"
+        },
+        {
+          "start": 122.03,
+          "end": 122.53,
+          "word": " and"
+        },
+        {
+          "start": 122.53,
+          "end": 122.83,
+          "word": " none"
+        },
+        {
+          "start": 122.83,
+          "end": 122.93,
+          "word": " of"
+        },
+        {
+          "start": 122.93,
+          "end": 123.07,
+          "word": " them"
+        },
+        {
+          "start": 123.07,
+          "end": 123.29,
+          "word": " were"
+        },
+        {
+          "start": 123.29,
+          "end": 123.71,
+          "word": " really"
+        },
+        {
+          "start": 123.71,
+          "end": 123.91,
+          "word": " that"
+        },
+        {
+          "start": 123.91,
+          "end": 124.23,
+          "word": " great"
+        },
+        {
+          "start": 124.23,
+          "end": 124.61,
+          "word": " or"
+        },
+        {
+          "start": 124.61,
+          "end": 124.75,
+          "word": " anything"
+        },
+        {
+          "start": 124.75,
+          "end": 125.15,
+          "word": " stands"
+        },
+        {
+          "start": 125.15,
+          "end": 125.43,
+          "word": " out"
+        },
+        {
+          "start": 125.43,
+          "end": 125.55,
+          "word": " in"
+        },
+        {
+          "start": 125.55,
+          "end": 125.67,
+          "word": " your"
+        },
+        {
+          "start": 125.67,
+          "end": 125.97,
+          "word": " mind"
+        }
+      ]
+    },
+    {
+      "start": 125.97,
+      "end": 129.03,
+      "text": " So the addition of his character is pretty pointless",
+      "words": [
+        {
+          "start": 125.97,
+          "end": 126.81,
+          "word": " So"
+        },
+        {
+          "start": 126.81,
+          "end": 127.29,
+          "word": " the"
+        },
+        {
+          "start": 127.29,
+          "end": 127.51,
+          "word": " addition"
+        },
+        {
+          "start": 127.51,
+          "end": 127.65,
+          "word": " of"
+        },
+        {
+          "start": 127.65,
+          "end": 127.79,
+          "word": " his"
+        },
+        {
+          "start": 127.79,
+          "end": 128.15,
+          "word": " character"
+        },
+        {
+          "start": 128.15,
+          "end": 128.35,
+          "word": " is"
+        },
+        {
+          "start": 128.35,
+          "end": 128.61,
+          "word": " pretty"
+        },
+        {
+          "start": 128.61,
+          "end": 129.03,
+          "word": " pointless"
+        }
+      ]
+    },
+    {
+      "start": 129.03,
+      "end": 134.56,
+      "text": " I mean it plays into the story, but I still found it pointless in the end of the movie and",
+      "words": [
+        {
+          "start": 129.03,
+          "end": 129.65,
+          "word": " I"
+        },
+        {
+          "start": 129.65,
+          "end": 129.83,
+          "word": " mean"
+        },
+        {
+          "start": 129.83,
+          "end": 130.17,
+          "word": " it"
+        },
+        {
+          "start": 130.17,
+          "end": 130.49,
+          "word": " plays"
+        },
+        {
+          "start": 130.49,
+          "end": 130.69,
+          "word": " into"
+        },
+        {
+          "start": 130.69,
+          "end": 130.85,
+          "word": " the"
+        },
+        {
+          "start": 130.85,
+          "end": 131.15,
+          "word": " story,"
+        },
+        {
+          "start": 131.15,
+          "end": 131.95,
+          "word": " but"
+        },
+        {
+          "start": 131.95,
+          "end": 132.57,
+          "word": " I"
+        },
+        {
+          "start": 132.57,
+          "end": 132.77,
+          "word": " still"
+        },
+        {
+          "start": 132.77,
+          "end": 132.95,
+          "word": " found"
+        },
+        {
+          "start": 132.95,
+          "end": 133.07,
+          "word": " it"
+        },
+        {
+          "start": 133.07,
+          "end": 133.37,
+          "word": " pointless"
+        },
+        {
+          "start": 133.37,
+          "end": 133.55,
+          "word": " in"
+        },
+        {
+          "start": 133.55,
+          "end": 133.63,
+          "word": " the"
+        },
+        {
+          "start": 133.63,
+          "end": 133.75,
+          "word": " end"
+        },
+        {
+          "start": 133.75,
+          "end": 133.85,
+          "word": " of"
+        },
+        {
+          "start": 133.85,
+          "end": 133.97,
+          "word": " the"
+        },
+        {
+          "start": 133.97,
+          "end": 134.29,
+          "word": " movie"
+        },
+        {
+          "start": 134.29,
+          "end": 134.56,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 135.32,
+      "end": 139.72,
+      "text": " The characters just weren't the same as the first two that I fell in love with them",
+      "words": [
+        {
+          "start": 135.32,
+          "end": 135.7,
+          "word": " The"
+        },
+        {
+          "start": 135.7,
+          "end": 136.08,
+          "word": " characters"
+        },
+        {
+          "start": 136.08,
+          "end": 136.72,
+          "word": " just"
+        },
+        {
+          "start": 136.72,
+          "end": 137.02,
+          "word": " weren't"
+        },
+        {
+          "start": 137.02,
+          "end": 137.2,
+          "word": " the"
+        },
+        {
+          "start": 137.2,
+          "end": 137.42,
+          "word": " same"
+        },
+        {
+          "start": 137.42,
+          "end": 137.6,
+          "word": " as"
+        },
+        {
+          "start": 137.6,
+          "end": 137.7,
+          "word": " the"
+        },
+        {
+          "start": 137.7,
+          "end": 137.86,
+          "word": " first"
+        },
+        {
+          "start": 137.86,
+          "end": 138.22,
+          "word": " two"
+        },
+        {
+          "start": 138.22,
+          "end": 138.74,
+          "word": " that"
+        },
+        {
+          "start": 138.74,
+          "end": 138.88,
+          "word": " I"
+        },
+        {
+          "start": 138.88,
+          "end": 139.12,
+          "word": " fell"
+        },
+        {
+          "start": 139.12,
+          "end": 139.28,
+          "word": " in"
+        },
+        {
+          "start": 139.28,
+          "end": 139.38,
+          "word": " love"
+        },
+        {
+          "start": 139.38,
+          "end": 139.54,
+          "word": " with"
+        },
+        {
+          "start": 139.54,
+          "end": 139.72,
+          "word": " them"
+        }
+      ]
+    },
+    {
+      "start": 139.72,
+      "end": 142.22,
+      "text": " It just kind of made me want to really walk out of the theater",
+      "words": [
+        {
+          "start": 139.72,
+          "end": 139.9,
+          "word": " It"
+        },
+        {
+          "start": 139.9,
+          "end": 140.1,
+          "word": " just"
+        },
+        {
+          "start": 140.1,
+          "end": 140.36,
+          "word": " kind"
+        },
+        {
+          "start": 140.36,
+          "end": 140.48,
+          "word": " of"
+        },
+        {
+          "start": 140.48,
+          "end": 140.66,
+          "word": " made"
+        },
+        {
+          "start": 140.66,
+          "end": 140.82,
+          "word": " me"
+        },
+        {
+          "start": 140.82,
+          "end": 141.0,
+          "word": " want"
+        },
+        {
+          "start": 141.0,
+          "end": 141.14,
+          "word": " to"
+        },
+        {
+          "start": 141.14,
+          "end": 141.32,
+          "word": " really"
+        },
+        {
+          "start": 141.32,
+          "end": 141.56,
+          "word": " walk"
+        },
+        {
+          "start": 141.56,
+          "end": 141.72,
+          "word": " out"
+        },
+        {
+          "start": 141.72,
+          "end": 141.8,
+          "word": " of"
+        },
+        {
+          "start": 141.8,
+          "end": 141.96,
+          "word": " the"
+        },
+        {
+          "start": 141.96,
+          "end": 142.22,
+          "word": " theater"
+        }
+      ]
+    },
+    {
+      "start": 143.24,
+      "end": 147.14,
+      "text": " To add to the problems. I had a problem with the audio in my theater",
+      "words": [
+        {
+          "start": 143.24,
+          "end": 143.62,
+          "word": " To"
+        },
+        {
+          "start": 143.62,
+          "end": 144.0,
+          "word": " add"
+        },
+        {
+          "start": 144.0,
+          "end": 144.24,
+          "word": " to"
+        },
+        {
+          "start": 144.24,
+          "end": 144.36,
+          "word": " the"
+        },
+        {
+          "start": 144.36,
+          "end": 144.7,
+          "word": " problems."
+        },
+        {
+          "start": 144.72,
+          "end": 144.9,
+          "word": " I"
+        },
+        {
+          "start": 144.9,
+          "end": 145.04,
+          "word": " had"
+        },
+        {
+          "start": 145.04,
+          "end": 145.14,
+          "word": " a"
+        },
+        {
+          "start": 145.14,
+          "end": 145.36,
+          "word": " problem"
+        },
+        {
+          "start": 145.36,
+          "end": 145.52,
+          "word": " with"
+        },
+        {
+          "start": 145.52,
+          "end": 145.62,
+          "word": " the"
+        },
+        {
+          "start": 145.62,
+          "end": 145.9,
+          "word": " audio"
+        },
+        {
+          "start": 145.9,
+          "end": 146.1,
+          "word": " in"
+        },
+        {
+          "start": 146.1,
+          "end": 146.4,
+          "word": " my"
+        },
+        {
+          "start": 146.4,
+          "end": 147.14,
+          "word": " theater"
+        }
+      ]
+    },
+    {
+      "start": 147.14,
+      "end": 151.82,
+      "text": " So that just pissed me off more but really I could have I should have just walked up and left at that moment",
+      "words": [
+        {
+          "start": 147.14,
+          "end": 147.58,
+          "word": " So"
+        },
+        {
+          "start": 147.58,
+          "end": 147.9,
+          "word": " that"
+        },
+        {
+          "start": 147.9,
+          "end": 148.08,
+          "word": " just"
+        },
+        {
+          "start": 148.08,
+          "end": 148.28,
+          "word": " pissed"
+        },
+        {
+          "start": 148.28,
+          "end": 148.46,
+          "word": " me"
+        },
+        {
+          "start": 148.46,
+          "end": 148.6,
+          "word": " off"
+        },
+        {
+          "start": 148.6,
+          "end": 148.94,
+          "word": " more"
+        },
+        {
+          "start": 148.94,
+          "end": 149.2,
+          "word": " but"
+        },
+        {
+          "start": 149.2,
+          "end": 149.54,
+          "word": " really"
+        },
+        {
+          "start": 149.54,
+          "end": 149.92,
+          "word": " I"
+        },
+        {
+          "start": 149.92,
+          "end": 150.04,
+          "word": " could"
+        },
+        {
+          "start": 150.04,
+          "end": 150.18,
+          "word": " have"
+        },
+        {
+          "start": 150.18,
+          "end": 150.28,
+          "word": " I"
+        },
+        {
+          "start": 150.28,
+          "end": 150.4,
+          "word": " should"
+        },
+        {
+          "start": 150.4,
+          "end": 150.48,
+          "word": " have"
+        },
+        {
+          "start": 150.48,
+          "end": 150.66,
+          "word": " just"
+        },
+        {
+          "start": 150.66,
+          "end": 150.86,
+          "word": " walked"
+        },
+        {
+          "start": 150.86,
+          "end": 151.04,
+          "word": " up"
+        },
+        {
+          "start": 151.04,
+          "end": 151.16,
+          "word": " and"
+        },
+        {
+          "start": 151.16,
+          "end": 151.3,
+          "word": " left"
+        },
+        {
+          "start": 151.3,
+          "end": 151.44,
+          "word": " at"
+        },
+        {
+          "start": 151.44,
+          "end": 151.6,
+          "word": " that"
+        },
+        {
+          "start": 151.6,
+          "end": 151.82,
+          "word": " moment"
+        }
+      ]
+    },
+    {
+      "start": 151.82,
+      "end": 157.4,
+      "text": " It was boring and not at all original in my opinion. It could have been so much better",
+      "words": [
+        {
+          "start": 151.82,
+          "end": 152.46,
+          "word": " It"
+        },
+        {
+          "start": 152.46,
+          "end": 152.66,
+          "word": " was"
+        },
+        {
+          "start": 152.66,
+          "end": 153.4,
+          "word": " boring"
+        },
+        {
+          "start": 153.4,
+          "end": 153.94,
+          "word": " and"
+        },
+        {
+          "start": 153.94,
+          "end": 154.22,
+          "word": " not"
+        },
+        {
+          "start": 154.22,
+          "end": 154.32,
+          "word": " at"
+        },
+        {
+          "start": 154.32,
+          "end": 154.54,
+          "word": " all"
+        },
+        {
+          "start": 154.54,
+          "end": 154.88,
+          "word": " original"
+        },
+        {
+          "start": 154.88,
+          "end": 155.1,
+          "word": " in"
+        },
+        {
+          "start": 155.1,
+          "end": 155.26,
+          "word": " my"
+        },
+        {
+          "start": 155.26,
+          "end": 155.58,
+          "word": " opinion."
+        },
+        {
+          "start": 156.08,
+          "end": 156.46,
+          "word": " It"
+        },
+        {
+          "start": 156.46,
+          "end": 156.62,
+          "word": " could"
+        },
+        {
+          "start": 156.62,
+          "end": 156.7,
+          "word": " have"
+        },
+        {
+          "start": 156.7,
+          "end": 156.82,
+          "word": " been"
+        },
+        {
+          "start": 156.82,
+          "end": 157.02,
+          "word": " so"
+        },
+        {
+          "start": 157.02,
+          "end": 157.16,
+          "word": " much"
+        },
+        {
+          "start": 157.16,
+          "end": 157.4,
+          "word": " better"
+        }
+      ]
+    },
+    {
+      "start": 157.4,
+      "end": 163.16,
+      "text": " They the second sequel was really great and I loved it and this one just was a flat-out disappointment",
+      "words": [
+        {
+          "start": 157.4,
+          "end": 157.58,
+          "word": " They"
+        },
+        {
+          "start": 157.58,
+          "end": 158.2,
+          "word": " the"
+        },
+        {
+          "start": 158.2,
+          "end": 158.46,
+          "word": " second"
+        },
+        {
+          "start": 158.46,
+          "end": 158.72,
+          "word": " sequel"
+        },
+        {
+          "start": 158.72,
+          "end": 159.0,
+          "word": " was"
+        },
+        {
+          "start": 159.0,
+          "end": 159.56,
+          "word": " really"
+        },
+        {
+          "start": 159.56,
+          "end": 159.88,
+          "word": " great"
+        },
+        {
+          "start": 159.88,
+          "end": 160.06,
+          "word": " and"
+        },
+        {
+          "start": 160.06,
+          "end": 160.2,
+          "word": " I"
+        },
+        {
+          "start": 160.2,
+          "end": 160.42,
+          "word": " loved"
+        },
+        {
+          "start": 160.42,
+          "end": 160.82,
+          "word": " it"
+        },
+        {
+          "start": 160.82,
+          "end": 161.24,
+          "word": " and"
+        },
+        {
+          "start": 161.66,
+          "end": 161.84,
+          "word": " this"
+        },
+        {
+          "start": 161.84,
+          "end": 161.98,
+          "word": " one"
+        },
+        {
+          "start": 161.98,
+          "end": 162.12,
+          "word": " just"
+        },
+        {
+          "start": 162.12,
+          "end": 162.34,
+          "word": " was"
+        },
+        {
+          "start": 162.34,
+          "end": 162.5,
+          "word": " a"
+        },
+        {
+          "start": 162.5,
+          "end": 162.7,
+          "word": " flat"
+        },
+        {
+          "start": 162.7,
+          "end": 162.8,
+          "word": "-out"
+        },
+        {
+          "start": 162.8,
+          "end": 163.16,
+          "word": " disappointment"
+        }
+      ]
+    },
+    {
+      "start": 163.16,
+      "end": 165.2,
+      "text": " So I'm gonna rate this one",
+      "words": [
+        {
+          "start": 163.16,
+          "end": 163.64,
+          "word": " So"
+        },
+        {
+          "start": 163.64,
+          "end": 164.36,
+          "word": " I'm"
+        },
+        {
+          "start": 164.36,
+          "end": 164.46,
+          "word": " gonna"
+        },
+        {
+          "start": 164.46,
+          "end": 164.7,
+          "word": " rate"
+        },
+        {
+          "start": 164.7,
+          "end": 164.9,
+          "word": " this"
+        },
+        {
+          "start": 164.9,
+          "end": 165.2,
+          "word": " one"
+        }
+      ]
+    },
+    {
+      "start": 166.01,
+      "end": 168.37,
+      "text": " Two stars. It should really be one",
+      "words": [
+        {
+          "start": 166.01,
+          "end": 166.43,
+          "word": " Two"
+        },
+        {
+          "start": 166.43,
+          "end": 166.85,
+          "word": " stars."
+        },
+        {
+          "start": 167.35,
+          "end": 167.55,
+          "word": " It"
+        },
+        {
+          "start": 167.55,
+          "end": 167.71,
+          "word": " should"
+        },
+        {
+          "start": 167.71,
+          "end": 167.95,
+          "word": " really"
+        },
+        {
+          "start": 167.95,
+          "end": 168.13,
+          "word": " be"
+        },
+        {
+          "start": 168.13,
+          "end": 168.37,
+          "word": " one"
+        }
+      ]
+    },
+    {
+      "start": 168.37,
+      "end": 174.93,
+      "text": " but I'm gonna give it to to be fair because the movie did have some points where I was laughing but very few and",
+      "words": [
+        {
+          "start": 168.37,
+          "end": 168.53,
+          "word": " but"
+        },
+        {
+          "start": 168.53,
+          "end": 168.71,
+          "word": " I'm"
+        },
+        {
+          "start": 168.71,
+          "end": 168.73,
+          "word": " gonna"
+        },
+        {
+          "start": 168.73,
+          "end": 168.87,
+          "word": " give"
+        },
+        {
+          "start": 168.87,
+          "end": 168.97,
+          "word": " it"
+        },
+        {
+          "start": 168.97,
+          "end": 169.21,
+          "word": " to"
+        },
+        {
+          "start": 169.21,
+          "end": 169.49,
+          "word": " to"
+        },
+        {
+          "start": 169.49,
+          "end": 169.67,
+          "word": " be"
+        },
+        {
+          "start": 169.67,
+          "end": 169.93,
+          "word": " fair"
+        },
+        {
+          "start": 169.93,
+          "end": 170.29,
+          "word": " because"
+        },
+        {
+          "start": 170.29,
+          "end": 171.23,
+          "word": " the"
+        },
+        {
+          "start": 171.23,
+          "end": 171.41,
+          "word": " movie"
+        },
+        {
+          "start": 171.41,
+          "end": 171.69,
+          "word": " did"
+        },
+        {
+          "start": 171.69,
+          "end": 171.95,
+          "word": " have"
+        },
+        {
+          "start": 171.95,
+          "end": 172.19,
+          "word": " some"
+        },
+        {
+          "start": 172.19,
+          "end": 172.49,
+          "word": " points"
+        },
+        {
+          "start": 172.49,
+          "end": 172.69,
+          "word": " where"
+        },
+        {
+          "start": 172.69,
+          "end": 172.85,
+          "word": " I"
+        },
+        {
+          "start": 172.85,
+          "end": 173.01,
+          "word": " was"
+        },
+        {
+          "start": 173.01,
+          "end": 173.37,
+          "word": " laughing"
+        },
+        {
+          "start": 173.37,
+          "end": 173.59,
+          "word": " but"
+        },
+        {
+          "start": 173.59,
+          "end": 174.15,
+          "word": " very"
+        },
+        {
+          "start": 174.15,
+          "end": 174.43,
+          "word": " few"
+        },
+        {
+          "start": 174.43,
+          "end": 174.93,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 175.39,
+      "end": 178.02,
+      "text": " It wasn't worth it in my opinion to go see so I",
+      "words": [
+        {
+          "start": 175.39,
+          "end": 175.81,
+          "word": " It"
+        },
+        {
+          "start": 175.81,
+          "end": 176.11,
+          "word": " wasn't"
+        },
+        {
+          "start": 176.11,
+          "end": 176.27,
+          "word": " worth"
+        },
+        {
+          "start": 176.27,
+          "end": 176.45,
+          "word": " it"
+        },
+        {
+          "start": 176.45,
+          "end": 176.53,
+          "word": " in"
+        },
+        {
+          "start": 176.53,
+          "end": 176.67,
+          "word": " my"
+        },
+        {
+          "start": 176.67,
+          "end": 176.93,
+          "word": " opinion"
+        },
+        {
+          "start": 176.93,
+          "end": 177.09,
+          "word": " to"
+        },
+        {
+          "start": 177.09,
+          "end": 177.23,
+          "word": " go"
+        },
+        {
+          "start": 177.23,
+          "end": 177.37,
+          "word": " see"
+        },
+        {
+          "start": 177.37,
+          "end": 177.81,
+          "word": " so"
+        },
+        {
+          "start": 177.81,
+          "end": 178.02,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 178.99,
+      "end": 184.39,
+      "text": " Definitely suggest you don't see it if you want to if you are a fan of the first two and think you must see this",
+      "words": [
+        {
+          "start": 178.99,
+          "end": 179.41,
+          "word": " Definitely"
+        },
+        {
+          "start": 179.41,
+          "end": 179.83,
+          "word": " suggest"
+        },
+        {
+          "start": 179.83,
+          "end": 180.05,
+          "word": " you"
+        },
+        {
+          "start": 180.05,
+          "end": 180.37,
+          "word": " don't"
+        },
+        {
+          "start": 180.37,
+          "end": 180.55,
+          "word": " see"
+        },
+        {
+          "start": 180.55,
+          "end": 180.75,
+          "word": " it"
+        },
+        {
+          "start": 180.75,
+          "end": 181.17,
+          "word": " if"
+        },
+        {
+          "start": 181.17,
+          "end": 181.33,
+          "word": " you"
+        },
+        {
+          "start": 181.33,
+          "end": 181.55,
+          "word": " want"
+        },
+        {
+          "start": 181.55,
+          "end": 181.81,
+          "word": " to"
+        },
+        {
+          "start": 181.81,
+          "end": 181.97,
+          "word": " if"
+        },
+        {
+          "start": 181.97,
+          "end": 182.11,
+          "word": " you"
+        },
+        {
+          "start": 182.11,
+          "end": 182.31,
+          "word": " are"
+        },
+        {
+          "start": 182.31,
+          "end": 182.39,
+          "word": " a"
+        },
+        {
+          "start": 182.39,
+          "end": 182.59,
+          "word": " fan"
+        },
+        {
+          "start": 182.59,
+          "end": 182.69,
+          "word": " of"
+        },
+        {
+          "start": 182.69,
+          "end": 182.79,
+          "word": " the"
+        },
+        {
+          "start": 182.79,
+          "end": 182.95,
+          "word": " first"
+        },
+        {
+          "start": 182.95,
+          "end": 183.15,
+          "word": " two"
+        },
+        {
+          "start": 183.15,
+          "end": 183.25,
+          "word": " and"
+        },
+        {
+          "start": 183.25,
+          "end": 183.59,
+          "word": " think"
+        },
+        {
+          "start": 183.59,
+          "end": 183.77,
+          "word": " you"
+        },
+        {
+          "start": 183.77,
+          "end": 183.99,
+          "word": " must"
+        },
+        {
+          "start": 183.99,
+          "end": 184.21,
+          "word": " see"
+        },
+        {
+          "start": 184.21,
+          "end": 184.39,
+          "word": " this"
+        }
+      ]
+    },
+    {
+      "start": 184.39,
+      "end": 188.75,
+      "text": " one, okay, go ahead, but it was just a flat-out disappointment in my opinion, so I",
+      "words": [
+        {
+          "start": 184.39,
+          "end": 184.55,
+          "word": " one,"
+        },
+        {
+          "start": 184.55,
+          "end": 184.83,
+          "word": " okay,"
+        },
+        {
+          "start": 184.83,
+          "end": 185.01,
+          "word": " go"
+        },
+        {
+          "start": 185.01,
+          "end": 185.25,
+          "word": " ahead,"
+        },
+        {
+          "start": 185.25,
+          "end": 186.01,
+          "word": " but"
+        },
+        {
+          "start": 186.01,
+          "end": 186.45,
+          "word": " it"
+        },
+        {
+          "start": 186.45,
+          "end": 186.53,
+          "word": " was"
+        },
+        {
+          "start": 186.53,
+          "end": 186.67,
+          "word": " just"
+        },
+        {
+          "start": 186.67,
+          "end": 186.79,
+          "word": " a"
+        },
+        {
+          "start": 186.79,
+          "end": 186.95,
+          "word": " flat"
+        },
+        {
+          "start": 186.95,
+          "end": 187.05,
+          "word": "-out"
+        },
+        {
+          "start": 187.05,
+          "end": 187.37,
+          "word": " disappointment"
+        },
+        {
+          "start": 187.37,
+          "end": 187.55,
+          "word": " in"
+        },
+        {
+          "start": 187.55,
+          "end": 187.67,
+          "word": " my"
+        },
+        {
+          "start": 187.67,
+          "end": 187.91,
+          "word": " opinion,"
+        },
+        {
+          "start": 187.91,
+          "end": 188.43,
+          "word": " so"
+        },
+        {
+          "start": 188.43,
+          "end": 188.75,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 189.67,
+      "end": 194.61,
+      "text": " Don't recommend it at all and it's one of my first I was really hoping to review it good cuz I love the first two",
+      "words": [
+        {
+          "start": 189.67,
+          "end": 190.03,
+          "word": " Don't"
+        },
+        {
+          "start": 190.03,
+          "end": 190.33,
+          "word": " recommend"
+        },
+        {
+          "start": 190.33,
+          "end": 190.51,
+          "word": " it"
+        },
+        {
+          "start": 190.51,
+          "end": 190.61,
+          "word": " at"
+        },
+        {
+          "start": 190.61,
+          "end": 190.83,
+          "word": " all"
+        },
+        {
+          "start": 190.83,
+          "end": 191.37,
+          "word": " and"
+        },
+        {
+          "start": 191.37,
+          "end": 191.63,
+          "word": " it's"
+        },
+        {
+          "start": 191.63,
+          "end": 191.75,
+          "word": " one"
+        },
+        {
+          "start": 191.75,
+          "end": 191.83,
+          "word": " of"
+        },
+        {
+          "start": 191.83,
+          "end": 191.97,
+          "word": " my"
+        },
+        {
+          "start": 191.97,
+          "end": 192.37,
+          "word": " first"
+        },
+        {
+          "start": 192.37,
+          "end": 192.65,
+          "word": " I"
+        },
+        {
+          "start": 192.65,
+          "end": 192.77,
+          "word": " was"
+        },
+        {
+          "start": 192.77,
+          "end": 192.97,
+          "word": " really"
+        },
+        {
+          "start": 192.97,
+          "end": 193.15,
+          "word": " hoping"
+        },
+        {
+          "start": 193.15,
+          "end": 193.29,
+          "word": " to"
+        },
+        {
+          "start": 193.29,
+          "end": 193.47,
+          "word": " review"
+        },
+        {
+          "start": 193.47,
+          "end": 193.61,
+          "word": " it"
+        },
+        {
+          "start": 193.61,
+          "end": 193.75,
+          "word": " good"
+        },
+        {
+          "start": 193.75,
+          "end": 193.87,
+          "word": " cuz"
+        },
+        {
+          "start": 193.87,
+          "end": 193.99,
+          "word": " I"
+        },
+        {
+          "start": 193.99,
+          "end": 194.11,
+          "word": " love"
+        },
+        {
+          "start": 194.11,
+          "end": 194.25,
+          "word": " the"
+        },
+        {
+          "start": 194.25,
+          "end": 194.41,
+          "word": " first"
+        },
+        {
+          "start": 194.41,
+          "end": 194.61,
+          "word": " two"
+        }
+      ]
+    },
+    {
+      "start": 194.61,
+      "end": 196.53,
+      "text": " But I just can't so",
+      "words": [
+        {
+          "start": 194.61,
+          "end": 194.77,
+          "word": " But"
+        },
+        {
+          "start": 194.77,
+          "end": 194.89,
+          "word": " I"
+        },
+        {
+          "start": 194.89,
+          "end": 195.05,
+          "word": " just"
+        },
+        {
+          "start": 195.05,
+          "end": 195.85,
+          "word": " can't"
+        },
+        {
+          "start": 195.95,
+          "end": 196.53,
+          "word": " so"
+        }
+      ]
+    },
+    {
+      "start": 197.35,
+      "end": 202.77,
+      "text": " That's really all I have to say for that one. Just it was a very disappointing experience for me",
+      "words": [
+        {
+          "start": 197.35,
+          "end": 197.71,
+          "word": " That's"
+        },
+        {
+          "start": 197.71,
+          "end": 198.07,
+          "word": " really"
+        },
+        {
+          "start": 198.07,
+          "end": 198.41,
+          "word": " all"
+        },
+        {
+          "start": 198.41,
+          "end": 198.53,
+          "word": " I"
+        },
+        {
+          "start": 198.53,
+          "end": 198.63,
+          "word": " have"
+        },
+        {
+          "start": 198.63,
+          "end": 198.73,
+          "word": " to"
+        },
+        {
+          "start": 198.73,
+          "end": 198.87,
+          "word": " say"
+        },
+        {
+          "start": 198.87,
+          "end": 199.03,
+          "word": " for"
+        },
+        {
+          "start": 199.03,
+          "end": 199.17,
+          "word": " that"
+        },
+        {
+          "start": 199.17,
+          "end": 199.35,
+          "word": " one."
+        },
+        {
+          "start": 199.73,
+          "end": 200.09,
+          "word": " Just"
+        },
+        {
+          "start": 200.09,
+          "end": 200.89,
+          "word": " it"
+        },
+        {
+          "start": 200.89,
+          "end": 201.03,
+          "word": " was"
+        },
+        {
+          "start": 201.03,
+          "end": 201.39,
+          "word": " a"
+        },
+        {
+          "start": 201.39,
+          "end": 201.69,
+          "word": " very"
+        },
+        {
+          "start": 201.69,
+          "end": 202.03,
+          "word": " disappointing"
+        },
+        {
+          "start": 202.03,
+          "end": 202.49,
+          "word": " experience"
+        },
+        {
+          "start": 202.49,
+          "end": 202.65,
+          "word": " for"
+        },
+        {
+          "start": 202.65,
+          "end": 202.77,
+          "word": " me"
+        }
+      ]
+    },
+    {
+      "start": 202.77,
+      "end": 207.37,
+      "text": " so I'm sure a lot of you are gonna either attack me. Oh, it was good, but I",
+      "words": [
+        {
+          "start": 202.77,
+          "end": 203.19,
+          "word": " so"
+        },
+        {
+          "start": 203.19,
+          "end": 204.31,
+          "word": " I'm"
+        },
+        {
+          "start": 204.31,
+          "end": 204.49,
+          "word": " sure"
+        },
+        {
+          "start": 204.49,
+          "end": 204.61,
+          "word": " a"
+        },
+        {
+          "start": 204.61,
+          "end": 204.67,
+          "word": " lot"
+        },
+        {
+          "start": 204.67,
+          "end": 204.75,
+          "word": " of"
+        },
+        {
+          "start": 204.75,
+          "end": 204.93,
+          "word": " you"
+        },
+        {
+          "start": 204.93,
+          "end": 205.07,
+          "word": " are"
+        },
+        {
+          "start": 205.07,
+          "end": 205.19,
+          "word": " gonna"
+        },
+        {
+          "start": 205.19,
+          "end": 205.41,
+          "word": " either"
+        },
+        {
+          "start": 205.41,
+          "end": 205.69,
+          "word": " attack"
+        },
+        {
+          "start": 205.69,
+          "end": 205.87,
+          "word": " me."
+        },
+        {
+          "start": 205.91,
+          "end": 206.07,
+          "word": " Oh,"
+        },
+        {
+          "start": 206.07,
+          "end": 206.19,
+          "word": " it"
+        },
+        {
+          "start": 206.19,
+          "end": 206.31,
+          "word": " was"
+        },
+        {
+          "start": 206.31,
+          "end": 206.59,
+          "word": " good,"
+        },
+        {
+          "start": 206.59,
+          "end": 207.19,
+          "word": " but"
+        },
+        {
+          "start": 207.19,
+          "end": 207.37,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 208.5,
+      "end": 211.4,
+      "text": " Really hope not because it was not that good. So",
+      "words": [
+        {
+          "start": 208.5,
+          "end": 208.7,
+          "word": " Really"
+        },
+        {
+          "start": 208.7,
+          "end": 208.98,
+          "word": " hope"
+        },
+        {
+          "start": 208.98,
+          "end": 209.26,
+          "word": " not"
+        },
+        {
+          "start": 209.26,
+          "end": 209.62,
+          "word": " because"
+        },
+        {
+          "start": 209.62,
+          "end": 209.74,
+          "word": " it"
+        },
+        {
+          "start": 209.74,
+          "end": 209.88,
+          "word": " was"
+        },
+        {
+          "start": 209.88,
+          "end": 210.1,
+          "word": " not"
+        },
+        {
+          "start": 210.1,
+          "end": 210.3,
+          "word": " that"
+        },
+        {
+          "start": 210.3,
+          "end": 210.56,
+          "word": " good."
+        },
+        {
+          "start": 211.04,
+          "end": 211.4,
+          "word": " So"
+        }
+      ]
+    },
+    {
+      "start": 212.2,
+      "end": 212.8,
+      "text": " You know",
+      "words": [
+        {
+          "start": 212.2,
+          "end": 212.56,
+          "word": " You"
+        },
+        {
+          "start": 212.56,
+          "end": 212.8,
+          "word": " know"
+        }
+      ]
+    },
+    {
+      "start": 213.38,
+      "end": 217.3,
+      "text": " Everyone's welcome to think what they want. But that at least is my opinion of this one",
+      "words": [
+        {
+          "start": 213.38,
+          "end": 213.74,
+          "word": " Everyone's"
+        },
+        {
+          "start": 213.74,
+          "end": 213.9,
+          "word": " welcome"
+        },
+        {
+          "start": 213.9,
+          "end": 214.16,
+          "word": " to"
+        },
+        {
+          "start": 214.16,
+          "end": 214.32,
+          "word": " think"
+        },
+        {
+          "start": 214.32,
+          "end": 214.48,
+          "word": " what"
+        },
+        {
+          "start": 214.48,
+          "end": 214.6,
+          "word": " they"
+        },
+        {
+          "start": 214.6,
+          "end": 214.8,
+          "word": " want."
+        },
+        {
+          "start": 214.82,
+          "end": 215.18,
+          "word": " But"
+        },
+        {
+          "start": 215.18,
+          "end": 215.8,
+          "word": " that"
+        },
+        {
+          "start": 215.8,
+          "end": 216.04,
+          "word": " at"
+        },
+        {
+          "start": 216.04,
+          "end": 216.16,
+          "word": " least"
+        },
+        {
+          "start": 216.16,
+          "end": 216.32,
+          "word": " is"
+        },
+        {
+          "start": 216.32,
+          "end": 216.5,
+          "word": " my"
+        },
+        {
+          "start": 216.5,
+          "end": 216.74,
+          "word": " opinion"
+        },
+        {
+          "start": 216.74,
+          "end": 216.94,
+          "word": " of"
+        },
+        {
+          "start": 216.94,
+          "end": 217.08,
+          "word": " this"
+        },
+        {
+          "start": 217.08,
+          "end": 217.3,
+          "word": " one"
+        }
+      ]
+    },
+    {
+      "start": 217.3,
+      "end": 223.34,
+      "text": " So until next time and I'm hoping to review Pirates of the Caribbean. I'm really excited about that one. So",
+      "words": [
+        {
+          "start": 217.3,
+          "end": 217.7,
+          "word": " So"
+        },
+        {
+          "start": 217.7,
+          "end": 218.78,
+          "word": " until"
+        },
+        {
+          "start": 218.78,
+          "end": 219.02,
+          "word": " next"
+        },
+        {
+          "start": 219.02,
+          "end": 219.3,
+          "word": " time"
+        },
+        {
+          "start": 219.3,
+          "end": 219.42,
+          "word": " and"
+        },
+        {
+          "start": 219.42,
+          "end": 219.6,
+          "word": " I'm"
+        },
+        {
+          "start": 219.6,
+          "end": 219.74,
+          "word": " hoping"
+        },
+        {
+          "start": 219.74,
+          "end": 219.96,
+          "word": " to"
+        },
+        {
+          "start": 219.96,
+          "end": 220.2,
+          "word": " review"
+        },
+        {
+          "start": 220.2,
+          "end": 220.46,
+          "word": " Pirates"
+        },
+        {
+          "start": 220.46,
+          "end": 220.6,
+          "word": " of"
+        },
+        {
+          "start": 220.6,
+          "end": 220.72,
+          "word": " the"
+        },
+        {
+          "start": 220.72,
+          "end": 220.98,
+          "word": " Caribbean."
+        },
+        {
+          "start": 221.32,
+          "end": 221.54,
+          "word": " I'm"
+        },
+        {
+          "start": 221.54,
+          "end": 221.74,
+          "word": " really"
+        },
+        {
+          "start": 221.74,
+          "end": 222.08,
+          "word": " excited"
+        },
+        {
+          "start": 222.08,
+          "end": 222.38,
+          "word": " about"
+        },
+        {
+          "start": 222.38,
+          "end": 222.58,
+          "word": " that"
+        },
+        {
+          "start": 222.58,
+          "end": 222.78,
+          "word": " one."
+        },
+        {
+          "start": 223.26,
+          "end": 223.34,
+          "word": " So"
+        }
+      ]
+    },
+    {
+      "start": 224.86,
+      "end": 225.82,
+      "text": " Until that",
+      "words": [
+        {
+          "start": 224.86,
+          "end": 225.34,
+          "word": " Until"
+        },
+        {
+          "start": 225.34,
+          "end": 225.82,
+          "word": " that"
+        }
+      ]
+    }
+  ]
+}

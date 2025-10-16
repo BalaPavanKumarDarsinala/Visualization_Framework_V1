@@ -1,0 +1,1864 @@
+{
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 5.88,
+      "text": " Hey everybody, it's the movie maniac again. I just wanted to critique another movie. I actually ran it",
+      "words": [
+        {
+          "start": 0.62,
+          "end": 1.14,
+          "word": " Hey"
+        },
+        {
+          "start": 1.14,
+          "end": 1.5,
+          "word": " everybody,"
+        },
+        {
+          "start": 1.54,
+          "end": 1.86,
+          "word": " it's"
+        },
+        {
+          "start": 1.86,
+          "end": 1.92,
+          "word": " the"
+        },
+        {
+          "start": 1.92,
+          "end": 2.14,
+          "word": " movie"
+        },
+        {
+          "start": 2.14,
+          "end": 2.56,
+          "word": " maniac"
+        },
+        {
+          "start": 2.56,
+          "end": 2.94,
+          "word": " again."
+        },
+        {
+          "start": 3.16,
+          "end": 3.24,
+          "word": " I"
+        },
+        {
+          "start": 3.24,
+          "end": 3.38,
+          "word": " just"
+        },
+        {
+          "start": 3.38,
+          "end": 3.54,
+          "word": " wanted"
+        },
+        {
+          "start": 3.54,
+          "end": 3.74,
+          "word": " to"
+        },
+        {
+          "start": 3.74,
+          "end": 4.26,
+          "word": " critique"
+        },
+        {
+          "start": 4.26,
+          "end": 4.56,
+          "word": " another"
+        },
+        {
+          "start": 4.56,
+          "end": 4.82,
+          "word": " movie."
+        },
+        {
+          "start": 4.94,
+          "end": 5.0,
+          "word": " I"
+        },
+        {
+          "start": 5.0,
+          "end": 5.36,
+          "word": " actually"
+        },
+        {
+          "start": 5.36,
+          "end": 5.66,
+          "word": " ran"
+        },
+        {
+          "start": 5.66,
+          "end": 5.88,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 6.44,
+      "end": 11.38,
+      "text": " Someone was asking me about that movie Brad wars. They kept asking me. Is it a good movie? Should I see it?",
+      "words": [
+        {
+          "start": 6.44,
+          "end": 6.84,
+          "word": " Someone"
+        },
+        {
+          "start": 6.84,
+          "end": 7.14,
+          "word": " was"
+        },
+        {
+          "start": 7.14,
+          "end": 7.46,
+          "word": " asking"
+        },
+        {
+          "start": 7.46,
+          "end": 7.76,
+          "word": " me"
+        },
+        {
+          "start": 7.76,
+          "end": 8.02,
+          "word": " about"
+        },
+        {
+          "start": 8.02,
+          "end": 8.2,
+          "word": " that"
+        },
+        {
+          "start": 8.2,
+          "end": 8.4,
+          "word": " movie"
+        },
+        {
+          "start": 8.4,
+          "end": 8.68,
+          "word": " Brad"
+        },
+        {
+          "start": 8.68,
+          "end": 8.92,
+          "word": " wars."
+        },
+        {
+          "start": 8.94,
+          "end": 9.14,
+          "word": " They"
+        },
+        {
+          "start": 9.14,
+          "end": 9.28,
+          "word": " kept"
+        },
+        {
+          "start": 9.28,
+          "end": 9.52,
+          "word": " asking"
+        },
+        {
+          "start": 9.52,
+          "end": 9.72,
+          "word": " me."
+        },
+        {
+          "start": 9.72,
+          "end": 9.8,
+          "word": " Is"
+        },
+        {
+          "start": 9.8,
+          "end": 9.9,
+          "word": " it"
+        },
+        {
+          "start": 9.9,
+          "end": 10.0,
+          "word": " a"
+        },
+        {
+          "start": 10.0,
+          "end": 10.14,
+          "word": " good"
+        },
+        {
+          "start": 10.14,
+          "end": 10.48,
+          "word": " movie?"
+        },
+        {
+          "start": 10.52,
+          "end": 10.84,
+          "word": " Should"
+        },
+        {
+          "start": 10.84,
+          "end": 10.98,
+          "word": " I"
+        },
+        {
+          "start": 10.98,
+          "end": 11.22,
+          "word": " see"
+        },
+        {
+          "start": 11.22,
+          "end": 11.38,
+          "word": " it?"
+        }
+      ]
+    },
+    {
+      "start": 11.38,
+      "end": 16.6,
+      "text": " Is it funny because it looks pretty funny. So hey, I decided to check it out. What can I say? I'm just curious",
+      "words": [
+        {
+          "start": 11.38,
+          "end": 11.52,
+          "word": " Is"
+        },
+        {
+          "start": 11.52,
+          "end": 11.66,
+          "word": " it"
+        },
+        {
+          "start": 11.66,
+          "end": 11.88,
+          "word": " funny"
+        },
+        {
+          "start": 11.88,
+          "end": 12.14,
+          "word": " because"
+        },
+        {
+          "start": 12.14,
+          "end": 12.26,
+          "word": " it"
+        },
+        {
+          "start": 12.26,
+          "end": 12.38,
+          "word": " looks"
+        },
+        {
+          "start": 12.38,
+          "end": 12.62,
+          "word": " pretty"
+        },
+        {
+          "start": 12.62,
+          "end": 12.9,
+          "word": " funny."
+        },
+        {
+          "start": 13.26,
+          "end": 13.66,
+          "word": " So"
+        },
+        {
+          "start": 13.66,
+          "end": 13.9,
+          "word": " hey,"
+        },
+        {
+          "start": 13.9,
+          "end": 14.08,
+          "word": " I"
+        },
+        {
+          "start": 14.08,
+          "end": 14.36,
+          "word": " decided"
+        },
+        {
+          "start": 14.36,
+          "end": 14.54,
+          "word": " to"
+        },
+        {
+          "start": 14.54,
+          "end": 14.68,
+          "word": " check"
+        },
+        {
+          "start": 14.68,
+          "end": 14.78,
+          "word": " it"
+        },
+        {
+          "start": 14.78,
+          "end": 14.94,
+          "word": " out."
+        },
+        {
+          "start": 14.94,
+          "end": 15.08,
+          "word": " What"
+        },
+        {
+          "start": 15.08,
+          "end": 15.2,
+          "word": " can"
+        },
+        {
+          "start": 15.2,
+          "end": 15.32,
+          "word": " I"
+        },
+        {
+          "start": 15.32,
+          "end": 15.5,
+          "word": " say?"
+        },
+        {
+          "start": 15.58,
+          "end": 15.98,
+          "word": " I'm"
+        },
+        {
+          "start": 15.98,
+          "end": 16.16,
+          "word": " just"
+        },
+        {
+          "start": 16.16,
+          "end": 16.6,
+          "word": " curious"
+        }
+      ]
+    },
+    {
+      "start": 17.5,
+      "end": 24.58,
+      "text": " It's starring Kate Hudson, I believe and Anne Hathaway. Don't get me wrong. Kate Hudson is pretty fine-looking",
+      "words": [
+        {
+          "start": 17.5,
+          "end": 17.9,
+          "word": " It's"
+        },
+        {
+          "start": 17.9,
+          "end": 18.1,
+          "word": " starring"
+        },
+        {
+          "start": 18.1,
+          "end": 18.5,
+          "word": " Kate"
+        },
+        {
+          "start": 18.5,
+          "end": 19.38,
+          "word": " Hudson,"
+        },
+        {
+          "start": 19.38,
+          "end": 19.7,
+          "word": " I"
+        },
+        {
+          "start": 19.7,
+          "end": 20.0,
+          "word": " believe"
+        },
+        {
+          "start": 20.0,
+          "end": 20.32,
+          "word": " and"
+        },
+        {
+          "start": 20.32,
+          "end": 20.68,
+          "word": " Anne"
+        },
+        {
+          "start": 20.68,
+          "end": 21.32,
+          "word": " Hathaway."
+        },
+        {
+          "start": 21.6,
+          "end": 22.0,
+          "word": " Don't"
+        },
+        {
+          "start": 22.0,
+          "end": 22.12,
+          "word": " get"
+        },
+        {
+          "start": 22.12,
+          "end": 22.24,
+          "word": " me"
+        },
+        {
+          "start": 22.24,
+          "end": 22.42,
+          "word": " wrong."
+        },
+        {
+          "start": 22.58,
+          "end": 22.66,
+          "word": " Kate"
+        },
+        {
+          "start": 22.66,
+          "end": 23.06,
+          "word": " Hudson"
+        },
+        {
+          "start": 23.06,
+          "end": 23.52,
+          "word": " is"
+        },
+        {
+          "start": 23.52,
+          "end": 24.02,
+          "word": " pretty"
+        },
+        {
+          "start": 24.02,
+          "end": 24.36,
+          "word": " fine"
+        },
+        {
+          "start": 24.36,
+          "end": 24.58,
+          "word": "-looking"
+        }
+      ]
+    },
+    {
+      "start": 24.58,
+      "end": 28.72,
+      "text": " But I just think it's kind of stupid. Everyone says she has a fat ass",
+      "words": [
+        {
+          "start": 24.58,
+          "end": 25.34,
+          "word": " But"
+        },
+        {
+          "start": 25.34,
+          "end": 26.32,
+          "word": " I"
+        },
+        {
+          "start": 26.32,
+          "end": 26.48,
+          "word": " just"
+        },
+        {
+          "start": 26.48,
+          "end": 26.64,
+          "word": " think"
+        },
+        {
+          "start": 26.64,
+          "end": 26.8,
+          "word": " it's"
+        },
+        {
+          "start": 26.8,
+          "end": 26.9,
+          "word": " kind"
+        },
+        {
+          "start": 26.9,
+          "end": 26.98,
+          "word": " of"
+        },
+        {
+          "start": 26.98,
+          "end": 27.22,
+          "word": " stupid."
+        },
+        {
+          "start": 27.4,
+          "end": 27.6,
+          "word": " Everyone"
+        },
+        {
+          "start": 27.6,
+          "end": 27.86,
+          "word": " says"
+        },
+        {
+          "start": 27.86,
+          "end": 28.02,
+          "word": " she"
+        },
+        {
+          "start": 28.02,
+          "end": 28.12,
+          "word": " has"
+        },
+        {
+          "start": 28.12,
+          "end": 28.24,
+          "word": " a"
+        },
+        {
+          "start": 28.24,
+          "end": 28.48,
+          "word": " fat"
+        },
+        {
+          "start": 28.48,
+          "end": 28.72,
+          "word": " ass"
+        }
+      ]
+    },
+    {
+      "start": 28.72,
+      "end": 31.02,
+      "text": " Yeah, she has a fat ass in terms of white girls",
+      "words": [
+        {
+          "start": 28.72,
+          "end": 29.1,
+          "word": " Yeah,"
+        },
+        {
+          "start": 29.1,
+          "end": 29.26,
+          "word": " she"
+        },
+        {
+          "start": 29.26,
+          "end": 29.44,
+          "word": " has"
+        },
+        {
+          "start": 29.44,
+          "end": 29.58,
+          "word": " a"
+        },
+        {
+          "start": 29.58,
+          "end": 29.76,
+          "word": " fat"
+        },
+        {
+          "start": 29.76,
+          "end": 29.96,
+          "word": " ass"
+        },
+        {
+          "start": 29.96,
+          "end": 30.14,
+          "word": " in"
+        },
+        {
+          "start": 30.14,
+          "end": 30.34,
+          "word": " terms"
+        },
+        {
+          "start": 30.34,
+          "end": 30.52,
+          "word": " of"
+        },
+        {
+          "start": 30.52,
+          "end": 30.7,
+          "word": " white"
+        },
+        {
+          "start": 30.7,
+          "end": 31.02,
+          "word": " girls"
+        }
+      ]
+    },
+    {
+      "start": 31.48,
+      "end": 35.24,
+      "text": " But I mean her ass really isn't that fat first of all, the movie was boring",
+      "words": [
+        {
+          "start": 31.48,
+          "end": 31.88,
+          "word": " But"
+        },
+        {
+          "start": 31.88,
+          "end": 32.02,
+          "word": " I"
+        },
+        {
+          "start": 32.02,
+          "end": 32.12,
+          "word": " mean"
+        },
+        {
+          "start": 32.12,
+          "end": 32.24,
+          "word": " her"
+        },
+        {
+          "start": 32.24,
+          "end": 32.44,
+          "word": " ass"
+        },
+        {
+          "start": 32.44,
+          "end": 32.6,
+          "word": " really"
+        },
+        {
+          "start": 32.6,
+          "end": 32.9,
+          "word": " isn't"
+        },
+        {
+          "start": 32.9,
+          "end": 33.08,
+          "word": " that"
+        },
+        {
+          "start": 33.08,
+          "end": 33.42,
+          "word": " fat"
+        },
+        {
+          "start": 33.42,
+          "end": 33.72,
+          "word": " first"
+        },
+        {
+          "start": 33.72,
+          "end": 33.98,
+          "word": " of"
+        },
+        {
+          "start": 33.98,
+          "end": 34.14,
+          "word": " all,"
+        },
+        {
+          "start": 34.14,
+          "end": 34.56,
+          "word": " the"
+        },
+        {
+          "start": 34.56,
+          "end": 34.74,
+          "word": " movie"
+        },
+        {
+          "start": 34.74,
+          "end": 34.94,
+          "word": " was"
+        },
+        {
+          "start": 34.94,
+          "end": 35.24,
+          "word": " boring"
+        }
+      ]
+    },
+    {
+      "start": 35.64,
+      "end": 40.48,
+      "text": " I mean the movie really wasn't funny at all. All the all the funny parts weren't funny",
+      "words": [
+        {
+          "start": 35.64,
+          "end": 36.04,
+          "word": " I"
+        },
+        {
+          "start": 36.04,
+          "end": 36.14,
+          "word": " mean"
+        },
+        {
+          "start": 36.14,
+          "end": 36.22,
+          "word": " the"
+        },
+        {
+          "start": 36.22,
+          "end": 36.4,
+          "word": " movie"
+        },
+        {
+          "start": 36.4,
+          "end": 36.68,
+          "word": " really"
+        },
+        {
+          "start": 36.68,
+          "end": 36.96,
+          "word": " wasn't"
+        },
+        {
+          "start": 36.96,
+          "end": 37.2,
+          "word": " funny"
+        },
+        {
+          "start": 37.2,
+          "end": 37.34,
+          "word": " at"
+        },
+        {
+          "start": 37.34,
+          "end": 37.5,
+          "word": " all."
+        },
+        {
+          "start": 37.5,
+          "end": 37.7,
+          "word": " All"
+        },
+        {
+          "start": 37.7,
+          "end": 37.88,
+          "word": " the"
+        },
+        {
+          "start": 37.88,
+          "end": 38.08,
+          "word": " all"
+        },
+        {
+          "start": 38.08,
+          "end": 38.24,
+          "word": " the"
+        },
+        {
+          "start": 38.24,
+          "end": 38.72,
+          "word": " funny"
+        },
+        {
+          "start": 38.72,
+          "end": 39.26,
+          "word": " parts"
+        },
+        {
+          "start": 39.26,
+          "end": 40.16,
+          "word": " weren't"
+        },
+        {
+          "start": 40.16,
+          "end": 40.48,
+          "word": " funny"
+        }
+      ]
+    },
+    {
+      "start": 40.48,
+      "end": 43.46,
+      "text": " I mean the movie was I guess it was a waste of time",
+      "words": [
+        {
+          "start": 40.48,
+          "end": 40.86,
+          "word": " I"
+        },
+        {
+          "start": 40.86,
+          "end": 41.0,
+          "word": " mean"
+        },
+        {
+          "start": 41.0,
+          "end": 41.12,
+          "word": " the"
+        },
+        {
+          "start": 41.12,
+          "end": 41.38,
+          "word": " movie"
+        },
+        {
+          "start": 41.38,
+          "end": 41.68,
+          "word": " was"
+        },
+        {
+          "start": 41.68,
+          "end": 42.4,
+          "word": " I"
+        },
+        {
+          "start": 42.4,
+          "end": 42.54,
+          "word": " guess"
+        },
+        {
+          "start": 42.54,
+          "end": 42.68,
+          "word": " it"
+        },
+        {
+          "start": 42.68,
+          "end": 42.76,
+          "word": " was"
+        },
+        {
+          "start": 42.76,
+          "end": 42.86,
+          "word": " a"
+        },
+        {
+          "start": 42.86,
+          "end": 43.02,
+          "word": " waste"
+        },
+        {
+          "start": 43.02,
+          "end": 43.18,
+          "word": " of"
+        },
+        {
+          "start": 43.18,
+          "end": 43.46,
+          "word": " time"
+        }
+      ]
+    },
+    {
+      "start": 43.46,
+      "end": 48.3,
+      "text": " This guy wanted to know so you could buy it for his girlfriend. I was hey she might like it",
+      "words": [
+        {
+          "start": 43.46,
+          "end": 43.7,
+          "word": " This"
+        },
+        {
+          "start": 43.7,
+          "end": 43.92,
+          "word": " guy"
+        },
+        {
+          "start": 43.92,
+          "end": 44.12,
+          "word": " wanted"
+        },
+        {
+          "start": 44.12,
+          "end": 44.3,
+          "word": " to"
+        },
+        {
+          "start": 44.3,
+          "end": 44.44,
+          "word": " know"
+        },
+        {
+          "start": 44.44,
+          "end": 44.62,
+          "word": " so"
+        },
+        {
+          "start": 44.62,
+          "end": 44.72,
+          "word": " you"
+        },
+        {
+          "start": 44.72,
+          "end": 44.82,
+          "word": " could"
+        },
+        {
+          "start": 44.82,
+          "end": 45.3,
+          "word": " buy"
+        },
+        {
+          "start": 45.3,
+          "end": 45.46,
+          "word": " it"
+        },
+        {
+          "start": 45.46,
+          "end": 45.58,
+          "word": " for"
+        },
+        {
+          "start": 45.58,
+          "end": 45.7,
+          "word": " his"
+        },
+        {
+          "start": 45.7,
+          "end": 46.08,
+          "word": " girlfriend."
+        },
+        {
+          "start": 46.26,
+          "end": 46.66,
+          "word": " I"
+        },
+        {
+          "start": 46.66,
+          "end": 46.92,
+          "word": " was"
+        },
+        {
+          "start": 46.92,
+          "end": 47.54,
+          "word": " hey"
+        },
+        {
+          "start": 47.54,
+          "end": 47.76,
+          "word": " she"
+        },
+        {
+          "start": 47.76,
+          "end": 47.96,
+          "word": " might"
+        },
+        {
+          "start": 47.96,
+          "end": 48.18,
+          "word": " like"
+        },
+        {
+          "start": 48.18,
+          "end": 48.3,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 48.3,
+      "end": 53.2,
+      "text": " But even then it's not really funny at all. Anne Hathaway is really overrated in my opinion",
+      "words": [
+        {
+          "start": 48.3,
+          "end": 48.46,
+          "word": " But"
+        },
+        {
+          "start": 48.46,
+          "end": 48.68,
+          "word": " even"
+        },
+        {
+          "start": 48.68,
+          "end": 48.92,
+          "word": " then"
+        },
+        {
+          "start": 48.92,
+          "end": 49.16,
+          "word": " it's"
+        },
+        {
+          "start": 49.16,
+          "end": 49.36,
+          "word": " not"
+        },
+        {
+          "start": 49.36,
+          "end": 49.62,
+          "word": " really"
+        },
+        {
+          "start": 49.62,
+          "end": 49.92,
+          "word": " funny"
+        },
+        {
+          "start": 49.92,
+          "end": 50.1,
+          "word": " at"
+        },
+        {
+          "start": 50.1,
+          "end": 50.58,
+          "word": " all."
+        },
+        {
+          "start": 50.58,
+          "end": 50.88,
+          "word": " Anne"
+        },
+        {
+          "start": 50.88,
+          "end": 51.36,
+          "word": " Hathaway"
+        },
+        {
+          "start": 51.36,
+          "end": 51.66,
+          "word": " is"
+        },
+        {
+          "start": 51.66,
+          "end": 51.92,
+          "word": " really"
+        },
+        {
+          "start": 51.92,
+          "end": 52.46,
+          "word": " overrated"
+        },
+        {
+          "start": 52.46,
+          "end": 52.62,
+          "word": " in"
+        },
+        {
+          "start": 52.62,
+          "end": 52.86,
+          "word": " my"
+        },
+        {
+          "start": 52.86,
+          "end": 53.2,
+          "word": " opinion"
+        }
+      ]
+    },
+    {
+      "start": 53.6,
+      "end": 57.64,
+      "text": " I mean her acting is like so-so and I can't believe she even won an Oscar",
+      "words": [
+        {
+          "start": 53.6,
+          "end": 54.0,
+          "word": " I"
+        },
+        {
+          "start": 54.0,
+          "end": 54.16,
+          "word": " mean"
+        },
+        {
+          "start": 54.16,
+          "end": 54.44,
+          "word": " her"
+        },
+        {
+          "start": 54.44,
+          "end": 54.76,
+          "word": " acting"
+        },
+        {
+          "start": 54.76,
+          "end": 54.96,
+          "word": " is"
+        },
+        {
+          "start": 54.96,
+          "end": 55.16,
+          "word": " like"
+        },
+        {
+          "start": 55.16,
+          "end": 55.62,
+          "word": " so"
+        },
+        {
+          "start": 55.62,
+          "end": 55.9,
+          "word": "-so"
+        },
+        {
+          "start": 55.9,
+          "end": 56.24,
+          "word": " and"
+        },
+        {
+          "start": 56.24,
+          "end": 56.38,
+          "word": " I"
+        },
+        {
+          "start": 56.38,
+          "end": 56.68,
+          "word": " can't"
+        },
+        {
+          "start": 56.68,
+          "end": 56.7,
+          "word": " believe"
+        },
+        {
+          "start": 56.7,
+          "end": 56.88,
+          "word": " she"
+        },
+        {
+          "start": 56.88,
+          "end": 57.06,
+          "word": " even"
+        },
+        {
+          "start": 57.06,
+          "end": 57.22,
+          "word": " won"
+        },
+        {
+          "start": 57.22,
+          "end": 57.4,
+          "word": " an"
+        },
+        {
+          "start": 57.4,
+          "end": 57.64,
+          "word": " Oscar"
+        }
+      ]
+    },
+    {
+      "start": 57.64,
+      "end": 62.06,
+      "text": " I believe she won an Oscar or for best supporting actress or best actress or something",
+      "words": [
+        {
+          "start": 57.64,
+          "end": 57.86,
+          "word": " I"
+        },
+        {
+          "start": 57.86,
+          "end": 58.2,
+          "word": " believe"
+        },
+        {
+          "start": 58.2,
+          "end": 58.4,
+          "word": " she"
+        },
+        {
+          "start": 58.4,
+          "end": 58.54,
+          "word": " won"
+        },
+        {
+          "start": 58.54,
+          "end": 59.02,
+          "word": " an"
+        },
+        {
+          "start": 59.02,
+          "end": 59.02,
+          "word": " Oscar"
+        },
+        {
+          "start": 59.02,
+          "end": 59.42,
+          "word": " or"
+        },
+        {
+          "start": 59.42,
+          "end": 59.76,
+          "word": " for"
+        },
+        {
+          "start": 59.76,
+          "end": 60.08,
+          "word": " best"
+        },
+        {
+          "start": 60.08,
+          "end": 60.52,
+          "word": " supporting"
+        },
+        {
+          "start": 60.52,
+          "end": 60.84,
+          "word": " actress"
+        },
+        {
+          "start": 60.84,
+          "end": 61.02,
+          "word": " or"
+        },
+        {
+          "start": 61.02,
+          "end": 61.2,
+          "word": " best"
+        },
+        {
+          "start": 61.2,
+          "end": 61.56,
+          "word": " actress"
+        },
+        {
+          "start": 61.56,
+          "end": 61.76,
+          "word": " or"
+        },
+        {
+          "start": 61.76,
+          "end": 62.06,
+          "word": " something"
+        }
+      ]
+    },
+    {
+      "start": 62.56,
+      "end": 67.76,
+      "text": " I mean that movie was a waste of time. It's two girls trying too hard, and it just really wasn't good",
+      "words": [
+        {
+          "start": 62.56,
+          "end": 62.96,
+          "word": " I"
+        },
+        {
+          "start": 62.96,
+          "end": 63.08,
+          "word": " mean"
+        },
+        {
+          "start": 63.08,
+          "end": 63.24,
+          "word": " that"
+        },
+        {
+          "start": 63.24,
+          "end": 63.42,
+          "word": " movie"
+        },
+        {
+          "start": 63.42,
+          "end": 63.62,
+          "word": " was"
+        },
+        {
+          "start": 63.62,
+          "end": 63.72,
+          "word": " a"
+        },
+        {
+          "start": 63.72,
+          "end": 63.86,
+          "word": " waste"
+        },
+        {
+          "start": 63.86,
+          "end": 64.02,
+          "word": " of"
+        },
+        {
+          "start": 64.02,
+          "end": 64.32,
+          "word": " time."
+        },
+        {
+          "start": 64.32,
+          "end": 64.66,
+          "word": " It's"
+        },
+        {
+          "start": 64.66,
+          "end": 64.8,
+          "word": " two"
+        },
+        {
+          "start": 64.8,
+          "end": 65.06,
+          "word": " girls"
+        },
+        {
+          "start": 65.06,
+          "end": 65.32,
+          "word": " trying"
+        },
+        {
+          "start": 65.32,
+          "end": 65.56,
+          "word": " too"
+        },
+        {
+          "start": 65.56,
+          "end": 65.84,
+          "word": " hard,"
+        },
+        {
+          "start": 65.84,
+          "end": 66.48,
+          "word": " and"
+        },
+        {
+          "start": 66.48,
+          "end": 66.56,
+          "word": " it"
+        },
+        {
+          "start": 66.56,
+          "end": 66.68,
+          "word": " just"
+        },
+        {
+          "start": 66.68,
+          "end": 67.08,
+          "word": " really"
+        },
+        {
+          "start": 67.08,
+          "end": 67.5,
+          "word": " wasn't"
+        },
+        {
+          "start": 67.5,
+          "end": 67.76,
+          "word": " good"
+        }
+      ]
+    },
+    {
+      "start": 67.76,
+      "end": 74.18,
+      "text": " I mean, that's my opinion. Check it out. You might think otherwise, but I'm just telling you what I think and",
+      "words": [
+        {
+          "start": 67.76,
+          "end": 68.14,
+          "word": " I"
+        },
+        {
+          "start": 68.14,
+          "end": 68.24,
+          "word": " mean,"
+        },
+        {
+          "start": 68.24,
+          "end": 68.44,
+          "word": " that's"
+        },
+        {
+          "start": 68.44,
+          "end": 68.62,
+          "word": " my"
+        },
+        {
+          "start": 68.62,
+          "end": 69.04,
+          "word": " opinion."
+        },
+        {
+          "start": 69.46,
+          "end": 69.86,
+          "word": " Check"
+        },
+        {
+          "start": 69.86,
+          "end": 70.0,
+          "word": " it"
+        },
+        {
+          "start": 70.0,
+          "end": 70.26,
+          "word": " out."
+        },
+        {
+          "start": 70.42,
+          "end": 70.82,
+          "word": " You"
+        },
+        {
+          "start": 70.82,
+          "end": 70.98,
+          "word": " might"
+        },
+        {
+          "start": 70.98,
+          "end": 71.2,
+          "word": " think"
+        },
+        {
+          "start": 71.2,
+          "end": 71.56,
+          "word": " otherwise,"
+        },
+        {
+          "start": 71.6,
+          "end": 72.28,
+          "word": " but"
+        },
+        {
+          "start": 72.28,
+          "end": 72.88,
+          "word": " I'm"
+        },
+        {
+          "start": 72.88,
+          "end": 73.0,
+          "word": " just"
+        },
+        {
+          "start": 73.0,
+          "end": 73.2,
+          "word": " telling"
+        },
+        {
+          "start": 73.2,
+          "end": 73.34,
+          "word": " you"
+        },
+        {
+          "start": 73.34,
+          "end": 73.44,
+          "word": " what"
+        },
+        {
+          "start": 73.44,
+          "end": 73.62,
+          "word": " I"
+        },
+        {
+          "start": 73.62,
+          "end": 73.98,
+          "word": " think"
+        },
+        {
+          "start": 73.98,
+          "end": 74.18,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 74.82,
+      "end": 76.26,
+      "text": " That's basically what I think",
+      "words": [
+        {
+          "start": 74.82,
+          "end": 75.22,
+          "word": " That's"
+        },
+        {
+          "start": 75.22,
+          "end": 75.54,
+          "word": " basically"
+        },
+        {
+          "start": 75.54,
+          "end": 75.74,
+          "word": " what"
+        },
+        {
+          "start": 75.74,
+          "end": 75.9,
+          "word": " I"
+        },
+        {
+          "start": 75.9,
+          "end": 76.26,
+          "word": " think"
+        }
+      ]
+    },
+    {
+      "start": 76.26,
+      "end": 79.2,
+      "text": " So if you want to know about any other movies, let me know",
+      "words": [
+        {
+          "start": 76.26,
+          "end": 77.06,
+          "word": " So"
+        },
+        {
+          "start": 77.06,
+          "end": 77.18,
+          "word": " if"
+        },
+        {
+          "start": 77.18,
+          "end": 77.28,
+          "word": " you"
+        },
+        {
+          "start": 77.28,
+          "end": 77.52,
+          "word": " want"
+        },
+        {
+          "start": 77.52,
+          "end": 77.66,
+          "word": " to"
+        },
+        {
+          "start": 77.66,
+          "end": 77.88,
+          "word": " know"
+        },
+        {
+          "start": 77.88,
+          "end": 78.08,
+          "word": " about"
+        },
+        {
+          "start": 78.08,
+          "end": 78.3,
+          "word": " any"
+        },
+        {
+          "start": 78.3,
+          "end": 78.5,
+          "word": " other"
+        },
+        {
+          "start": 78.5,
+          "end": 78.72,
+          "word": " movies,"
+        },
+        {
+          "start": 78.74,
+          "end": 78.9,
+          "word": " let"
+        },
+        {
+          "start": 78.9,
+          "end": 79.0,
+          "word": " me"
+        },
+        {
+          "start": 79.0,
+          "end": 79.2,
+          "word": " know"
+        }
+      ]
+    },
+    {
+      "start": 79.2,
+      "end": 83.96,
+      "text": " I'm taking calls for any movies if the movie you're curious about but you just don't know if you want to spend the money",
+      "words": [
+        {
+          "start": 79.2,
+          "end": 79.78,
+          "word": " I'm"
+        },
+        {
+          "start": 79.78,
+          "end": 79.94,
+          "word": " taking"
+        },
+        {
+          "start": 79.94,
+          "end": 80.24,
+          "word": " calls"
+        },
+        {
+          "start": 80.24,
+          "end": 80.42,
+          "word": " for"
+        },
+        {
+          "start": 80.42,
+          "end": 80.62,
+          "word": " any"
+        },
+        {
+          "start": 80.62,
+          "end": 80.98,
+          "word": " movies"
+        },
+        {
+          "start": 80.98,
+          "end": 81.2,
+          "word": " if"
+        },
+        {
+          "start": 81.2,
+          "end": 81.36,
+          "word": " the"
+        },
+        {
+          "start": 81.36,
+          "end": 81.66,
+          "word": " movie"
+        },
+        {
+          "start": 81.66,
+          "end": 81.92,
+          "word": " you're"
+        },
+        {
+          "start": 81.92,
+          "end": 82.14,
+          "word": " curious"
+        },
+        {
+          "start": 82.14,
+          "end": 82.38,
+          "word": " about"
+        },
+        {
+          "start": 82.38,
+          "end": 82.54,
+          "word": " but"
+        },
+        {
+          "start": 82.54,
+          "end": 82.64,
+          "word": " you"
+        },
+        {
+          "start": 82.64,
+          "end": 82.8,
+          "word": " just"
+        },
+        {
+          "start": 82.8,
+          "end": 82.96,
+          "word": " don't"
+        },
+        {
+          "start": 82.96,
+          "end": 83.12,
+          "word": " know"
+        },
+        {
+          "start": 83.12,
+          "end": 83.22,
+          "word": " if"
+        },
+        {
+          "start": 83.22,
+          "end": 83.26,
+          "word": " you"
+        },
+        {
+          "start": 83.26,
+          "end": 83.34,
+          "word": " want"
+        },
+        {
+          "start": 83.34,
+          "end": 83.42,
+          "word": " to"
+        },
+        {
+          "start": 83.42,
+          "end": 83.56,
+          "word": " spend"
+        },
+        {
+          "start": 83.56,
+          "end": 83.68,
+          "word": " the"
+        },
+        {
+          "start": 83.68,
+          "end": 83.96,
+          "word": " money"
+        }
+      ]
+    },
+    {
+      "start": 83.96,
+      "end": 88.52,
+      "text": " To go buy it ran and see it. Let me know and I'll do it. I'll watch it for you",
+      "words": [
+        {
+          "start": 83.96,
+          "end": 84.24,
+          "word": " To"
+        },
+        {
+          "start": 84.24,
+          "end": 84.34,
+          "word": " go"
+        },
+        {
+          "start": 84.34,
+          "end": 84.64,
+          "word": " buy"
+        },
+        {
+          "start": 84.64,
+          "end": 84.78,
+          "word": " it"
+        },
+        {
+          "start": 84.78,
+          "end": 84.98,
+          "word": " ran"
+        },
+        {
+          "start": 84.98,
+          "end": 85.14,
+          "word": " and"
+        },
+        {
+          "start": 85.14,
+          "end": 85.36,
+          "word": " see"
+        },
+        {
+          "start": 85.36,
+          "end": 85.76,
+          "word": " it."
+        },
+        {
+          "start": 85.82,
+          "end": 86.14,
+          "word": " Let"
+        },
+        {
+          "start": 86.14,
+          "end": 86.26,
+          "word": " me"
+        },
+        {
+          "start": 86.26,
+          "end": 86.42,
+          "word": " know"
+        },
+        {
+          "start": 86.42,
+          "end": 86.54,
+          "word": " and"
+        },
+        {
+          "start": 86.54,
+          "end": 86.7,
+          "word": " I'll"
+        },
+        {
+          "start": 86.7,
+          "end": 86.82,
+          "word": " do"
+        },
+        {
+          "start": 86.82,
+          "end": 87.1,
+          "word": " it."
+        },
+        {
+          "start": 87.46,
+          "end": 87.78,
+          "word": " I'll"
+        },
+        {
+          "start": 87.78,
+          "end": 87.94,
+          "word": " watch"
+        },
+        {
+          "start": 87.94,
+          "end": 88.1,
+          "word": " it"
+        },
+        {
+          "start": 88.1,
+          "end": 88.3,
+          "word": " for"
+        },
+        {
+          "start": 88.3,
+          "end": 88.52,
+          "word": " you"
+        }
+      ]
+    },
+    {
+      "start": 88.52,
+      "end": 92.02,
+      "text": " So until the next time let me know what's going on. Tell me what you think",
+      "words": [
+        {
+          "start": 88.52,
+          "end": 89.02,
+          "word": " So"
+        },
+        {
+          "start": 89.02,
+          "end": 89.26,
+          "word": " until"
+        },
+        {
+          "start": 89.26,
+          "end": 89.38,
+          "word": " the"
+        },
+        {
+          "start": 89.38,
+          "end": 89.58,
+          "word": " next"
+        },
+        {
+          "start": 89.58,
+          "end": 89.9,
+          "word": " time"
+        },
+        {
+          "start": 89.9,
+          "end": 90.42,
+          "word": " let"
+        },
+        {
+          "start": 90.42,
+          "end": 90.5,
+          "word": " me"
+        },
+        {
+          "start": 90.5,
+          "end": 90.64,
+          "word": " know"
+        },
+        {
+          "start": 90.64,
+          "end": 90.82,
+          "word": " what's"
+        },
+        {
+          "start": 90.82,
+          "end": 90.96,
+          "word": " going"
+        },
+        {
+          "start": 90.96,
+          "end": 91.22,
+          "word": " on."
+        },
+        {
+          "start": 91.28,
+          "end": 91.46,
+          "word": " Tell"
+        },
+        {
+          "start": 91.46,
+          "end": 91.56,
+          "word": " me"
+        },
+        {
+          "start": 91.56,
+          "end": 91.66,
+          "word": " what"
+        },
+        {
+          "start": 91.66,
+          "end": 91.76,
+          "word": " you"
+        },
+        {
+          "start": 91.76,
+          "end": 92.02,
+          "word": " think"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2931 @@
+{
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 1.4,
+      "text": " Hey, what's up?",
+      "words": [
+        {
+          "start": 0.66,
+          "end": 1.1,
+          "word": " Hey,"
+        },
+        {
+          "start": 1.16,
+          "end": 1.28,
+          "word": " what's"
+        },
+        {
+          "start": 1.28,
+          "end": 1.4,
+          "word": " up?"
+        }
+      ]
+    },
+    {
+      "start": 1.46,
+      "end": 5.32,
+      "text": " It's Jefferson Geek and it is time for another episode of At the Movies with the Geek.",
+      "words": [
+        {
+          "start": 1.46,
+          "end": 1.64,
+          "word": " It's"
+        },
+        {
+          "start": 1.64,
+          "end": 1.86,
+          "word": " Jefferson"
+        },
+        {
+          "start": 1.86,
+          "end": 2.14,
+          "word": " Geek"
+        },
+        {
+          "start": 2.14,
+          "end": 2.4,
+          "word": " and"
+        },
+        {
+          "start": 2.4,
+          "end": 2.56,
+          "word": " it"
+        },
+        {
+          "start": 2.56,
+          "end": 2.78,
+          "word": " is"
+        },
+        {
+          "start": 2.78,
+          "end": 3.02,
+          "word": " time"
+        },
+        {
+          "start": 3.02,
+          "end": 3.26,
+          "word": " for"
+        },
+        {
+          "start": 3.26,
+          "end": 3.58,
+          "word": " another"
+        },
+        {
+          "start": 3.58,
+          "end": 4.12,
+          "word": " episode"
+        },
+        {
+          "start": 4.12,
+          "end": 4.32,
+          "word": " of"
+        },
+        {
+          "start": 4.32,
+          "end": 4.46,
+          "word": " At"
+        },
+        {
+          "start": 4.46,
+          "end": 4.6,
+          "word": " the"
+        },
+        {
+          "start": 4.6,
+          "end": 4.74,
+          "word": " Movies"
+        },
+        {
+          "start": 4.74,
+          "end": 5.0,
+          "word": " with"
+        },
+        {
+          "start": 5.0,
+          "end": 5.16,
+          "word": " the"
+        },
+        {
+          "start": 5.16,
+          "end": 5.32,
+          "word": " Geek."
+        }
+      ]
+    },
+    {
+      "start": 5.8,
+      "end": 12.06,
+      "text": " This week we're going to look at the movie Clash of the Titans, which is a reboot I guess",
+      "words": [
+        {
+          "start": 5.8,
+          "end": 5.96,
+          "word": " This"
+        },
+        {
+          "start": 5.96,
+          "end": 6.14,
+          "word": " week"
+        },
+        {
+          "start": 6.14,
+          "end": 6.3,
+          "word": " we're"
+        },
+        {
+          "start": 6.3,
+          "end": 6.44,
+          "word": " going"
+        },
+        {
+          "start": 6.44,
+          "end": 6.66,
+          "word": " to"
+        },
+        {
+          "start": 6.66,
+          "end": 6.84,
+          "word": " look"
+        },
+        {
+          "start": 6.84,
+          "end": 7.16,
+          "word": " at"
+        },
+        {
+          "start": 7.16,
+          "end": 7.7,
+          "word": " the"
+        },
+        {
+          "start": 7.7,
+          "end": 8.7,
+          "word": " movie"
+        },
+        {
+          "start": 8.7,
+          "end": 9.04,
+          "word": " Clash"
+        },
+        {
+          "start": 9.04,
+          "end": 9.22,
+          "word": " of"
+        },
+        {
+          "start": 9.22,
+          "end": 9.36,
+          "word": " the"
+        },
+        {
+          "start": 9.36,
+          "end": 9.58,
+          "word": " Titans,"
+        },
+        {
+          "start": 9.92,
+          "end": 10.18,
+          "word": " which"
+        },
+        {
+          "start": 10.18,
+          "end": 10.7,
+          "word": " is"
+        },
+        {
+          "start": 10.7,
+          "end": 11.2,
+          "word": " a"
+        },
+        {
+          "start": 11.2,
+          "end": 11.68,
+          "word": " reboot"
+        },
+        {
+          "start": 11.68,
+          "end": 11.9,
+          "word": " I"
+        },
+        {
+          "start": 11.9,
+          "end": 12.06,
+          "word": " guess"
+        }
+      ]
+    },
+    {
+      "start": 12.06,
+      "end": 17.74,
+      "text": " would be the best term for the, I believe it was 1981 movie, Clash of the Titans.",
+      "words": [
+        {
+          "start": 12.06,
+          "end": 12.24,
+          "word": " would"
+        },
+        {
+          "start": 12.24,
+          "end": 12.34,
+          "word": " be"
+        },
+        {
+          "start": 12.34,
+          "end": 12.46,
+          "word": " the"
+        },
+        {
+          "start": 12.46,
+          "end": 12.64,
+          "word": " best"
+        },
+        {
+          "start": 12.64,
+          "end": 13.04,
+          "word": " term"
+        },
+        {
+          "start": 13.04,
+          "end": 14.0,
+          "word": " for"
+        },
+        {
+          "start": 14.0,
+          "end": 14.54,
+          "word": " the,"
+        },
+        {
+          "start": 14.54,
+          "end": 15.06,
+          "word": " I"
+        },
+        {
+          "start": 15.06,
+          "end": 15.22,
+          "word": " believe"
+        },
+        {
+          "start": 15.22,
+          "end": 15.32,
+          "word": " it"
+        },
+        {
+          "start": 15.32,
+          "end": 15.44,
+          "word": " was"
+        },
+        {
+          "start": 15.44,
+          "end": 16.0,
+          "word": " 1981"
+        },
+        {
+          "start": 16.0,
+          "end": 16.64,
+          "word": " movie,"
+        },
+        {
+          "start": 17.2,
+          "end": 17.26,
+          "word": " Clash"
+        },
+        {
+          "start": 17.26,
+          "end": 17.44,
+          "word": " of"
+        },
+        {
+          "start": 17.44,
+          "end": 17.5,
+          "word": " the"
+        },
+        {
+          "start": 17.5,
+          "end": 17.74,
+          "word": " Titans."
+        }
+      ]
+    },
+    {
+      "start": 19.88,
+      "end": 22.62,
+      "text": " Unfortunately, I'm going to have to say this movie was terrible.",
+      "words": [
+        {
+          "start": 19.88,
+          "end": 20.24,
+          "word": " Unfortunately,"
+        },
+        {
+          "start": 20.48,
+          "end": 20.7,
+          "word": " I'm"
+        },
+        {
+          "start": 20.7,
+          "end": 20.82,
+          "word": " going"
+        },
+        {
+          "start": 20.82,
+          "end": 20.98,
+          "word": " to"
+        },
+        {
+          "start": 20.98,
+          "end": 21.04,
+          "word": " have"
+        },
+        {
+          "start": 21.04,
+          "end": 21.16,
+          "word": " to"
+        },
+        {
+          "start": 21.16,
+          "end": 21.46,
+          "word": " say"
+        },
+        {
+          "start": 21.46,
+          "end": 21.8,
+          "word": " this"
+        },
+        {
+          "start": 21.8,
+          "end": 22.06,
+          "word": " movie"
+        },
+        {
+          "start": 22.06,
+          "end": 22.32,
+          "word": " was"
+        },
+        {
+          "start": 22.32,
+          "end": 22.62,
+          "word": " terrible."
+        }
+      ]
+    },
+    {
+      "start": 23.66,
+      "end": 25.54,
+      "text": " I was really looking forward to it.",
+      "words": [
+        {
+          "start": 23.66,
+          "end": 24.02,
+          "word": " I"
+        },
+        {
+          "start": 24.02,
+          "end": 24.18,
+          "word": " was"
+        },
+        {
+          "start": 24.18,
+          "end": 24.54,
+          "word": " really"
+        },
+        {
+          "start": 24.54,
+          "end": 24.82,
+          "word": " looking"
+        },
+        {
+          "start": 24.82,
+          "end": 25.08,
+          "word": " forward"
+        },
+        {
+          "start": 25.08,
+          "end": 25.38,
+          "word": " to"
+        },
+        {
+          "start": 25.38,
+          "end": 25.54,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 25.68,
+      "end": 29.34,
+      "text": " I was a little hesitant at first, you know, as you are with reboots, you know, is it",
+      "words": [
+        {
+          "start": 25.68,
+          "end": 25.82,
+          "word": " I"
+        },
+        {
+          "start": 25.82,
+          "end": 25.96,
+          "word": " was"
+        },
+        {
+          "start": 25.96,
+          "end": 26.08,
+          "word": " a"
+        },
+        {
+          "start": 26.08,
+          "end": 26.18,
+          "word": " little"
+        },
+        {
+          "start": 26.18,
+          "end": 26.5,
+          "word": " hesitant"
+        },
+        {
+          "start": 26.5,
+          "end": 26.8,
+          "word": " at"
+        },
+        {
+          "start": 26.8,
+          "end": 27.02,
+          "word": " first,"
+        },
+        {
+          "start": 27.18,
+          "end": 27.3,
+          "word": " you"
+        },
+        {
+          "start": 27.3,
+          "end": 27.38,
+          "word": " know,"
+        },
+        {
+          "start": 27.46,
+          "end": 27.52,
+          "word": " as"
+        },
+        {
+          "start": 27.52,
+          "end": 27.66,
+          "word": " you"
+        },
+        {
+          "start": 27.66,
+          "end": 27.8,
+          "word": " are"
+        },
+        {
+          "start": 27.8,
+          "end": 28.14,
+          "word": " with"
+        },
+        {
+          "start": 28.14,
+          "end": 28.82,
+          "word": " reboots,"
+        },
+        {
+          "start": 28.9,
+          "end": 28.98,
+          "word": " you"
+        },
+        {
+          "start": 28.98,
+          "end": 29.1,
+          "word": " know,"
+        },
+        {
+          "start": 29.16,
+          "end": 29.24,
+          "word": " is"
+        },
+        {
+          "start": 29.24,
+          "end": 29.34,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 29.34,
+      "end": 29.88,
+      "text": " going to be good?",
+      "words": [
+        {
+          "start": 29.34,
+          "end": 29.42,
+          "word": " going"
+        },
+        {
+          "start": 29.42,
+          "end": 29.52,
+          "word": " to"
+        },
+        {
+          "start": 29.52,
+          "end": 29.64,
+          "word": " be"
+        },
+        {
+          "start": 29.64,
+          "end": 29.88,
+          "word": " good?"
+        }
+      ]
+    },
+    {
+      "start": 29.88,
+      "end": 34.66,
+      "text": " But as the trailers came out, I really liked what I was seeing.",
+      "words": [
+        {
+          "start": 29.88,
+          "end": 30.38,
+          "word": " But"
+        },
+        {
+          "start": 30.38,
+          "end": 30.58,
+          "word": " as"
+        },
+        {
+          "start": 30.58,
+          "end": 30.76,
+          "word": " the"
+        },
+        {
+          "start": 30.76,
+          "end": 31.06,
+          "word": " trailers"
+        },
+        {
+          "start": 31.06,
+          "end": 31.36,
+          "word": " came"
+        },
+        {
+          "start": 31.36,
+          "end": 31.66,
+          "word": " out,"
+        },
+        {
+          "start": 32.0,
+          "end": 32.0,
+          "word": " I"
+        },
+        {
+          "start": 32.0,
+          "end": 33.16,
+          "word": " really"
+        },
+        {
+          "start": 33.16,
+          "end": 33.96,
+          "word": " liked"
+        },
+        {
+          "start": 33.96,
+          "end": 34.12,
+          "word": " what"
+        },
+        {
+          "start": 34.12,
+          "end": 34.24,
+          "word": " I"
+        },
+        {
+          "start": 34.24,
+          "end": 34.38,
+          "word": " was"
+        },
+        {
+          "start": 34.38,
+          "end": 34.66,
+          "word": " seeing."
+        }
+      ]
+    },
+    {
+      "start": 34.96,
+      "end": 38.68,
+      "text": " I think the music that kind of put with the soundtrack really got me excited about seeing",
+      "words": [
+        {
+          "start": 34.96,
+          "end": 35.0,
+          "word": " I"
+        },
+        {
+          "start": 35.0,
+          "end": 35.22,
+          "word": " think"
+        },
+        {
+          "start": 35.22,
+          "end": 35.48,
+          "word": " the"
+        },
+        {
+          "start": 35.48,
+          "end": 35.78,
+          "word": " music"
+        },
+        {
+          "start": 35.78,
+          "end": 35.96,
+          "word": " that"
+        },
+        {
+          "start": 35.96,
+          "end": 36.08,
+          "word": " kind"
+        },
+        {
+          "start": 36.08,
+          "end": 36.16,
+          "word": " of"
+        },
+        {
+          "start": 36.16,
+          "end": 36.28,
+          "word": " put"
+        },
+        {
+          "start": 36.28,
+          "end": 36.44,
+          "word": " with"
+        },
+        {
+          "start": 36.44,
+          "end": 36.5,
+          "word": " the"
+        },
+        {
+          "start": 36.5,
+          "end": 36.84,
+          "word": " soundtrack"
+        },
+        {
+          "start": 36.84,
+          "end": 37.62,
+          "word": " really"
+        },
+        {
+          "start": 37.62,
+          "end": 37.86,
+          "word": " got"
+        },
+        {
+          "start": 37.86,
+          "end": 38.02,
+          "word": " me"
+        },
+        {
+          "start": 38.02,
+          "end": 38.28,
+          "word": " excited"
+        },
+        {
+          "start": 38.28,
+          "end": 38.48,
+          "word": " about"
+        },
+        {
+          "start": 38.48,
+          "end": 38.68,
+          "word": " seeing"
+        }
+      ]
+    },
+    {
+      "start": 38.68,
+      "end": 40.76,
+      "text": " this movie and being a fan of the original.",
+      "words": [
+        {
+          "start": 38.68,
+          "end": 38.86,
+          "word": " this"
+        },
+        {
+          "start": 38.86,
+          "end": 39.06,
+          "word": " movie"
+        },
+        {
+          "start": 39.06,
+          "end": 39.34,
+          "word": " and"
+        },
+        {
+          "start": 39.34,
+          "end": 39.64,
+          "word": " being"
+        },
+        {
+          "start": 39.64,
+          "end": 39.84,
+          "word": " a"
+        },
+        {
+          "start": 39.84,
+          "end": 40.18,
+          "word": " fan"
+        },
+        {
+          "start": 40.18,
+          "end": 40.36,
+          "word": " of"
+        },
+        {
+          "start": 40.36,
+          "end": 40.48,
+          "word": " the"
+        },
+        {
+          "start": 40.48,
+          "end": 40.76,
+          "word": " original."
+        }
+      ]
+    },
+    {
+      "start": 41.12,
+      "end": 46.22,
+      "text": " I was looking forward to seeing it, but to me, someone needs to release the Kraken on",
+      "words": [
+        {
+          "start": 41.12,
+          "end": 41.12,
+          "word": " I"
+        },
+        {
+          "start": 41.12,
+          "end": 41.28,
+          "word": " was"
+        },
+        {
+          "start": 41.28,
+          "end": 41.68,
+          "word": " looking"
+        },
+        {
+          "start": 41.68,
+          "end": 41.96,
+          "word": " forward"
+        },
+        {
+          "start": 41.96,
+          "end": 42.14,
+          "word": " to"
+        },
+        {
+          "start": 42.14,
+          "end": 42.3,
+          "word": " seeing"
+        },
+        {
+          "start": 42.3,
+          "end": 42.5,
+          "word": " it,"
+        },
+        {
+          "start": 42.52,
+          "end": 42.76,
+          "word": " but"
+        },
+        {
+          "start": 42.76,
+          "end": 43.78,
+          "word": " to"
+        },
+        {
+          "start": 43.78,
+          "end": 44.12,
+          "word": " me,"
+        },
+        {
+          "start": 44.26,
+          "end": 44.7,
+          "word": " someone"
+        },
+        {
+          "start": 44.7,
+          "end": 44.9,
+          "word": " needs"
+        },
+        {
+          "start": 44.9,
+          "end": 45.1,
+          "word": " to"
+        },
+        {
+          "start": 45.1,
+          "end": 45.44,
+          "word": " release"
+        },
+        {
+          "start": 45.44,
+          "end": 45.66,
+          "word": " the"
+        },
+        {
+          "start": 45.66,
+          "end": 45.96,
+          "word": " Kraken"
+        },
+        {
+          "start": 45.96,
+          "end": 46.22,
+          "word": " on"
+        }
+      ]
+    },
+    {
+      "start": 46.22,
+      "end": 51.88,
+      "text": " this movie and just totally destroy it because I just felt like it was, it seemed like it",
+      "words": [
+        {
+          "start": 46.22,
+          "end": 46.42,
+          "word": " this"
+        },
+        {
+          "start": 46.42,
+          "end": 46.7,
+          "word": " movie"
+        },
+        {
+          "start": 46.7,
+          "end": 46.88,
+          "word": " and"
+        },
+        {
+          "start": 46.88,
+          "end": 47.02,
+          "word": " just"
+        },
+        {
+          "start": 47.02,
+          "end": 47.36,
+          "word": " totally"
+        },
+        {
+          "start": 47.36,
+          "end": 47.76,
+          "word": " destroy"
+        },
+        {
+          "start": 47.76,
+          "end": 47.98,
+          "word": " it"
+        },
+        {
+          "start": 47.98,
+          "end": 48.3,
+          "word": " because"
+        },
+        {
+          "start": 48.3,
+          "end": 49.4,
+          "word": " I"
+        },
+        {
+          "start": 49.4,
+          "end": 49.54,
+          "word": " just"
+        },
+        {
+          "start": 49.54,
+          "end": 49.78,
+          "word": " felt"
+        },
+        {
+          "start": 49.78,
+          "end": 50.14,
+          "word": " like"
+        },
+        {
+          "start": 50.14,
+          "end": 50.98,
+          "word": " it"
+        },
+        {
+          "start": 50.98,
+          "end": 51.18,
+          "word": " was,"
+        },
+        {
+          "start": 51.28,
+          "end": 51.44,
+          "word": " it"
+        },
+        {
+          "start": 51.44,
+          "end": 51.62,
+          "word": " seemed"
+        },
+        {
+          "start": 51.62,
+          "end": 51.76,
+          "word": " like"
+        },
+        {
+          "start": 51.76,
+          "end": 51.88,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 51.88,
+      "end": 52.88,
+      "text": " was a rushed movie.",
+      "words": [
+        {
+          "start": 51.88,
+          "end": 52.0,
+          "word": " was"
+        },
+        {
+          "start": 52.0,
+          "end": 52.16,
+          "word": " a"
+        },
+        {
+          "start": 52.16,
+          "end": 52.42,
+          "word": " rushed"
+        },
+        {
+          "start": 52.42,
+          "end": 52.88,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 53.36,
+      "end": 55.82,
+      "text": " It seemed like there was no story development in it.",
+      "words": [
+        {
+          "start": 53.36,
+          "end": 53.58,
+          "word": " It"
+        },
+        {
+          "start": 53.58,
+          "end": 53.72,
+          "word": " seemed"
+        },
+        {
+          "start": 53.72,
+          "end": 53.86,
+          "word": " like"
+        },
+        {
+          "start": 53.86,
+          "end": 54.0,
+          "word": " there"
+        },
+        {
+          "start": 54.0,
+          "end": 54.1,
+          "word": " was"
+        },
+        {
+          "start": 54.1,
+          "end": 54.28,
+          "word": " no"
+        },
+        {
+          "start": 54.28,
+          "end": 54.74,
+          "word": " story"
+        },
+        {
+          "start": 54.74,
+          "end": 55.1,
+          "word": " development"
+        },
+        {
+          "start": 55.1,
+          "end": 55.56,
+          "word": " in"
+        },
+        {
+          "start": 55.56,
+          "end": 55.82,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 57.24,
+      "end": 58.88,
+      "text": " I just really didn't have a good time.",
+      "words": [
+        {
+          "start": 57.24,
+          "end": 57.56,
+          "word": " I"
+        },
+        {
+          "start": 57.56,
+          "end": 57.72,
+          "word": " just"
+        },
+        {
+          "start": 57.72,
+          "end": 57.9,
+          "word": " really"
+        },
+        {
+          "start": 57.9,
+          "end": 58.06,
+          "word": " didn't"
+        },
+        {
+          "start": 58.06,
+          "end": 58.18,
+          "word": " have"
+        },
+        {
+          "start": 58.18,
+          "end": 58.26,
+          "word": " a"
+        },
+        {
+          "start": 58.26,
+          "end": 58.38,
+          "word": " good"
+        },
+        {
+          "start": 58.38,
+          "end": 58.88,
+          "word": " time."
+        }
+      ]
+    },
+    {
+      "start": 59.34,
+      "end": 62.3,
+      "text": " I felt like Medusa really wasn't that scary.",
+      "words": [
+        {
+          "start": 59.34,
+          "end": 59.78,
+          "word": " I"
+        },
+        {
+          "start": 59.78,
+          "end": 60.0,
+          "word": " felt"
+        },
+        {
+          "start": 60.0,
+          "end": 60.2,
+          "word": " like"
+        },
+        {
+          "start": 60.2,
+          "end": 60.66,
+          "word": " Medusa"
+        },
+        {
+          "start": 60.66,
+          "end": 61.22,
+          "word": " really"
+        },
+        {
+          "start": 61.22,
+          "end": 61.56,
+          "word": " wasn't"
+        },
+        {
+          "start": 61.56,
+          "end": 61.76,
+          "word": " that"
+        },
+        {
+          "start": 61.76,
+          "end": 62.3,
+          "word": " scary."
+        }
+      ]
+    },
+    {
+      "start": 62.78,
+      "end": 67.42,
+      "text": " Maybe it was because I was a kid back in the day, but Medusa was a lot scarier then.",
+      "words": [
+        {
+          "start": 62.78,
+          "end": 62.98,
+          "word": " Maybe"
+        },
+        {
+          "start": 62.98,
+          "end": 63.16,
+          "word": " it"
+        },
+        {
+          "start": 63.16,
+          "end": 63.22,
+          "word": " was"
+        },
+        {
+          "start": 63.22,
+          "end": 63.34,
+          "word": " because"
+        },
+        {
+          "start": 63.34,
+          "end": 63.46,
+          "word": " I"
+        },
+        {
+          "start": 63.46,
+          "end": 63.52,
+          "word": " was"
+        },
+        {
+          "start": 63.52,
+          "end": 63.66,
+          "word": " a"
+        },
+        {
+          "start": 63.66,
+          "end": 63.82,
+          "word": " kid"
+        },
+        {
+          "start": 63.82,
+          "end": 64.06,
+          "word": " back"
+        },
+        {
+          "start": 64.06,
+          "end": 64.24,
+          "word": " in"
+        },
+        {
+          "start": 64.24,
+          "end": 64.34,
+          "word": " the"
+        },
+        {
+          "start": 64.34,
+          "end": 64.6,
+          "word": " day,"
+        },
+        {
+          "start": 64.6,
+          "end": 65.02,
+          "word": " but"
+        },
+        {
+          "start": 65.02,
+          "end": 65.58,
+          "word": " Medusa"
+        },
+        {
+          "start": 65.58,
+          "end": 65.74,
+          "word": " was"
+        },
+        {
+          "start": 65.74,
+          "end": 65.86,
+          "word": " a"
+        },
+        {
+          "start": 65.86,
+          "end": 66.0,
+          "word": " lot"
+        },
+        {
+          "start": 66.0,
+          "end": 66.42,
+          "word": " scarier"
+        },
+        {
+          "start": 66.42,
+          "end": 67.42,
+          "word": " then."
+        }
+      ]
+    },
+    {
+      "start": 68.84,
+      "end": 74.14,
+      "text": " I just think they made her almost look too, you know, they tried to make her look too",
+      "words": [
+        {
+          "start": 68.84,
+          "end": 69.28,
+          "word": " I"
+        },
+        {
+          "start": 69.28,
+          "end": 69.42,
+          "word": " just"
+        },
+        {
+          "start": 69.42,
+          "end": 69.58,
+          "word": " think"
+        },
+        {
+          "start": 69.58,
+          "end": 69.72,
+          "word": " they"
+        },
+        {
+          "start": 69.72,
+          "end": 69.9,
+          "word": " made"
+        },
+        {
+          "start": 69.9,
+          "end": 70.16,
+          "word": " her"
+        },
+        {
+          "start": 70.16,
+          "end": 70.48,
+          "word": " almost"
+        },
+        {
+          "start": 70.48,
+          "end": 70.74,
+          "word": " look"
+        },
+        {
+          "start": 70.74,
+          "end": 71.34,
+          "word": " too,"
+        },
+        {
+          "start": 72.06,
+          "end": 72.06,
+          "word": " you"
+        },
+        {
+          "start": 72.06,
+          "end": 72.58,
+          "word": " know,"
+        },
+        {
+          "start": 72.64,
+          "end": 72.66,
+          "word": " they"
+        },
+        {
+          "start": 72.66,
+          "end": 72.8,
+          "word": " tried"
+        },
+        {
+          "start": 72.8,
+          "end": 73.0,
+          "word": " to"
+        },
+        {
+          "start": 73.0,
+          "end": 73.64,
+          "word": " make"
+        },
+        {
+          "start": 73.64,
+          "end": 73.8,
+          "word": " her"
+        },
+        {
+          "start": 73.8,
+          "end": 73.96,
+          "word": " look"
+        },
+        {
+          "start": 73.96,
+          "end": 74.14,
+          "word": " too"
+        }
+      ]
+    },
+    {
+      "start": 74.14,
+      "end": 74.54,
+      "text": " beautiful.",
+      "words": [
+        {
+          "start": 74.14,
+          "end": 74.54,
+          "word": " beautiful."
+        }
+      ]
+    },
+    {
+      "start": 76.34,
+      "end": 79.6,
+      "text": " But I just as a whole really did not like this movie.",
+      "words": [
+        {
+          "start": 76.34,
+          "end": 76.78,
+          "word": " But"
+        },
+        {
+          "start": 77.26,
+          "end": 77.7,
+          "word": " I"
+        },
+        {
+          "start": 77.7,
+          "end": 77.84,
+          "word": " just"
+        },
+        {
+          "start": 77.84,
+          "end": 78.12,
+          "word": " as"
+        },
+        {
+          "start": 78.12,
+          "end": 78.26,
+          "word": " a"
+        },
+        {
+          "start": 78.26,
+          "end": 78.4,
+          "word": " whole"
+        },
+        {
+          "start": 78.4,
+          "end": 78.64,
+          "word": " really"
+        },
+        {
+          "start": 78.64,
+          "end": 78.8,
+          "word": " did"
+        },
+        {
+          "start": 78.8,
+          "end": 78.96,
+          "word": " not"
+        },
+        {
+          "start": 78.96,
+          "end": 79.14,
+          "word": " like"
+        },
+        {
+          "start": 79.14,
+          "end": 79.3,
+          "word": " this"
+        },
+        {
+          "start": 79.3,
+          "end": 79.6,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 80.04,
+      "end": 85.34,
+      "text": " The screening I was at, I kind of found myself, you know, wanting to lay my head",
+      "words": [
+        {
+          "start": 80.04,
+          "end": 80.34,
+          "word": " The"
+        },
+        {
+          "start": 80.34,
+          "end": 80.62,
+          "word": " screening"
+        },
+        {
+          "start": 80.62,
+          "end": 80.86,
+          "word": " I"
+        },
+        {
+          "start": 80.86,
+          "end": 81.0,
+          "word": " was"
+        },
+        {
+          "start": 81.0,
+          "end": 81.22,
+          "word": " at,"
+        },
+        {
+          "start": 81.58,
+          "end": 81.76,
+          "word": " I"
+        },
+        {
+          "start": 81.76,
+          "end": 81.94,
+          "word": " kind"
+        },
+        {
+          "start": 81.94,
+          "end": 82.08,
+          "word": " of"
+        },
+        {
+          "start": 82.08,
+          "end": 82.54,
+          "word": " found"
+        },
+        {
+          "start": 82.54,
+          "end": 82.94,
+          "word": " myself,"
+        },
+        {
+          "start": 82.94,
+          "end": 83.34,
+          "word": " you"
+        },
+        {
+          "start": 83.34,
+          "end": 83.74,
+          "word": " know,"
+        },
+        {
+          "start": 84.1,
+          "end": 84.3,
+          "word": " wanting"
+        },
+        {
+          "start": 84.3,
+          "end": 84.62,
+          "word": " to"
+        },
+        {
+          "start": 84.62,
+          "end": 85.04,
+          "word": " lay"
+        },
+        {
+          "start": 85.04,
+          "end": 85.2,
+          "word": " my"
+        },
+        {
+          "start": 85.2,
+          "end": 85.34,
+          "word": " head"
+        }
+      ]
+    },
+    {
+      "start": 85.34,
+      "end": 89.62,
+      "text": " back and take a nap and actually the guy sitting next to me actually was taking a",
+      "words": [
+        {
+          "start": 85.34,
+          "end": 85.6,
+          "word": " back"
+        },
+        {
+          "start": 85.6,
+          "end": 85.94,
+          "word": " and"
+        },
+        {
+          "start": 85.94,
+          "end": 86.26,
+          "word": " take"
+        },
+        {
+          "start": 86.26,
+          "end": 86.42,
+          "word": " a"
+        },
+        {
+          "start": 86.42,
+          "end": 86.62,
+          "word": " nap"
+        },
+        {
+          "start": 86.62,
+          "end": 86.9,
+          "word": " and"
+        },
+        {
+          "start": 86.9,
+          "end": 87.44,
+          "word": " actually"
+        },
+        {
+          "start": 87.44,
+          "end": 87.6,
+          "word": " the"
+        },
+        {
+          "start": 87.6,
+          "end": 87.74,
+          "word": " guy"
+        },
+        {
+          "start": 87.74,
+          "end": 87.96,
+          "word": " sitting"
+        },
+        {
+          "start": 87.96,
+          "end": 88.2,
+          "word": " next"
+        },
+        {
+          "start": 88.2,
+          "end": 88.32,
+          "word": " to"
+        },
+        {
+          "start": 88.32,
+          "end": 88.44,
+          "word": " me"
+        },
+        {
+          "start": 88.44,
+          "end": 88.74,
+          "word": " actually"
+        },
+        {
+          "start": 88.74,
+          "end": 89.06,
+          "word": " was"
+        },
+        {
+          "start": 89.06,
+          "end": 89.4,
+          "word": " taking"
+        },
+        {
+          "start": 89.4,
+          "end": 89.62,
+          "word": " a"
+        }
+      ]
+    },
+    {
+      "start": 89.62,
+      "end": 89.88,
+      "text": " nap.",
+      "words": [
+        {
+          "start": 89.62,
+          "end": 89.88,
+          "word": " nap."
+        }
+      ]
+    },
+    {
+      "start": 90.3,
+      "end": 97.24,
+      "text": " He kept dozing off and after the movie, going out into the theater, into the lobby, I",
+      "words": [
+        {
+          "start": 90.3,
+          "end": 90.48,
+          "word": " He"
+        },
+        {
+          "start": 90.48,
+          "end": 90.78,
+          "word": " kept"
+        },
+        {
+          "start": 90.78,
+          "end": 91.14,
+          "word": " dozing"
+        },
+        {
+          "start": 91.14,
+          "end": 91.44,
+          "word": " off"
+        },
+        {
+          "start": 91.44,
+          "end": 92.22,
+          "word": " and"
+        },
+        {
+          "start": 92.22,
+          "end": 92.68,
+          "word": " after"
+        },
+        {
+          "start": 92.68,
+          "end": 92.9,
+          "word": " the"
+        },
+        {
+          "start": 92.9,
+          "end": 93.22,
+          "word": " movie,"
+        },
+        {
+          "start": 93.42,
+          "end": 94.1,
+          "word": " going"
+        },
+        {
+          "start": 94.1,
+          "end": 94.36,
+          "word": " out"
+        },
+        {
+          "start": 94.36,
+          "end": 94.62,
+          "word": " into"
+        },
+        {
+          "start": 94.62,
+          "end": 94.94,
+          "word": " the"
+        },
+        {
+          "start": 94.94,
+          "end": 95.46,
+          "word": " theater,"
+        },
+        {
+          "start": 95.7,
+          "end": 95.82,
+          "word": " into"
+        },
+        {
+          "start": 95.82,
+          "end": 95.98,
+          "word": " the"
+        },
+        {
+          "start": 95.98,
+          "end": 96.26,
+          "word": " lobby,"
+        },
+        {
+          "start": 96.86,
+          "end": 97.24,
+          "word": " I"
+        }
+      ]
+    },
+    {
+      "start": 97.24,
+      "end": 101.04,
+      "text": " had no one, I heard no one say anything good and my friends who were there had",
+      "words": [
+        {
+          "start": 97.24,
+          "end": 97.64,
+          "word": " had"
+        },
+        {
+          "start": 97.64,
+          "end": 97.96,
+          "word": " no"
+        },
+        {
+          "start": 97.96,
+          "end": 98.2,
+          "word": " one,"
+        },
+        {
+          "start": 98.22,
+          "end": 98.32,
+          "word": " I"
+        },
+        {
+          "start": 98.32,
+          "end": 98.46,
+          "word": " heard"
+        },
+        {
+          "start": 98.46,
+          "end": 98.66,
+          "word": " no"
+        },
+        {
+          "start": 98.66,
+          "end": 98.84,
+          "word": " one"
+        },
+        {
+          "start": 98.84,
+          "end": 99.08,
+          "word": " say"
+        },
+        {
+          "start": 99.08,
+          "end": 99.3,
+          "word": " anything"
+        },
+        {
+          "start": 99.3,
+          "end": 99.6,
+          "word": " good"
+        },
+        {
+          "start": 99.6,
+          "end": 99.78,
+          "word": " and"
+        },
+        {
+          "start": 99.78,
+          "end": 99.94,
+          "word": " my"
+        },
+        {
+          "start": 99.94,
+          "end": 100.18,
+          "word": " friends"
+        },
+        {
+          "start": 100.18,
+          "end": 100.4,
+          "word": " who"
+        },
+        {
+          "start": 100.4,
+          "end": 100.48,
+          "word": " were"
+        },
+        {
+          "start": 100.48,
+          "end": 100.76,
+          "word": " there"
+        },
+        {
+          "start": 100.76,
+          "end": 101.04,
+          "word": " had"
+        }
+      ]
+    },
+    {
+      "start": 101.04,
+      "end": 102.2,
+      "text": " nothing good to say about it.",
+      "words": [
+        {
+          "start": 101.04,
+          "end": 101.24,
+          "word": " nothing"
+        },
+        {
+          "start": 101.24,
+          "end": 101.48,
+          "word": " good"
+        },
+        {
+          "start": 101.48,
+          "end": 101.64,
+          "word": " to"
+        },
+        {
+          "start": 101.64,
+          "end": 101.8,
+          "word": " say"
+        },
+        {
+          "start": 101.8,
+          "end": 102.0,
+          "word": " about"
+        },
+        {
+          "start": 102.0,
+          "end": 102.2,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 102.56,
+      "end": 107.06,
+      "text": " So unfortunately, I'm going to say this one is probably going to be wait until it",
+      "words": [
+        {
+          "start": 102.56,
+          "end": 102.56,
+          "word": " So"
+        },
+        {
+          "start": 102.56,
+          "end": 103.58,
+          "word": " unfortunately,"
+        },
+        {
+          "start": 104.04,
+          "end": 104.16,
+          "word": " I'm"
+        },
+        {
+          "start": 104.16,
+          "end": 104.24,
+          "word": " going"
+        },
+        {
+          "start": 104.24,
+          "end": 104.24,
+          "word": " to"
+        },
+        {
+          "start": 104.24,
+          "end": 104.6,
+          "word": " say"
+        },
+        {
+          "start": 104.6,
+          "end": 104.84,
+          "word": " this"
+        },
+        {
+          "start": 104.84,
+          "end": 105.08,
+          "word": " one"
+        },
+        {
+          "start": 105.08,
+          "end": 105.32,
+          "word": " is"
+        },
+        {
+          "start": 105.32,
+          "end": 105.82,
+          "word": " probably"
+        },
+        {
+          "start": 105.82,
+          "end": 106.04,
+          "word": " going"
+        },
+        {
+          "start": 106.04,
+          "end": 106.14,
+          "word": " to"
+        },
+        {
+          "start": 106.14,
+          "end": 106.34,
+          "word": " be"
+        },
+        {
+          "start": 106.34,
+          "end": 106.64,
+          "word": " wait"
+        },
+        {
+          "start": 106.64,
+          "end": 106.92,
+          "word": " until"
+        },
+        {
+          "start": 106.92,
+          "end": 107.06,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 107.06,
+      "end": 112.38,
+      "text": " comes out on HBO or or get it at Red Box for a buck.",
+      "words": [
+        {
+          "start": 107.06,
+          "end": 107.2,
+          "word": " comes"
+        },
+        {
+          "start": 107.2,
+          "end": 107.4,
+          "word": " out"
+        },
+        {
+          "start": 107.4,
+          "end": 107.56,
+          "word": " on"
+        },
+        {
+          "start": 107.56,
+          "end": 107.88,
+          "word": " HBO"
+        },
+        {
+          "start": 107.88,
+          "end": 108.64,
+          "word": " or"
+        },
+        {
+          "start": 108.64,
+          "end": 109.08,
+          "word": " or"
+        },
+        {
+          "start": 109.08,
+          "end": 109.24,
+          "word": " get"
+        },
+        {
+          "start": 109.24,
+          "end": 109.48,
+          "word": " it"
+        },
+        {
+          "start": 109.48,
+          "end": 109.76,
+          "word": " at"
+        },
+        {
+          "start": 109.76,
+          "end": 111.54,
+          "word": " Red"
+        },
+        {
+          "start": 111.54,
+          "end": 111.78,
+          "word": " Box"
+        },
+        {
+          "start": 111.78,
+          "end": 112.04,
+          "word": " for"
+        },
+        {
+          "start": 112.04,
+          "end": 112.18,
+          "word": " a"
+        },
+        {
+          "start": 112.18,
+          "end": 112.38,
+          "word": " buck."
+        }
+      ]
+    },
+    {
+      "start": 113.0,
+      "end": 114.54,
+      "text": " I just really did not like it.",
+      "words": [
+        {
+          "start": 113.0,
+          "end": 113.4,
+          "word": " I"
+        },
+        {
+          "start": 113.4,
+          "end": 113.56,
+          "word": " just"
+        },
+        {
+          "start": 113.56,
+          "end": 113.76,
+          "word": " really"
+        },
+        {
+          "start": 113.76,
+          "end": 113.92,
+          "word": " did"
+        },
+        {
+          "start": 113.92,
+          "end": 114.08,
+          "word": " not"
+        },
+        {
+          "start": 114.08,
+          "end": 114.28,
+          "word": " like"
+        },
+        {
+          "start": 114.28,
+          "end": 114.54,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 115.76,
+      "end": 119.48,
+      "text": " But hey, if you're looking to spend some money, go check it out.",
+      "words": [
+        {
+          "start": 115.76,
+          "end": 116.06,
+          "word": " But"
+        },
+        {
+          "start": 116.06,
+          "end": 116.22,
+          "word": " hey,"
+        },
+        {
+          "start": 116.24,
+          "end": 116.5,
+          "word": " if"
+        },
+        {
+          "start": 116.5,
+          "end": 116.58,
+          "word": " you're"
+        },
+        {
+          "start": 116.58,
+          "end": 116.78,
+          "word": " looking"
+        },
+        {
+          "start": 116.78,
+          "end": 116.96,
+          "word": " to"
+        },
+        {
+          "start": 116.96,
+          "end": 117.1,
+          "word": " spend"
+        },
+        {
+          "start": 117.1,
+          "end": 117.3,
+          "word": " some"
+        },
+        {
+          "start": 117.3,
+          "end": 117.62,
+          "word": " money,"
+        },
+        {
+          "start": 118.86,
+          "end": 119.04,
+          "word": " go"
+        },
+        {
+          "start": 119.04,
+          "end": 119.24,
+          "word": " check"
+        },
+        {
+          "start": 119.24,
+          "end": 119.34,
+          "word": " it"
+        },
+        {
+          "start": 119.34,
+          "end": 119.48,
+          "word": " out."
+        }
+      ]
+    },
+    {
+      "start": 119.52,
+      "end": 120.34,
+      "text": " Maybe you will like it.",
+      "words": [
+        {
+          "start": 119.52,
+          "end": 119.64,
+          "word": " Maybe"
+        },
+        {
+          "start": 119.64,
+          "end": 119.84,
+          "word": " you"
+        },
+        {
+          "start": 119.84,
+          "end": 119.96,
+          "word": " will"
+        },
+        {
+          "start": 119.96,
+          "end": 120.14,
+          "word": " like"
+        },
+        {
+          "start": 120.14,
+          "end": 120.34,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 120.52,
+      "end": 124.28,
+      "text": " But from my review, I'm going to say I'm going to give it two thumbs down, release",
+      "words": [
+        {
+          "start": 120.52,
+          "end": 120.52,
+          "word": " But"
+        },
+        {
+          "start": 120.52,
+          "end": 121.32,
+          "word": " from"
+        },
+        {
+          "start": 121.32,
+          "end": 121.48,
+          "word": " my"
+        },
+        {
+          "start": 121.48,
+          "end": 121.72,
+          "word": " review,"
+        },
+        {
+          "start": 121.86,
+          "end": 121.92,
+          "word": " I'm"
+        },
+        {
+          "start": 121.92,
+          "end": 122.02,
+          "word": " going"
+        },
+        {
+          "start": 122.02,
+          "end": 122.14,
+          "word": " to"
+        },
+        {
+          "start": 122.14,
+          "end": 122.28,
+          "word": " say"
+        },
+        {
+          "start": 122.28,
+          "end": 122.48,
+          "word": " I'm"
+        },
+        {
+          "start": 122.48,
+          "end": 122.52,
+          "word": " going"
+        },
+        {
+          "start": 122.52,
+          "end": 122.58,
+          "word": " to"
+        },
+        {
+          "start": 122.58,
+          "end": 122.68,
+          "word": " give"
+        },
+        {
+          "start": 122.68,
+          "end": 122.8,
+          "word": " it"
+        },
+        {
+          "start": 122.8,
+          "end": 122.98,
+          "word": " two"
+        },
+        {
+          "start": 122.98,
+          "end": 123.38,
+          "word": " thumbs"
+        },
+        {
+          "start": 123.38,
+          "end": 123.86,
+          "word": " down,"
+        },
+        {
+          "start": 124.02,
+          "end": 124.28,
+          "word": " release"
+        }
+      ]
+    },
+    {
+      "start": 124.28,
+      "end": 125.58,
+      "text": " the Kraken on this movie.",
+      "words": [
+        {
+          "start": 124.28,
+          "end": 124.54,
+          "word": " the"
+        },
+        {
+          "start": 124.54,
+          "end": 124.84,
+          "word": " Kraken"
+        },
+        {
+          "start": 124.84,
+          "end": 125.06,
+          "word": " on"
+        },
+        {
+          "start": 125.06,
+          "end": 125.26,
+          "word": " this"
+        },
+        {
+          "start": 125.26,
+          "end": 125.58,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 126.3,
+      "end": 127.2,
+      "text": " Don't go see it.",
+      "words": [
+        {
+          "start": 126.3,
+          "end": 126.6,
+          "word": " Don't"
+        },
+        {
+          "start": 126.6,
+          "end": 126.78,
+          "word": " go"
+        },
+        {
+          "start": 126.78,
+          "end": 127.02,
+          "word": " see"
+        },
+        {
+          "start": 127.02,
+          "end": 127.2,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 128.08,
+      "end": 129.06,
+      "text": " Go see something else.",
+      "words": [
+        {
+          "start": 128.08,
+          "end": 128.32,
+          "word": " Go"
+        },
+        {
+          "start": 128.32,
+          "end": 128.46,
+          "word": " see"
+        },
+        {
+          "start": 128.46,
+          "end": 128.74,
+          "word": " something"
+        },
+        {
+          "start": 128.74,
+          "end": 129.06,
+          "word": " else."
+        }
+      ]
+    },
+    {
+      "start": 129.3,
+      "end": 130.48,
+      "text": " How to train and drag it.",
+      "words": [
+        {
+          "start": 129.3,
+          "end": 129.44,
+          "word": " How"
+        },
+        {
+          "start": 129.44,
+          "end": 129.56,
+          "word": " to"
+        },
+        {
+          "start": 129.56,
+          "end": 129.76,
+          "word": " train"
+        },
+        {
+          "start": 129.76,
+          "end": 129.9,
+          "word": " and"
+        },
+        {
+          "start": 129.9,
+          "end": 130.1,
+          "word": " drag"
+        },
+        {
+          "start": 130.1,
+          "end": 130.48,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 132.39,
+      "end": 133.55,
+      "text": " That's all I'm going to say about that.",
+      "words": [
+        {
+          "start": 132.39,
+          "end": 132.73,
+          "word": " That's"
+        },
+        {
+          "start": 132.73,
+          "end": 132.85,
+          "word": " all"
+        },
+        {
+          "start": 132.85,
+          "end": 132.95,
+          "word": " I'm"
+        },
+        {
+          "start": 132.95,
+          "end": 133.03,
+          "word": " going"
+        },
+        {
+          "start": 133.03,
+          "end": 133.03,
+          "word": " to"
+        },
+        {
+          "start": 133.03,
+          "end": 133.17,
+          "word": " say"
+        },
+        {
+          "start": 133.17,
+          "end": 133.31,
+          "word": " about"
+        },
+        {
+          "start": 133.31,
+          "end": 133.55,
+          "word": " that."
+        }
+      ]
+    },
+    {
+      "start": 133.89,
+      "end": 135.01,
+      "text": " So disappointment, definitely.",
+      "words": [
+        {
+          "start": 133.89,
+          "end": 133.89,
+          "word": " So"
+        },
+        {
+          "start": 133.89,
+          "end": 134.59,
+          "word": " disappointment,"
+        },
+        {
+          "start": 134.77,
+          "end": 135.01,
+          "word": " definitely."
+        }
+      ]
+    },
+    {
+      "start": 135.23,
+      "end": 137.19,
+      "text": " I did not want to give this movie a bad review.",
+      "words": [
+        {
+          "start": 135.23,
+          "end": 135.25,
+          "word": " I"
+        },
+        {
+          "start": 135.25,
+          "end": 135.39,
+          "word": " did"
+        },
+        {
+          "start": 135.39,
+          "end": 135.57,
+          "word": " not"
+        },
+        {
+          "start": 135.57,
+          "end": 135.71,
+          "word": " want"
+        },
+        {
+          "start": 135.71,
+          "end": 135.81,
+          "word": " to"
+        },
+        {
+          "start": 135.81,
+          "end": 135.91,
+          "word": " give"
+        },
+        {
+          "start": 135.91,
+          "end": 136.07,
+          "word": " this"
+        },
+        {
+          "start": 136.07,
+          "end": 136.27,
+          "word": " movie"
+        },
+        {
+          "start": 136.27,
+          "end": 136.59,
+          "word": " a"
+        },
+        {
+          "start": 136.59,
+          "end": 136.93,
+          "word": " bad"
+        },
+        {
+          "start": 136.93,
+          "end": 137.19,
+          "word": " review."
+        }
+      ]
+    },
+    {
+      "start": 137.41,
+      "end": 140.73,
+      "text": " I'm a fan of the original, you know, loved it.",
+      "words": [
+        {
+          "start": 137.41,
+          "end": 137.71,
+          "word": " I'm"
+        },
+        {
+          "start": 137.71,
+          "end": 137.81,
+          "word": " a"
+        },
+        {
+          "start": 137.81,
+          "end": 138.05,
+          "word": " fan"
+        },
+        {
+          "start": 138.05,
+          "end": 138.21,
+          "word": " of"
+        },
+        {
+          "start": 138.21,
+          "end": 138.37,
+          "word": " the"
+        },
+        {
+          "start": 138.37,
+          "end": 138.73,
+          "word": " original,"
+        },
+        {
+          "start": 139.41,
+          "end": 139.49,
+          "word": " you"
+        },
+        {
+          "start": 139.49,
+          "end": 139.65,
+          "word": " know,"
+        },
+        {
+          "start": 140.13,
+          "end": 140.45,
+          "word": " loved"
+        },
+        {
+          "start": 140.45,
+          "end": 140.73,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 141.57,
+      "end": 147.05,
+      "text": " And I got to do my duty and let you guys know it's a major suckfest.",
+      "words": [
+        {
+          "start": 141.57,
+          "end": 141.97,
+          "word": " And"
+        },
+        {
+          "start": 141.97,
+          "end": 142.37,
+          "word": " I"
+        },
+        {
+          "start": 142.37,
+          "end": 142.51,
+          "word": " got"
+        },
+        {
+          "start": 142.51,
+          "end": 143.07,
+          "word": " to"
+        },
+        {
+          "start": 143.07,
+          "end": 143.21,
+          "word": " do"
+        },
+        {
+          "start": 143.21,
+          "end": 143.37,
+          "word": " my"
+        },
+        {
+          "start": 143.37,
+          "end": 143.65,
+          "word": " duty"
+        },
+        {
+          "start": 143.65,
+          "end": 144.31,
+          "word": " and"
+        },
+        {
+          "start": 144.31,
+          "end": 144.65,
+          "word": " let"
+        },
+        {
+          "start": 144.65,
+          "end": 144.81,
+          "word": " you"
+        },
+        {
+          "start": 144.81,
+          "end": 144.99,
+          "word": " guys"
+        },
+        {
+          "start": 144.99,
+          "end": 145.25,
+          "word": " know"
+        },
+        {
+          "start": 145.25,
+          "end": 145.57,
+          "word": " it's"
+        },
+        {
+          "start": 145.57,
+          "end": 146.11,
+          "word": " a"
+        },
+        {
+          "start": 146.11,
+          "end": 146.49,
+          "word": " major"
+        },
+        {
+          "start": 146.49,
+          "end": 147.05,
+          "word": " suckfest."
+        }
+      ]
+    },
+    {
+      "start": 147.05,
+      "end": 152.87,
+      "text": " So we will talk to you later, hopefully with better news coming up here soon.",
+      "words": [
+        {
+          "start": 147.05,
+          "end": 147.63,
+          "word": " So"
+        },
+        {
+          "start": 147.63,
+          "end": 149.25,
+          "word": " we"
+        },
+        {
+          "start": 149.25,
+          "end": 149.41,
+          "word": " will"
+        },
+        {
+          "start": 149.41,
+          "end": 149.69,
+          "word": " talk"
+        },
+        {
+          "start": 149.69,
+          "end": 149.85,
+          "word": " to"
+        },
+        {
+          "start": 149.85,
+          "end": 149.99,
+          "word": " you"
+        },
+        {
+          "start": 149.99,
+          "end": 150.27,
+          "word": " later,"
+        },
+        {
+          "start": 150.27,
+          "end": 150.63,
+          "word": " hopefully"
+        },
+        {
+          "start": 150.63,
+          "end": 150.87,
+          "word": " with"
+        },
+        {
+          "start": 150.87,
+          "end": 151.09,
+          "word": " better"
+        },
+        {
+          "start": 151.09,
+          "end": 151.45,
+          "word": " news"
+        },
+        {
+          "start": 151.45,
+          "end": 152.25,
+          "word": " coming"
+        },
+        {
+          "start": 152.25,
+          "end": 152.45,
+          "word": " up"
+        },
+        {
+          "start": 152.45,
+          "end": 152.63,
+          "word": " here"
+        },
+        {
+          "start": 152.63,
+          "end": 152.87,
+          "word": " soon."
+        }
+      ]
+    },
+    {
+      "start": 152.91,
+      "end": 156.09,
+      "text": " I'm going to have a review for kick ass, heard good things about the screenings",
+      "words": [
+        {
+          "start": 152.91,
+          "end": 153.07,
+          "word": " I'm"
+        },
+        {
+          "start": 153.07,
+          "end": 153.07,
+          "word": " going"
+        },
+        {
+          "start": 153.07,
+          "end": 153.15,
+          "word": " to"
+        },
+        {
+          "start": 153.15,
+          "end": 153.27,
+          "word": " have"
+        },
+        {
+          "start": 153.27,
+          "end": 153.39,
+          "word": " a"
+        },
+        {
+          "start": 153.39,
+          "end": 153.65,
+          "word": " review"
+        },
+        {
+          "start": 153.65,
+          "end": 153.89,
+          "word": " for"
+        },
+        {
+          "start": 153.89,
+          "end": 154.07,
+          "word": " kick"
+        },
+        {
+          "start": 154.07,
+          "end": 154.43,
+          "word": " ass,"
+        },
+        {
+          "start": 154.57,
+          "end": 155.01,
+          "word": " heard"
+        },
+        {
+          "start": 155.01,
+          "end": 155.19,
+          "word": " good"
+        },
+        {
+          "start": 155.19,
+          "end": 155.37,
+          "word": " things"
+        },
+        {
+          "start": 155.37,
+          "end": 155.63,
+          "word": " about"
+        },
+        {
+          "start": 155.63,
+          "end": 155.79,
+          "word": " the"
+        },
+        {
+          "start": 155.79,
+          "end": 156.09,
+          "word": " screenings"
+        }
+      ]
+    },
+    {
+      "start": 156.09,
+      "end": 159.85,
+      "text": " on that and looking really forward to seeing that movie.",
+      "words": [
+        {
+          "start": 156.09,
+          "end": 156.37,
+          "word": " on"
+        },
+        {
+          "start": 156.37,
+          "end": 156.69,
+          "word": " that"
+        },
+        {
+          "start": 156.69,
+          "end": 157.31,
+          "word": " and"
+        },
+        {
+          "start": 157.31,
+          "end": 158.47,
+          "word": " looking"
+        },
+        {
+          "start": 158.47,
+          "end": 158.87,
+          "word": " really"
+        },
+        {
+          "start": 158.87,
+          "end": 159.17,
+          "word": " forward"
+        },
+        {
+          "start": 159.17,
+          "end": 159.33,
+          "word": " to"
+        },
+        {
+          "start": 159.33,
+          "end": 159.47,
+          "word": " seeing"
+        },
+        {
+          "start": 159.47,
+          "end": 159.63,
+          "word": " that"
+        },
+        {
+          "start": 159.63,
+          "end": 159.85,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 160.15,
+      "end": 164.75,
+      "text": " So hopefully I have a good review on that and maybe we'll see at the movie soon.",
+      "words": [
+        {
+          "start": 160.15,
+          "end": 160.23,
+          "word": " So"
+        },
+        {
+          "start": 160.23,
+          "end": 160.91,
+          "word": " hopefully"
+        },
+        {
+          "start": 160.91,
+          "end": 161.07,
+          "word": " I"
+        },
+        {
+          "start": 161.07,
+          "end": 161.17,
+          "word": " have"
+        },
+        {
+          "start": 161.17,
+          "end": 161.25,
+          "word": " a"
+        },
+        {
+          "start": 161.25,
+          "end": 161.37,
+          "word": " good"
+        },
+        {
+          "start": 161.37,
+          "end": 161.63,
+          "word": " review"
+        },
+        {
+          "start": 161.63,
+          "end": 161.83,
+          "word": " on"
+        },
+        {
+          "start": 161.83,
+          "end": 162.11,
+          "word": " that"
+        },
+        {
+          "start": 162.11,
+          "end": 162.73,
+          "word": " and"
+        },
+        {
+          "start": 162.73,
+          "end": 163.85,
+          "word": " maybe"
+        },
+        {
+          "start": 163.85,
+          "end": 164.05,
+          "word": " we'll"
+        },
+        {
+          "start": 164.05,
+          "end": 164.15,
+          "word": " see"
+        },
+        {
+          "start": 164.15,
+          "end": 164.25,
+          "word": " at"
+        },
+        {
+          "start": 164.25,
+          "end": 164.33,
+          "word": " the"
+        },
+        {
+          "start": 164.33,
+          "end": 164.45,
+          "word": " movie"
+        },
+        {
+          "start": 164.45,
+          "end": 164.75,
+          "word": " soon."
+        }
+      ]
+    }
+  ]
+}

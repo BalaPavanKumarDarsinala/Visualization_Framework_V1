@@ -1,0 +1,3365 @@
+{
+  "segments": [
+    {
+      "start": 7.12,
+      "end": 11.32,
+      "text": " Hi this is Gina, I'm gonna make this one pretty short and I apologize that I've been kind",
+      "words": [
+        {
+          "start": 7.12,
+          "end": 7.12,
+          "word": " Hi"
+        },
+        {
+          "start": 7.12,
+          "end": 7.3,
+          "word": " this"
+        },
+        {
+          "start": 7.3,
+          "end": 7.58,
+          "word": " is"
+        },
+        {
+          "start": 7.58,
+          "end": 7.76,
+          "word": " Gina,"
+        },
+        {
+          "start": 8.04,
+          "end": 8.18,
+          "word": " I'm"
+        },
+        {
+          "start": 8.18,
+          "end": 8.28,
+          "word": " gonna"
+        },
+        {
+          "start": 8.28,
+          "end": 8.52,
+          "word": " make"
+        },
+        {
+          "start": 8.52,
+          "end": 8.76,
+          "word": " this"
+        },
+        {
+          "start": 8.76,
+          "end": 9.02,
+          "word": " one"
+        },
+        {
+          "start": 9.02,
+          "end": 9.32,
+          "word": " pretty"
+        },
+        {
+          "start": 9.32,
+          "end": 9.66,
+          "word": " short"
+        },
+        {
+          "start": 9.66,
+          "end": 9.96,
+          "word": " and"
+        },
+        {
+          "start": 9.96,
+          "end": 10.1,
+          "word": " I"
+        },
+        {
+          "start": 10.1,
+          "end": 10.52,
+          "word": " apologize"
+        },
+        {
+          "start": 10.52,
+          "end": 10.86,
+          "word": " that"
+        },
+        {
+          "start": 10.86,
+          "end": 10.98,
+          "word": " I've"
+        },
+        {
+          "start": 10.98,
+          "end": 11.12,
+          "word": " been"
+        },
+        {
+          "start": 11.12,
+          "end": 11.32,
+          "word": " kind"
+        }
+      ]
+    },
+    {
+      "start": 11.32,
+      "end": 15.56,
+      "text": " of neglecting movie reviews lately because things have been really, really busy.",
+      "words": [
+        {
+          "start": 11.32,
+          "end": 11.5,
+          "word": " of"
+        },
+        {
+          "start": 11.5,
+          "end": 12.18,
+          "word": " neglecting"
+        },
+        {
+          "start": 12.18,
+          "end": 12.34,
+          "word": " movie"
+        },
+        {
+          "start": 12.34,
+          "end": 12.78,
+          "word": " reviews"
+        },
+        {
+          "start": 12.78,
+          "end": 13.02,
+          "word": " lately"
+        },
+        {
+          "start": 13.02,
+          "end": 13.46,
+          "word": " because"
+        },
+        {
+          "start": 13.46,
+          "end": 13.66,
+          "word": " things"
+        },
+        {
+          "start": 13.66,
+          "end": 13.86,
+          "word": " have"
+        },
+        {
+          "start": 13.86,
+          "end": 14.06,
+          "word": " been"
+        },
+        {
+          "start": 14.06,
+          "end": 14.68,
+          "word": " really,"
+        },
+        {
+          "start": 14.68,
+          "end": 15.16,
+          "word": " really"
+        },
+        {
+          "start": 15.16,
+          "end": 15.56,
+          "word": " busy."
+        }
+      ]
+    },
+    {
+      "start": 15.94,
+      "end": 17.66,
+      "text": " But I do want to tell you about Priest.",
+      "words": [
+        {
+          "start": 15.94,
+          "end": 16.04,
+          "word": " But"
+        },
+        {
+          "start": 16.04,
+          "end": 16.14,
+          "word": " I"
+        },
+        {
+          "start": 16.14,
+          "end": 16.28,
+          "word": " do"
+        },
+        {
+          "start": 16.28,
+          "end": 16.42,
+          "word": " want"
+        },
+        {
+          "start": 16.42,
+          "end": 16.54,
+          "word": " to"
+        },
+        {
+          "start": 16.54,
+          "end": 16.68,
+          "word": " tell"
+        },
+        {
+          "start": 16.68,
+          "end": 16.92,
+          "word": " you"
+        },
+        {
+          "start": 16.92,
+          "end": 17.32,
+          "word": " about"
+        },
+        {
+          "start": 17.32,
+          "end": 17.66,
+          "word": " Priest."
+        }
+      ]
+    },
+    {
+      "start": 18.2,
+      "end": 22.44,
+      "text": " Priest stars Paul Bettany, it's based on a graphic novel, and it is crazy.",
+      "words": [
+        {
+          "start": 18.2,
+          "end": 18.48,
+          "word": " Priest"
+        },
+        {
+          "start": 18.48,
+          "end": 18.88,
+          "word": " stars"
+        },
+        {
+          "start": 18.88,
+          "end": 19.2,
+          "word": " Paul"
+        },
+        {
+          "start": 19.2,
+          "end": 19.64,
+          "word": " Bettany,"
+        },
+        {
+          "start": 19.92,
+          "end": 20.06,
+          "word": " it's"
+        },
+        {
+          "start": 20.06,
+          "end": 20.2,
+          "word": " based"
+        },
+        {
+          "start": 20.2,
+          "end": 20.4,
+          "word": " on"
+        },
+        {
+          "start": 20.4,
+          "end": 20.58,
+          "word": " a"
+        },
+        {
+          "start": 20.58,
+          "end": 20.84,
+          "word": " graphic"
+        },
+        {
+          "start": 20.84,
+          "end": 21.18,
+          "word": " novel,"
+        },
+        {
+          "start": 21.48,
+          "end": 21.56,
+          "word": " and"
+        },
+        {
+          "start": 21.56,
+          "end": 21.7,
+          "word": " it"
+        },
+        {
+          "start": 21.7,
+          "end": 21.98,
+          "word": " is"
+        },
+        {
+          "start": 21.98,
+          "end": 22.44,
+          "word": " crazy."
+        }
+      ]
+    },
+    {
+      "start": 23.56,
+      "end": 28.24,
+      "text": " Basically priests are trained to kill vampires and they're super awesome.",
+      "words": [
+        {
+          "start": 23.56,
+          "end": 24.08,
+          "word": " Basically"
+        },
+        {
+          "start": 24.08,
+          "end": 24.6,
+          "word": " priests"
+        },
+        {
+          "start": 24.6,
+          "end": 25.12,
+          "word": " are"
+        },
+        {
+          "start": 25.12,
+          "end": 25.52,
+          "word": " trained"
+        },
+        {
+          "start": 25.52,
+          "end": 25.86,
+          "word": " to"
+        },
+        {
+          "start": 25.86,
+          "end": 26.08,
+          "word": " kill"
+        },
+        {
+          "start": 26.08,
+          "end": 26.6,
+          "word": " vampires"
+        },
+        {
+          "start": 26.6,
+          "end": 27.26,
+          "word": " and"
+        },
+        {
+          "start": 27.26,
+          "end": 27.58,
+          "word": " they're"
+        },
+        {
+          "start": 27.58,
+          "end": 27.8,
+          "word": " super"
+        },
+        {
+          "start": 27.8,
+          "end": 28.24,
+          "word": " awesome."
+        }
+      ]
+    },
+    {
+      "start": 28.42,
+      "end": 32.0,
+      "text": " They basically have superhuman abilities when it comes down to it.",
+      "words": [
+        {
+          "start": 28.42,
+          "end": 28.54,
+          "word": " They"
+        },
+        {
+          "start": 28.54,
+          "end": 29.0,
+          "word": " basically"
+        },
+        {
+          "start": 29.0,
+          "end": 29.38,
+          "word": " have"
+        },
+        {
+          "start": 29.38,
+          "end": 29.96,
+          "word": " superhuman"
+        },
+        {
+          "start": 29.96,
+          "end": 30.68,
+          "word": " abilities"
+        },
+        {
+          "start": 30.68,
+          "end": 30.98,
+          "word": " when"
+        },
+        {
+          "start": 30.98,
+          "end": 31.1,
+          "word": " it"
+        },
+        {
+          "start": 31.1,
+          "end": 31.28,
+          "word": " comes"
+        },
+        {
+          "start": 31.28,
+          "end": 31.56,
+          "word": " down"
+        },
+        {
+          "start": 31.56,
+          "end": 31.8,
+          "word": " to"
+        },
+        {
+          "start": 31.8,
+          "end": 32.0,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 32.38,
+      "end": 36.92,
+      "text": " If you are looking for a movie that has anything realistic in it, you should not",
+      "words": [
+        {
+          "start": 32.38,
+          "end": 32.58,
+          "word": " If"
+        },
+        {
+          "start": 32.58,
+          "end": 32.72,
+          "word": " you"
+        },
+        {
+          "start": 32.72,
+          "end": 32.82,
+          "word": " are"
+        },
+        {
+          "start": 32.82,
+          "end": 33.08,
+          "word": " looking"
+        },
+        {
+          "start": 33.08,
+          "end": 33.42,
+          "word": " for"
+        },
+        {
+          "start": 33.42,
+          "end": 33.56,
+          "word": " a"
+        },
+        {
+          "start": 33.56,
+          "end": 33.76,
+          "word": " movie"
+        },
+        {
+          "start": 33.76,
+          "end": 34.1,
+          "word": " that"
+        },
+        {
+          "start": 34.1,
+          "end": 34.5,
+          "word": " has"
+        },
+        {
+          "start": 34.5,
+          "end": 35.16,
+          "word": " anything"
+        },
+        {
+          "start": 35.16,
+          "end": 35.6,
+          "word": " realistic"
+        },
+        {
+          "start": 35.6,
+          "end": 35.94,
+          "word": " in"
+        },
+        {
+          "start": 35.94,
+          "end": 36.2,
+          "word": " it,"
+        },
+        {
+          "start": 36.38,
+          "end": 36.56,
+          "word": " you"
+        },
+        {
+          "start": 36.56,
+          "end": 36.72,
+          "word": " should"
+        },
+        {
+          "start": 36.72,
+          "end": 36.92,
+          "word": " not"
+        }
+      ]
+    },
+    {
+      "start": 36.92,
+      "end": 39.92,
+      "text": " be looking at this movie because it is insane.",
+      "words": [
+        {
+          "start": 36.92,
+          "end": 37.06,
+          "word": " be"
+        },
+        {
+          "start": 37.06,
+          "end": 37.26,
+          "word": " looking"
+        },
+        {
+          "start": 37.26,
+          "end": 37.48,
+          "word": " at"
+        },
+        {
+          "start": 37.48,
+          "end": 37.66,
+          "word": " this"
+        },
+        {
+          "start": 37.66,
+          "end": 37.96,
+          "word": " movie"
+        },
+        {
+          "start": 37.96,
+          "end": 38.5,
+          "word": " because"
+        },
+        {
+          "start": 38.5,
+          "end": 38.86,
+          "word": " it"
+        },
+        {
+          "start": 38.86,
+          "end": 39.32,
+          "word": " is"
+        },
+        {
+          "start": 39.32,
+          "end": 39.92,
+          "word": " insane."
+        }
+      ]
+    },
+    {
+      "start": 40.4,
+      "end": 47.66,
+      "text": " If you like explosions, really ridiculous action sequences, melodramatic plot and acting,",
+      "words": [
+        {
+          "start": 40.4,
+          "end": 40.52,
+          "word": " If"
+        },
+        {
+          "start": 40.52,
+          "end": 40.68,
+          "word": " you"
+        },
+        {
+          "start": 40.68,
+          "end": 40.94,
+          "word": " like"
+        },
+        {
+          "start": 40.94,
+          "end": 41.78,
+          "word": " explosions,"
+        },
+        {
+          "start": 42.38,
+          "end": 42.68,
+          "word": " really"
+        },
+        {
+          "start": 42.68,
+          "end": 43.34,
+          "word": " ridiculous"
+        },
+        {
+          "start": 43.34,
+          "end": 43.84,
+          "word": " action"
+        },
+        {
+          "start": 43.84,
+          "end": 44.56,
+          "word": " sequences,"
+        },
+        {
+          "start": 45.18,
+          "end": 45.94,
+          "word": " melodramatic"
+        },
+        {
+          "start": 45.94,
+          "end": 46.5,
+          "word": " plot"
+        },
+        {
+          "start": 46.5,
+          "end": 47.06,
+          "word": " and"
+        },
+        {
+          "start": 47.06,
+          "end": 47.66,
+          "word": " acting,"
+        }
+      ]
+    },
+    {
+      "start": 48.06,
+      "end": 50.04,
+      "text": " this is the right movie to see.",
+      "words": [
+        {
+          "start": 48.06,
+          "end": 48.34,
+          "word": " this"
+        },
+        {
+          "start": 48.34,
+          "end": 48.62,
+          "word": " is"
+        },
+        {
+          "start": 48.62,
+          "end": 49.0,
+          "word": " the"
+        },
+        {
+          "start": 49.0,
+          "end": 49.28,
+          "word": " right"
+        },
+        {
+          "start": 49.28,
+          "end": 49.54,
+          "word": " movie"
+        },
+        {
+          "start": 49.54,
+          "end": 49.8,
+          "word": " to"
+        },
+        {
+          "start": 49.8,
+          "end": 50.04,
+          "word": " see."
+        }
+      ]
+    },
+    {
+      "start": 50.22,
+      "end": 55.76,
+      "text": " The premise is that Paul Bettany's character is contacted about the kidnapping of a young",
+      "words": [
+        {
+          "start": 50.22,
+          "end": 50.38,
+          "word": " The"
+        },
+        {
+          "start": 50.38,
+          "end": 50.66,
+          "word": " premise"
+        },
+        {
+          "start": 50.66,
+          "end": 51.16,
+          "word": " is"
+        },
+        {
+          "start": 51.16,
+          "end": 51.52,
+          "word": " that"
+        },
+        {
+          "start": 51.52,
+          "end": 51.8,
+          "word": " Paul"
+        },
+        {
+          "start": 51.8,
+          "end": 52.38,
+          "word": " Bettany's"
+        },
+        {
+          "start": 52.38,
+          "end": 52.78,
+          "word": " character"
+        },
+        {
+          "start": 52.78,
+          "end": 53.54,
+          "word": " is"
+        },
+        {
+          "start": 53.54,
+          "end": 54.1,
+          "word": " contacted"
+        },
+        {
+          "start": 54.1,
+          "end": 54.56,
+          "word": " about"
+        },
+        {
+          "start": 54.56,
+          "end": 54.76,
+          "word": " the"
+        },
+        {
+          "start": 54.76,
+          "end": 55.14,
+          "word": " kidnapping"
+        },
+        {
+          "start": 55.14,
+          "end": 55.46,
+          "word": " of"
+        },
+        {
+          "start": 55.46,
+          "end": 55.56,
+          "word": " a"
+        },
+        {
+          "start": 55.56,
+          "end": 55.76,
+          "word": " young"
+        }
+      ]
+    },
+    {
+      "start": 55.76,
+      "end": 61.34,
+      "text": " girl from a wasteland community and he has a connection to this girl through family and",
+      "words": [
+        {
+          "start": 55.76,
+          "end": 56.02,
+          "word": " girl"
+        },
+        {
+          "start": 56.02,
+          "end": 56.28,
+          "word": " from"
+        },
+        {
+          "start": 56.28,
+          "end": 56.38,
+          "word": " a"
+        },
+        {
+          "start": 56.38,
+          "end": 56.76,
+          "word": " wasteland"
+        },
+        {
+          "start": 56.76,
+          "end": 57.2,
+          "word": " community"
+        },
+        {
+          "start": 57.2,
+          "end": 58.0,
+          "word": " and"
+        },
+        {
+          "start": 58.0,
+          "end": 58.16,
+          "word": " he"
+        },
+        {
+          "start": 58.16,
+          "end": 58.36,
+          "word": " has"
+        },
+        {
+          "start": 58.36,
+          "end": 58.56,
+          "word": " a"
+        },
+        {
+          "start": 58.56,
+          "end": 58.86,
+          "word": " connection"
+        },
+        {
+          "start": 58.86,
+          "end": 59.3,
+          "word": " to"
+        },
+        {
+          "start": 59.3,
+          "end": 59.52,
+          "word": " this"
+        },
+        {
+          "start": 59.52,
+          "end": 59.78,
+          "word": " girl"
+        },
+        {
+          "start": 59.78,
+          "end": 60.08,
+          "word": " through"
+        },
+        {
+          "start": 60.08,
+          "end": 60.46,
+          "word": " family"
+        },
+        {
+          "start": 60.46,
+          "end": 61.34,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 61.34,
+      "end": 65.54,
+      "text": " he wants to get her back because he knows she's been kidnapped by vampires even though",
+      "words": [
+        {
+          "start": 61.34,
+          "end": 61.62,
+          "word": " he"
+        },
+        {
+          "start": 61.62,
+          "end": 61.92,
+          "word": " wants"
+        },
+        {
+          "start": 61.92,
+          "end": 62.2,
+          "word": " to"
+        },
+        {
+          "start": 62.2,
+          "end": 62.36,
+          "word": " get"
+        },
+        {
+          "start": 62.36,
+          "end": 62.56,
+          "word": " her"
+        },
+        {
+          "start": 62.56,
+          "end": 62.78,
+          "word": " back"
+        },
+        {
+          "start": 62.78,
+          "end": 63.12,
+          "word": " because"
+        },
+        {
+          "start": 63.12,
+          "end": 63.26,
+          "word": " he"
+        },
+        {
+          "start": 63.26,
+          "end": 63.44,
+          "word": " knows"
+        },
+        {
+          "start": 63.44,
+          "end": 63.68,
+          "word": " she's"
+        },
+        {
+          "start": 63.68,
+          "end": 63.78,
+          "word": " been"
+        },
+        {
+          "start": 63.78,
+          "end": 64.04,
+          "word": " kidnapped"
+        },
+        {
+          "start": 64.04,
+          "end": 64.26,
+          "word": " by"
+        },
+        {
+          "start": 64.26,
+          "end": 64.8,
+          "word": " vampires"
+        },
+        {
+          "start": 64.8,
+          "end": 65.18,
+          "word": " even"
+        },
+        {
+          "start": 65.18,
+          "end": 65.54,
+          "word": " though"
+        }
+      ]
+    },
+    {
+      "start": 65.54,
+      "end": 70.94,
+      "text": " the church, who is like big brother within the cities, will not allow it and they are",
+      "words": [
+        {
+          "start": 65.54,
+          "end": 65.94,
+          "word": " the"
+        },
+        {
+          "start": 65.94,
+          "end": 66.36,
+          "word": " church,"
+        },
+        {
+          "start": 66.72,
+          "end": 66.76,
+          "word": " who"
+        },
+        {
+          "start": 66.76,
+          "end": 66.96,
+          "word": " is"
+        },
+        {
+          "start": 66.96,
+          "end": 67.18,
+          "word": " like"
+        },
+        {
+          "start": 67.18,
+          "end": 67.42,
+          "word": " big"
+        },
+        {
+          "start": 67.42,
+          "end": 67.74,
+          "word": " brother"
+        },
+        {
+          "start": 67.74,
+          "end": 68.12,
+          "word": " within"
+        },
+        {
+          "start": 68.12,
+          "end": 68.32,
+          "word": " the"
+        },
+        {
+          "start": 68.32,
+          "end": 68.66,
+          "word": " cities,"
+        },
+        {
+          "start": 69.06,
+          "end": 69.66,
+          "word": " will"
+        },
+        {
+          "start": 69.66,
+          "end": 70.04,
+          "word": " not"
+        },
+        {
+          "start": 70.04,
+          "end": 70.4,
+          "word": " allow"
+        },
+        {
+          "start": 70.4,
+          "end": 70.62,
+          "word": " it"
+        },
+        {
+          "start": 70.62,
+          "end": 70.76,
+          "word": " and"
+        },
+        {
+          "start": 70.76,
+          "end": 70.86,
+          "word": " they"
+        },
+        {
+          "start": 70.86,
+          "end": 70.94,
+          "word": " are"
+        }
+      ]
+    },
+    {
+      "start": 70.94,
+      "end": 72.9,
+      "text": " denying that vampires continue to exist.",
+      "words": [
+        {
+          "start": 70.94,
+          "end": 71.22,
+          "word": " denying"
+        },
+        {
+          "start": 71.22,
+          "end": 71.44,
+          "word": " that"
+        },
+        {
+          "start": 71.44,
+          "end": 71.84,
+          "word": " vampires"
+        },
+        {
+          "start": 71.84,
+          "end": 72.28,
+          "word": " continue"
+        },
+        {
+          "start": 72.28,
+          "end": 72.54,
+          "word": " to"
+        },
+        {
+          "start": 72.54,
+          "end": 72.9,
+          "word": " exist."
+        }
+      ]
+    },
+    {
+      "start": 73.36,
+      "end": 77.48,
+      "text": " So off he goes, breaks bonds with church, goes out in search of the girl.",
+      "words": [
+        {
+          "start": 73.36,
+          "end": 73.38,
+          "word": " So"
+        },
+        {
+          "start": 73.38,
+          "end": 73.98,
+          "word": " off"
+        },
+        {
+          "start": 73.98,
+          "end": 74.14,
+          "word": " he"
+        },
+        {
+          "start": 74.14,
+          "end": 74.42,
+          "word": " goes,"
+        },
+        {
+          "start": 74.58,
+          "end": 74.7,
+          "word": " breaks"
+        },
+        {
+          "start": 74.7,
+          "end": 75.0,
+          "word": " bonds"
+        },
+        {
+          "start": 75.0,
+          "end": 75.24,
+          "word": " with"
+        },
+        {
+          "start": 75.24,
+          "end": 75.5,
+          "word": " church,"
+        },
+        {
+          "start": 75.6,
+          "end": 75.92,
+          "word": " goes"
+        },
+        {
+          "start": 75.92,
+          "end": 76.2,
+          "word": " out"
+        },
+        {
+          "start": 76.2,
+          "end": 76.56,
+          "word": " in"
+        },
+        {
+          "start": 76.56,
+          "end": 76.72,
+          "word": " search"
+        },
+        {
+          "start": 76.72,
+          "end": 77.0,
+          "word": " of"
+        },
+        {
+          "start": 77.0,
+          "end": 77.2,
+          "word": " the"
+        },
+        {
+          "start": 77.2,
+          "end": 77.48,
+          "word": " girl."
+        }
+      ]
+    },
+    {
+      "start": 77.94,
+      "end": 83.2,
+      "text": " Maggie Q is a priest and she is sent out after him and she also has pretty sweet moves",
+      "words": [
+        {
+          "start": 77.94,
+          "end": 78.06,
+          "word": " Maggie"
+        },
+        {
+          "start": 78.06,
+          "end": 78.42,
+          "word": " Q"
+        },
+        {
+          "start": 78.42,
+          "end": 78.82,
+          "word": " is"
+        },
+        {
+          "start": 78.82,
+          "end": 78.94,
+          "word": " a"
+        },
+        {
+          "start": 78.94,
+          "end": 79.18,
+          "word": " priest"
+        },
+        {
+          "start": 79.18,
+          "end": 79.58,
+          "word": " and"
+        },
+        {
+          "start": 79.58,
+          "end": 79.76,
+          "word": " she"
+        },
+        {
+          "start": 79.76,
+          "end": 79.9,
+          "word": " is"
+        },
+        {
+          "start": 79.9,
+          "end": 80.08,
+          "word": " sent"
+        },
+        {
+          "start": 80.08,
+          "end": 80.32,
+          "word": " out"
+        },
+        {
+          "start": 80.32,
+          "end": 80.66,
+          "word": " after"
+        },
+        {
+          "start": 80.66,
+          "end": 80.92,
+          "word": " him"
+        },
+        {
+          "start": 80.92,
+          "end": 81.18,
+          "word": " and"
+        },
+        {
+          "start": 81.18,
+          "end": 81.4,
+          "word": " she"
+        },
+        {
+          "start": 81.4,
+          "end": 81.66,
+          "word": " also"
+        },
+        {
+          "start": 81.66,
+          "end": 82.04,
+          "word": " has"
+        },
+        {
+          "start": 82.04,
+          "end": 82.34,
+          "word": " pretty"
+        },
+        {
+          "start": 82.34,
+          "end": 82.68,
+          "word": " sweet"
+        },
+        {
+          "start": 82.68,
+          "end": 83.2,
+          "word": " moves"
+        }
+      ]
+    },
+    {
+      "start": 83.2,
+      "end": 84.64,
+      "text": " and is fun to watch.",
+      "words": [
+        {
+          "start": 83.2,
+          "end": 83.92,
+          "word": " and"
+        },
+        {
+          "start": 83.92,
+          "end": 84.08,
+          "word": " is"
+        },
+        {
+          "start": 84.08,
+          "end": 84.24,
+          "word": " fun"
+        },
+        {
+          "start": 84.24,
+          "end": 84.38,
+          "word": " to"
+        },
+        {
+          "start": 84.38,
+          "end": 84.64,
+          "word": " watch."
+        }
+      ]
+    },
+    {
+      "start": 84.82,
+      "end": 90.72,
+      "text": " Some really fun touches within the movie is that two vampires in other shows appear in",
+      "words": [
+        {
+          "start": 84.82,
+          "end": 84.98,
+          "word": " Some"
+        },
+        {
+          "start": 84.98,
+          "end": 85.26,
+          "word": " really"
+        },
+        {
+          "start": 85.26,
+          "end": 85.54,
+          "word": " fun"
+        },
+        {
+          "start": 85.54,
+          "end": 85.88,
+          "word": " touches"
+        },
+        {
+          "start": 85.88,
+          "end": 86.24,
+          "word": " within"
+        },
+        {
+          "start": 86.24,
+          "end": 86.38,
+          "word": " the"
+        },
+        {
+          "start": 86.38,
+          "end": 86.64,
+          "word": " movie"
+        },
+        {
+          "start": 86.64,
+          "end": 87.02,
+          "word": " is"
+        },
+        {
+          "start": 87.02,
+          "end": 87.26,
+          "word": " that"
+        },
+        {
+          "start": 87.26,
+          "end": 87.74,
+          "word": " two"
+        },
+        {
+          "start": 87.74,
+          "end": 88.4,
+          "word": " vampires"
+        },
+        {
+          "start": 88.4,
+          "end": 88.92,
+          "word": " in"
+        },
+        {
+          "start": 88.92,
+          "end": 89.26,
+          "word": " other"
+        },
+        {
+          "start": 89.26,
+          "end": 89.8,
+          "word": " shows"
+        },
+        {
+          "start": 89.8,
+          "end": 90.48,
+          "word": " appear"
+        },
+        {
+          "start": 90.48,
+          "end": 90.72,
+          "word": " in"
+        }
+      ]
+    },
+    {
+      "start": 90.72,
+      "end": 92.24,
+      "text": " this movie, not as vampires.",
+      "words": [
+        {
+          "start": 90.72,
+          "end": 90.86,
+          "word": " this"
+        },
+        {
+          "start": 90.86,
+          "end": 91.18,
+          "word": " movie,"
+        },
+        {
+          "start": 91.44,
+          "end": 91.58,
+          "word": " not"
+        },
+        {
+          "start": 91.58,
+          "end": 91.82,
+          "word": " as"
+        },
+        {
+          "start": 91.82,
+          "end": 92.24,
+          "word": " vampires."
+        }
+      ]
+    },
+    {
+      "start": 92.24,
+      "end": 96.94,
+      "text": " One of them is Stephen Moyer, whom you know as Vampire Bill from True Blood.",
+      "words": [
+        {
+          "start": 92.24,
+          "end": 92.58,
+          "word": " One"
+        },
+        {
+          "start": 92.58,
+          "end": 92.72,
+          "word": " of"
+        },
+        {
+          "start": 92.72,
+          "end": 92.9,
+          "word": " them"
+        },
+        {
+          "start": 92.9,
+          "end": 93.22,
+          "word": " is"
+        },
+        {
+          "start": 93.22,
+          "end": 93.62,
+          "word": " Stephen"
+        },
+        {
+          "start": 93.62,
+          "end": 94.08,
+          "word": " Moyer,"
+        },
+        {
+          "start": 94.22,
+          "end": 94.3,
+          "word": " whom"
+        },
+        {
+          "start": 94.3,
+          "end": 94.5,
+          "word": " you"
+        },
+        {
+          "start": 94.5,
+          "end": 94.7,
+          "word": " know"
+        },
+        {
+          "start": 94.7,
+          "end": 95.04,
+          "word": " as"
+        },
+        {
+          "start": 95.04,
+          "end": 95.8,
+          "word": " Vampire"
+        },
+        {
+          "start": 95.8,
+          "end": 96.14,
+          "word": " Bill"
+        },
+        {
+          "start": 96.14,
+          "end": 96.48,
+          "word": " from"
+        },
+        {
+          "start": 96.48,
+          "end": 96.74,
+          "word": " True"
+        },
+        {
+          "start": 96.74,
+          "end": 96.94,
+          "word": " Blood."
+        }
+      ]
+    },
+    {
+      "start": 97.18,
+      "end": 98.98,
+      "text": " He plays the father of the kidnapped girl.",
+      "words": [
+        {
+          "start": 97.18,
+          "end": 97.4,
+          "word": " He"
+        },
+        {
+          "start": 97.4,
+          "end": 97.58,
+          "word": " plays"
+        },
+        {
+          "start": 97.58,
+          "end": 97.76,
+          "word": " the"
+        },
+        {
+          "start": 97.76,
+          "end": 97.96,
+          "word": " father"
+        },
+        {
+          "start": 97.96,
+          "end": 98.16,
+          "word": " of"
+        },
+        {
+          "start": 98.16,
+          "end": 98.32,
+          "word": " the"
+        },
+        {
+          "start": 98.32,
+          "end": 98.54,
+          "word": " kidnapped"
+        },
+        {
+          "start": 98.54,
+          "end": 98.98,
+          "word": " girl."
+        }
+      ]
+    },
+    {
+      "start": 99.28,
+      "end": 103.68,
+      "text": " Young fellow that plays Sheriff Hicks was the vampire that kidnapped Bella in the",
+      "words": [
+        {
+          "start": 99.28,
+          "end": 99.42,
+          "word": " Young"
+        },
+        {
+          "start": 99.42,
+          "end": 99.66,
+          "word": " fellow"
+        },
+        {
+          "start": 99.66,
+          "end": 99.94,
+          "word": " that"
+        },
+        {
+          "start": 99.94,
+          "end": 100.2,
+          "word": " plays"
+        },
+        {
+          "start": 100.2,
+          "end": 100.56,
+          "word": " Sheriff"
+        },
+        {
+          "start": 100.56,
+          "end": 100.88,
+          "word": " Hicks"
+        },
+        {
+          "start": 100.88,
+          "end": 101.44,
+          "word": " was"
+        },
+        {
+          "start": 101.44,
+          "end": 101.8,
+          "word": " the"
+        },
+        {
+          "start": 101.8,
+          "end": 102.18,
+          "word": " vampire"
+        },
+        {
+          "start": 102.18,
+          "end": 102.5,
+          "word": " that"
+        },
+        {
+          "start": 102.5,
+          "end": 102.88,
+          "word": " kidnapped"
+        },
+        {
+          "start": 102.88,
+          "end": 103.28,
+          "word": " Bella"
+        },
+        {
+          "start": 103.28,
+          "end": 103.56,
+          "word": " in"
+        },
+        {
+          "start": 103.56,
+          "end": 103.68,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "start": 103.68,
+      "end": 109.24,
+      "text": " first Twilight movie and he is helping look for the kidnapped girl as well.",
+      "words": [
+        {
+          "start": 103.68,
+          "end": 103.98,
+          "word": " first"
+        },
+        {
+          "start": 103.98,
+          "end": 104.6,
+          "word": " Twilight"
+        },
+        {
+          "start": 104.6,
+          "end": 105.02,
+          "word": " movie"
+        },
+        {
+          "start": 105.02,
+          "end": 105.82,
+          "word": " and"
+        },
+        {
+          "start": 105.82,
+          "end": 106.12,
+          "word": " he"
+        },
+        {
+          "start": 106.12,
+          "end": 106.68,
+          "word": " is"
+        },
+        {
+          "start": 106.68,
+          "end": 107.52,
+          "word": " helping"
+        },
+        {
+          "start": 107.52,
+          "end": 107.88,
+          "word": " look"
+        },
+        {
+          "start": 107.88,
+          "end": 108.12,
+          "word": " for"
+        },
+        {
+          "start": 108.12,
+          "end": 108.26,
+          "word": " the"
+        },
+        {
+          "start": 108.26,
+          "end": 108.52,
+          "word": " kidnapped"
+        },
+        {
+          "start": 108.52,
+          "end": 108.82,
+          "word": " girl"
+        },
+        {
+          "start": 108.82,
+          "end": 109.0,
+          "word": " as"
+        },
+        {
+          "start": 109.0,
+          "end": 109.24,
+          "word": " well."
+        }
+      ]
+    },
+    {
+      "start": 109.42,
+      "end": 113.02,
+      "text": " There are also two Lord of the Rings grads, which I absolutely love.",
+      "words": [
+        {
+          "start": 109.42,
+          "end": 109.48,
+          "word": " There"
+        },
+        {
+          "start": 109.48,
+          "end": 109.62,
+          "word": " are"
+        },
+        {
+          "start": 109.62,
+          "end": 109.86,
+          "word": " also"
+        },
+        {
+          "start": 109.86,
+          "end": 110.14,
+          "word": " two"
+        },
+        {
+          "start": 110.14,
+          "end": 110.38,
+          "word": " Lord"
+        },
+        {
+          "start": 110.38,
+          "end": 110.5,
+          "word": " of"
+        },
+        {
+          "start": 110.5,
+          "end": 110.64,
+          "word": " the"
+        },
+        {
+          "start": 110.64,
+          "end": 110.9,
+          "word": " Rings"
+        },
+        {
+          "start": 110.9,
+          "end": 111.64,
+          "word": " grads,"
+        },
+        {
+          "start": 111.64,
+          "end": 111.8,
+          "word": " which"
+        },
+        {
+          "start": 111.8,
+          "end": 112.2,
+          "word": " I"
+        },
+        {
+          "start": 112.2,
+          "end": 112.6,
+          "word": " absolutely"
+        },
+        {
+          "start": 112.6,
+          "end": 113.02,
+          "word": " love."
+        }
+      ]
+    },
+    {
+      "start": 113.16,
+      "end": 117.6,
+      "text": " Anyone who knows me knows that Lord of the Rings trilogy is probably my favorite",
+      "words": [
+        {
+          "start": 113.16,
+          "end": 113.26,
+          "word": " Anyone"
+        },
+        {
+          "start": 113.26,
+          "end": 113.52,
+          "word": " who"
+        },
+        {
+          "start": 113.52,
+          "end": 113.68,
+          "word": " knows"
+        },
+        {
+          "start": 113.68,
+          "end": 113.88,
+          "word": " me"
+        },
+        {
+          "start": 113.88,
+          "end": 114.04,
+          "word": " knows"
+        },
+        {
+          "start": 114.04,
+          "end": 114.34,
+          "word": " that"
+        },
+        {
+          "start": 114.34,
+          "end": 114.54,
+          "word": " Lord"
+        },
+        {
+          "start": 114.54,
+          "end": 114.66,
+          "word": " of"
+        },
+        {
+          "start": 114.66,
+          "end": 114.76,
+          "word": " the"
+        },
+        {
+          "start": 114.76,
+          "end": 114.98,
+          "word": " Rings"
+        },
+        {
+          "start": 114.98,
+          "end": 115.3,
+          "word": " trilogy"
+        },
+        {
+          "start": 115.3,
+          "end": 115.92,
+          "word": " is"
+        },
+        {
+          "start": 115.92,
+          "end": 116.78,
+          "word": " probably"
+        },
+        {
+          "start": 116.78,
+          "end": 117.24,
+          "word": " my"
+        },
+        {
+          "start": 117.24,
+          "end": 117.6,
+          "word": " favorite"
+        }
+      ]
+    },
+    {
+      "start": 117.6,
+      "end": 121.6,
+      "text": " movie ever, if all three of them were put together.",
+      "words": [
+        {
+          "start": 117.6,
+          "end": 118.24,
+          "word": " movie"
+        },
+        {
+          "start": 118.24,
+          "end": 118.8,
+          "word": " ever,"
+        },
+        {
+          "start": 119.16,
+          "end": 119.46,
+          "word": " if"
+        },
+        {
+          "start": 119.46,
+          "end": 119.64,
+          "word": " all"
+        },
+        {
+          "start": 119.64,
+          "end": 119.86,
+          "word": " three"
+        },
+        {
+          "start": 119.86,
+          "end": 119.98,
+          "word": " of"
+        },
+        {
+          "start": 119.98,
+          "end": 120.2,
+          "word": " them"
+        },
+        {
+          "start": 120.2,
+          "end": 120.42,
+          "word": " were"
+        },
+        {
+          "start": 120.42,
+          "end": 120.84,
+          "word": " put"
+        },
+        {
+          "start": 120.84,
+          "end": 121.6,
+          "word": " together."
+        }
+      ]
+    },
+    {
+      "start": 122.42,
+      "end": 124.88,
+      "text": " Yeah, that's about how my favorite list goes.",
+      "words": [
+        {
+          "start": 122.42,
+          "end": 122.92,
+          "word": " Yeah,"
+        },
+        {
+          "start": 123.0,
+          "end": 123.28,
+          "word": " that's"
+        },
+        {
+          "start": 123.28,
+          "end": 123.52,
+          "word": " about"
+        },
+        {
+          "start": 123.52,
+          "end": 123.78,
+          "word": " how"
+        },
+        {
+          "start": 123.78,
+          "end": 124.0,
+          "word": " my"
+        },
+        {
+          "start": 124.0,
+          "end": 124.24,
+          "word": " favorite"
+        },
+        {
+          "start": 124.24,
+          "end": 124.54,
+          "word": " list"
+        },
+        {
+          "start": 124.54,
+          "end": 124.88,
+          "word": " goes."
+        }
+      ]
+    },
+    {
+      "start": 125.54,
+      "end": 128.36,
+      "text": " But Carl Urban plays Black Hat.",
+      "words": [
+        {
+          "start": 125.54,
+          "end": 125.8,
+          "word": " But"
+        },
+        {
+          "start": 125.8,
+          "end": 126.18,
+          "word": " Carl"
+        },
+        {
+          "start": 126.18,
+          "end": 126.64,
+          "word": " Urban"
+        },
+        {
+          "start": 126.64,
+          "end": 127.42,
+          "word": " plays"
+        },
+        {
+          "start": 127.42,
+          "end": 127.98,
+          "word": " Black"
+        },
+        {
+          "start": 127.98,
+          "end": 128.36,
+          "word": " Hat."
+        }
+      ]
+    },
+    {
+      "start": 129.04,
+      "end": 131.36,
+      "text": " Black Hat is a former priest.",
+      "words": [
+        {
+          "start": 129.04,
+          "end": 129.68,
+          "word": " Black"
+        },
+        {
+          "start": 129.68,
+          "end": 129.94,
+          "word": " Hat"
+        },
+        {
+          "start": 129.94,
+          "end": 130.32,
+          "word": " is"
+        },
+        {
+          "start": 130.32,
+          "end": 130.7,
+          "word": " a"
+        },
+        {
+          "start": 130.7,
+          "end": 131.04,
+          "word": " former"
+        },
+        {
+          "start": 131.04,
+          "end": 131.36,
+          "word": " priest."
+        }
+      ]
+    },
+    {
+      "start": 132.14,
+      "end": 135.9,
+      "text": " And Brad Dureff, who was worm tongue in the Lord of the Rings series,",
+      "words": [
+        {
+          "start": 132.14,
+          "end": 132.26,
+          "word": " And"
+        },
+        {
+          "start": 132.26,
+          "end": 132.66,
+          "word": " Brad"
+        },
+        {
+          "start": 132.66,
+          "end": 133.18,
+          "word": " Dureff,"
+        },
+        {
+          "start": 133.5,
+          "end": 133.54,
+          "word": " who"
+        },
+        {
+          "start": 133.54,
+          "end": 134.04,
+          "word": " was"
+        },
+        {
+          "start": 134.04,
+          "end": 134.44,
+          "word": " worm"
+        },
+        {
+          "start": 134.44,
+          "end": 134.72,
+          "word": " tongue"
+        },
+        {
+          "start": 134.72,
+          "end": 135.08,
+          "word": " in"
+        },
+        {
+          "start": 135.08,
+          "end": 135.18,
+          "word": " the"
+        },
+        {
+          "start": 135.18,
+          "end": 135.3,
+          "word": " Lord"
+        },
+        {
+          "start": 135.3,
+          "end": 135.4,
+          "word": " of"
+        },
+        {
+          "start": 135.4,
+          "end": 135.46,
+          "word": " the"
+        },
+        {
+          "start": 135.46,
+          "end": 135.58,
+          "word": " Rings"
+        },
+        {
+          "start": 135.58,
+          "end": 135.9,
+          "word": " series,"
+        }
+      ]
+    },
+    {
+      "start": 135.92,
+      "end": 141.98,
+      "text": " plays Salesman, which basically means he's worm tongue again in a different way.",
+      "words": [
+        {
+          "start": 135.92,
+          "end": 136.46,
+          "word": " plays"
+        },
+        {
+          "start": 136.46,
+          "end": 137.36,
+          "word": " Salesman,"
+        },
+        {
+          "start": 138.0,
+          "end": 138.3,
+          "word": " which"
+        },
+        {
+          "start": 138.3,
+          "end": 139.06,
+          "word": " basically"
+        },
+        {
+          "start": 139.06,
+          "end": 139.52,
+          "word": " means"
+        },
+        {
+          "start": 139.52,
+          "end": 139.98,
+          "word": " he's"
+        },
+        {
+          "start": 139.98,
+          "end": 140.36,
+          "word": " worm"
+        },
+        {
+          "start": 140.36,
+          "end": 140.64,
+          "word": " tongue"
+        },
+        {
+          "start": 140.64,
+          "end": 141.0,
+          "word": " again"
+        },
+        {
+          "start": 141.0,
+          "end": 141.36,
+          "word": " in"
+        },
+        {
+          "start": 141.36,
+          "end": 141.5,
+          "word": " a"
+        },
+        {
+          "start": 141.5,
+          "end": 141.72,
+          "word": " different"
+        },
+        {
+          "start": 141.72,
+          "end": 141.98,
+          "word": " way."
+        }
+      ]
+    },
+    {
+      "start": 142.16,
+      "end": 145.52,
+      "text": " Other notable mentions are Christopher Plummer plays the Monsignor,",
+      "words": [
+        {
+          "start": 142.16,
+          "end": 142.3,
+          "word": " Other"
+        },
+        {
+          "start": 142.3,
+          "end": 142.66,
+          "word": " notable"
+        },
+        {
+          "start": 142.66,
+          "end": 143.06,
+          "word": " mentions"
+        },
+        {
+          "start": 143.06,
+          "end": 143.52,
+          "word": " are"
+        },
+        {
+          "start": 143.52,
+          "end": 143.94,
+          "word": " Christopher"
+        },
+        {
+          "start": 143.94,
+          "end": 144.32,
+          "word": " Plummer"
+        },
+        {
+          "start": 144.32,
+          "end": 144.68,
+          "word": " plays"
+        },
+        {
+          "start": 144.68,
+          "end": 144.88,
+          "word": " the"
+        },
+        {
+          "start": 144.88,
+          "end": 145.52,
+          "word": " Monsignor,"
+        }
+      ]
+    },
+    {
+      "start": 145.52,
+      "end": 147.2,
+      "text": " who is like the head of the church.",
+      "words": [
+        {
+          "start": 145.52,
+          "end": 145.7,
+          "word": " who"
+        },
+        {
+          "start": 145.7,
+          "end": 145.82,
+          "word": " is"
+        },
+        {
+          "start": 145.82,
+          "end": 146.06,
+          "word": " like"
+        },
+        {
+          "start": 146.06,
+          "end": 146.32,
+          "word": " the"
+        },
+        {
+          "start": 146.32,
+          "end": 146.6,
+          "word": " head"
+        },
+        {
+          "start": 146.6,
+          "end": 146.76,
+          "word": " of"
+        },
+        {
+          "start": 146.76,
+          "end": 146.88,
+          "word": " the"
+        },
+        {
+          "start": 146.88,
+          "end": 147.2,
+          "word": " church."
+        }
+      ]
+    },
+    {
+      "start": 147.88,
+      "end": 150.84,
+      "text": " And Lily Collins plays Lucy, the kidnapped girl.",
+      "words": [
+        {
+          "start": 147.88,
+          "end": 147.96,
+          "word": " And"
+        },
+        {
+          "start": 147.96,
+          "end": 148.28,
+          "word": " Lily"
+        },
+        {
+          "start": 148.28,
+          "end": 148.78,
+          "word": " Collins"
+        },
+        {
+          "start": 148.78,
+          "end": 149.44,
+          "word": " plays"
+        },
+        {
+          "start": 149.44,
+          "end": 149.82,
+          "word": " Lucy,"
+        },
+        {
+          "start": 150.06,
+          "end": 150.16,
+          "word": " the"
+        },
+        {
+          "start": 150.16,
+          "end": 150.44,
+          "word": " kidnapped"
+        },
+        {
+          "start": 150.44,
+          "end": 150.84,
+          "word": " girl."
+        }
+      ]
+    },
+    {
+      "start": 151.16,
+      "end": 152.84,
+      "text": " And she is a really pretty girl.",
+      "words": [
+        {
+          "start": 151.16,
+          "end": 151.26,
+          "word": " And"
+        },
+        {
+          "start": 151.26,
+          "end": 151.7,
+          "word": " she"
+        },
+        {
+          "start": 151.7,
+          "end": 151.86,
+          "word": " is"
+        },
+        {
+          "start": 151.86,
+          "end": 152.0,
+          "word": " a"
+        },
+        {
+          "start": 152.0,
+          "end": 152.24,
+          "word": " really"
+        },
+        {
+          "start": 152.24,
+          "end": 152.52,
+          "word": " pretty"
+        },
+        {
+          "start": 152.52,
+          "end": 152.84,
+          "word": " girl."
+        }
+      ]
+    },
+    {
+      "start": 153.06,
+      "end": 155.78,
+      "text": " The last time you saw her was probably in the blind side.",
+      "words": [
+        {
+          "start": 153.06,
+          "end": 153.18,
+          "word": " The"
+        },
+        {
+          "start": 153.18,
+          "end": 153.32,
+          "word": " last"
+        },
+        {
+          "start": 153.32,
+          "end": 153.52,
+          "word": " time"
+        },
+        {
+          "start": 153.52,
+          "end": 153.68,
+          "word": " you"
+        },
+        {
+          "start": 153.68,
+          "end": 153.84,
+          "word": " saw"
+        },
+        {
+          "start": 153.84,
+          "end": 154.04,
+          "word": " her"
+        },
+        {
+          "start": 154.04,
+          "end": 154.28,
+          "word": " was"
+        },
+        {
+          "start": 154.28,
+          "end": 154.78,
+          "word": " probably"
+        },
+        {
+          "start": 154.78,
+          "end": 155.14,
+          "word": " in"
+        },
+        {
+          "start": 155.14,
+          "end": 155.26,
+          "word": " the"
+        },
+        {
+          "start": 155.26,
+          "end": 155.48,
+          "word": " blind"
+        },
+        {
+          "start": 155.48,
+          "end": 155.78,
+          "word": " side."
+        }
+      ]
+    },
+    {
+      "start": 155.96,
+      "end": 157.72,
+      "text": " This is one of my favorite types of movies.",
+      "words": [
+        {
+          "start": 155.96,
+          "end": 156.08,
+          "word": " This"
+        },
+        {
+          "start": 156.08,
+          "end": 156.2,
+          "word": " is"
+        },
+        {
+          "start": 156.2,
+          "end": 156.34,
+          "word": " one"
+        },
+        {
+          "start": 156.34,
+          "end": 156.42,
+          "word": " of"
+        },
+        {
+          "start": 156.42,
+          "end": 156.56,
+          "word": " my"
+        },
+        {
+          "start": 156.56,
+          "end": 156.82,
+          "word": " favorite"
+        },
+        {
+          "start": 156.82,
+          "end": 157.18,
+          "word": " types"
+        },
+        {
+          "start": 157.18,
+          "end": 157.42,
+          "word": " of"
+        },
+        {
+          "start": 157.42,
+          "end": 157.72,
+          "word": " movies."
+        }
+      ]
+    },
+    {
+      "start": 157.92,
+      "end": 165.44,
+      "text": " I really love the melodramatic, over-the-top, crazy action sort of thing going on.",
+      "words": [
+        {
+          "start": 157.92,
+          "end": 158.04,
+          "word": " I"
+        },
+        {
+          "start": 158.04,
+          "end": 158.52,
+          "word": " really"
+        },
+        {
+          "start": 158.52,
+          "end": 159.04,
+          "word": " love"
+        },
+        {
+          "start": 159.04,
+          "end": 159.38,
+          "word": " the"
+        },
+        {
+          "start": 159.38,
+          "end": 160.3,
+          "word": " melodramatic,"
+        },
+        {
+          "start": 160.4,
+          "end": 160.66,
+          "word": " over"
+        },
+        {
+          "start": 160.66,
+          "end": 160.82,
+          "word": "-the"
+        },
+        {
+          "start": 160.82,
+          "end": 161.08,
+          "word": "-top,"
+        },
+        {
+          "start": 161.4,
+          "end": 161.84,
+          "word": " crazy"
+        },
+        {
+          "start": 161.84,
+          "end": 163.06,
+          "word": " action"
+        },
+        {
+          "start": 163.06,
+          "end": 163.84,
+          "word": " sort"
+        },
+        {
+          "start": 163.84,
+          "end": 164.16,
+          "word": " of"
+        },
+        {
+          "start": 164.16,
+          "end": 164.74,
+          "word": " thing"
+        },
+        {
+          "start": 164.74,
+          "end": 165.02,
+          "word": " going"
+        },
+        {
+          "start": 165.02,
+          "end": 165.44,
+          "word": " on."
+        }
+      ]
+    },
+    {
+      "start": 165.64,
+      "end": 169.18,
+      "text": " There's a scene in a cave where they fight a giant monster that really",
+      "words": [
+        {
+          "start": 165.64,
+          "end": 165.86,
+          "word": " There's"
+        },
+        {
+          "start": 165.86,
+          "end": 166.0,
+          "word": " a"
+        },
+        {
+          "start": 166.0,
+          "end": 166.2,
+          "word": " scene"
+        },
+        {
+          "start": 166.2,
+          "end": 166.36,
+          "word": " in"
+        },
+        {
+          "start": 166.36,
+          "end": 166.5,
+          "word": " a"
+        },
+        {
+          "start": 166.5,
+          "end": 166.8,
+          "word": " cave"
+        },
+        {
+          "start": 166.8,
+          "end": 167.04,
+          "word": " where"
+        },
+        {
+          "start": 167.04,
+          "end": 167.18,
+          "word": " they"
+        },
+        {
+          "start": 167.18,
+          "end": 167.48,
+          "word": " fight"
+        },
+        {
+          "start": 167.48,
+          "end": 167.66,
+          "word": " a"
+        },
+        {
+          "start": 167.66,
+          "end": 167.96,
+          "word": " giant"
+        },
+        {
+          "start": 167.96,
+          "end": 168.56,
+          "word": " monster"
+        },
+        {
+          "start": 168.56,
+          "end": 168.78,
+          "word": " that"
+        },
+        {
+          "start": 168.78,
+          "end": 169.18,
+          "word": " really"
+        }
+      ]
+    },
+    {
+      "start": 169.18,
+      "end": 173.36,
+      "text": " reminds me of like some sort of Lord of the Rings, minds of Moria moment.",
+      "words": [
+        {
+          "start": 169.18,
+          "end": 169.6,
+          "word": " reminds"
+        },
+        {
+          "start": 169.6,
+          "end": 169.88,
+          "word": " me"
+        },
+        {
+          "start": 169.88,
+          "end": 170.04,
+          "word": " of"
+        },
+        {
+          "start": 170.04,
+          "end": 170.14,
+          "word": " like"
+        },
+        {
+          "start": 170.14,
+          "end": 170.32,
+          "word": " some"
+        },
+        {
+          "start": 170.32,
+          "end": 170.52,
+          "word": " sort"
+        },
+        {
+          "start": 170.52,
+          "end": 170.94,
+          "word": " of"
+        },
+        {
+          "start": 170.94,
+          "end": 171.26,
+          "word": " Lord"
+        },
+        {
+          "start": 171.26,
+          "end": 171.4,
+          "word": " of"
+        },
+        {
+          "start": 171.4,
+          "end": 171.54,
+          "word": " the"
+        },
+        {
+          "start": 171.54,
+          "end": 171.76,
+          "word": " Rings,"
+        },
+        {
+          "start": 171.92,
+          "end": 172.36,
+          "word": " minds"
+        },
+        {
+          "start": 172.36,
+          "end": 172.6,
+          "word": " of"
+        },
+        {
+          "start": 172.6,
+          "end": 173.08,
+          "word": " Moria"
+        },
+        {
+          "start": 173.08,
+          "end": 173.36,
+          "word": " moment."
+        }
+      ]
+    },
+    {
+      "start": 173.36,
+      "end": 177.36,
+      "text": " And there's a better on top of the train fight than the first Mission Impossible movie.",
+      "words": [
+        {
+          "start": 173.36,
+          "end": 173.98,
+          "word": " And"
+        },
+        {
+          "start": 173.98,
+          "end": 174.2,
+          "word": " there's"
+        },
+        {
+          "start": 174.2,
+          "end": 174.28,
+          "word": " a"
+        },
+        {
+          "start": 174.28,
+          "end": 174.48,
+          "word": " better"
+        },
+        {
+          "start": 174.48,
+          "end": 174.7,
+          "word": " on"
+        },
+        {
+          "start": 174.7,
+          "end": 174.9,
+          "word": " top"
+        },
+        {
+          "start": 174.9,
+          "end": 175.06,
+          "word": " of"
+        },
+        {
+          "start": 175.06,
+          "end": 175.18,
+          "word": " the"
+        },
+        {
+          "start": 175.18,
+          "end": 175.42,
+          "word": " train"
+        },
+        {
+          "start": 175.42,
+          "end": 175.72,
+          "word": " fight"
+        },
+        {
+          "start": 175.72,
+          "end": 175.96,
+          "word": " than"
+        },
+        {
+          "start": 175.96,
+          "end": 176.08,
+          "word": " the"
+        },
+        {
+          "start": 176.08,
+          "end": 176.28,
+          "word": " first"
+        },
+        {
+          "start": 176.28,
+          "end": 176.58,
+          "word": " Mission"
+        },
+        {
+          "start": 176.58,
+          "end": 176.94,
+          "word": " Impossible"
+        },
+        {
+          "start": 176.94,
+          "end": 177.36,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 177.96,
+      "end": 179.46,
+      "text": " So yes, I really enjoyed it.",
+      "words": [
+        {
+          "start": 177.96,
+          "end": 177.98,
+          "word": " So"
+        },
+        {
+          "start": 177.98,
+          "end": 178.18,
+          "word": " yes,"
+        },
+        {
+          "start": 178.38,
+          "end": 178.62,
+          "word": " I"
+        },
+        {
+          "start": 178.62,
+          "end": 178.88,
+          "word": " really"
+        },
+        {
+          "start": 178.88,
+          "end": 179.2,
+          "word": " enjoyed"
+        },
+        {
+          "start": 179.2,
+          "end": 179.46,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 179.62,
+      "end": 183.4,
+      "text": " I thought it was fun, and I enjoyed myself a lot at the movie.",
+      "words": [
+        {
+          "start": 179.62,
+          "end": 179.88,
+          "word": " I"
+        },
+        {
+          "start": 179.88,
+          "end": 180.08,
+          "word": " thought"
+        },
+        {
+          "start": 180.08,
+          "end": 180.2,
+          "word": " it"
+        },
+        {
+          "start": 180.2,
+          "end": 180.36,
+          "word": " was"
+        },
+        {
+          "start": 180.36,
+          "end": 180.82,
+          "word": " fun,"
+        },
+        {
+          "start": 181.18,
+          "end": 181.3,
+          "word": " and"
+        },
+        {
+          "start": 181.3,
+          "end": 181.46,
+          "word": " I"
+        },
+        {
+          "start": 181.46,
+          "end": 181.78,
+          "word": " enjoyed"
+        },
+        {
+          "start": 181.78,
+          "end": 182.14,
+          "word": " myself"
+        },
+        {
+          "start": 182.14,
+          "end": 182.34,
+          "word": " a"
+        },
+        {
+          "start": 182.34,
+          "end": 182.68,
+          "word": " lot"
+        },
+        {
+          "start": 182.68,
+          "end": 183.02,
+          "word": " at"
+        },
+        {
+          "start": 183.02,
+          "end": 183.14,
+          "word": " the"
+        },
+        {
+          "start": 183.14,
+          "end": 183.4,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 183.74,
+      "end": 186.24,
+      "text": " I laughed at quite a bit of the dialogue.",
+      "words": [
+        {
+          "start": 183.74,
+          "end": 183.98,
+          "word": " I"
+        },
+        {
+          "start": 183.98,
+          "end": 184.44,
+          "word": " laughed"
+        },
+        {
+          "start": 184.44,
+          "end": 184.94,
+          "word": " at"
+        },
+        {
+          "start": 184.94,
+          "end": 185.24,
+          "word": " quite"
+        },
+        {
+          "start": 185.24,
+          "end": 185.36,
+          "word": " a"
+        },
+        {
+          "start": 185.36,
+          "end": 185.46,
+          "word": " bit"
+        },
+        {
+          "start": 185.46,
+          "end": 185.58,
+          "word": " of"
+        },
+        {
+          "start": 185.58,
+          "end": 185.72,
+          "word": " the"
+        },
+        {
+          "start": 185.72,
+          "end": 186.24,
+          "word": " dialogue."
+        }
+      ]
+    },
+    {
+      "start": 186.98,
+      "end": 192.4,
+      "text": " And there actually was one scene that I found kind of moving, again, in a melodramatic way.",
+      "words": [
+        {
+          "start": 186.98,
+          "end": 187.2,
+          "word": " And"
+        },
+        {
+          "start": 187.2,
+          "end": 187.76,
+          "word": " there"
+        },
+        {
+          "start": 187.76,
+          "end": 188.1,
+          "word": " actually"
+        },
+        {
+          "start": 188.1,
+          "end": 188.42,
+          "word": " was"
+        },
+        {
+          "start": 188.42,
+          "end": 188.72,
+          "word": " one"
+        },
+        {
+          "start": 188.72,
+          "end": 189.08,
+          "word": " scene"
+        },
+        {
+          "start": 189.08,
+          "end": 189.32,
+          "word": " that"
+        },
+        {
+          "start": 189.32,
+          "end": 189.5,
+          "word": " I"
+        },
+        {
+          "start": 189.5,
+          "end": 189.82,
+          "word": " found"
+        },
+        {
+          "start": 189.82,
+          "end": 190.1,
+          "word": " kind"
+        },
+        {
+          "start": 190.1,
+          "end": 190.28,
+          "word": " of"
+        },
+        {
+          "start": 190.28,
+          "end": 190.64,
+          "word": " moving,"
+        },
+        {
+          "start": 191.28,
+          "end": 191.32,
+          "word": " again,"
+        },
+        {
+          "start": 191.46,
+          "end": 191.5,
+          "word": " in"
+        },
+        {
+          "start": 191.5,
+          "end": 191.64,
+          "word": " a"
+        },
+        {
+          "start": 191.64,
+          "end": 192.12,
+          "word": " melodramatic"
+        },
+        {
+          "start": 192.12,
+          "end": 192.4,
+          "word": " way."
+        }
+      ]
+    },
+    {
+      "start": 192.98,
+      "end": 196.78,
+      "text": " So yes, I recommend it because I like this type of movie.",
+      "words": [
+        {
+          "start": 192.98,
+          "end": 193.4,
+          "word": " So"
+        },
+        {
+          "start": 193.4,
+          "end": 193.9,
+          "word": " yes,"
+        },
+        {
+          "start": 194.18,
+          "end": 194.44,
+          "word": " I"
+        },
+        {
+          "start": 194.44,
+          "end": 194.8,
+          "word": " recommend"
+        },
+        {
+          "start": 194.8,
+          "end": 195.04,
+          "word": " it"
+        },
+        {
+          "start": 195.04,
+          "end": 195.36,
+          "word": " because"
+        },
+        {
+          "start": 195.36,
+          "end": 195.74,
+          "word": " I"
+        },
+        {
+          "start": 195.74,
+          "end": 195.94,
+          "word": " like"
+        },
+        {
+          "start": 195.94,
+          "end": 196.18,
+          "word": " this"
+        },
+        {
+          "start": 196.18,
+          "end": 196.36,
+          "word": " type"
+        },
+        {
+          "start": 196.36,
+          "end": 196.52,
+          "word": " of"
+        },
+        {
+          "start": 196.52,
+          "end": 196.78,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 197.1,
+      "end": 202.0,
+      "text": " If you already know that you can't have fun watching explosions and things like that,",
+      "words": [
+        {
+          "start": 197.1,
+          "end": 197.28,
+          "word": " If"
+        },
+        {
+          "start": 197.28,
+          "end": 197.44,
+          "word": " you"
+        },
+        {
+          "start": 197.44,
+          "end": 197.76,
+          "word": " already"
+        },
+        {
+          "start": 197.76,
+          "end": 198.08,
+          "word": " know"
+        },
+        {
+          "start": 198.08,
+          "end": 198.38,
+          "word": " that"
+        },
+        {
+          "start": 198.38,
+          "end": 198.56,
+          "word": " you"
+        },
+        {
+          "start": 198.56,
+          "end": 198.86,
+          "word": " can't"
+        },
+        {
+          "start": 198.86,
+          "end": 199.02,
+          "word": " have"
+        },
+        {
+          "start": 199.02,
+          "end": 199.26,
+          "word": " fun"
+        },
+        {
+          "start": 199.26,
+          "end": 199.74,
+          "word": " watching"
+        },
+        {
+          "start": 199.74,
+          "end": 200.4,
+          "word": " explosions"
+        },
+        {
+          "start": 200.4,
+          "end": 201.1,
+          "word": " and"
+        },
+        {
+          "start": 201.1,
+          "end": 201.4,
+          "word": " things"
+        },
+        {
+          "start": 201.4,
+          "end": 201.66,
+          "word": " like"
+        },
+        {
+          "start": 201.66,
+          "end": 202.0,
+          "word": " that,"
+        }
+      ]
+    },
+    {
+      "start": 202.0,
+      "end": 204.74,
+      "text": " then you should go watch a boring grown-up movie.",
+      "words": [
+        {
+          "start": 202.0,
+          "end": 202.5,
+          "word": " then"
+        },
+        {
+          "start": 202.5,
+          "end": 202.68,
+          "word": " you"
+        },
+        {
+          "start": 202.68,
+          "end": 202.82,
+          "word": " should"
+        },
+        {
+          "start": 202.82,
+          "end": 203.02,
+          "word": " go"
+        },
+        {
+          "start": 203.02,
+          "end": 203.28,
+          "word": " watch"
+        },
+        {
+          "start": 203.28,
+          "end": 203.6,
+          "word": " a"
+        },
+        {
+          "start": 203.6,
+          "end": 203.94,
+          "word": " boring"
+        },
+        {
+          "start": 203.94,
+          "end": 204.2,
+          "word": " grown"
+        },
+        {
+          "start": 204.2,
+          "end": 204.4,
+          "word": "-up"
+        },
+        {
+          "start": 204.4,
+          "end": 204.74,
+          "word": " movie."
+        }
+      ]
+    },
+    {
+      "start": 205.18,
+      "end": 205.8,
+      "text": " That is all.",
+      "words": [
+        {
+          "start": 205.18,
+          "end": 205.44,
+          "word": " That"
+        },
+        {
+          "start": 205.44,
+          "end": 205.56,
+          "word": " is"
+        },
+        {
+          "start": 205.56,
+          "end": 205.8,
+          "word": " all."
+        }
+      ]
+    },
+    {
+      "start": 206.28,
+      "end": 206.62,
+      "text": " Thank you.",
+      "words": [
+        {
+          "start": 206.28,
+          "end": 206.42,
+          "word": " Thank"
+        },
+        {
+          "start": 206.42,
+          "end": 206.62,
+          "word": " you."
+        }
+      ]
+    },
+    {
+      "start": 206.96,
+      "end": 207.32,
+      "text": " Bye.",
+      "words": [
+        {
+          "start": 206.96,
+          "end": 207.32,
+          "word": " Bye."
+        }
+      ]
+    },
+    {
+      "start": 232.0,
+      "end": 236.54,
+      "text": " Facebook.com slash haunted flower and Twitter at haunted underscore flower",
+      "words": [
+        {
+          "start": 232.0,
+          "end": 232.36,
+          "word": " Facebook"
+        },
+        {
+          "start": 232.36,
+          "end": 233.0,
+          "word": ".com"
+        },
+        {
+          "start": 233.0,
+          "end": 233.2,
+          "word": " slash"
+        },
+        {
+          "start": 233.2,
+          "end": 233.48,
+          "word": " haunted"
+        },
+        {
+          "start": 233.48,
+          "end": 233.76,
+          "word": " flower"
+        },
+        {
+          "start": 233.76,
+          "end": 234.22,
+          "word": " and"
+        },
+        {
+          "start": 234.22,
+          "end": 234.58,
+          "word": " Twitter"
+        },
+        {
+          "start": 234.58,
+          "end": 234.92,
+          "word": " at"
+        },
+        {
+          "start": 234.92,
+          "end": 235.42,
+          "word": " haunted"
+        },
+        {
+          "start": 235.42,
+          "end": 236.04,
+          "word": " underscore"
+        },
+        {
+          "start": 236.04,
+          "end": 236.54,
+          "word": " flower"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2263 @@
+{
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 7.9,
+      "text": " Good evening friends. This video is originally supposed to be Alfred Hitchcock's Psycho versus the Curious Case of Benjamin Button",
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.62,
+          "word": " Good"
+        },
+        {
+          "start": 0.62,
+          "end": 0.84,
+          "word": " evening"
+        },
+        {
+          "start": 0.84,
+          "end": 1.26,
+          "word": " friends."
+        },
+        {
+          "start": 2.18,
+          "end": 2.3,
+          "word": " This"
+        },
+        {
+          "start": 2.3,
+          "end": 2.58,
+          "word": " video"
+        },
+        {
+          "start": 2.58,
+          "end": 2.82,
+          "word": " is"
+        },
+        {
+          "start": 2.82,
+          "end": 3.08,
+          "word": " originally"
+        },
+        {
+          "start": 3.08,
+          "end": 3.36,
+          "word": " supposed"
+        },
+        {
+          "start": 3.36,
+          "end": 3.56,
+          "word": " to"
+        },
+        {
+          "start": 3.56,
+          "end": 4.02,
+          "word": " be"
+        },
+        {
+          "start": 4.02,
+          "end": 4.48,
+          "word": " Alfred"
+        },
+        {
+          "start": 4.48,
+          "end": 5.1,
+          "word": " Hitchcock's"
+        },
+        {
+          "start": 5.1,
+          "end": 5.4,
+          "word": " Psycho"
+        },
+        {
+          "start": 5.4,
+          "end": 5.96,
+          "word": " versus"
+        },
+        {
+          "start": 5.96,
+          "end": 6.74,
+          "word": " the"
+        },
+        {
+          "start": 6.74,
+          "end": 6.98,
+          "word": " Curious"
+        },
+        {
+          "start": 6.98,
+          "end": 7.18,
+          "word": " Case"
+        },
+        {
+          "start": 7.18,
+          "end": 7.36,
+          "word": " of"
+        },
+        {
+          "start": 7.36,
+          "end": 7.64,
+          "word": " Benjamin"
+        },
+        {
+          "start": 7.64,
+          "end": 7.9,
+          "word": " Button"
+        }
+      ]
+    },
+    {
+      "start": 8.86,
+      "end": 10.88,
+      "text": " But I decided to do away with that crap",
+      "words": [
+        {
+          "start": 8.86,
+          "end": 9.38,
+          "word": " But"
+        },
+        {
+          "start": 9.38,
+          "end": 9.52,
+          "word": " I"
+        },
+        {
+          "start": 9.52,
+          "end": 9.72,
+          "word": " decided"
+        },
+        {
+          "start": 9.72,
+          "end": 9.94,
+          "word": " to"
+        },
+        {
+          "start": 9.94,
+          "end": 10.08,
+          "word": " do"
+        },
+        {
+          "start": 10.08,
+          "end": 10.34,
+          "word": " away"
+        },
+        {
+          "start": 10.34,
+          "end": 10.48,
+          "word": " with"
+        },
+        {
+          "start": 10.48,
+          "end": 10.64,
+          "word": " that"
+        },
+        {
+          "start": 10.64,
+          "end": 10.88,
+          "word": " crap"
+        }
+      ]
+    },
+    {
+      "start": 10.88,
+      "end": 15.76,
+      "text": " So it's just gonna be a review of Benjamin Button and the Curious Case of Benjamin Button",
+      "words": [
+        {
+          "start": 10.88,
+          "end": 11.36,
+          "word": " So"
+        },
+        {
+          "start": 11.36,
+          "end": 11.68,
+          "word": " it's"
+        },
+        {
+          "start": 11.68,
+          "end": 11.86,
+          "word": " just"
+        },
+        {
+          "start": 11.86,
+          "end": 12.04,
+          "word": " gonna"
+        },
+        {
+          "start": 12.04,
+          "end": 12.18,
+          "word": " be"
+        },
+        {
+          "start": 12.18,
+          "end": 12.24,
+          "word": " a"
+        },
+        {
+          "start": 12.24,
+          "end": 12.46,
+          "word": " review"
+        },
+        {
+          "start": 12.46,
+          "end": 12.68,
+          "word": " of"
+        },
+        {
+          "start": 12.68,
+          "end": 12.98,
+          "word": " Benjamin"
+        },
+        {
+          "start": 12.98,
+          "end": 13.38,
+          "word": " Button"
+        },
+        {
+          "start": 13.38,
+          "end": 14.06,
+          "word": " and"
+        },
+        {
+          "start": 14.06,
+          "end": 14.42,
+          "word": " the"
+        },
+        {
+          "start": 14.42,
+          "end": 14.6,
+          "word": " Curious"
+        },
+        {
+          "start": 14.6,
+          "end": 14.86,
+          "word": " Case"
+        },
+        {
+          "start": 14.86,
+          "end": 15.08,
+          "word": " of"
+        },
+        {
+          "start": 15.08,
+          "end": 15.32,
+          "word": " Benjamin"
+        },
+        {
+          "start": 15.32,
+          "end": 15.76,
+          "word": " Button"
+        }
+      ]
+    },
+    {
+      "start": 15.8,
+      "end": 22.3,
+      "text": " What whatever the name is too long the Curious Case of Benjamin Button is a David Fincher film starring Brad Pitt as a man",
+      "words": [
+        {
+          "start": 15.8,
+          "end": 16.36,
+          "word": " What"
+        },
+        {
+          "start": 16.36,
+          "end": 16.9,
+          "word": " whatever"
+        },
+        {
+          "start": 16.9,
+          "end": 17.18,
+          "word": " the"
+        },
+        {
+          "start": 17.18,
+          "end": 17.36,
+          "word": " name"
+        },
+        {
+          "start": 17.36,
+          "end": 17.48,
+          "word": " is"
+        },
+        {
+          "start": 17.48,
+          "end": 17.62,
+          "word": " too"
+        },
+        {
+          "start": 17.62,
+          "end": 17.96,
+          "word": " long"
+        },
+        {
+          "start": 17.96,
+          "end": 18.22,
+          "word": " the"
+        },
+        {
+          "start": 18.22,
+          "end": 18.44,
+          "word": " Curious"
+        },
+        {
+          "start": 18.44,
+          "end": 18.7,
+          "word": " Case"
+        },
+        {
+          "start": 18.7,
+          "end": 18.9,
+          "word": " of"
+        },
+        {
+          "start": 18.9,
+          "end": 19.12,
+          "word": " Benjamin"
+        },
+        {
+          "start": 19.12,
+          "end": 19.38,
+          "word": " Button"
+        },
+        {
+          "start": 19.38,
+          "end": 19.6,
+          "word": " is"
+        },
+        {
+          "start": 19.6,
+          "end": 19.74,
+          "word": " a"
+        },
+        {
+          "start": 19.74,
+          "end": 19.98,
+          "word": " David"
+        },
+        {
+          "start": 19.98,
+          "end": 20.44,
+          "word": " Fincher"
+        },
+        {
+          "start": 20.44,
+          "end": 20.76,
+          "word": " film"
+        },
+        {
+          "start": 20.76,
+          "end": 21.14,
+          "word": " starring"
+        },
+        {
+          "start": 21.14,
+          "end": 21.5,
+          "word": " Brad"
+        },
+        {
+          "start": 21.5,
+          "end": 21.76,
+          "word": " Pitt"
+        },
+        {
+          "start": 21.76,
+          "end": 22.0,
+          "word": " as"
+        },
+        {
+          "start": 22.0,
+          "end": 22.1,
+          "word": " a"
+        },
+        {
+          "start": 22.1,
+          "end": 22.3,
+          "word": " man"
+        }
+      ]
+    },
+    {
+      "start": 22.3,
+      "end": 29.46,
+      "text": " Who was born old and grows progressively younger as he grows older. It's a very interesting idea and it",
+      "words": [
+        {
+          "start": 22.3,
+          "end": 22.46,
+          "word": " Who"
+        },
+        {
+          "start": 22.46,
+          "end": 22.6,
+          "word": " was"
+        },
+        {
+          "start": 22.6,
+          "end": 22.88,
+          "word": " born"
+        },
+        {
+          "start": 22.88,
+          "end": 23.24,
+          "word": " old"
+        },
+        {
+          "start": 23.24,
+          "end": 23.6,
+          "word": " and"
+        },
+        {
+          "start": 23.6,
+          "end": 24.08,
+          "word": " grows"
+        },
+        {
+          "start": 24.08,
+          "end": 24.72,
+          "word": " progressively"
+        },
+        {
+          "start": 24.72,
+          "end": 25.38,
+          "word": " younger"
+        },
+        {
+          "start": 25.38,
+          "end": 25.76,
+          "word": " as"
+        },
+        {
+          "start": 25.76,
+          "end": 25.96,
+          "word": " he"
+        },
+        {
+          "start": 25.96,
+          "end": 26.34,
+          "word": " grows"
+        },
+        {
+          "start": 26.34,
+          "end": 26.72,
+          "word": " older."
+        },
+        {
+          "start": 26.72,
+          "end": 27.18,
+          "word": " It's"
+        },
+        {
+          "start": 27.18,
+          "end": 27.22,
+          "word": " a"
+        },
+        {
+          "start": 27.22,
+          "end": 27.42,
+          "word": " very"
+        },
+        {
+          "start": 27.42,
+          "end": 27.9,
+          "word": " interesting"
+        },
+        {
+          "start": 27.9,
+          "end": 28.56,
+          "word": " idea"
+        },
+        {
+          "start": 28.56,
+          "end": 29.16,
+          "word": " and"
+        },
+        {
+          "start": 29.16,
+          "end": 29.46,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 29.46,
+      "end": 31.99,
+      "text": " There looked like it had a good core",
+      "words": [
+        {
+          "start": 29.46,
+          "end": 29.98,
+          "word": " There"
+        },
+        {
+          "start": 30.01,
+          "end": 30.63,
+          "word": " looked"
+        },
+        {
+          "start": 30.63,
+          "end": 30.85,
+          "word": " like"
+        },
+        {
+          "start": 30.85,
+          "end": 30.95,
+          "word": " it"
+        },
+        {
+          "start": 30.95,
+          "end": 31.11,
+          "word": " had"
+        },
+        {
+          "start": 31.11,
+          "end": 31.27,
+          "word": " a"
+        },
+        {
+          "start": 31.27,
+          "end": 31.47,
+          "word": " good"
+        },
+        {
+          "start": 31.47,
+          "end": 31.99,
+          "word": " core"
+        }
+      ]
+    },
+    {
+      "start": 33.21,
+      "end": 37.2,
+      "text": " But just too many problems with it",
+      "words": [
+        {
+          "start": 33.21,
+          "end": 33.69,
+          "word": " But"
+        },
+        {
+          "start": 35.06,
+          "end": 35.54,
+          "word": " just"
+        },
+        {
+          "start": 35.54,
+          "end": 36.08,
+          "word": " too"
+        },
+        {
+          "start": 36.08,
+          "end": 36.32,
+          "word": " many"
+        },
+        {
+          "start": 36.32,
+          "end": 36.78,
+          "word": " problems"
+        },
+        {
+          "start": 36.78,
+          "end": 37.02,
+          "word": " with"
+        },
+        {
+          "start": 37.02,
+          "end": 37.2,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 37.2,
+      "end": 43.86,
+      "text": " The first problem is that it's all told in flashback from a point just before Katrina hits New Orleans",
+      "words": [
+        {
+          "start": 37.2,
+          "end": 37.42,
+          "word": " The"
+        },
+        {
+          "start": 37.42,
+          "end": 37.6,
+          "word": " first"
+        },
+        {
+          "start": 37.6,
+          "end": 37.92,
+          "word": " problem"
+        },
+        {
+          "start": 37.92,
+          "end": 38.18,
+          "word": " is"
+        },
+        {
+          "start": 38.18,
+          "end": 38.4,
+          "word": " that"
+        },
+        {
+          "start": 38.4,
+          "end": 38.6,
+          "word": " it's"
+        },
+        {
+          "start": 38.6,
+          "end": 38.78,
+          "word": " all"
+        },
+        {
+          "start": 38.78,
+          "end": 39.02,
+          "word": " told"
+        },
+        {
+          "start": 39.02,
+          "end": 39.22,
+          "word": " in"
+        },
+        {
+          "start": 39.22,
+          "end": 39.68,
+          "word": " flashback"
+        },
+        {
+          "start": 39.68,
+          "end": 40.54,
+          "word": " from"
+        },
+        {
+          "start": 40.54,
+          "end": 40.72,
+          "word": " a"
+        },
+        {
+          "start": 40.72,
+          "end": 40.98,
+          "word": " point"
+        },
+        {
+          "start": 40.98,
+          "end": 41.66,
+          "word": " just"
+        },
+        {
+          "start": 41.66,
+          "end": 42.04,
+          "word": " before"
+        },
+        {
+          "start": 42.04,
+          "end": 42.42,
+          "word": " Katrina"
+        },
+        {
+          "start": 42.42,
+          "end": 42.9,
+          "word": " hits"
+        },
+        {
+          "start": 42.9,
+          "end": 43.56,
+          "word": " New"
+        },
+        {
+          "start": 43.56,
+          "end": 43.86,
+          "word": " Orleans"
+        }
+      ]
+    },
+    {
+      "start": 44.66,
+      "end": 48.12,
+      "text": " I didn't need any of that crap. I don't need it all told in flashback",
+      "words": [
+        {
+          "start": 44.66,
+          "end": 45.14,
+          "word": " I"
+        },
+        {
+          "start": 45.14,
+          "end": 45.28,
+          "word": " didn't"
+        },
+        {
+          "start": 45.28,
+          "end": 45.44,
+          "word": " need"
+        },
+        {
+          "start": 45.44,
+          "end": 45.64,
+          "word": " any"
+        },
+        {
+          "start": 45.64,
+          "end": 45.74,
+          "word": " of"
+        },
+        {
+          "start": 45.74,
+          "end": 45.92,
+          "word": " that"
+        },
+        {
+          "start": 45.92,
+          "end": 46.16,
+          "word": " crap."
+        },
+        {
+          "start": 46.3,
+          "end": 46.76,
+          "word": " I"
+        },
+        {
+          "start": 46.76,
+          "end": 46.88,
+          "word": " don't"
+        },
+        {
+          "start": 46.88,
+          "end": 47.06,
+          "word": " need"
+        },
+        {
+          "start": 47.06,
+          "end": 47.18,
+          "word": " it"
+        },
+        {
+          "start": 47.18,
+          "end": 47.38,
+          "word": " all"
+        },
+        {
+          "start": 47.38,
+          "end": 47.64,
+          "word": " told"
+        },
+        {
+          "start": 47.64,
+          "end": 47.78,
+          "word": " in"
+        },
+        {
+          "start": 47.78,
+          "end": 48.12,
+          "word": " flashback"
+        }
+      ]
+    },
+    {
+      "start": 48.12,
+      "end": 54.61,
+      "text": " I don't need the added element of Katrina. It doesn't it just it's too much crap in here",
+      "words": [
+        {
+          "start": 48.12,
+          "end": 48.36,
+          "word": " I"
+        },
+        {
+          "start": 48.36,
+          "end": 48.52,
+          "word": " don't"
+        },
+        {
+          "start": 48.52,
+          "end": 48.76,
+          "word": " need"
+        },
+        {
+          "start": 48.76,
+          "end": 49.0,
+          "word": " the"
+        },
+        {
+          "start": 49.0,
+          "end": 49.38,
+          "word": " added"
+        },
+        {
+          "start": 49.38,
+          "end": 49.8,
+          "word": " element"
+        },
+        {
+          "start": 49.8,
+          "end": 50.1,
+          "word": " of"
+        },
+        {
+          "start": 50.1,
+          "end": 50.52,
+          "word": " Katrina."
+        },
+        {
+          "start": 50.72,
+          "end": 51.2,
+          "word": " It"
+        },
+        {
+          "start": 51.2,
+          "end": 51.54,
+          "word": " doesn't"
+        },
+        {
+          "start": 51.54,
+          "end": 51.68,
+          "word": " it"
+        },
+        {
+          "start": 51.71,
+          "end": 52.71,
+          "word": " just"
+        },
+        {
+          "start": 52.71,
+          "end": 53.29,
+          "word": " it's"
+        },
+        {
+          "start": 53.29,
+          "end": 53.45,
+          "word": " too"
+        },
+        {
+          "start": 53.45,
+          "end": 53.67,
+          "word": " much"
+        },
+        {
+          "start": 53.67,
+          "end": 53.95,
+          "word": " crap"
+        },
+        {
+          "start": 53.95,
+          "end": 54.13,
+          "word": " in"
+        },
+        {
+          "start": 54.13,
+          "end": 54.61,
+          "word": " here"
+        }
+      ]
+    },
+    {
+      "start": 54.61,
+      "end": 59.67,
+      "text": " The movie's too long. You just need to cut that out. Another thing is we don't need his entire life",
+      "words": [
+        {
+          "start": 54.61,
+          "end": 55.29,
+          "word": " The"
+        },
+        {
+          "start": 55.29,
+          "end": 55.79,
+          "word": " movie's"
+        },
+        {
+          "start": 55.79,
+          "end": 55.93,
+          "word": " too"
+        },
+        {
+          "start": 55.93,
+          "end": 56.25,
+          "word": " long."
+        },
+        {
+          "start": 56.31,
+          "end": 56.39,
+          "word": " You"
+        },
+        {
+          "start": 56.39,
+          "end": 56.55,
+          "word": " just"
+        },
+        {
+          "start": 56.55,
+          "end": 56.71,
+          "word": " need"
+        },
+        {
+          "start": 56.71,
+          "end": 56.83,
+          "word": " to"
+        },
+        {
+          "start": 56.83,
+          "end": 56.99,
+          "word": " cut"
+        },
+        {
+          "start": 56.99,
+          "end": 57.21,
+          "word": " that"
+        },
+        {
+          "start": 57.21,
+          "end": 57.51,
+          "word": " out."
+        },
+        {
+          "start": 57.53,
+          "end": 58.01,
+          "word": " Another"
+        },
+        {
+          "start": 58.01,
+          "end": 58.27,
+          "word": " thing"
+        },
+        {
+          "start": 58.27,
+          "end": 58.45,
+          "word": " is"
+        },
+        {
+          "start": 58.45,
+          "end": 58.61,
+          "word": " we"
+        },
+        {
+          "start": 58.61,
+          "end": 58.75,
+          "word": " don't"
+        },
+        {
+          "start": 58.75,
+          "end": 58.91,
+          "word": " need"
+        },
+        {
+          "start": 58.91,
+          "end": 59.05,
+          "word": " his"
+        },
+        {
+          "start": 59.05,
+          "end": 59.33,
+          "word": " entire"
+        },
+        {
+          "start": 59.33,
+          "end": 59.67,
+          "word": " life"
+        }
+      ]
+    },
+    {
+      "start": 59.67,
+      "end": 68.36,
+      "text": " we did not need the entire span's birth to death just give me a nice interesting chunk and",
+      "words": [
+        {
+          "start": 59.67,
+          "end": 60.03,
+          "word": " we"
+        },
+        {
+          "start": 60.03,
+          "end": 60.35,
+          "word": " did"
+        },
+        {
+          "start": 60.35,
+          "end": 60.67,
+          "word": " not"
+        },
+        {
+          "start": 60.67,
+          "end": 61.09,
+          "word": " need"
+        },
+        {
+          "start": 62.05,
+          "end": 63.13,
+          "word": " the"
+        },
+        {
+          "start": 63.13,
+          "end": 63.71,
+          "word": " entire"
+        },
+        {
+          "start": 63.71,
+          "end": 64.33,
+          "word": " span's"
+        },
+        {
+          "start": 64.33,
+          "end": 64.49,
+          "word": " birth"
+        },
+        {
+          "start": 64.49,
+          "end": 64.67,
+          "word": " to"
+        },
+        {
+          "start": 64.67,
+          "end": 64.93,
+          "word": " death"
+        },
+        {
+          "start": 65.51,
+          "end": 66.47,
+          "word": " just"
+        },
+        {
+          "start": 66.47,
+          "end": 66.63,
+          "word": " give"
+        },
+        {
+          "start": 66.63,
+          "end": 66.71,
+          "word": " me"
+        },
+        {
+          "start": 66.71,
+          "end": 66.85,
+          "word": " a"
+        },
+        {
+          "start": 66.85,
+          "end": 67.03,
+          "word": " nice"
+        },
+        {
+          "start": 67.03,
+          "end": 67.65,
+          "word": " interesting"
+        },
+        {
+          "start": 67.65,
+          "end": 68.07,
+          "word": " chunk"
+        },
+        {
+          "start": 68.07,
+          "end": 68.36,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "start": 69.38,
+      "end": 74.52,
+      "text": " Scale it down to like two hours. This also falls into the trend. It is very popular these days",
+      "words": [
+        {
+          "start": 69.38,
+          "end": 69.96,
+          "word": " Scale"
+        },
+        {
+          "start": 69.96,
+          "end": 70.14,
+          "word": " it"
+        },
+        {
+          "start": 70.14,
+          "end": 70.32,
+          "word": " down"
+        },
+        {
+          "start": 70.32,
+          "end": 70.44,
+          "word": " to"
+        },
+        {
+          "start": 70.44,
+          "end": 70.58,
+          "word": " like"
+        },
+        {
+          "start": 70.58,
+          "end": 70.74,
+          "word": " two"
+        },
+        {
+          "start": 70.74,
+          "end": 71.14,
+          "word": " hours."
+        },
+        {
+          "start": 71.14,
+          "end": 71.54,
+          "word": " This"
+        },
+        {
+          "start": 71.54,
+          "end": 71.9,
+          "word": " also"
+        },
+        {
+          "start": 71.9,
+          "end": 72.18,
+          "word": " falls"
+        },
+        {
+          "start": 72.18,
+          "end": 72.54,
+          "word": " into"
+        },
+        {
+          "start": 72.54,
+          "end": 72.76,
+          "word": " the"
+        },
+        {
+          "start": 72.76,
+          "end": 73.02,
+          "word": " trend."
+        },
+        {
+          "start": 73.02,
+          "end": 73.22,
+          "word": " It"
+        },
+        {
+          "start": 73.22,
+          "end": 73.46,
+          "word": " is"
+        },
+        {
+          "start": 73.46,
+          "end": 73.64,
+          "word": " very"
+        },
+        {
+          "start": 73.64,
+          "end": 73.98,
+          "word": " popular"
+        },
+        {
+          "start": 73.98,
+          "end": 74.22,
+          "word": " these"
+        },
+        {
+          "start": 74.22,
+          "end": 74.52,
+          "word": " days"
+        }
+      ]
+    },
+    {
+      "start": 74.52,
+      "end": 75.86,
+      "text": " You do a whole lot of CGI",
+      "words": [
+        {
+          "start": 74.52,
+          "end": 74.72,
+          "word": " You"
+        },
+        {
+          "start": 74.72,
+          "end": 74.86,
+          "word": " do"
+        },
+        {
+          "start": 74.86,
+          "end": 74.96,
+          "word": " a"
+        },
+        {
+          "start": 74.96,
+          "end": 75.1,
+          "word": " whole"
+        },
+        {
+          "start": 75.1,
+          "end": 75.26,
+          "word": " lot"
+        },
+        {
+          "start": 75.26,
+          "end": 75.36,
+          "word": " of"
+        },
+        {
+          "start": 75.36,
+          "end": 75.86,
+          "word": " CGI"
+        }
+      ]
+    },
+    {
+      "start": 77.81,
+      "end": 82.27,
+      "text": " I mean if you're gonna do mostly CGI just make an animated movie",
+      "words": [
+        {
+          "start": 77.81,
+          "end": 78.39,
+          "word": " I"
+        },
+        {
+          "start": 78.39,
+          "end": 78.49,
+          "word": " mean"
+        },
+        {
+          "start": 78.49,
+          "end": 78.61,
+          "word": " if"
+        },
+        {
+          "start": 78.61,
+          "end": 78.79,
+          "word": " you're"
+        },
+        {
+          "start": 78.79,
+          "end": 78.79,
+          "word": " gonna"
+        },
+        {
+          "start": 78.79,
+          "end": 79.17,
+          "word": " do"
+        },
+        {
+          "start": 79.17,
+          "end": 80.09,
+          "word": " mostly"
+        },
+        {
+          "start": 80.09,
+          "end": 80.63,
+          "word": " CGI"
+        },
+        {
+          "start": 80.63,
+          "end": 81.07,
+          "word": " just"
+        },
+        {
+          "start": 81.07,
+          "end": 81.41,
+          "word": " make"
+        },
+        {
+          "start": 81.41,
+          "end": 81.55,
+          "word": " an"
+        },
+        {
+          "start": 81.55,
+          "end": 81.91,
+          "word": " animated"
+        },
+        {
+          "start": 81.91,
+          "end": 82.27,
+          "word": " movie"
+        }
+      ]
+    },
+    {
+      "start": 82.56,
+      "end": 89.49,
+      "text": " This looks like it just has a polyurethane coating on it makes it look too",
+      "words": [
+        {
+          "start": 82.56,
+          "end": 83.5,
+          "word": " This"
+        },
+        {
+          "start": 83.5,
+          "end": 83.98,
+          "word": " looks"
+        },
+        {
+          "start": 83.98,
+          "end": 84.16,
+          "word": " like"
+        },
+        {
+          "start": 84.16,
+          "end": 84.26,
+          "word": " it"
+        },
+        {
+          "start": 84.26,
+          "end": 84.4,
+          "word": " just"
+        },
+        {
+          "start": 84.4,
+          "end": 84.6,
+          "word": " has"
+        },
+        {
+          "start": 84.6,
+          "end": 84.8,
+          "word": " a"
+        },
+        {
+          "start": 84.8,
+          "end": 85.88,
+          "word": " polyurethane"
+        },
+        {
+          "start": 85.88,
+          "end": 86.3,
+          "word": " coating"
+        },
+        {
+          "start": 86.3,
+          "end": 86.9,
+          "word": " on"
+        },
+        {
+          "start": 86.9,
+          "end": 87.36,
+          "word": " it"
+        },
+        {
+          "start": 87.93,
+          "end": 88.61,
+          "word": " makes"
+        },
+        {
+          "start": 88.61,
+          "end": 88.77,
+          "word": " it"
+        },
+        {
+          "start": 88.77,
+          "end": 88.95,
+          "word": " look"
+        },
+        {
+          "start": 88.95,
+          "end": 89.49,
+          "word": " too"
+        }
+      ]
+    },
+    {
+      "start": 89.49,
+      "end": 92.86,
+      "text": " Too good, but don't get me wrong",
+      "words": [
+        {
+          "start": 89.49,
+          "end": 90.35,
+          "word": " Too"
+        },
+        {
+          "start": 90.35,
+          "end": 90.71,
+          "word": " good,"
+        },
+        {
+          "start": 90.71,
+          "end": 91.53,
+          "word": " but"
+        },
+        {
+          "start": 92.2,
+          "end": 92.32,
+          "word": " don't"
+        },
+        {
+          "start": 92.32,
+          "end": 92.42,
+          "word": " get"
+        },
+        {
+          "start": 92.42,
+          "end": 92.52,
+          "word": " me"
+        },
+        {
+          "start": 92.52,
+          "end": 92.86,
+          "word": " wrong"
+        }
+      ]
+    },
+    {
+      "start": 93.63,
+      "end": 98.15,
+      "text": " It's not all bad. It's got two of my favorite actresses in it Tilda Swindon cake blanchette",
+      "words": [
+        {
+          "start": 93.63,
+          "end": 94.03,
+          "word": " It's"
+        },
+        {
+          "start": 94.03,
+          "end": 94.15,
+          "word": " not"
+        },
+        {
+          "start": 94.15,
+          "end": 94.33,
+          "word": " all"
+        },
+        {
+          "start": 94.33,
+          "end": 94.63,
+          "word": " bad."
+        },
+        {
+          "start": 94.91,
+          "end": 94.97,
+          "word": " It's"
+        },
+        {
+          "start": 94.97,
+          "end": 95.11,
+          "word": " got"
+        },
+        {
+          "start": 95.11,
+          "end": 95.25,
+          "word": " two"
+        },
+        {
+          "start": 95.25,
+          "end": 95.33,
+          "word": " of"
+        },
+        {
+          "start": 95.33,
+          "end": 95.43,
+          "word": " my"
+        },
+        {
+          "start": 95.43,
+          "end": 95.61,
+          "word": " favorite"
+        },
+        {
+          "start": 95.61,
+          "end": 96.01,
+          "word": " actresses"
+        },
+        {
+          "start": 96.01,
+          "end": 96.23,
+          "word": " in"
+        },
+        {
+          "start": 96.23,
+          "end": 96.41,
+          "word": " it"
+        },
+        {
+          "start": 96.41,
+          "end": 96.77,
+          "word": " Tilda"
+        },
+        {
+          "start": 96.77,
+          "end": 97.17,
+          "word": " Swindon"
+        },
+        {
+          "start": 97.17,
+          "end": 97.45,
+          "word": " cake"
+        },
+        {
+          "start": 97.45,
+          "end": 98.15,
+          "word": " blanchette"
+        }
+      ]
+    },
+    {
+      "start": 98.15,
+      "end": 102.99,
+      "text": " Like I said before it's a very interesting idea and they did a lot of good things with it",
+      "words": [
+        {
+          "start": 98.15,
+          "end": 98.33,
+          "word": " Like"
+        },
+        {
+          "start": 98.33,
+          "end": 98.45,
+          "word": " I"
+        },
+        {
+          "start": 98.45,
+          "end": 98.63,
+          "word": " said"
+        },
+        {
+          "start": 98.63,
+          "end": 98.95,
+          "word": " before"
+        },
+        {
+          "start": 98.95,
+          "end": 99.15,
+          "word": " it's"
+        },
+        {
+          "start": 99.15,
+          "end": 99.19,
+          "word": " a"
+        },
+        {
+          "start": 99.19,
+          "end": 99.39,
+          "word": " very"
+        },
+        {
+          "start": 99.39,
+          "end": 99.93,
+          "word": " interesting"
+        },
+        {
+          "start": 99.93,
+          "end": 100.43,
+          "word": " idea"
+        },
+        {
+          "start": 100.43,
+          "end": 100.67,
+          "word": " and"
+        },
+        {
+          "start": 100.67,
+          "end": 100.77,
+          "word": " they"
+        },
+        {
+          "start": 100.77,
+          "end": 100.91,
+          "word": " did"
+        },
+        {
+          "start": 100.91,
+          "end": 101.03,
+          "word": " a"
+        },
+        {
+          "start": 101.03,
+          "end": 101.19,
+          "word": " lot"
+        },
+        {
+          "start": 101.19,
+          "end": 101.57,
+          "word": " of"
+        },
+        {
+          "start": 101.57,
+          "end": 102.21,
+          "word": " good"
+        },
+        {
+          "start": 102.21,
+          "end": 102.55,
+          "word": " things"
+        },
+        {
+          "start": 102.55,
+          "end": 102.77,
+          "word": " with"
+        },
+        {
+          "start": 102.77,
+          "end": 102.99,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 102.99,
+      "end": 106.43,
+      "text": " But it's it's like someone made you a kick-ass sandwich",
+      "words": [
+        {
+          "start": 102.99,
+          "end": 103.23,
+          "word": " But"
+        },
+        {
+          "start": 103.23,
+          "end": 104.01,
+          "word": " it's"
+        },
+        {
+          "start": 104.01,
+          "end": 104.59,
+          "word": " it's"
+        },
+        {
+          "start": 104.59,
+          "end": 104.79,
+          "word": " like"
+        },
+        {
+          "start": 104.79,
+          "end": 105.11,
+          "word": " someone"
+        },
+        {
+          "start": 105.11,
+          "end": 105.29,
+          "word": " made"
+        },
+        {
+          "start": 105.29,
+          "end": 105.41,
+          "word": " you"
+        },
+        {
+          "start": 105.41,
+          "end": 105.55,
+          "word": " a"
+        },
+        {
+          "start": 105.55,
+          "end": 105.73,
+          "word": " kick"
+        },
+        {
+          "start": 105.73,
+          "end": 105.93,
+          "word": "-ass"
+        },
+        {
+          "start": 105.93,
+          "end": 106.43,
+          "word": " sandwich"
+        }
+      ]
+    },
+    {
+      "start": 106.43,
+      "end": 112.53,
+      "text": " But they put mayonnaise on it and you don't like mayonnaise and it's not like tomato or lettuce where you can pick it off",
+      "words": [
+        {
+          "start": 106.43,
+          "end": 107.07,
+          "word": " But"
+        },
+        {
+          "start": 107.07,
+          "end": 107.21,
+          "word": " they"
+        },
+        {
+          "start": 107.21,
+          "end": 107.35,
+          "word": " put"
+        },
+        {
+          "start": 107.35,
+          "end": 107.71,
+          "word": " mayonnaise"
+        },
+        {
+          "start": 107.71,
+          "end": 107.89,
+          "word": " on"
+        },
+        {
+          "start": 107.89,
+          "end": 108.09,
+          "word": " it"
+        },
+        {
+          "start": 108.09,
+          "end": 108.37,
+          "word": " and"
+        },
+        {
+          "start": 108.37,
+          "end": 108.51,
+          "word": " you"
+        },
+        {
+          "start": 108.51,
+          "end": 108.63,
+          "word": " don't"
+        },
+        {
+          "start": 108.63,
+          "end": 108.79,
+          "word": " like"
+        },
+        {
+          "start": 108.79,
+          "end": 109.31,
+          "word": " mayonnaise"
+        },
+        {
+          "start": 109.31,
+          "end": 109.83,
+          "word": " and"
+        },
+        {
+          "start": 109.83,
+          "end": 109.95,
+          "word": " it's"
+        },
+        {
+          "start": 109.95,
+          "end": 110.11,
+          "word": " not"
+        },
+        {
+          "start": 110.11,
+          "end": 110.25,
+          "word": " like"
+        },
+        {
+          "start": 110.25,
+          "end": 110.67,
+          "word": " tomato"
+        },
+        {
+          "start": 110.67,
+          "end": 111.01,
+          "word": " or"
+        },
+        {
+          "start": 111.01,
+          "end": 111.29,
+          "word": " lettuce"
+        },
+        {
+          "start": 111.29,
+          "end": 111.65,
+          "word": " where"
+        },
+        {
+          "start": 111.65,
+          "end": 111.85,
+          "word": " you"
+        },
+        {
+          "start": 111.85,
+          "end": 112.01,
+          "word": " can"
+        },
+        {
+          "start": 112.01,
+          "end": 112.19,
+          "word": " pick"
+        },
+        {
+          "start": 112.19,
+          "end": 112.29,
+          "word": " it"
+        },
+        {
+          "start": 112.29,
+          "end": 112.53,
+          "word": " off"
+        }
+      ]
+    },
+    {
+      "start": 112.53,
+      "end": 118.03,
+      "text": " No, it's got its mayonnaise and it's all over everything and now you're stuck with this kick-ass sandwich",
+      "words": [
+        {
+          "start": 112.53,
+          "end": 112.87,
+          "word": " No,"
+        },
+        {
+          "start": 112.89,
+          "end": 113.13,
+          "word": " it's"
+        },
+        {
+          "start": 113.13,
+          "end": 113.27,
+          "word": " got"
+        },
+        {
+          "start": 113.27,
+          "end": 113.53,
+          "word": " its"
+        },
+        {
+          "start": 113.53,
+          "end": 114.05,
+          "word": " mayonnaise"
+        },
+        {
+          "start": 114.05,
+          "end": 114.17,
+          "word": " and"
+        },
+        {
+          "start": 114.17,
+          "end": 114.35,
+          "word": " it's"
+        },
+        {
+          "start": 114.35,
+          "end": 114.53,
+          "word": " all"
+        },
+        {
+          "start": 114.53,
+          "end": 114.77,
+          "word": " over"
+        },
+        {
+          "start": 114.77,
+          "end": 115.17,
+          "word": " everything"
+        },
+        {
+          "start": 115.17,
+          "end": 115.97,
+          "word": " and"
+        },
+        {
+          "start": 115.97,
+          "end": 116.13,
+          "word": " now"
+        },
+        {
+          "start": 116.13,
+          "end": 116.29,
+          "word": " you're"
+        },
+        {
+          "start": 116.29,
+          "end": 116.53,
+          "word": " stuck"
+        },
+        {
+          "start": 116.53,
+          "end": 116.77,
+          "word": " with"
+        },
+        {
+          "start": 116.77,
+          "end": 117.17,
+          "word": " this"
+        },
+        {
+          "start": 117.17,
+          "end": 117.41,
+          "word": " kick"
+        },
+        {
+          "start": 117.41,
+          "end": 117.61,
+          "word": "-ass"
+        },
+        {
+          "start": 117.61,
+          "end": 118.03,
+          "word": " sandwich"
+        }
+      ]
+    },
+    {
+      "start": 118.03,
+      "end": 120.55,
+      "text": " That would be kick-ass if it didn't have mayonnaise on it",
+      "words": [
+        {
+          "start": 118.03,
+          "end": 118.39,
+          "word": " That"
+        },
+        {
+          "start": 118.39,
+          "end": 118.55,
+          "word": " would"
+        },
+        {
+          "start": 118.55,
+          "end": 118.73,
+          "word": " be"
+        },
+        {
+          "start": 118.73,
+          "end": 118.89,
+          "word": " kick"
+        },
+        {
+          "start": 118.89,
+          "end": 119.19,
+          "word": "-ass"
+        },
+        {
+          "start": 119.19,
+          "end": 119.37,
+          "word": " if"
+        },
+        {
+          "start": 119.37,
+          "end": 119.47,
+          "word": " it"
+        },
+        {
+          "start": 119.47,
+          "end": 119.63,
+          "word": " didn't"
+        },
+        {
+          "start": 119.63,
+          "end": 119.75,
+          "word": " have"
+        },
+        {
+          "start": 119.75,
+          "end": 120.11,
+          "word": " mayonnaise"
+        },
+        {
+          "start": 120.11,
+          "end": 120.35,
+          "word": " on"
+        },
+        {
+          "start": 120.35,
+          "end": 120.55,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 120.55,
+      "end": 130.34,
+      "text": " But it has mayonnaise on it or you go make another sandwich go make another sandwich",
+      "words": [
+        {
+          "start": 120.55,
+          "end": 121.15,
+          "word": " But"
+        },
+        {
+          "start": 121.15,
+          "end": 121.25,
+          "word": " it"
+        },
+        {
+          "start": 121.25,
+          "end": 121.35,
+          "word": " has"
+        },
+        {
+          "start": 121.35,
+          "end": 121.71,
+          "word": " mayonnaise"
+        },
+        {
+          "start": 121.71,
+          "end": 121.85,
+          "word": " on"
+        },
+        {
+          "start": 121.85,
+          "end": 122.49,
+          "word": " it"
+        },
+        {
+          "start": 123.58,
+          "end": 124.24,
+          "word": " or"
+        },
+        {
+          "start": 124.24,
+          "end": 124.76,
+          "word": " you"
+        },
+        {
+          "start": 124.76,
+          "end": 124.98,
+          "word": " go"
+        },
+        {
+          "start": 124.98,
+          "end": 125.18,
+          "word": " make"
+        },
+        {
+          "start": 125.18,
+          "end": 125.44,
+          "word": " another"
+        },
+        {
+          "start": 125.44,
+          "end": 125.88,
+          "word": " sandwich"
+        },
+        {
+          "start": 125.88,
+          "end": 126.76,
+          "word": " go"
+        },
+        {
+          "start": 129.32,
+          "end": 129.48,
+          "word": " make"
+        },
+        {
+          "start": 129.48,
+          "end": 129.74,
+          "word": " another"
+        },
+        {
+          "start": 129.74,
+          "end": 130.34,
+          "word": " sandwich"
+        }
+      ]
+    },
+    {
+      "start": 131.22,
+      "end": 136.64,
+      "text": " Movies just not quite good enough. I really like David Fincher",
+      "words": [
+        {
+          "start": 131.22,
+          "end": 131.62,
+          "word": " Movies"
+        },
+        {
+          "start": 131.62,
+          "end": 132.06,
+          "word": " just"
+        },
+        {
+          "start": 132.06,
+          "end": 132.72,
+          "word": " not"
+        },
+        {
+          "start": 132.72,
+          "end": 133.2,
+          "word": " quite"
+        },
+        {
+          "start": 133.2,
+          "end": 133.44,
+          "word": " good"
+        },
+        {
+          "start": 133.44,
+          "end": 133.72,
+          "word": " enough."
+        },
+        {
+          "start": 133.84,
+          "end": 134.4,
+          "word": " I"
+        },
+        {
+          "start": 135.64,
+          "end": 135.76,
+          "word": " really"
+        },
+        {
+          "start": 135.76,
+          "end": 136.0,
+          "word": " like"
+        },
+        {
+          "start": 136.0,
+          "end": 136.22,
+          "word": " David"
+        },
+        {
+          "start": 136.22,
+          "end": 136.64,
+          "word": " Fincher"
+        }
+      ]
+    },
+    {
+      "start": 136.64,
+      "end": 141.52,
+      "text": " I like all the I like the cast but and it's a good story",
+      "words": [
+        {
+          "start": 136.64,
+          "end": 136.76,
+          "word": " I"
+        },
+        {
+          "start": 136.76,
+          "end": 136.92,
+          "word": " like"
+        },
+        {
+          "start": 136.92,
+          "end": 137.08,
+          "word": " all"
+        },
+        {
+          "start": 137.08,
+          "end": 137.26,
+          "word": " the"
+        },
+        {
+          "start": 137.26,
+          "end": 137.94,
+          "word": " I"
+        },
+        {
+          "start": 137.94,
+          "end": 138.1,
+          "word": " like"
+        },
+        {
+          "start": 138.1,
+          "end": 138.26,
+          "word": " the"
+        },
+        {
+          "start": 138.26,
+          "end": 138.62,
+          "word": " cast"
+        },
+        {
+          "start": 138.62,
+          "end": 139.14,
+          "word": " but"
+        },
+        {
+          "start": 139.14,
+          "end": 139.98,
+          "word": " and"
+        },
+        {
+          "start": 140.5,
+          "end": 140.74,
+          "word": " it's"
+        },
+        {
+          "start": 140.74,
+          "end": 140.76,
+          "word": " a"
+        },
+        {
+          "start": 140.76,
+          "end": 140.9,
+          "word": " good"
+        },
+        {
+          "start": 140.9,
+          "end": 141.52,
+          "word": " story"
+        }
+      ]
+    },
+    {
+      "start": 141.52,
+      "end": 152.42,
+      "text": " But the past my neighbor probably thinks I'm crazy yelling about movies to a camera. Oh",
+      "words": [
+        {
+          "start": 141.52,
+          "end": 142.12,
+          "word": " But"
+        },
+        {
+          "start": 142.12,
+          "end": 142.78,
+          "word": " the"
+        },
+        {
+          "start": 147.22,
+          "end": 147.58,
+          "word": " past"
+        },
+        {
+          "start": 147.58,
+          "end": 148.3,
+          "word": " my"
+        },
+        {
+          "start": 148.3,
+          "end": 148.48,
+          "word": " neighbor"
+        },
+        {
+          "start": 148.48,
+          "end": 148.76,
+          "word": " probably"
+        },
+        {
+          "start": 148.76,
+          "end": 149.04,
+          "word": " thinks"
+        },
+        {
+          "start": 149.04,
+          "end": 149.3,
+          "word": " I'm"
+        },
+        {
+          "start": 149.3,
+          "end": 149.7,
+          "word": " crazy"
+        },
+        {
+          "start": 149.7,
+          "end": 150.26,
+          "word": " yelling"
+        },
+        {
+          "start": 150.26,
+          "end": 150.54,
+          "word": " about"
+        },
+        {
+          "start": 150.54,
+          "end": 150.82,
+          "word": " movies"
+        },
+        {
+          "start": 150.82,
+          "end": 151.02,
+          "word": " to"
+        },
+        {
+          "start": 151.02,
+          "end": 151.1,
+          "word": " a"
+        },
+        {
+          "start": 151.1,
+          "end": 151.46,
+          "word": " camera."
+        },
+        {
+          "start": 151.86,
+          "end": 152.42,
+          "word": " Oh"
+        }
+      ]
+    }
+  ]
+}

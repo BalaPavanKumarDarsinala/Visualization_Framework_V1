@@ -1,0 +1,2131 @@
+{
+  "segments": [
+    {
+      "start": 0.82,
+      "end": 2.9,
+      "text": " Hello, and this is my review of",
+      "words": [
+        {
+          "start": 0.82,
+          "end": 1.38,
+          "word": " Hello,"
+        },
+        {
+          "start": 1.48,
+          "end": 1.54,
+          "word": " and"
+        },
+        {
+          "start": 1.54,
+          "end": 1.66,
+          "word": " this"
+        },
+        {
+          "start": 1.66,
+          "end": 1.8,
+          "word": " is"
+        },
+        {
+          "start": 1.8,
+          "end": 1.92,
+          "word": " my"
+        },
+        {
+          "start": 1.92,
+          "end": 2.28,
+          "word": " review"
+        },
+        {
+          "start": 2.28,
+          "end": 2.9,
+          "word": " of"
+        }
+      ]
+    },
+    {
+      "start": 3.58,
+      "end": 5.22,
+      "text": " season of the witch",
+      "words": [
+        {
+          "start": 3.58,
+          "end": 3.92,
+          "word": " season"
+        },
+        {
+          "start": 3.92,
+          "end": 4.6,
+          "word": " of"
+        },
+        {
+          "start": 4.6,
+          "end": 4.82,
+          "word": " the"
+        },
+        {
+          "start": 4.82,
+          "end": 5.22,
+          "word": " witch"
+        }
+      ]
+    },
+    {
+      "start": 6.42,
+      "end": 7.84,
+      "text": " this movie was",
+      "words": [
+        {
+          "start": 6.42,
+          "end": 6.94,
+          "word": " this"
+        },
+        {
+          "start": 6.94,
+          "end": 7.22,
+          "word": " movie"
+        },
+        {
+          "start": 7.22,
+          "end": 7.84,
+          "word": " was"
+        }
+      ]
+    },
+    {
+      "start": 8.62,
+      "end": 9.14,
+      "text": " horrible",
+      "words": [
+        {
+          "start": 8.62,
+          "end": 9.14,
+          "word": " horrible"
+        }
+      ]
+    },
+    {
+      "start": 10.64,
+      "end": 17.18,
+      "text": " Nicholas cage should not do this kind of movies. He's always in this kind of movies all these sorcerer which",
+      "words": [
+        {
+          "start": 10.64,
+          "end": 11.16,
+          "word": " Nicholas"
+        },
+        {
+          "start": 11.16,
+          "end": 11.58,
+          "word": " cage"
+        },
+        {
+          "start": 11.58,
+          "end": 11.98,
+          "word": " should"
+        },
+        {
+          "start": 11.98,
+          "end": 12.28,
+          "word": " not"
+        },
+        {
+          "start": 12.28,
+          "end": 12.74,
+          "word": " do"
+        },
+        {
+          "start": 12.74,
+          "end": 12.9,
+          "word": " this"
+        },
+        {
+          "start": 12.9,
+          "end": 13.1,
+          "word": " kind"
+        },
+        {
+          "start": 13.1,
+          "end": 13.22,
+          "word": " of"
+        },
+        {
+          "start": 13.22,
+          "end": 13.52,
+          "word": " movies."
+        },
+        {
+          "start": 14.04,
+          "end": 14.56,
+          "word": " He's"
+        },
+        {
+          "start": 14.56,
+          "end": 14.9,
+          "word": " always"
+        },
+        {
+          "start": 14.9,
+          "end": 15.1,
+          "word": " in"
+        },
+        {
+          "start": 15.1,
+          "end": 15.2,
+          "word": " this"
+        },
+        {
+          "start": 15.2,
+          "end": 15.34,
+          "word": " kind"
+        },
+        {
+          "start": 15.34,
+          "end": 15.42,
+          "word": " of"
+        },
+        {
+          "start": 15.42,
+          "end": 15.68,
+          "word": " movies"
+        },
+        {
+          "start": 15.68,
+          "end": 15.82,
+          "word": " all"
+        },
+        {
+          "start": 15.82,
+          "end": 15.98,
+          "word": " these"
+        },
+        {
+          "start": 15.98,
+          "end": 16.5,
+          "word": " sorcerer"
+        },
+        {
+          "start": 16.5,
+          "end": 17.18,
+          "word": " which"
+        }
+      ]
+    },
+    {
+      "start": 17.78,
+      "end": 23.62,
+      "text": " Voodoo kind of movies and it's getting really tiring. He's horrible at no one takes him seriously",
+      "words": [
+        {
+          "start": 17.78,
+          "end": 18.3,
+          "word": " Voodoo"
+        },
+        {
+          "start": 18.3,
+          "end": 18.66,
+          "word": " kind"
+        },
+        {
+          "start": 18.66,
+          "end": 18.78,
+          "word": " of"
+        },
+        {
+          "start": 18.78,
+          "end": 19.22,
+          "word": " movies"
+        },
+        {
+          "start": 19.22,
+          "end": 20.1,
+          "word": " and"
+        },
+        {
+          "start": 20.1,
+          "end": 20.4,
+          "word": " it's"
+        },
+        {
+          "start": 20.4,
+          "end": 20.52,
+          "word": " getting"
+        },
+        {
+          "start": 20.52,
+          "end": 20.72,
+          "word": " really"
+        },
+        {
+          "start": 20.72,
+          "end": 21.16,
+          "word": " tiring."
+        },
+        {
+          "start": 21.24,
+          "end": 21.56,
+          "word": " He's"
+        },
+        {
+          "start": 21.56,
+          "end": 21.92,
+          "word": " horrible"
+        },
+        {
+          "start": 21.92,
+          "end": 22.26,
+          "word": " at"
+        },
+        {
+          "start": 22.26,
+          "end": 22.48,
+          "word": " no"
+        },
+        {
+          "start": 22.48,
+          "end": 22.58,
+          "word": " one"
+        },
+        {
+          "start": 22.58,
+          "end": 22.76,
+          "word": " takes"
+        },
+        {
+          "start": 22.76,
+          "end": 22.98,
+          "word": " him"
+        },
+        {
+          "start": 22.98,
+          "end": 23.62,
+          "word": " seriously"
+        }
+      ]
+    },
+    {
+      "start": 23.62,
+      "end": 29.34,
+      "text": " When he was on screen, I wanted to punch him in the face. He's very boring. He was very annoying",
+      "words": [
+        {
+          "start": 23.62,
+          "end": 24.5,
+          "word": " When"
+        },
+        {
+          "start": 24.5,
+          "end": 24.6,
+          "word": " he"
+        },
+        {
+          "start": 24.6,
+          "end": 24.7,
+          "word": " was"
+        },
+        {
+          "start": 24.7,
+          "end": 24.82,
+          "word": " on"
+        },
+        {
+          "start": 24.82,
+          "end": 25.14,
+          "word": " screen,"
+        },
+        {
+          "start": 25.14,
+          "end": 25.28,
+          "word": " I"
+        },
+        {
+          "start": 25.28,
+          "end": 25.42,
+          "word": " wanted"
+        },
+        {
+          "start": 25.42,
+          "end": 25.6,
+          "word": " to"
+        },
+        {
+          "start": 25.6,
+          "end": 25.84,
+          "word": " punch"
+        },
+        {
+          "start": 25.84,
+          "end": 25.98,
+          "word": " him"
+        },
+        {
+          "start": 25.98,
+          "end": 26.08,
+          "word": " in"
+        },
+        {
+          "start": 26.08,
+          "end": 26.16,
+          "word": " the"
+        },
+        {
+          "start": 26.16,
+          "end": 26.46,
+          "word": " face."
+        },
+        {
+          "start": 26.64,
+          "end": 27.16,
+          "word": " He's"
+        },
+        {
+          "start": 27.16,
+          "end": 27.34,
+          "word": " very"
+        },
+        {
+          "start": 27.34,
+          "end": 27.86,
+          "word": " boring."
+        },
+        {
+          "start": 27.98,
+          "end": 28.22,
+          "word": " He"
+        },
+        {
+          "start": 28.22,
+          "end": 28.32,
+          "word": " was"
+        },
+        {
+          "start": 28.32,
+          "end": 28.62,
+          "word": " very"
+        },
+        {
+          "start": 28.62,
+          "end": 29.34,
+          "word": " annoying"
+        }
+      ]
+    },
+    {
+      "start": 29.34,
+      "end": 33.38,
+      "text": " He had no idea what he was talking about and I was sitting in the theater sleeping",
+      "words": [
+        {
+          "start": 29.34,
+          "end": 30.1,
+          "word": " He"
+        },
+        {
+          "start": 30.1,
+          "end": 30.22,
+          "word": " had"
+        },
+        {
+          "start": 30.22,
+          "end": 30.32,
+          "word": " no"
+        },
+        {
+          "start": 30.32,
+          "end": 30.44,
+          "word": " idea"
+        },
+        {
+          "start": 30.44,
+          "end": 30.5,
+          "word": " what"
+        },
+        {
+          "start": 30.5,
+          "end": 30.58,
+          "word": " he"
+        },
+        {
+          "start": 30.58,
+          "end": 30.66,
+          "word": " was"
+        },
+        {
+          "start": 30.66,
+          "end": 31.08,
+          "word": " talking"
+        },
+        {
+          "start": 31.08,
+          "end": 31.48,
+          "word": " about"
+        },
+        {
+          "start": 31.48,
+          "end": 31.88,
+          "word": " and"
+        },
+        {
+          "start": 31.88,
+          "end": 32.1,
+          "word": " I"
+        },
+        {
+          "start": 32.1,
+          "end": 32.26,
+          "word": " was"
+        },
+        {
+          "start": 32.26,
+          "end": 32.48,
+          "word": " sitting"
+        },
+        {
+          "start": 32.48,
+          "end": 32.68,
+          "word": " in"
+        },
+        {
+          "start": 32.68,
+          "end": 32.7,
+          "word": " the"
+        },
+        {
+          "start": 32.7,
+          "end": 32.82,
+          "word": " theater"
+        },
+        {
+          "start": 32.82,
+          "end": 33.38,
+          "word": " sleeping"
+        }
+      ]
+    },
+    {
+      "start": 34.46,
+      "end": 39.74,
+      "text": " Ron Perlman was in this movie too. He is in Hellboy. He's very good in Hellboy",
+      "words": [
+        {
+          "start": 34.46,
+          "end": 34.9,
+          "word": " Ron"
+        },
+        {
+          "start": 34.9,
+          "end": 35.28,
+          "word": " Perlman"
+        },
+        {
+          "start": 35.28,
+          "end": 35.5,
+          "word": " was"
+        },
+        {
+          "start": 35.5,
+          "end": 35.62,
+          "word": " in"
+        },
+        {
+          "start": 35.62,
+          "end": 35.7,
+          "word": " this"
+        },
+        {
+          "start": 35.7,
+          "end": 35.86,
+          "word": " movie"
+        },
+        {
+          "start": 35.86,
+          "end": 36.18,
+          "word": " too."
+        },
+        {
+          "start": 36.34,
+          "end": 36.58,
+          "word": " He"
+        },
+        {
+          "start": 36.58,
+          "end": 37.28,
+          "word": " is"
+        },
+        {
+          "start": 37.28,
+          "end": 37.46,
+          "word": " in"
+        },
+        {
+          "start": 37.46,
+          "end": 37.94,
+          "word": " Hellboy."
+        },
+        {
+          "start": 38.42,
+          "end": 38.86,
+          "word": " He's"
+        },
+        {
+          "start": 38.86,
+          "end": 38.98,
+          "word": " very"
+        },
+        {
+          "start": 38.98,
+          "end": 39.14,
+          "word": " good"
+        },
+        {
+          "start": 39.14,
+          "end": 39.26,
+          "word": " in"
+        },
+        {
+          "start": 39.26,
+          "end": 39.74,
+          "word": " Hellboy"
+        }
+      ]
+    },
+    {
+      "start": 40.62,
+      "end": 45.48,
+      "text": " But in this movie he wasn't good at all. I didn't really care for his character at all",
+      "words": [
+        {
+          "start": 40.62,
+          "end": 41.06,
+          "word": " But"
+        },
+        {
+          "start": 41.06,
+          "end": 41.16,
+          "word": " in"
+        },
+        {
+          "start": 41.16,
+          "end": 41.26,
+          "word": " this"
+        },
+        {
+          "start": 41.26,
+          "end": 41.52,
+          "word": " movie"
+        },
+        {
+          "start": 41.52,
+          "end": 41.84,
+          "word": " he"
+        },
+        {
+          "start": 41.84,
+          "end": 42.4,
+          "word": " wasn't"
+        },
+        {
+          "start": 42.4,
+          "end": 42.54,
+          "word": " good"
+        },
+        {
+          "start": 42.54,
+          "end": 42.72,
+          "word": " at"
+        },
+        {
+          "start": 42.72,
+          "end": 42.96,
+          "word": " all."
+        },
+        {
+          "start": 43.26,
+          "end": 43.28,
+          "word": " I"
+        },
+        {
+          "start": 43.28,
+          "end": 43.82,
+          "word": " didn't"
+        },
+        {
+          "start": 43.82,
+          "end": 44.04,
+          "word": " really"
+        },
+        {
+          "start": 44.04,
+          "end": 44.26,
+          "word": " care"
+        },
+        {
+          "start": 44.26,
+          "end": 44.48,
+          "word": " for"
+        },
+        {
+          "start": 44.48,
+          "end": 44.62,
+          "word": " his"
+        },
+        {
+          "start": 44.62,
+          "end": 44.88,
+          "word": " character"
+        },
+        {
+          "start": 44.88,
+          "end": 45.1,
+          "word": " at"
+        },
+        {
+          "start": 45.1,
+          "end": 45.48,
+          "word": " all"
+        }
+      ]
+    },
+    {
+      "start": 45.48,
+      "end": 49.96,
+      "text": " He's very boring as well. The whole movie is very boring made no sense",
+      "words": [
+        {
+          "start": 45.48,
+          "end": 45.98,
+          "word": " He's"
+        },
+        {
+          "start": 45.98,
+          "end": 46.84,
+          "word": " very"
+        },
+        {
+          "start": 46.84,
+          "end": 47.6,
+          "word": " boring"
+        },
+        {
+          "start": 47.6,
+          "end": 47.82,
+          "word": " as"
+        },
+        {
+          "start": 47.82,
+          "end": 48.02,
+          "word": " well."
+        },
+        {
+          "start": 48.18,
+          "end": 48.22,
+          "word": " The"
+        },
+        {
+          "start": 48.22,
+          "end": 48.26,
+          "word": " whole"
+        },
+        {
+          "start": 48.26,
+          "end": 48.46,
+          "word": " movie"
+        },
+        {
+          "start": 48.46,
+          "end": 48.6,
+          "word": " is"
+        },
+        {
+          "start": 48.6,
+          "end": 48.78,
+          "word": " very"
+        },
+        {
+          "start": 48.78,
+          "end": 49.14,
+          "word": " boring"
+        },
+        {
+          "start": 49.14,
+          "end": 49.34,
+          "word": " made"
+        },
+        {
+          "start": 49.34,
+          "end": 49.58,
+          "word": " no"
+        },
+        {
+          "start": 49.58,
+          "end": 49.96,
+          "word": " sense"
+        }
+      ]
+    },
+    {
+      "start": 49.96,
+      "end": 55.98,
+      "text": " It took place in the 14th century about these witches and stuff. I didn't really care about it at all",
+      "words": [
+        {
+          "start": 49.96,
+          "end": 50.36,
+          "word": " It"
+        },
+        {
+          "start": 50.36,
+          "end": 51.0,
+          "word": " took"
+        },
+        {
+          "start": 51.0,
+          "end": 51.24,
+          "word": " place"
+        },
+        {
+          "start": 51.24,
+          "end": 51.36,
+          "word": " in"
+        },
+        {
+          "start": 51.36,
+          "end": 51.46,
+          "word": " the"
+        },
+        {
+          "start": 51.46,
+          "end": 51.96,
+          "word": " 14th"
+        },
+        {
+          "start": 51.96,
+          "end": 52.34,
+          "word": " century"
+        },
+        {
+          "start": 52.34,
+          "end": 53.14,
+          "word": " about"
+        },
+        {
+          "start": 53.14,
+          "end": 53.54,
+          "word": " these"
+        },
+        {
+          "start": 53.54,
+          "end": 53.84,
+          "word": " witches"
+        },
+        {
+          "start": 53.84,
+          "end": 54.04,
+          "word": " and"
+        },
+        {
+          "start": 54.04,
+          "end": 54.22,
+          "word": " stuff."
+        },
+        {
+          "start": 54.38,
+          "end": 54.38,
+          "word": " I"
+        },
+        {
+          "start": 54.38,
+          "end": 54.6,
+          "word": " didn't"
+        },
+        {
+          "start": 54.6,
+          "end": 54.9,
+          "word": " really"
+        },
+        {
+          "start": 54.9,
+          "end": 55.16,
+          "word": " care"
+        },
+        {
+          "start": 55.16,
+          "end": 55.4,
+          "word": " about"
+        },
+        {
+          "start": 55.4,
+          "end": 55.52,
+          "word": " it"
+        },
+        {
+          "start": 55.52,
+          "end": 55.64,
+          "word": " at"
+        },
+        {
+          "start": 55.64,
+          "end": 55.98,
+          "word": " all"
+        }
+      ]
+    },
+    {
+      "start": 56.04,
+      "end": 62.36,
+      "text": " I had no idea why I saw this movie the trailer looked like it could be a little good",
+      "words": [
+        {
+          "start": 56.04,
+          "end": 57.0,
+          "word": " I"
+        },
+        {
+          "start": 57.0,
+          "end": 57.14,
+          "word": " had"
+        },
+        {
+          "start": 57.14,
+          "end": 57.26,
+          "word": " no"
+        },
+        {
+          "start": 57.26,
+          "end": 57.38,
+          "word": " idea"
+        },
+        {
+          "start": 57.38,
+          "end": 57.74,
+          "word": " why"
+        },
+        {
+          "start": 57.74,
+          "end": 57.92,
+          "word": " I"
+        },
+        {
+          "start": 57.92,
+          "end": 58.36,
+          "word": " saw"
+        },
+        {
+          "start": 58.36,
+          "end": 58.66,
+          "word": " this"
+        },
+        {
+          "start": 58.66,
+          "end": 58.86,
+          "word": " movie"
+        },
+        {
+          "start": 58.86,
+          "end": 59.66,
+          "word": " the"
+        },
+        {
+          "start": 59.66,
+          "end": 59.9,
+          "word": " trailer"
+        },
+        {
+          "start": 59.9,
+          "end": 60.2,
+          "word": " looked"
+        },
+        {
+          "start": 60.2,
+          "end": 60.4,
+          "word": " like"
+        },
+        {
+          "start": 60.4,
+          "end": 60.64,
+          "word": " it"
+        },
+        {
+          "start": 60.64,
+          "end": 61.04,
+          "word": " could"
+        },
+        {
+          "start": 61.04,
+          "end": 61.16,
+          "word": " be"
+        },
+        {
+          "start": 61.16,
+          "end": 61.3,
+          "word": " a"
+        },
+        {
+          "start": 61.3,
+          "end": 61.5,
+          "word": " little"
+        },
+        {
+          "start": 61.5,
+          "end": 62.36,
+          "word": " good"
+        }
+      ]
+    },
+    {
+      "start": 63.22,
+      "end": 66.4,
+      "text": " But when I saw it was this totally boring",
+      "words": [
+        {
+          "start": 63.22,
+          "end": 63.82,
+          "word": " But"
+        },
+        {
+          "start": 63.82,
+          "end": 63.92,
+          "word": " when"
+        },
+        {
+          "start": 63.92,
+          "end": 64.06,
+          "word": " I"
+        },
+        {
+          "start": 64.06,
+          "end": 64.34,
+          "word": " saw"
+        },
+        {
+          "start": 64.34,
+          "end": 64.54,
+          "word": " it"
+        },
+        {
+          "start": 64.54,
+          "end": 64.78,
+          "word": " was"
+        },
+        {
+          "start": 64.78,
+          "end": 65.14,
+          "word": " this"
+        },
+        {
+          "start": 65.14,
+          "end": 65.92,
+          "word": " totally"
+        },
+        {
+          "start": 65.92,
+          "end": 66.4,
+          "word": " boring"
+        }
+      ]
+    },
+    {
+      "start": 68.27,
+      "end": 72.99,
+      "text": " This movie was pushed back till this year. It was supposed to come out like",
+      "words": [
+        {
+          "start": 68.27,
+          "end": 68.87,
+          "word": " This"
+        },
+        {
+          "start": 68.87,
+          "end": 69.05,
+          "word": " movie"
+        },
+        {
+          "start": 69.05,
+          "end": 69.21,
+          "word": " was"
+        },
+        {
+          "start": 69.21,
+          "end": 69.51,
+          "word": " pushed"
+        },
+        {
+          "start": 69.51,
+          "end": 69.99,
+          "word": " back"
+        },
+        {
+          "start": 69.99,
+          "end": 70.35,
+          "word": " till"
+        },
+        {
+          "start": 70.35,
+          "end": 70.55,
+          "word": " this"
+        },
+        {
+          "start": 70.55,
+          "end": 70.93,
+          "word": " year."
+        },
+        {
+          "start": 71.05,
+          "end": 71.65,
+          "word": " It"
+        },
+        {
+          "start": 71.65,
+          "end": 71.75,
+          "word": " was"
+        },
+        {
+          "start": 71.75,
+          "end": 71.87,
+          "word": " supposed"
+        },
+        {
+          "start": 71.87,
+          "end": 71.95,
+          "word": " to"
+        },
+        {
+          "start": 71.95,
+          "end": 72.07,
+          "word": " come"
+        },
+        {
+          "start": 72.07,
+          "end": 72.55,
+          "word": " out"
+        },
+        {
+          "start": 72.55,
+          "end": 72.99,
+          "word": " like"
+        }
+      ]
+    },
+    {
+      "start": 73.57,
+      "end": 75.09,
+      "text": " like last year, but",
+      "words": [
+        {
+          "start": 73.57,
+          "end": 74.09,
+          "word": " like"
+        },
+        {
+          "start": 74.09,
+          "end": 74.43,
+          "word": " last"
+        },
+        {
+          "start": 74.43,
+          "end": 74.73,
+          "word": " year,"
+        },
+        {
+          "start": 74.73,
+          "end": 75.09,
+          "word": " but"
+        }
+      ]
+    },
+    {
+      "start": 76.12,
+      "end": 80.38,
+      "text": " It wasn't really made well until they pushed it back in January",
+      "words": [
+        {
+          "start": 76.12,
+          "end": 76.64,
+          "word": " It"
+        },
+        {
+          "start": 76.64,
+          "end": 76.82,
+          "word": " wasn't"
+        },
+        {
+          "start": 76.82,
+          "end": 77.02,
+          "word": " really"
+        },
+        {
+          "start": 77.02,
+          "end": 77.3,
+          "word": " made"
+        },
+        {
+          "start": 77.3,
+          "end": 77.7,
+          "word": " well"
+        },
+        {
+          "start": 77.7,
+          "end": 78.34,
+          "word": " until"
+        },
+        {
+          "start": 78.34,
+          "end": 78.52,
+          "word": " they"
+        },
+        {
+          "start": 78.52,
+          "end": 78.8,
+          "word": " pushed"
+        },
+        {
+          "start": 78.8,
+          "end": 79.02,
+          "word": " it"
+        },
+        {
+          "start": 79.02,
+          "end": 79.42,
+          "word": " back"
+        },
+        {
+          "start": 79.42,
+          "end": 80.0,
+          "word": " in"
+        },
+        {
+          "start": 80.0,
+          "end": 80.38,
+          "word": " January"
+        }
+      ]
+    },
+    {
+      "start": 82.11,
+      "end": 87.61,
+      "text": " I seen about three movies this year so far and this is the worst by far",
+      "words": [
+        {
+          "start": 82.11,
+          "end": 82.71,
+          "word": " I"
+        },
+        {
+          "start": 82.71,
+          "end": 83.03,
+          "word": " seen"
+        },
+        {
+          "start": 83.03,
+          "end": 83.55,
+          "word": " about"
+        },
+        {
+          "start": 83.55,
+          "end": 83.95,
+          "word": " three"
+        },
+        {
+          "start": 83.95,
+          "end": 84.27,
+          "word": " movies"
+        },
+        {
+          "start": 84.27,
+          "end": 84.43,
+          "word": " this"
+        },
+        {
+          "start": 84.43,
+          "end": 84.61,
+          "word": " year"
+        },
+        {
+          "start": 84.61,
+          "end": 84.85,
+          "word": " so"
+        },
+        {
+          "start": 84.85,
+          "end": 85.21,
+          "word": " far"
+        },
+        {
+          "start": 85.21,
+          "end": 86.07,
+          "word": " and"
+        },
+        {
+          "start": 86.07,
+          "end": 86.21,
+          "word": " this"
+        },
+        {
+          "start": 86.21,
+          "end": 86.33,
+          "word": " is"
+        },
+        {
+          "start": 86.33,
+          "end": 86.45,
+          "word": " the"
+        },
+        {
+          "start": 86.45,
+          "end": 86.75,
+          "word": " worst"
+        },
+        {
+          "start": 86.75,
+          "end": 87.09,
+          "word": " by"
+        },
+        {
+          "start": 87.09,
+          "end": 87.61,
+          "word": " far"
+        }
+      ]
+    },
+    {
+      "start": 88.19,
+      "end": 92.05,
+      "text": " It was very very very boring made no sense",
+      "words": [
+        {
+          "start": 88.19,
+          "end": 88.93,
+          "word": " It"
+        },
+        {
+          "start": 88.93,
+          "end": 89.19,
+          "word": " was"
+        },
+        {
+          "start": 89.19,
+          "end": 89.59,
+          "word": " very"
+        },
+        {
+          "start": 89.59,
+          "end": 89.85,
+          "word": " very"
+        },
+        {
+          "start": 89.85,
+          "end": 90.19,
+          "word": " very"
+        },
+        {
+          "start": 90.19,
+          "end": 90.57,
+          "word": " boring"
+        },
+        {
+          "start": 90.57,
+          "end": 91.09,
+          "word": " made"
+        },
+        {
+          "start": 91.09,
+          "end": 91.33,
+          "word": " no"
+        },
+        {
+          "start": 91.33,
+          "end": 92.05,
+          "word": " sense"
+        }
+      ]
+    },
+    {
+      "start": 92.59,
+      "end": 95.81,
+      "text": " Action scenes were very dumb. I hated it",
+      "words": [
+        {
+          "start": 92.59,
+          "end": 92.99,
+          "word": " Action"
+        },
+        {
+          "start": 92.99,
+          "end": 93.23,
+          "word": " scenes"
+        },
+        {
+          "start": 93.23,
+          "end": 93.35,
+          "word": " were"
+        },
+        {
+          "start": 93.35,
+          "end": 93.55,
+          "word": " very"
+        },
+        {
+          "start": 93.55,
+          "end": 94.09,
+          "word": " dumb."
+        },
+        {
+          "start": 94.63,
+          "end": 95.21,
+          "word": " I"
+        },
+        {
+          "start": 95.21,
+          "end": 95.55,
+          "word": " hated"
+        },
+        {
+          "start": 95.55,
+          "end": 95.81,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 95.81,
+      "end": 100.09,
+      "text": " But the last half hour of the movie it felt like they had like a CGI orgasm",
+      "words": [
+        {
+          "start": 95.81,
+          "end": 95.97,
+          "word": " But"
+        },
+        {
+          "start": 95.97,
+          "end": 96.13,
+          "word": " the"
+        },
+        {
+          "start": 96.13,
+          "end": 96.39,
+          "word": " last"
+        },
+        {
+          "start": 96.39,
+          "end": 96.65,
+          "word": " half"
+        },
+        {
+          "start": 96.65,
+          "end": 96.83,
+          "word": " hour"
+        },
+        {
+          "start": 96.83,
+          "end": 96.97,
+          "word": " of"
+        },
+        {
+          "start": 96.97,
+          "end": 96.99,
+          "word": " the"
+        },
+        {
+          "start": 96.99,
+          "end": 97.23,
+          "word": " movie"
+        },
+        {
+          "start": 97.23,
+          "end": 97.53,
+          "word": " it"
+        },
+        {
+          "start": 97.53,
+          "end": 97.73,
+          "word": " felt"
+        },
+        {
+          "start": 97.73,
+          "end": 97.87,
+          "word": " like"
+        },
+        {
+          "start": 97.87,
+          "end": 97.99,
+          "word": " they"
+        },
+        {
+          "start": 97.99,
+          "end": 98.25,
+          "word": " had"
+        },
+        {
+          "start": 98.25,
+          "end": 98.61,
+          "word": " like"
+        },
+        {
+          "start": 98.61,
+          "end": 98.89,
+          "word": " a"
+        },
+        {
+          "start": 98.89,
+          "end": 99.43,
+          "word": " CGI"
+        },
+        {
+          "start": 99.43,
+          "end": 100.09,
+          "word": " orgasm"
+        }
+      ]
+    },
+    {
+      "start": 100.09,
+      "end": 104.59,
+      "text": " you know, they just tried so hard with the CGI that they put",
+      "words": [
+        {
+          "start": 100.09,
+          "end": 100.41,
+          "word": " you"
+        },
+        {
+          "start": 100.41,
+          "end": 100.63,
+          "word": " know,"
+        },
+        {
+          "start": 100.63,
+          "end": 101.19,
+          "word": " they"
+        },
+        {
+          "start": 101.19,
+          "end": 101.63,
+          "word": " just"
+        },
+        {
+          "start": 101.63,
+          "end": 101.93,
+          "word": " tried"
+        },
+        {
+          "start": 101.93,
+          "end": 102.29,
+          "word": " so"
+        },
+        {
+          "start": 102.29,
+          "end": 102.65,
+          "word": " hard"
+        },
+        {
+          "start": 102.65,
+          "end": 103.11,
+          "word": " with"
+        },
+        {
+          "start": 103.11,
+          "end": 103.23,
+          "word": " the"
+        },
+        {
+          "start": 103.23,
+          "end": 103.55,
+          "word": " CGI"
+        },
+        {
+          "start": 103.55,
+          "end": 103.87,
+          "word": " that"
+        },
+        {
+          "start": 103.87,
+          "end": 104.05,
+          "word": " they"
+        },
+        {
+          "start": 104.05,
+          "end": 104.59,
+          "word": " put"
+        }
+      ]
+    },
+    {
+      "start": 105.46,
+      "end": 109.05,
+      "text": " They threw so much CGI at you and was awful",
+      "words": [
+        {
+          "start": 105.46,
+          "end": 105.75,
+          "word": " They"
+        },
+        {
+          "start": 105.75,
+          "end": 106.39,
+          "word": " threw"
+        },
+        {
+          "start": 106.39,
+          "end": 106.83,
+          "word": " so"
+        },
+        {
+          "start": 106.83,
+          "end": 106.99,
+          "word": " much"
+        },
+        {
+          "start": 106.99,
+          "end": 107.33,
+          "word": " CGI"
+        },
+        {
+          "start": 107.33,
+          "end": 107.61,
+          "word": " at"
+        },
+        {
+          "start": 107.61,
+          "end": 107.85,
+          "word": " you"
+        },
+        {
+          "start": 107.85,
+          "end": 108.47,
+          "word": " and"
+        },
+        {
+          "start": 108.47,
+          "end": 108.63,
+          "word": " was"
+        },
+        {
+          "start": 108.63,
+          "end": 109.05,
+          "word": " awful"
+        }
+      ]
+    },
+    {
+      "start": 109.05,
+      "end": 115.47,
+      "text": " Like it was like spewing CGI last half hour of the movie like every single scene was CGI",
+      "words": [
+        {
+          "start": 109.05,
+          "end": 110.01,
+          "word": " Like"
+        },
+        {
+          "start": 110.01,
+          "end": 110.83,
+          "word": " it"
+        },
+        {
+          "start": 110.83,
+          "end": 110.89,
+          "word": " was"
+        },
+        {
+          "start": 110.89,
+          "end": 111.07,
+          "word": " like"
+        },
+        {
+          "start": 111.07,
+          "end": 111.71,
+          "word": " spewing"
+        },
+        {
+          "start": 111.71,
+          "end": 112.25,
+          "word": " CGI"
+        },
+        {
+          "start": 112.25,
+          "end": 113.09,
+          "word": " last"
+        },
+        {
+          "start": 113.09,
+          "end": 113.29,
+          "word": " half"
+        },
+        {
+          "start": 113.29,
+          "end": 113.41,
+          "word": " hour"
+        },
+        {
+          "start": 113.41,
+          "end": 113.49,
+          "word": " of"
+        },
+        {
+          "start": 113.49,
+          "end": 113.57,
+          "word": " the"
+        },
+        {
+          "start": 113.57,
+          "end": 113.73,
+          "word": " movie"
+        },
+        {
+          "start": 113.73,
+          "end": 113.91,
+          "word": " like"
+        },
+        {
+          "start": 113.91,
+          "end": 114.17,
+          "word": " every"
+        },
+        {
+          "start": 114.17,
+          "end": 114.37,
+          "word": " single"
+        },
+        {
+          "start": 114.37,
+          "end": 114.73,
+          "word": " scene"
+        },
+        {
+          "start": 114.73,
+          "end": 115.09,
+          "word": " was"
+        },
+        {
+          "start": 115.09,
+          "end": 115.47,
+          "word": " CGI"
+        }
+      ]
+    },
+    {
+      "start": 115.47,
+      "end": 121.35,
+      "text": " It was terrible. I hated it. I was sitting there in the theater laughing. How bad the movie was at some points",
+      "words": [
+        {
+          "start": 115.47,
+          "end": 115.91,
+          "word": " It"
+        },
+        {
+          "start": 115.91,
+          "end": 116.11,
+          "word": " was"
+        },
+        {
+          "start": 116.11,
+          "end": 116.81,
+          "word": " terrible."
+        },
+        {
+          "start": 116.81,
+          "end": 117.13,
+          "word": " I"
+        },
+        {
+          "start": 117.13,
+          "end": 117.61,
+          "word": " hated"
+        },
+        {
+          "start": 117.61,
+          "end": 117.81,
+          "word": " it."
+        },
+        {
+          "start": 117.95,
+          "end": 117.97,
+          "word": " I"
+        },
+        {
+          "start": 117.97,
+          "end": 118.05,
+          "word": " was"
+        },
+        {
+          "start": 118.05,
+          "end": 118.23,
+          "word": " sitting"
+        },
+        {
+          "start": 118.23,
+          "end": 118.39,
+          "word": " there"
+        },
+        {
+          "start": 118.39,
+          "end": 118.47,
+          "word": " in"
+        },
+        {
+          "start": 118.47,
+          "end": 118.55,
+          "word": " the"
+        },
+        {
+          "start": 118.55,
+          "end": 118.79,
+          "word": " theater"
+        },
+        {
+          "start": 118.79,
+          "end": 119.51,
+          "word": " laughing."
+        },
+        {
+          "start": 119.51,
+          "end": 119.87,
+          "word": " How"
+        },
+        {
+          "start": 119.87,
+          "end": 120.15,
+          "word": " bad"
+        },
+        {
+          "start": 120.15,
+          "end": 120.29,
+          "word": " the"
+        },
+        {
+          "start": 120.29,
+          "end": 120.41,
+          "word": " movie"
+        },
+        {
+          "start": 120.41,
+          "end": 120.69,
+          "word": " was"
+        },
+        {
+          "start": 120.69,
+          "end": 120.81,
+          "word": " at"
+        },
+        {
+          "start": 120.81,
+          "end": 120.97,
+          "word": " some"
+        },
+        {
+          "start": 120.97,
+          "end": 121.35,
+          "word": " points"
+        }
+      ]
+    },
+    {
+      "start": 121.91,
+      "end": 128.43,
+      "text": " How bad the acting and action was it was so dull boring do not see this movie",
+      "words": [
+        {
+          "start": 121.91,
+          "end": 122.41,
+          "word": " How"
+        },
+        {
+          "start": 122.41,
+          "end": 122.55,
+          "word": " bad"
+        },
+        {
+          "start": 122.55,
+          "end": 122.71,
+          "word": " the"
+        },
+        {
+          "start": 122.71,
+          "end": 123.15,
+          "word": " acting"
+        },
+        {
+          "start": 123.15,
+          "end": 123.47,
+          "word": " and"
+        },
+        {
+          "start": 123.47,
+          "end": 123.95,
+          "word": " action"
+        },
+        {
+          "start": 123.95,
+          "end": 124.33,
+          "word": " was"
+        },
+        {
+          "start": 124.33,
+          "end": 124.39,
+          "word": " it"
+        },
+        {
+          "start": 124.39,
+          "end": 124.47,
+          "word": " was"
+        },
+        {
+          "start": 124.47,
+          "end": 124.83,
+          "word": " so"
+        },
+        {
+          "start": 124.83,
+          "end": 125.59,
+          "word": " dull"
+        },
+        {
+          "start": 125.59,
+          "end": 126.27,
+          "word": " boring"
+        },
+        {
+          "start": 126.27,
+          "end": 127.21,
+          "word": " do"
+        },
+        {
+          "start": 127.21,
+          "end": 127.47,
+          "word": " not"
+        },
+        {
+          "start": 127.47,
+          "end": 127.75,
+          "word": " see"
+        },
+        {
+          "start": 127.75,
+          "end": 127.93,
+          "word": " this"
+        },
+        {
+          "start": 127.93,
+          "end": 128.43,
+          "word": " movie"
+        }
+      ]
+    },
+    {
+      "start": 129.11,
+      "end": 131.37,
+      "text": " season of the witch was",
+      "words": [
+        {
+          "start": 129.11,
+          "end": 129.47,
+          "word": " season"
+        },
+        {
+          "start": 129.47,
+          "end": 129.83,
+          "word": " of"
+        },
+        {
+          "start": 129.83,
+          "end": 129.97,
+          "word": " the"
+        },
+        {
+          "start": 129.97,
+          "end": 130.41,
+          "word": " witch"
+        },
+        {
+          "start": 130.41,
+          "end": 131.37,
+          "word": " was"
+        }
+      ]
+    },
+    {
+      "start": 132.03,
+      "end": 134.17,
+      "text": " horrible acting dull",
+      "words": [
+        {
+          "start": 132.03,
+          "end": 132.41,
+          "word": " horrible"
+        },
+        {
+          "start": 132.41,
+          "end": 133.43,
+          "word": " acting"
+        },
+        {
+          "start": 133.43,
+          "end": 134.17,
+          "word": " dull"
+        }
+      ]
+    },
+    {
+      "start": 134.75,
+      "end": 138.79,
+      "text": " Just don't see this movie. I don't know why I even saw it",
+      "words": [
+        {
+          "start": 134.75,
+          "end": 135.29,
+          "word": " Just"
+        },
+        {
+          "start": 135.29,
+          "end": 135.61,
+          "word": " don't"
+        },
+        {
+          "start": 135.61,
+          "end": 136.03,
+          "word": " see"
+        },
+        {
+          "start": 136.03,
+          "end": 136.23,
+          "word": " this"
+        },
+        {
+          "start": 136.23,
+          "end": 136.67,
+          "word": " movie."
+        },
+        {
+          "start": 136.69,
+          "end": 136.95,
+          "word": " I"
+        },
+        {
+          "start": 136.95,
+          "end": 137.17,
+          "word": " don't"
+        },
+        {
+          "start": 137.17,
+          "end": 137.31,
+          "word": " know"
+        },
+        {
+          "start": 137.31,
+          "end": 137.57,
+          "word": " why"
+        },
+        {
+          "start": 137.57,
+          "end": 137.77,
+          "word": " I"
+        },
+        {
+          "start": 137.77,
+          "end": 137.97,
+          "word": " even"
+        },
+        {
+          "start": 137.97,
+          "end": 138.33,
+          "word": " saw"
+        },
+        {
+          "start": 138.33,
+          "end": 138.79,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 138.79,
+      "end": 142.63,
+      "text": " So season the witch is there the three out of ten",
+      "words": [
+        {
+          "start": 138.79,
+          "end": 139.63,
+          "word": " So"
+        },
+        {
+          "start": 139.63,
+          "end": 140.11,
+          "word": " season"
+        },
+        {
+          "start": 140.11,
+          "end": 140.27,
+          "word": " the"
+        },
+        {
+          "start": 140.27,
+          "end": 140.43,
+          "word": " witch"
+        },
+        {
+          "start": 140.43,
+          "end": 140.61,
+          "word": " is"
+        },
+        {
+          "start": 140.61,
+          "end": 140.71,
+          "word": " there"
+        },
+        {
+          "start": 140.71,
+          "end": 140.85,
+          "word": " the"
+        },
+        {
+          "start": 140.85,
+          "end": 141.41,
+          "word": " three"
+        },
+        {
+          "start": 141.41,
+          "end": 141.79,
+          "word": " out"
+        },
+        {
+          "start": 141.79,
+          "end": 142.01,
+          "word": " of"
+        },
+        {
+          "start": 142.01,
+          "end": 142.63,
+          "word": " ten"
+        }
+      ]
+    },
+    {
+      "start": 142.63,
+      "end": 145.51,
+      "text": " So there you go",
+      "words": [
+        {
+          "start": 142.63,
+          "end": 143.99,
+          "word": " So"
+        },
+        {
+          "start": 143.99,
+          "end": 144.73,
+          "word": " there"
+        },
+        {
+          "start": 144.73,
+          "end": 144.83,
+          "word": " you"
+        },
+        {
+          "start": 144.83,
+          "end": 145.51,
+          "word": " go"
+        }
+      ]
+    }
+  ]
+}

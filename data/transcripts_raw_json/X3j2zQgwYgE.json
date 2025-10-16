@@ -1,0 +1,1143 @@
+{
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 3.44,
+      "text": " Let's talk Shrek ever after.",
+      "words": [
+        {
+          "start": 0.56,
+          "end": 1.3,
+          "word": " Let's"
+        },
+        {
+          "start": 1.3,
+          "end": 1.62,
+          "word": " talk"
+        },
+        {
+          "start": 1.62,
+          "end": 2.14,
+          "word": " Shrek"
+        },
+        {
+          "start": 2.14,
+          "end": 3.0,
+          "word": " ever"
+        },
+        {
+          "start": 3.0,
+          "end": 3.44,
+          "word": " after."
+        }
+      ]
+    },
+    {
+      "start": 5.81,
+      "end": 6.35,
+      "text": " Not great.",
+      "words": [
+        {
+          "start": 5.81,
+          "end": 6.03,
+          "word": " Not"
+        },
+        {
+          "start": 6.03,
+          "end": 6.35,
+          "word": " great."
+        }
+      ]
+    },
+    {
+      "start": 7.73,
+      "end": 10.63,
+      "text": " The gist of the story is that Shrek is tired of his life",
+      "words": [
+        {
+          "start": 7.73,
+          "end": 7.77,
+          "word": " The"
+        },
+        {
+          "start": 7.77,
+          "end": 7.97,
+          "word": " gist"
+        },
+        {
+          "start": 7.97,
+          "end": 8.15,
+          "word": " of"
+        },
+        {
+          "start": 8.15,
+          "end": 8.25,
+          "word": " the"
+        },
+        {
+          "start": 8.25,
+          "end": 8.55,
+          "word": " story"
+        },
+        {
+          "start": 8.55,
+          "end": 8.91,
+          "word": " is"
+        },
+        {
+          "start": 8.91,
+          "end": 9.13,
+          "word": " that"
+        },
+        {
+          "start": 9.13,
+          "end": 9.41,
+          "word": " Shrek"
+        },
+        {
+          "start": 9.41,
+          "end": 9.57,
+          "word": " is"
+        },
+        {
+          "start": 9.57,
+          "end": 9.97,
+          "word": " tired"
+        },
+        {
+          "start": 9.97,
+          "end": 10.17,
+          "word": " of"
+        },
+        {
+          "start": 10.17,
+          "end": 10.31,
+          "word": " his"
+        },
+        {
+          "start": 10.31,
+          "end": 10.63,
+          "word": " life"
+        }
+      ]
+    },
+    {
+      "start": 10.63,
+      "end": 11.99,
+      "text": " now married with the kids,",
+      "words": [
+        {
+          "start": 10.63,
+          "end": 10.97,
+          "word": " now"
+        },
+        {
+          "start": 10.97,
+          "end": 11.25,
+          "word": " married"
+        },
+        {
+          "start": 11.25,
+          "end": 11.49,
+          "word": " with"
+        },
+        {
+          "start": 11.49,
+          "end": 11.71,
+          "word": " the"
+        },
+        {
+          "start": 11.71,
+          "end": 11.99,
+          "word": " kids,"
+        }
+      ]
+    },
+    {
+      "start": 12.21,
+      "end": 14.59,
+      "text": " so he really would like to relive his glory days.",
+      "words": [
+        {
+          "start": 12.21,
+          "end": 12.37,
+          "word": " so"
+        },
+        {
+          "start": 12.37,
+          "end": 12.57,
+          "word": " he"
+        },
+        {
+          "start": 12.57,
+          "end": 12.93,
+          "word": " really"
+        },
+        {
+          "start": 12.93,
+          "end": 13.09,
+          "word": " would"
+        },
+        {
+          "start": 13.09,
+          "end": 13.21,
+          "word": " like"
+        },
+        {
+          "start": 13.21,
+          "end": 13.35,
+          "word": " to"
+        },
+        {
+          "start": 13.35,
+          "end": 13.71,
+          "word": " relive"
+        },
+        {
+          "start": 13.71,
+          "end": 13.93,
+          "word": " his"
+        },
+        {
+          "start": 13.93,
+          "end": 14.23,
+          "word": " glory"
+        },
+        {
+          "start": 14.23,
+          "end": 14.59,
+          "word": " days."
+        }
+      ]
+    },
+    {
+      "start": 15.15,
+      "end": 18.27,
+      "text": " He goes to Rumpelstiltskin and signs a contract",
+      "words": [
+        {
+          "start": 15.15,
+          "end": 15.21,
+          "word": " He"
+        },
+        {
+          "start": 15.21,
+          "end": 15.37,
+          "word": " goes"
+        },
+        {
+          "start": 15.37,
+          "end": 15.57,
+          "word": " to"
+        },
+        {
+          "start": 15.57,
+          "end": 16.43,
+          "word": " Rumpelstiltskin"
+        },
+        {
+          "start": 16.43,
+          "end": 17.15,
+          "word": " and"
+        },
+        {
+          "start": 17.15,
+          "end": 17.47,
+          "word": " signs"
+        },
+        {
+          "start": 17.47,
+          "end": 17.71,
+          "word": " a"
+        },
+        {
+          "start": 17.71,
+          "end": 18.27,
+          "word": " contract"
+        }
+      ]
+    },
+    {
+      "start": 18.79,
+      "end": 21.09,
+      "text": " that in order to have a free day",
+      "words": [
+        {
+          "start": 18.79,
+          "end": 19.27,
+          "word": " that"
+        },
+        {
+          "start": 19.27,
+          "end": 19.69,
+          "word": " in"
+        },
+        {
+          "start": 19.69,
+          "end": 19.83,
+          "word": " order"
+        },
+        {
+          "start": 19.83,
+          "end": 20.07,
+          "word": " to"
+        },
+        {
+          "start": 20.07,
+          "end": 20.31,
+          "word": " have"
+        },
+        {
+          "start": 20.31,
+          "end": 20.49,
+          "word": " a"
+        },
+        {
+          "start": 20.49,
+          "end": 20.85,
+          "word": " free"
+        },
+        {
+          "start": 20.85,
+          "end": 21.09,
+          "word": " day"
+        }
+      ]
+    },
+    {
+      "start": 21.09,
+      "end": 22.95,
+      "text": " where he can relive his glory stuff,",
+      "words": [
+        {
+          "start": 21.09,
+          "end": 21.31,
+          "word": " where"
+        },
+        {
+          "start": 21.31,
+          "end": 21.45,
+          "word": " he"
+        },
+        {
+          "start": 21.45,
+          "end": 21.61,
+          "word": " can"
+        },
+        {
+          "start": 21.61,
+          "end": 21.93,
+          "word": " relive"
+        },
+        {
+          "start": 21.93,
+          "end": 22.13,
+          "word": " his"
+        },
+        {
+          "start": 22.13,
+          "end": 22.49,
+          "word": " glory"
+        },
+        {
+          "start": 22.49,
+          "end": 22.95,
+          "word": " stuff,"
+        }
+      ]
+    },
+    {
+      "start": 23.39,
+      "end": 26.27,
+      "text": " he will give a day unbeknownst to Shrek.",
+      "words": [
+        {
+          "start": 23.39,
+          "end": 23.59,
+          "word": " he"
+        },
+        {
+          "start": 23.59,
+          "end": 23.71,
+          "word": " will"
+        },
+        {
+          "start": 23.71,
+          "end": 23.85,
+          "word": " give"
+        },
+        {
+          "start": 23.85,
+          "end": 24.01,
+          "word": " a"
+        },
+        {
+          "start": 24.01,
+          "end": 24.25,
+          "word": " day"
+        },
+        {
+          "start": 24.41,
+          "end": 25.89,
+          "word": " unbeknownst"
+        },
+        {
+          "start": 25.89,
+          "end": 26.01,
+          "word": " to"
+        },
+        {
+          "start": 26.01,
+          "end": 26.27,
+          "word": " Shrek."
+        }
+      ]
+    },
+    {
+      "start": 26.75,
+      "end": 28.59,
+      "text": " Rumpelstiltskin takes the day that he was born.",
+      "words": [
+        {
+          "start": 26.75,
+          "end": 27.23,
+          "word": " Rumpelstiltskin"
+        },
+        {
+          "start": 27.23,
+          "end": 27.57,
+          "word": " takes"
+        },
+        {
+          "start": 27.57,
+          "end": 27.83,
+          "word": " the"
+        },
+        {
+          "start": 27.83,
+          "end": 27.97,
+          "word": " day"
+        },
+        {
+          "start": 27.97,
+          "end": 28.09,
+          "word": " that"
+        },
+        {
+          "start": 28.09,
+          "end": 28.23,
+          "word": " he"
+        },
+        {
+          "start": 28.23,
+          "end": 28.37,
+          "word": " was"
+        },
+        {
+          "start": 28.37,
+          "end": 28.59,
+          "word": " born."
+        }
+      ]
+    },
+    {
+      "start": 28.81,
+      "end": 30.47,
+      "text": " So then Shrek doesn't exist.",
+      "words": [
+        {
+          "start": 28.81,
+          "end": 28.91,
+          "word": " So"
+        },
+        {
+          "start": 28.91,
+          "end": 29.13,
+          "word": " then"
+        },
+        {
+          "start": 29.13,
+          "end": 29.65,
+          "word": " Shrek"
+        },
+        {
+          "start": 29.65,
+          "end": 30.07,
+          "word": " doesn't"
+        },
+        {
+          "start": 30.07,
+          "end": 30.47,
+          "word": " exist."
+        }
+      ]
+    },
+    {
+      "start": 31.05,
+      "end": 33.91,
+      "text": " And in order to get things back to how they were,",
+      "words": [
+        {
+          "start": 31.05,
+          "end": 31.29,
+          "word": " And"
+        },
+        {
+          "start": 31.29,
+          "end": 31.45,
+          "word": " in"
+        },
+        {
+          "start": 31.45,
+          "end": 31.63,
+          "word": " order"
+        },
+        {
+          "start": 31.63,
+          "end": 32.01,
+          "word": " to"
+        },
+        {
+          "start": 32.01,
+          "end": 32.25,
+          "word": " get"
+        },
+        {
+          "start": 32.25,
+          "end": 32.47,
+          "word": " things"
+        },
+        {
+          "start": 32.47,
+          "end": 32.89,
+          "word": " back"
+        },
+        {
+          "start": 32.89,
+          "end": 33.11,
+          "word": " to"
+        },
+        {
+          "start": 33.11,
+          "end": 33.27,
+          "word": " how"
+        },
+        {
+          "start": 33.27,
+          "end": 33.45,
+          "word": " they"
+        },
+        {
+          "start": 33.45,
+          "end": 33.91,
+          "word": " were,"
+        }
+      ]
+    },
+    {
+      "start": 34.55,
+      "end": 38.68,
+      "text": " he has to get Fiona to fall in love with him",
+      "words": [
+        {
+          "start": 34.55,
+          "end": 34.55,
+          "word": " he"
+        },
+        {
+          "start": 34.55,
+          "end": 34.83,
+          "word": " has"
+        },
+        {
+          "start": 34.83,
+          "end": 35.31,
+          "word": " to"
+        },
+        {
+          "start": 35.31,
+          "end": 36.85,
+          "word": " get"
+        },
+        {
+          "start": 36.88,
+          "end": 37.32,
+          "word": " Fiona"
+        },
+        {
+          "start": 37.32,
+          "end": 37.66,
+          "word": " to"
+        },
+        {
+          "start": 37.66,
+          "end": 37.98,
+          "word": " fall"
+        },
+        {
+          "start": 37.98,
+          "end": 38.14,
+          "word": " in"
+        },
+        {
+          "start": 38.14,
+          "end": 38.26,
+          "word": " love"
+        },
+        {
+          "start": 38.26,
+          "end": 38.46,
+          "word": " with"
+        },
+        {
+          "start": 38.46,
+          "end": 38.68,
+          "word": " him"
+        }
+      ]
+    },
+    {
+      "start": 38.68,
+      "end": 41.14,
+      "text": " and they have to, once again, have two less Shrek kids.",
+      "words": [
+        {
+          "start": 38.68,
+          "end": 39.04,
+          "word": " and"
+        },
+        {
+          "start": 39.04,
+          "end": 39.18,
+          "word": " they"
+        },
+        {
+          "start": 39.18,
+          "end": 39.32,
+          "word": " have"
+        },
+        {
+          "start": 39.32,
+          "end": 39.44,
+          "word": " to,"
+        },
+        {
+          "start": 39.52,
+          "end": 39.56,
+          "word": " once"
+        },
+        {
+          "start": 39.56,
+          "end": 39.82,
+          "word": " again,"
+        },
+        {
+          "start": 40.1,
+          "end": 40.18,
+          "word": " have"
+        },
+        {
+          "start": 40.18,
+          "end": 40.5,
+          "word": " two"
+        },
+        {
+          "start": 40.5,
+          "end": 40.66,
+          "word": " less"
+        },
+        {
+          "start": 40.66,
+          "end": 40.9,
+          "word": " Shrek"
+        },
+        {
+          "start": 40.9,
+          "end": 41.14,
+          "word": " kids."
+        }
+      ]
+    },
+    {
+      "start": 41.72,
+      "end": 43.1,
+      "text": " I really think what this was missing",
+      "words": [
+        {
+          "start": 41.72,
+          "end": 41.88,
+          "word": " I"
+        },
+        {
+          "start": 41.88,
+          "end": 42.02,
+          "word": " really"
+        },
+        {
+          "start": 42.02,
+          "end": 42.26,
+          "word": " think"
+        },
+        {
+          "start": 42.26,
+          "end": 42.42,
+          "word": " what"
+        },
+        {
+          "start": 42.42,
+          "end": 42.58,
+          "word": " this"
+        },
+        {
+          "start": 42.58,
+          "end": 42.76,
+          "word": " was"
+        },
+        {
+          "start": 42.76,
+          "end": 43.1,
+          "word": " missing"
+        }
+      ]
+    },
+    {
+      "start": 43.1,
+      "end": 45.24,
+      "text": " was that humor and that wit",
+      "words": [
+        {
+          "start": 43.1,
+          "end": 43.32,
+          "word": " was"
+        },
+        {
+          "start": 43.32,
+          "end": 43.52,
+          "word": " that"
+        },
+        {
+          "start": 43.52,
+          "end": 44.14,
+          "word": " humor"
+        },
+        {
+          "start": 44.14,
+          "end": 44.5,
+          "word": " and"
+        },
+        {
+          "start": 44.5,
+          "end": 44.74,
+          "word": " that"
+        },
+        {
+          "start": 44.74,
+          "end": 45.24,
+          "word": " wit"
+        }
+      ]
+    },
+    {
+      "start": 45.9,
+      "end": 48.26,
+      "text": " that is in the other Shrek movies.",
+      "words": [
+        {
+          "start": 45.9,
+          "end": 46.16,
+          "word": " that"
+        },
+        {
+          "start": 46.16,
+          "end": 46.86,
+          "word": " is"
+        },
+        {
+          "start": 46.86,
+          "end": 47.02,
+          "word": " in"
+        },
+        {
+          "start": 47.02,
+          "end": 47.18,
+          "word": " the"
+        },
+        {
+          "start": 47.18,
+          "end": 47.46,
+          "word": " other"
+        },
+        {
+          "start": 47.46,
+          "end": 47.78,
+          "word": " Shrek"
+        },
+        {
+          "start": 47.78,
+          "end": 48.26,
+          "word": " movies."
+        }
+      ]
+    },
+    {
+      "start": 49.2,
+      "end": 50.44,
+      "text": " It's just not fair.",
+      "words": [
+        {
+          "start": 49.2,
+          "end": 49.68,
+          "word": " It's"
+        },
+        {
+          "start": 49.68,
+          "end": 49.76,
+          "word": " just"
+        },
+        {
+          "start": 49.76,
+          "end": 49.98,
+          "word": " not"
+        },
+        {
+          "start": 49.98,
+          "end": 50.44,
+          "word": " fair."
+        }
+      ]
+    },
+    {
+      "start": 50.86,
+      "end": 53.52,
+      "text": " It's okay, but it's really not wonderful.",
+      "words": [
+        {
+          "start": 50.86,
+          "end": 51.12,
+          "word": " It's"
+        },
+        {
+          "start": 51.12,
+          "end": 51.58,
+          "word": " okay,"
+        },
+        {
+          "start": 52.26,
+          "end": 52.42,
+          "word": " but"
+        },
+        {
+          "start": 52.42,
+          "end": 52.56,
+          "word": " it's"
+        },
+        {
+          "start": 52.56,
+          "end": 52.78,
+          "word": " really"
+        },
+        {
+          "start": 52.78,
+          "end": 53.02,
+          "word": " not"
+        },
+        {
+          "start": 53.02,
+          "end": 53.52,
+          "word": " wonderful."
+        }
+      ]
+    },
+    {
+      "start": 53.76,
+      "end": 55.38,
+      "text": " Nothing to rush out and see.",
+      "words": [
+        {
+          "start": 53.76,
+          "end": 53.88,
+          "word": " Nothing"
+        },
+        {
+          "start": 53.88,
+          "end": 54.18,
+          "word": " to"
+        },
+        {
+          "start": 54.18,
+          "end": 54.54,
+          "word": " rush"
+        },
+        {
+          "start": 54.54,
+          "end": 54.82,
+          "word": " out"
+        },
+        {
+          "start": 54.82,
+          "end": 55.02,
+          "word": " and"
+        },
+        {
+          "start": 55.02,
+          "end": 55.38,
+          "word": " see."
+        }
+      ]
+    },
+    {
+      "start": 55.96,
+      "end": 57.48,
+      "text": " There aren't a lot of kids' movies out right now.",
+      "words": [
+        {
+          "start": 55.96,
+          "end": 56.04,
+          "word": " There"
+        },
+        {
+          "start": 56.04,
+          "end": 56.12,
+          "word": " aren't"
+        },
+        {
+          "start": 56.12,
+          "end": 56.22,
+          "word": " a"
+        },
+        {
+          "start": 56.22,
+          "end": 56.34,
+          "word": " lot"
+        },
+        {
+          "start": 56.34,
+          "end": 56.46,
+          "word": " of"
+        },
+        {
+          "start": 56.46,
+          "end": 56.6,
+          "word": " kids'"
+        },
+        {
+          "start": 56.7,
+          "end": 56.82,
+          "word": " movies"
+        },
+        {
+          "start": 56.82,
+          "end": 57.08,
+          "word": " out"
+        },
+        {
+          "start": 57.08,
+          "end": 57.22,
+          "word": " right"
+        },
+        {
+          "start": 57.22,
+          "end": 57.48,
+          "word": " now."
+        }
+      ]
+    },
+    {
+      "start": 57.48,
+      "end": 60.58,
+      "text": " And I guess normally Shrek is for adults,",
+      "words": [
+        {
+          "start": 57.48,
+          "end": 58.0,
+          "word": " And"
+        },
+        {
+          "start": 58.0,
+          "end": 58.76,
+          "word": " I"
+        },
+        {
+          "start": 58.76,
+          "end": 58.96,
+          "word": " guess"
+        },
+        {
+          "start": 58.96,
+          "end": 59.64,
+          "word": " normally"
+        },
+        {
+          "start": 59.64,
+          "end": 59.84,
+          "word": " Shrek"
+        },
+        {
+          "start": 59.84,
+          "end": 60.02,
+          "word": " is"
+        },
+        {
+          "start": 60.02,
+          "end": 60.22,
+          "word": " for"
+        },
+        {
+          "start": 60.22,
+          "end": 60.58,
+          "word": " adults,"
+        }
+      ]
+    },
+    {
+      "start": 61.2,
+      "end": 64.38,
+      "text": " but lack, you know, very lackluster.",
+      "words": [
+        {
+          "start": 61.2,
+          "end": 61.38,
+          "word": " but"
+        },
+        {
+          "start": 61.64,
+          "end": 62.58,
+          "word": " lack,"
+        },
+        {
+          "start": 63.04,
+          "end": 63.26,
+          "word": " you"
+        },
+        {
+          "start": 63.26,
+          "end": 63.42,
+          "word": " know,"
+        },
+        {
+          "start": 63.66,
+          "end": 63.82,
+          "word": " very"
+        },
+        {
+          "start": 63.82,
+          "end": 64.38,
+          "word": " lackluster."
+        }
+      ]
+    },
+    {
+      "start": 66.45,
+      "end": 69.14,
+      "text": " Anyway, that's it.",
+      "words": [
+        {
+          "start": 66.45,
+          "end": 67.01,
+          "word": " Anyway,"
+        },
+        {
+          "start": 68.28,
+          "end": 68.82,
+          "word": " that's"
+        },
+        {
+          "start": 68.82,
+          "end": 69.14,
+          "word": " it."
+        }
+      ]
+    },
+    {
+      "start": 70.16,
+      "end": 73.22,
+      "text": " Be forewarned, no expectations, okay?",
+      "words": [
+        {
+          "start": 70.16,
+          "end": 70.72,
+          "word": " Be"
+        },
+        {
+          "start": 70.72,
+          "end": 71.28,
+          "word": " forewarned,"
+        },
+        {
+          "start": 71.42,
+          "end": 71.6,
+          "word": " no"
+        },
+        {
+          "start": 71.6,
+          "end": 72.3,
+          "word": " expectations,"
+        },
+        {
+          "start": 72.78,
+          "end": 73.22,
+          "word": " okay?"
+        }
+      ]
+    },
+    {
+      "start": 73.88,
+      "end": 75.88,
+      "text": " And now I sleep, so off to bed.",
+      "words": [
+        {
+          "start": 73.88,
+          "end": 74.16,
+          "word": " And"
+        },
+        {
+          "start": 74.16,
+          "end": 74.44,
+          "word": " now"
+        },
+        {
+          "start": 74.44,
+          "end": 74.6,
+          "word": " I"
+        },
+        {
+          "start": 74.6,
+          "end": 74.86,
+          "word": " sleep,"
+        },
+        {
+          "start": 75.12,
+          "end": 75.24,
+          "word": " so"
+        },
+        {
+          "start": 75.24,
+          "end": 75.5,
+          "word": " off"
+        },
+        {
+          "start": 75.5,
+          "end": 75.66,
+          "word": " to"
+        },
+        {
+          "start": 75.66,
+          "end": 75.88,
+          "word": " bed."
+        }
+      ]
+    },
+    {
+      "start": 76.5,
+      "end": 76.58,
+      "text": " Ciao.",
+      "words": [
+        {
+          "start": 76.5,
+          "end": 76.58,
+          "word": " Ciao."
+        }
+      ]
+    }
+  ]
+}
