@@ -1,23 +1,17 @@
 # app_streamlit.py
 # -------------------------------------------------------------------
 # MOSI Sync Viewer
-# - Video + Transcript highlight + Waveform
-# - Sentiment bar + Dynamic sentiment label
+# - Video + Transcript highlight + Waveform (click-to-seek)
+# - Sentiment bar + Dynamic sentiment badge
 # - OpenFace AUs (synced) + Emotion band (rule-based from AUs)
 # - Text↔Face Agreement bar
 # - Auto-scroll transcript toggle
-# - Metrics + Feedback loop (CSV)
-# - Pattern timeline (Smile/Frown/Gaze/Pause ticks with click-to-seek)
-# - Top co-occurring behaviours table + optional segments list
-#
-# Expected files per <id>:
-#   data/mosi_videos/<id>.mp4
-#   data/transcripts/<id>.csv    (id,start,end,word)
-#   data/waveforms/<id>.json     (list[float] in [-1,1])
-#   data/sentiment/<id>.csv      (text,start,end,label,score,polarity) [optional]
-#   data/openface/<id>.json      (time[], aus{AUxx_r:[]}, gaze, pose)   [optional]
-#   data/patterns/<id>.json      (pattern ticks & spans)                [optional]
-#   data/patterns_cooc/<id>.json ({combos}, {segments})                 [optional]
+# - Metrics
+# - Pattern timeline (Smile/Frown/Gaze ticks with click-to-seek, no Pause)
+# - Right-aligned pattern labels
+# - Top co-occurring behaviours + optional segments list (PAGINATED)
+# - Feedback loop (CSV) AT BOTTOM
+# - Clip insights panel (bullets)
 #
 # Run: streamlit run app_streamlit.py
 
@@ -71,12 +65,11 @@ def read_sentences(vid_id: str):
     df["end"]      = pd.to_numeric(df["end"],   errors="coerce").fillna(df["start"])
     df["score"]    = pd.to_numeric(df["score"], errors="coerce").fillna(0.0)
     df["polarity"] = pd.to_numeric(df["polarity"], errors="coerce").fillna(0.0)
-    # normalize labels to POSITIVE/NEGATIVE or None
     def _norm(x: str | None):
         if not isinstance(x, str): return None
         x = x.strip().upper()
-        if x in ("POS", "POSITIVE"): return "POSITIVE"
-        if x in ("NEG", "NEGATIVE"): return "NEGATIVE"
+        if x in ("POS","POSITIVE"): return "POSITIVE"
+        if x in ("NEG","NEGATIVE"): return "NEGATIVE"
         return None
     df["label"] = df["label"].map(_norm)
     return df[["text","start","end","label","score","polarity"]].to_dict("records")
@@ -147,6 +140,128 @@ def compute_basic_metrics(sents: list[dict], of_bundle: dict):
         "total_time": total_time
     }
 
+# -------- Insights helpers ----------
+def _estimate_duration(words, sents, of_bundle):
+    dur = 0.0
+    try:
+        if of_bundle and of_bundle.get("time"):
+            dur = max(dur, float(of_bundle["time"][-1]))
+    except Exception:
+        pass
+    try:
+        if sents:
+            dur = max(dur, max(float(s.get("end") or 0.0) for s in sents))
+    except Exception:
+        pass
+    try:
+        if words:
+            dur = max(dur, max(float(w.get("end") or 0.0) for w in words))
+    except Exception:
+        pass
+    return dur or None
+
+def _sentiment_summary(sents):
+    pos_t, tot_t, flips, last = 0.0, 0.0, 0, None
+    for s in sents or []:
+        st = float(s.get("start") or 0.0)
+        en = float(s.get("end")   or st)
+        dur = max(0.0, en - st)
+        if dur <= 0: 
+            continue
+        lab = s.get("label")
+        pol = float(s.get("polarity") or 0.0)
+        if not lab:
+            lab = "POSITIVE" if pol >= 0 else "NEGATIVE"
+        if lab == "POSITIVE":
+            pos_t += dur
+        tot_t += dur
+        if last is not None and lab != last:
+            flips += 1
+        last = lab
+    pos_pct = (pos_t / tot_t * 100.0) if tot_t > 0 else 0.0
+    return pos_pct, flips
+
+def _agreement_mismatch_rate(sents, of_bundle):
+    """Rough, duration-weighted face↔text (dis)agreement using AU12 vs AU04/AU15."""
+    try:
+        T = of_bundle.get("time") or []
+        aus = of_bundle.get("aus") or {}
+        au12 = aus.get("AU12_r") or []
+        au04 = aus.get("AU04_r") or []
+        au15 = aus.get("AU15_r") or []
+        if not (T and au12 and au04 and au15) or len(T) < 2:
+            return None
+        def seg_at(t):
+            for s in sents or []:
+                if t >= float(s.get("start") or 0.0) and t <= float(s.get("end") or 0.0):
+                    pol = float(s.get("polarity") or 0.0)
+                    lab = s.get("label")
+                    if not lab:
+                        lab = "POSITIVE" if pol >= 0 else "NEGATIVE"
+                    return 1 if lab == "POSITIVE" else -1
+            return 0  # no text at that instant
+        agree_t, tot = 0.0, 0.0
+        for i in range(len(T)-1):
+            mid = 0.5*(T[i] + T[i+1])
+            d   = max(0.0, T[i+1] - T[i])
+            if d == 0: 
+                continue
+            text_sign = seg_at(mid)
+            if text_sign == 0:
+                continue
+            face_val = (au12[i] or 0.0) - 0.5*((au04[i] or 0.0) + (au15[i] or 0.0))
+            face_sign = 1 if face_val >= 0 else -1
+            if face_sign == text_sign:
+                agree_t += d
+            tot += d
+        if tot == 0: 
+            return None
+        return 100.0 * (1.0 - agree_t/tot)  # mismatch %
+    except Exception:
+        return None
+
+def _hotspot_windows(segs_list, duration, bins=24, topk=2):
+    """Find dense co-occurrence windows by binning segment midpoints."""
+    if not segs_list or not duration:
+        return []
+    mids = []
+    for s in segs_list:
+        st = float(s.get("start") or 0.0)
+        en = float(s.get("end")   or st)
+        mids.append(max(0.0, min(duration, 0.5*(st+en))))
+    if not mids:
+        return []
+    counts = [0]*bins
+    for m in mids:
+        idx = min(bins-1, int((m/duration)*bins))
+        counts[idx] += 1
+    ranked = sorted(range(bins), key=lambda i: counts[i], reverse=True)[:topk]
+    res = []
+    for i in ranked:
+        t0 = ( i    / bins)*duration
+        t1 = ((i+1) / bins)*duration
+        res.append((t0, t1, counts[i]))
+    res.sort(key=lambda x: x[0])
+    return res
+
+def compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list):
+    """Return concise insight bullets for the UI."""
+    insights = []
+    if cooc_list:
+        top3 = cooc_list[:3]
+        tops = [f"**{p}** ({c})" for p, c in top3]
+        insights.append("Most frequent patterns: " + ", ".join(tops) + ".")
+    duration = _estimate_duration(words, sents, of_bundle)
+    hotspots = _hotspot_windows(segs_list, duration, bins=24, topk=2)
+    if hotspots:
+        nice = [f"{t0:.0f}–{t1:.0f}s ({cnt} segs)" for (t0, t1, cnt) in hotspots]
+        insights.append("Hotspots for co-occurring cues: " + ", ".join(nice) + ".")
+    pos_pct, flips = _sentiment_summary(sents)
+    line = f"Text sentiment is **{pos_pct:.0f}% positive** with **{flips} flips**"
+    line += "."
+    insights.append(line)
+    return insights
+
 # ---------------- App ----------------
 st.set_page_config(page_title="MOSI Sync Viewer", layout="wide")
 st.title("MOSI Sync Viewer")
@@ -193,13 +308,71 @@ if cooc_list:
     df = pd.DataFrame(cooc_list, columns=["Pattern", "Count"])
     st.dataframe(df, use_container_width=True, hide_index=True)
 
-# --- Optional: segments list toggle
+    # ---- Clip insights (concise bullets)
+    bullets = compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list)
+    if bullets:
+        st.markdown("#### Clip insights")
+        for b in bullets:
+            st.markdown(f"- {b}")
+
+# --- Optional: segments list (PAGINATED, shows ALL)
 show_segs = st.toggle("Show pattern segments (2s windows)", value=False) if segs_list else False
 if show_segs and segs_list:
     st.markdown("#### Pattern segments")
-    for j, seg in enumerate(segs_list[:30]):
+    page_size = st.selectbox(
+        "Rows per page",
+        [20, 30, 50, 100, 200, 500],
+        index=0,  # default 20
+        key=f"seg_ps_{vid}",
+        help="How many segments to show per page"
+    )
+    total = len(segs_list)
+    total_pages = max(1, (total + page_size - 1) // page_size)
+    pg_key = f"seg_pg_{vid}"
+    if pg_key not in st.session_state:
+        st.session_state[pg_key] = 1
+
+    cA, cB, cC, cD, cE = st.columns([1,1,3,1,1])
+    with cA:
+        if st.button("⏮ First", disabled=st.session_state[pg_key] <= 1, key=f"first_{vid}"):
+            st.session_state[pg_key] = 1
+    with cB:
+        if st.button("◀ Prev", disabled=st.session_state[pg_key] <= 1, key=f"prev_{vid}"):
+            st.session_state[pg_key] -= 1
+    with cD:
+        if st.button("Next ▶", disabled=st.session_state[pg_key] >= total_pages, key=f"next_{vid}"):
+            st.session_state[pg_key] += 1
+    with cE:
+        if st.button("Last ⏭", disabled=st.session_state[pg_key] >= total_pages, key=f"last_{vid}"):
+            st.session_state[pg_key] = total_pages
+    with cC:
+        st.markdown(
+            f"Page **{st.session_state[pg_key]}** / **{total_pages}** — "
+            f"showing **{page_size}** per page — **{total}** total segments"
+        )
+
+    start = (st.session_state[pg_key] - 1) * page_size
+    end = min(start + page_size, total)
+
+    for j in range(start, end):
+        seg = segs_list[j]
         labels = ", ".join(seg.get("labels", []))
         st.write(f"**{j+1}.** {seg['start']:.2f}s → {seg['end']:.2f}s — {labels}")
+
+    export_df = pd.DataFrame(
+        [{"index": i+1,
+          "start": s.get("start"),
+          "end": s.get("end"),
+          "labels": ", ".join(s.get("labels", []))}
+         for i, s in enumerate(segs_list)]
+    )
+    st.download_button(
+        "Download all segments (CSV)",
+        export_df.to_csv(index=False).encode("utf-8"),
+        file_name=f"{vid}_pattern_segments.csv",
+        mime="text/csv",
+        help="Exports ALL segments for this video (not just current page)"
+    )
 
 # canvases
 CANVAS_W, CANVAS_H = 640, 110
@@ -207,45 +380,10 @@ SENT_H  = 12
 AGREE_H = 10
 EMO_H   = 10
 AU_H    = 120
-PAT_H   = 56
-
-# ---- Feedback form ----
-st.markdown("### Feedback")
-if sents:
-    seg_labels = [
-        f"[{i:02d}] {max(0.0,float(s['start'])):.2f}-{max(0.0,float(s['end'])):.2f}s  |  "
-        f"{str(s.get('label') or ('POS' if (s.get('polarity',0)>=0) else 'NEG'))}  |  "
-        f"{(s.get('text') or '').strip()[:80]}"
-        for i,s in enumerate(sents)
-    ]
-    with st.form("feedback_form", clear_on_submit=True):
-        seg_idx = st.selectbox("Segment to rate", list(range(len(sents))), format_func=lambda i: seg_labels[i])
-        rating  = st.radio("Is the sentiment label correct?", ["✔ Correct","✖ Incorrect"], horizontal=True, index=0)
-        note    = st.text_area("Notes (optional)")
-        submitted = st.form_submit_button("Save feedback")
-        if submitted:
-            row = sents[seg_idx]
-            fb_path = FB_DIR / f"{vid}.csv"
-            newrow = {
-                "clip_id": vid,
-                "seg_index": seg_idx,
-                "seg_start": float(row["start"]),
-                "seg_end":   float(row["end"]),
-                "model_label": row.get("label") or ("POSITIVE" if (float(row.get("polarity") or 0.0) >= 0) else "NEGATIVE"),
-                "model_score": float(row.get("score") or 0.0),
-                "polarity": float(row.get("polarity") or 0.0),
-                "user_rating": "correct" if rating.startswith("✔") else "incorrect",
-                "note": note,
-            }
-            write_header = not fb_path.exists()
-            with fb_path.open("a", newline="", encoding="utf-8") as f:
-                w = csv.DictWriter(f, fieldnames=list(newrow.keys()))
-                if write_header: w.writeheader()
-                w.writerow(newrow)
-            st.success(f"Saved feedback → {fb_path.name}")
+PAT_H   = 72  # taller pattern strip
 
 # ----------------- Component (HTML+JS) -----------------
-# IMPORTANT: All literal JS/CSS braces are doubled {{ }} to avoid f-string parsing.
+# IMPORTANT: JS template literals inside f-strings use ${{...}} to avoid f-string parsing.
 component_html = f"""
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
@@ -261,14 +399,42 @@ component_html = f"""
   .word {{ padding:2px 4px; margin-right:2px; cursor:pointer; border-radius:4px; }}
   .word.active {{ background:#ffeb3b; color:#000; }}
   canvas {{ display:block; margin-top:6px; border:1px solid #444; background:#111; border-radius:4px; }}
-  #sentLabel {{ margin-top:10px; font-size:16px; font-weight:bold; }}
-  #emoLabel  {{ margin-top:4px; font-size:15px; font-weight:600; }}
-  .pos {{ color:#0f0; }} .neg {{ color:#f44; }}
-  .joy {{ color:#d4f542; }} .anger {{ color:#ff4d4d; }} .sad {{ color:#6aa0ff; }} .neutral {{ color:#bbb; }}
-  .legend {{ font-size:12px; opacity:.85; margin-left:8px; }}
-  .pill {{ display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:6px; vertical-align:middle; }}
-  .rowlbl {{ position:absolute; left:8px; font-size:11px; color:#bfbfbf; }}
-  .patwrap {{ position:relative; width:{CANVAS_W}px; }}
+  #wave {{ cursor: pointer; }}
+  #au   {{ cursor: pointer; }}
+
+  /* Sentiment & Emotion badges */
+  #sentLabel, #emoLabel {{
+    margin-top:10px;
+    font-size:16px;
+    font-weight:700;
+    display:inline-block;
+    padding:4px 10px;
+    border-radius:999px;
+    line-height:1.25;
+    letter-spacing:.2px;
+    background:#1d1f26;
+    color:#e7e7e7;
+  }}
+  #emoLabel{{ margin-left:10px; }}
+  #sentLabel.pos {{ background:#15803d; color:#fff; }}
+  #sentLabel.neg {{ background:#b91c1c; color:#fff; }}
+  #emoLabel.joy    {{ background:#d4f542; color:#1a1a1a; }}
+  #emoLabel.anger  {{ background:#ef4444; color:#fff; }}
+  #emoLabel.sad    {{ background:#60a5fa; color:#0a1a2b; }}
+  #emoLabel.neutral{{ background:#6b7280; color:#fff; }}
+
+  /* Clean pattern labels in a right-side column */
+  .patrow {{ display:flex; align-items:center; gap:10px; }}
+  .patlabels {{
+    width:64px;
+    display:flex; flex-direction:column;
+    justify-content:space-between;
+    height:{PAT_H}px;   /* match canvas height */
+    font-size:12px; color:#bfbfbf;
+    line-height:1; user-select:none;
+    text-align:left;
+  }}
+  .patlabels div {{ display:flex; align-items:center; height:{PAT_H//3}px; }}
 </style></head>
 <body>
 <div class="wrap">
@@ -277,9 +443,6 @@ component_html = f"""
 
     <div class="panel">
       <label><input type="checkbox" id="autos" checked> Auto-scroll transcript</label>
-      <span class="legend"><span class="pill" style="background:#0f0"></span>Waveform</span>
-      <span class="legend"><span class="pill" style="background:red"></span>Playhead</span>
-      {"<span class='legend'><span class='pill' style='background:#090'></span>Positive <span class='pill' style='background:#900;margin-left:10px;'></span>Negative</span>" if len(sents)>0 else ""}
     </div>
 
     <div class="lbl">Waveform</div>
@@ -295,7 +458,12 @@ component_html = f"""
     {"<canvas id='emoband'  width='"+str(CANVAS_W)+"' height='"+str(EMO_H)+"'></canvas>" if len(of_bundle)>0 else ""}
 
     {"<div class='lbl'>Patterns (click ticks to seek)</div>" if len(patterns)>0 else ""}
-    {"<div class='patwrap'><div class='rowlbl' style='top:12px'>Smile</div><div class='rowlbl' style='top:32px'>Frown</div><div class='rowlbl' style='top:52px'>Gaze</div><div class='rowlbl' style='top:72px'>Pause</div><canvas id='pat' width='"+str(CANVAS_W)+"' height='"+str(PAT_H)+"' style='margin-top:2px;'></canvas></div>" if len(patterns)>0 else ""}
+    {(
+      "<div class='patrow'>"
+      + "<canvas id='pat' width='"+str(CANVAS_W)+"' height='"+str(PAT_H)+"' style='margin-top:2px;'></canvas>"
+      + "<div class='patlabels'><div>Smile</div><div>Frown</div><div>Gaze</div></div>"
+      + "</div>"
+      ) if len(patterns)>0 else ""}
 
     <div id="sentLabel"></div>
     <div id="emoLabel"></div>
@@ -364,7 +532,7 @@ function renderTranscript() {{
 renderTranscript();
 function spans() {{ return box.children; }}
 
-// ---------- Waveform ----------
+// ---------- Waveform (click-to-seek) ----------
 function drawWaveform(time) {{
   ctx.clearRect(0,0,cvs.width,cvs.height);
   const mid = cvs.height * 0.5;
@@ -381,6 +549,14 @@ function drawWaveform(time) {{
     ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, cvs.height);
     ctx.strokeStyle = "red"; ctx.lineWidth = 1; ctx.stroke();
   }}
+}}
+if (cvs) {{
+  cvs.addEventListener("click", (e) => {{
+    if (!v.duration) return;
+    const rect = cvs.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    v.currentTime = Math.min(Math.max(x / cvs.width, 0), 1) * v.duration;
+  }});
 }}
 
 // ---------- Sentiment bar ----------
@@ -462,22 +638,23 @@ function drawAgreement() {{
   }}
 }}
 
-// ---------- Pattern ticks (Smile/Frown/Gaze/Pause) ----------
+// ---------- Pattern ticks (Smile/Frown/Gaze) ----------
 function drawPatterns() {{
   if (!patCtx || !patterns || !patterns.time || !v.duration) return;
   const W = patCanvas.width, H = patCanvas.height;
   patCtx.clearRect(0,0,W,H);
 
+  const ROWS = 3;
+  const laneY = (rowIdx) => Math.round(((rowIdx + 0.5) / ROWS) * H);
+
   const lanes = [
-    {{key:"AU12_r_peaks", color:"#7dd3fc", y:14}},  // Smile
-    {{key:"AU04_r_peaks", color:"#f472b6", y:34}},  // Frown
-    {{key:"gaze_shifts",  color:"#facc15", y:54}},  // Gaze
-    {{key:"pauses",       color:"#a3a3a3", y:74}},  // Pause
+    {{key:"AU12_r_peaks", color:"#7dd3fc", y: laneY(0)}},  // Smile
+    {{key:"AU04_r_peaks", color:"#f472b6", y: laneY(1)}},  // Frown
+    {{key:"gaze_shifts",  color:"#facc15", y: laneY(2)}},  // Gaze
   ];
 
   function xOfIdx(i){{ return (patterns.time[Math.min(i, patterns.time.length-1)] / v.duration) * W; }}
 
-  // store click map
   patCanvas._tickTimes = [];
 
   lanes.forEach(l => {{
@@ -485,32 +662,18 @@ function drawPatterns() {{
     if (!arr) return;
     patCtx.strokeStyle = l.color;
     patCtx.lineWidth = 2;
-
-    if (l.key === "pauses" && Array.isArray(arr) && arr.length && Array.isArray(arr[0])) {{
-      // spans [i0,i1]
-      arr.forEach(span => {{
-        const x0 = xOfIdx(span[0]);
-        const x1 = xOfIdx(span[1]);
-        patCtx.beginPath(); patCtx.moveTo(x0, l.y); patCtx.lineTo(x1, l.y); patCtx.stroke();
-        patCanvas._tickTimes.push(((x0+x1)/2) / W * v.duration);
-      }});
-    }} else {{
-      // index list
-      arr.forEach(i => {{
-        const x = xOfIdx(i);
-        patCtx.beginPath(); patCtx.moveTo(x, l.y-6); patCtx.lineTo(x, l.y+6); patCtx.stroke();
-        patCanvas._tickTimes.push(x / W * v.duration);
-      }});
-    }}
+    arr.forEach(i => {{
+      const x = xOfIdx(i);
+      patCtx.beginPath(); patCtx.moveTo(x, l.y-6); patCtx.lineTo(x, l.y+6); patCtx.stroke();
+      patCanvas._tickTimes.push(x / W * v.duration);
+    }});
   }});
 
-  // playhead
   const x = (v.currentTime / v.duration) * W;
   patCtx.beginPath(); patCtx.moveTo(x, 0); patCtx.lineTo(x, H);
   patCtx.strokeStyle = "red"; patCtx.lineWidth = 1; patCtx.stroke();
 }}
 
-// click-to-seek on patterns
 if (patCanvas) {{
   patCanvas.addEventListener("click", (e) => {{
     if (!v.duration || !patCanvas._tickTimes || !patCanvas._tickTimes.length) return;
@@ -527,7 +690,7 @@ if (patCanvas) {{
   }});
 }}
 
-// ---------- AUs ----------
+// ---------- AUs (click-to-seek) ----------
 const AU_COLORS = ["#4da6ff", "#ffd24d", "#ff66cc", "#66ff99", "#ff8c66", "#b366ff"];
 function drawAUs(time) {{
   if (!auctx || !ofBundle.aus || !ofBundle.time || !v.duration) return;
@@ -560,6 +723,14 @@ function drawAUs(time) {{
   auctx.beginPath(); auctx.moveTo(x, 0); auctx.lineTo(x, H);
   auctx.strokeStyle = "red"; auctx.lineWidth = 1; auctx.stroke();
 }}
+if (aucvs) {{
+  aucvs.addEventListener("click", (e) => {{
+    if (!v.duration) return;
+    const rect = aucvs.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    v.currentTime = Math.min(Math.max(x / aucvs.width, 0), 1) * v.duration;
+  }});
+}}
 
 // ---------- Emotion label helper ----------
 function emotionAtTime(tSec) {{
@@ -570,8 +741,16 @@ function emotionAtTime(tSec) {{
   return computeEmotionAt(i);
 }}
 
-// ---------- Sync ----------
+// ---------- Scrub-safe highlighting ----------
 let active = -1;
+function clearActive() {{
+  if (!box) return;
+  const cs = spans();
+  for (let k = 0; k < cs.length; k++) cs[k].classList.remove("active");
+  active = -1;
+}}
+
+// ---------- Sync ----------
 function syncLoop() {{
   const t = Math.max(0, v.currentTime);
 
@@ -599,7 +778,7 @@ function syncLoop() {{
   if (patCtx)   drawPatterns();
   if (auctx)    drawAUs(t);
 
-  // dynamic sentiment label
+  // dynamic badges
   if (sents && sents.length && v.duration) {{
     const seg = sents.find(ss => t >= ss.start && t <= ss.end);
     if (seg) {{
@@ -612,9 +791,8 @@ function syncLoop() {{
     }}
   }}
 
-  // dynamic emotion label (from AUs)
   if (ofBundle && ofBundle.time && ofBundle.time.length) {{
-    const emo = emotionAtTime(t); // JOY | ANGER | SAD | NEUTRAL
+    const emo = emotionAtTime(t);
     let cls = "neutral", pretty = "Neutral";
     if (emo === "JOY")    {{ cls = "joy";   pretty = "Joy"; }}
     if (emo === "ANGER")  {{ cls = "anger"; pretty = "Anger"; }}
@@ -629,7 +807,17 @@ function syncLoop() {{
   requestAnimationFrame(syncLoop);
 }}
 v.addEventListener("play", () => requestAnimationFrame(syncLoop));
-v.addEventListener("seeking", () => {{ active = -1; }});
+v.addEventListener("pause", clearActive);
+v.addEventListener("seeking", clearActive);
+v.addEventListener("seeked", () => {{
+  const t = Math.max(0, v.currentTime);
+  drawWaveform(t);
+  if (sentCtx)  drawSentiment();
+  if (agreeCtx) drawAgreement();
+  if (emoCtx)   drawEmotionBand();
+  if (patCtx)   drawPatterns();
+  if (auctx)    drawAUs(t);
+}});
 
 // init
 drawWaveform(0);
@@ -644,6 +832,41 @@ if (auctx)    drawAUs(0);
 
 st_html(
     component_html,
-    height= 920 if (len(of_bundle)>0 or len(patterns)>0) else (760 if len(sents)>0 else 710),
+    height= 940 if (len(of_bundle)>0 or len(patterns)>0) else (780 if len(sents)>0 else 720),
     scrolling=True
 )
+
+# ---- Feedback form (BOTTOM) ----
+st.markdown("### Feedback")
+if sents:
+    seg_labels = [
+        f"[{i:02d}] {max(0.0,float(s['start'])):.2f}-{max(0.0,float(s['end'])):.2f}s  |  "
+        f"{str(s.get('label') or ('POS' if (s.get('polarity',0)>=0) else 'NEG'))}  |  "
+        f"{(s.get('text') or '').strip()[:80]}"
+        for i,s in enumerate(sents)
+    ]
+    with st.form("feedback_form", clear_on_submit=True):
+        seg_idx = st.selectbox("Segment to rate", list(range(len(sents))), format_func=lambda i: seg_labels[i])
+        rating  = st.radio("Is the sentiment label correct?", ["✔ Correct","✖ Incorrect"], horizontal=True, index=0)
+        note    = st.text_area("Notes (optional)")
+        submitted = st.form_submit_button("Save feedback")
+        if submitted:
+            row = sents[seg_idx]
+            fb_path = FB_DIR / f"{vid}.csv"
+            newrow = {
+                "clip_id": vid,
+                "seg_index": seg_idx,
+                "seg_start": float(row["start"]),
+                "seg_end":   float(row["end"]),
+                "model_label": row.get("label") or ("POSITIVE" if (float(row.get("polarity") or 0.0) >= 0) else "NEGATIVE"),
+                "model_score": float(row.get("score") or 0.0),
+                "polarity": float(row.get("polarity") or 0.0),
+                "user_rating": "correct" if rating.startswith("✔") else "incorrect",
+                "note": note,
+            }
+            write_header = not fb_path.exists()
+            with fb_path.open("a", newline="", encoding="utf-8") as f:
+                w = csv.DictWriter(f, fieldnames=list(newrow.keys()))
+                if write_header: w.writeheader()
+                w.writerow(newrow)
+            st.success(f"Saved feedback → {fb_path.name}")
