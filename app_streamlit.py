@@ -1,23 +1,34 @@
 # app_streamlit.py
 # -------------------------------------------------------------------
-# MOSI Sync Viewer
+# MOSI Sync Viewer (Enhanced)
 # - Video + Transcript highlight + Waveform (click-to-seek)
 # - Sentiment bar + Dynamic sentiment badge
 # - OpenFace AUs (synced) + Emotion band (rule-based from AUs)
 # - Text↔Face Agreement bar
 # - Auto-scroll transcript toggle
 # - Metrics
-# - Pattern timeline (Smile/Frown/Gaze ticks with click-to-seek, no Pause)
+# - Pattern timeline (Smile/Frown/Gaze/Gesture/Prosody; click-to-seek)
 # - Right-aligned pattern labels
 # - Top co-occurring behaviours + optional segments list (PAGINATED)
-# - Feedback loop (CSV) AT BOTTOM
 # - Clip insights panel (bullets)
+# - Feedback loop (CSV) AT BOTTOM
+#
+# Expects:
+#   data/mosi_videos/<id>.mp4
+#   data/transcripts/<id>.csv    (start,end,word)
+#   data/waveforms/<id>.json     (list[float] in [-1,1])
+#   data/sentiment/<id>.csv      (text,start,end,label,score,polarity) [optional]
+#   data/openface/<id>.json      (time[], aus{AUxx_r:[]})               [optional]
+#   data/openface_raw/<id>.json  (time[], pose_Rx, pose_Ry, pose_Rz)    [optional]
+#   data/patterns/<id>.json      (optional; will be augmented)
+#   data/patterns_cooc/<id>.json ({combos}, {segments})                 [optional]
 #
 # Run: streamlit run app_streamlit.py
 
 from __future__ import annotations
 import base64, json, csv
 from pathlib import Path
+import numpy as np
 import pandas as pd
 import streamlit as st
 from streamlit.components.v1 import html as st_html
@@ -30,11 +41,12 @@ TRN_DIR = DATA / "transcripts"
 WVF_DIR = DATA / "waveforms"
 SEN_DIR = DATA / "sentiment"
 OF_DIR  = DATA / "openface"
+OF_RAW  = DATA / "openface_raw"   # head-pose JSONs
 FB_DIR  = DATA / "feedback"
 PAT_DIR = DATA / "patterns"
 COC_DIR = DATA / "patterns_cooc"
 
-for p in (VID_DIR, TRN_DIR, WVF_DIR, SEN_DIR, OF_DIR, FB_DIR, PAT_DIR, COC_DIR):
+for p in (VID_DIR, TRN_DIR, WVF_DIR, SEN_DIR, OF_DIR, OF_RAW, FB_DIR, PAT_DIR, COC_DIR):
     p.mkdir(parents=True, exist_ok=True)
 
 # ---------------- Helpers ----------------
@@ -76,6 +88,11 @@ def read_sentences(vid_id: str):
 
 def read_openface_bundle(vid_id: str):
     fp = OF_DIR / f"{vid_id}.json"
+    if not fp.exists(): return {}
+    return json.loads(fp.read_text(encoding="utf-8"))
+
+def read_openface_raw(vid_id: str):
+    fp = OF_RAW / f"{vid_id}.json"
     if not fp.exists(): return {}
     return json.loads(fp.read_text(encoding="utf-8"))
 
@@ -141,11 +158,16 @@ def compute_basic_metrics(sents: list[dict], of_bundle: dict):
     }
 
 # -------- Insights helpers ----------
-def _estimate_duration(words, sents, of_bundle):
+def _estimate_duration(words, sents, of_bundle, of_raw=None):
     dur = 0.0
     try:
         if of_bundle and of_bundle.get("time"):
             dur = max(dur, float(of_bundle["time"][-1]))
+    except Exception:
+        pass
+    try:
+        if of_raw and of_raw.get("time"):
+            dur = max(dur, float(of_raw["time"][-1]))
     except Exception:
         pass
     try:
@@ -166,7 +188,7 @@ def _sentiment_summary(sents):
         st = float(s.get("start") or 0.0)
         en = float(s.get("end")   or st)
         dur = max(0.0, en - st)
-        if dur <= 0: 
+        if dur <= 0:
             continue
         lab = s.get("label")
         pol = float(s.get("polarity") or 0.0)
@@ -180,45 +202,6 @@ def _sentiment_summary(sents):
         last = lab
     pos_pct = (pos_t / tot_t * 100.0) if tot_t > 0 else 0.0
     return pos_pct, flips
-
-def _agreement_mismatch_rate(sents, of_bundle):
-    """Rough, duration-weighted face↔text (dis)agreement using AU12 vs AU04/AU15."""
-    try:
-        T = of_bundle.get("time") or []
-        aus = of_bundle.get("aus") or {}
-        au12 = aus.get("AU12_r") or []
-        au04 = aus.get("AU04_r") or []
-        au15 = aus.get("AU15_r") or []
-        if not (T and au12 and au04 and au15) or len(T) < 2:
-            return None
-        def seg_at(t):
-            for s in sents or []:
-                if t >= float(s.get("start") or 0.0) and t <= float(s.get("end") or 0.0):
-                    pol = float(s.get("polarity") or 0.0)
-                    lab = s.get("label")
-                    if not lab:
-                        lab = "POSITIVE" if pol >= 0 else "NEGATIVE"
-                    return 1 if lab == "POSITIVE" else -1
-            return 0  # no text at that instant
-        agree_t, tot = 0.0, 0.0
-        for i in range(len(T)-1):
-            mid = 0.5*(T[i] + T[i+1])
-            d   = max(0.0, T[i+1] - T[i])
-            if d == 0: 
-                continue
-            text_sign = seg_at(mid)
-            if text_sign == 0:
-                continue
-            face_val = (au12[i] or 0.0) - 0.5*((au04[i] or 0.0) + (au15[i] or 0.0))
-            face_sign = 1 if face_val >= 0 else -1
-            if face_sign == text_sign:
-                agree_t += d
-            tot += d
-        if tot == 0: 
-            return None
-        return 100.0 * (1.0 - agree_t/tot)  # mismatch %
-    except Exception:
-        return None
 
 def _hotspot_windows(segs_list, duration, bins=24, topk=2):
     """Find dense co-occurrence windows by binning segment midpoints."""
@@ -244,23 +227,58 @@ def _hotspot_windows(segs_list, duration, bins=24, topk=2):
     res.sort(key=lambda x: x[0])
     return res
 
-def compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list):
-    """Return concise insight bullets for the UI."""
+def compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list, of_raw=None):
     insights = []
     if cooc_list:
         top3 = cooc_list[:3]
         tops = [f"**{p}** ({c})" for p, c in top3]
         insights.append("Most frequent patterns: " + ", ".join(tops) + ".")
-    duration = _estimate_duration(words, sents, of_bundle)
+    duration = _estimate_duration(words, sents, of_bundle, of_raw)
     hotspots = _hotspot_windows(segs_list, duration, bins=24, topk=2)
     if hotspots:
         nice = [f"{t0:.0f}–{t1:.0f}s ({cnt} segs)" for (t0, t1, cnt) in hotspots]
         insights.append("Hotspots for co-occurring cues: " + ", ".join(nice) + ".")
     pos_pct, flips = _sentiment_summary(sents)
-    line = f"Text sentiment is **{pos_pct:.0f}% positive** with **{flips} flips**"
-    line += "."
-    insights.append(line)
+    insights.append(f"Text sentiment is **{pos_pct:.0f}% positive** with **{flips} flips**.")
     return insights
+
+# -------- Pattern derivation (Gesture + Prosody) ----------
+def compute_gesture_bursts(of_raw: dict, z_thresh: float = 1.5):
+    """Rapid head motion from pose_Rx/Ry/Rz velocity (z-score > threshold)."""
+    if not of_raw or "time" not in of_raw: return [], None
+    try:
+        T  = np.asarray(of_raw["time"], dtype=float)
+        rx = np.asarray(of_raw.get("pose_Rx", []), dtype=float)
+        ry = np.asarray(of_raw.get("pose_Ry", []), dtype=float)
+        rz = np.asarray(of_raw.get("pose_Rz", []), dtype=float)
+        if len(T) < 3 or len(rx) != len(T) or len(ry) != len(T) or len(rz) != len(T):
+            return [], T
+        dt  = np.diff(T)
+        vel = np.sqrt(np.diff(rx)**2 + np.diff(ry)**2 + np.diff(rz)**2) / np.maximum(dt, 1e-6)
+        vmu, vsd = float(vel.mean()), float(vel.std() + 1e-6)
+        z = (vel - vmu) / vsd
+        idx = np.where(z > z_thresh)[0].tolist()  # indices refer to interval [i,i+1]
+        return idx, T
+    except Exception:
+        return [], None
+
+def compute_prosody_change_times(samples: list[float], window: int = 500, dE_thresh: float = 0.25, duration_hint: float | None = None):
+    """Energy change points (approx). Returns times in seconds if duration_hint provided, else fractional positions."""
+    if not samples or len(samples) < window*2:
+        return []
+    s = np.asarray(samples, dtype=float)
+    # Short-time energy (RMS)
+    energy = np.sqrt(np.convolve(s**2, np.ones(window)/window, mode="valid"))
+    energy = (energy - energy.min()) / (energy.ptp() + 1e-9)
+    dE = np.abs(np.diff(energy))
+    peaks = np.where(dE > dE_thresh)[0]  # indices in energy/dE domain
+    if duration_hint and duration_hint > 0:
+        # Map index -> time by linear proportion of the clip duration
+        times = (peaks / max(1, len(dE))) * duration_hint
+        return times.tolist()
+    else:
+        # return fractional positions (0..1)
+        return (peaks / max(1, len(dE))).tolist()
 
 # ---------------- App ----------------
 st.set_page_config(page_title="MOSI Sync Viewer", layout="wide")
@@ -276,16 +294,56 @@ with c1: vid = st.selectbox("Choose a clip", ids, index=0)
 with c2: show_sent = st.toggle("Show sentiment bar", value=True)
 with c3: show_aus  = st.toggle("Show facial AUs (OpenFace)", value=True)
 
-# load
+# ---- load ----
 video_src = b64_video(vid)
 words     = read_transcript_records(vid)
 samples   = read_waveform_samples(vid)
 sents     = read_sentences(vid) if show_sent else []
 of_bundle = read_openface_bundle(vid) if show_aus else {}
+of_raw    = read_openface_raw(vid)
 patterns  = read_patterns(vid)
 cooc_list, segs_list = read_cooccurrence(vid)
 
-# pick AUs to display (only if present)
+# ---- derive pattern timeline base (seconds array) ----
+# Prefer OpenFace AU time; else head-pose; else fallback to a coarse grid using duration estimate.
+duration_hint = _estimate_duration(words, sents, of_bundle, of_raw)
+pat_time = None
+if of_bundle.get("time"):
+    pat_time = np.asarray(of_bundle["time"], dtype=float)
+elif of_raw.get("time"):
+    pat_time = np.asarray(of_raw["time"], dtype=float)
+elif duration_hint:
+    pat_time = np.linspace(0.0, duration_hint, num=1001)
+else:
+    pat_time = np.linspace(0.0, 1.0, num=1001)  # last resort (normalized)
+
+# Ensure patterns.time exists for the JS mapping
+if "time" not in patterns or not patterns.get("time"):
+    patterns["time"] = pat_time.tolist()
+
+# ---- compute Gesture & Prosody and align to pattern timeline indices ----
+gesture_idx_raw, gT = compute_gesture_bursts(of_raw)
+gesture_idx = []
+if gesture_idx_raw:
+    # If gesture time base != patterns.time, map via time
+    if gT is not None:
+        gTimes = [float(gT[i]) for i in gesture_idx_raw]
+        pT = np.asarray(patterns["time"], dtype=float)
+        # map each time to nearest index in pT
+        gesture_idx = [int(np.clip(np.searchsorted(pT, t, side="left"), 0, len(pT)-1)) for t in gTimes]
+
+prosody_times = compute_prosody_change_times(samples, window=500, dE_thresh=0.25, duration_hint=duration_hint)
+prosody_idx = []
+if prosody_times:
+    pT = np.asarray(patterns["time"], dtype=float)
+    prosody_idx = [int(np.clip(np.searchsorted(pT, float(t), side="left"), 0, len(pT)-1)) for t in prosody_times]
+
+if gesture_idx:
+    patterns["gesture_bursts"] = gesture_idx
+if prosody_idx:
+    patterns["prosody_changes"] = prosody_idx
+
+# ---- AUs to display (only if present) ----
 DEFAULT_AUS = ["AU06_r","AU12_r","AU04_r"]
 present_aus = sorted(list((of_bundle.get("aus") or {}).keys()))
 au_to_plot  = [au for au in DEFAULT_AUS if au in present_aus][:3]
@@ -309,7 +367,7 @@ if cooc_list:
     st.dataframe(df, use_container_width=True, hide_index=True)
 
     # ---- Clip insights (concise bullets)
-    bullets = compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list)
+    bullets = compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list, of_raw)
     if bullets:
         st.markdown("#### Clip insights")
         for b in bullets:
@@ -380,10 +438,9 @@ SENT_H  = 12
 AGREE_H = 10
 EMO_H   = 10
 AU_H    = 120
-PAT_H   = 72  # taller pattern strip
+PAT_H   = 84  # slightly taller to fit 5 lanes nicely
 
 # ----------------- Component (HTML+JS) -----------------
-# IMPORTANT: JS template literals inside f-strings use ${{...}} to avoid f-string parsing.
 component_html = f"""
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
@@ -423,18 +480,17 @@ component_html = f"""
   #emoLabel.sad    {{ background:#60a5fa; color:#0a1a2b; }}
   #emoLabel.neutral{{ background:#6b7280; color:#fff; }}
 
-  /* Clean pattern labels in a right-side column */
+  /* Pattern labels in a right-side column */
   .patrow {{ display:flex; align-items:center; gap:10px; }}
   .patlabels {{
-    width:64px;
+    width:80px;
     display:flex; flex-direction:column;
     justify-content:space-between;
-    height:{PAT_H}px;   /* match canvas height */
+    height:{PAT_H}px;
     font-size:12px; color:#bfbfbf;
-    line-height:1; user-select:none;
-    text-align:left;
+    line-height:1; user-select:none; text-align:left;
   }}
-  .patlabels div {{ display:flex; align-items:center; height:{PAT_H//3}px; }}
+  .patlabels div {{ display:flex; align-items:center; height:{PAT_H//5}px; }}
 </style></head>
 <body>
 <div class="wrap">
@@ -461,7 +517,7 @@ component_html = f"""
     {(
       "<div class='patrow'>"
       + "<canvas id='pat' width='"+str(CANVAS_W)+"' height='"+str(PAT_H)+"' style='margin-top:2px;'></canvas>"
-      + "<div class='patlabels'><div>Smile</div><div>Frown</div><div>Gaze</div></div>"
+      + "<div class='patlabels'><div>Smile</div><div>Frown</div><div>Gaze</div><div>Gesture</div><div>Prosody</div></div>"
       + "</div>"
       ) if len(patterns)>0 else ""}
 
@@ -478,7 +534,7 @@ component_html = f"""
 </div>
 
 <script>
-const words    = {json.dumps(words)};
+const words    = {json.dumps(read_transcript_records(vid))};
 const samples  = {json.dumps(samples)};
 const sents    = {json.dumps(sents)};
 const ofBundle = {json.dumps(of_bundle)};
@@ -638,19 +694,21 @@ function drawAgreement() {{
   }}
 }}
 
-// ---------- Pattern ticks (Smile/Frown/Gaze) ----------
+// ---------- Pattern ticks (Smile/Frown/Gaze/Gesture/Prosody) ----------
 function drawPatterns() {{
   if (!patCtx || !patterns || !patterns.time || !v.duration) return;
   const W = patCanvas.width, H = patCanvas.height;
   patCtx.clearRect(0,0,W,H);
 
-  const ROWS = 3;
+  const ROWS = 5;
   const laneY = (rowIdx) => Math.round(((rowIdx + 0.5) / ROWS) * H);
 
   const lanes = [
-    {{key:"AU12_r_peaks", color:"#7dd3fc", y: laneY(0)}},  // Smile
-    {{key:"AU04_r_peaks", color:"#f472b6", y: laneY(1)}},  // Frown
-    {{key:"gaze_shifts",  color:"#facc15", y: laneY(2)}},  // Gaze
+    {{key:"AU12_r_peaks",   color:"#7dd3fc", y: laneY(0)}},  // Smile
+    {{key:"AU04_r_peaks",   color:"#f472b6", y: laneY(1)}},  // Frown
+    {{key:"gaze_shifts",    color:"#facc15", y: laneY(2)}},  // Gaze
+    {{key:"gesture_bursts", color:"#34d399", y: laneY(3)}},  // Gesture
+    {{key:"prosody_changes",color:"#a78bfa", y: laneY(4)}},  // Prosody
   ];
 
   function xOfIdx(i){{ return (patterns.time[Math.min(i, patterns.time.length-1)] / v.duration) * W; }}
@@ -832,7 +890,7 @@ if (auctx)    drawAUs(0);
 
 st_html(
     component_html,
-    height= 940 if (len(of_bundle)>0 or len(patterns)>0) else (780 if len(sents)>0 else 720),
+    height= 960 if (len(of_bundle)>0 or len(patterns)>0) else (800 if len(sents)>0 else 740),
     scrolling=True
 )
 
