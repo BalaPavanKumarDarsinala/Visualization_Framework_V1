@@ -11,7 +11,7 @@
 # - Right-aligned pattern labels
 # - Top co-occurring behaviours + optional segments list (PAGINATED)
 # - Clip insights panel (bullets)
-# - Feedback loop (Google Sheets + CSV fallback)
+# - Feedback loop (CSV) AT BOTTOM
 #
 # Expects:
 #   data/mosi_videos/<id>.mp4
@@ -28,16 +28,10 @@
 from __future__ import annotations
 import base64, json, csv
 from pathlib import Path
-from datetime import datetime, timezone
-
 import numpy as np
 import pandas as pd
 import streamlit as st
 from streamlit.components.v1 import html as st_html
-
-# --- Google Sheets deps ---
-import gspread
-from google.oauth2.service_account import Credentials
 
 # ---------------- Paths ----------------
 ROOT = Path(__file__).resolve().parent
@@ -54,69 +48,6 @@ COC_DIR = DATA / "patterns_cooc"
 
 for p in (VID_DIR, TRN_DIR, WVF_DIR, SEN_DIR, OF_DIR, OF_RAW, FB_DIR, PAT_DIR, COC_DIR):
     p.mkdir(parents=True, exist_ok=True)
-
-# ---------------- Google Sheets helpers ----------------
-GS_SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-DEFAULT_TAB = "feedback"
-
-@st.cache_resource(show_spinner=False)
-def _gs_client():
-    # Build gspread client from Streamlit secrets
-    creds = Credentials.from_service_account_info(
-        dict(st.secrets["gcp_service_account"]),
-        scopes=GS_SCOPES
-    )
-    return gspread.authorize(creds)
-
-@st.cache_resource(show_spinner=False)
-def _gs_worksheet():
-    """Open the worksheet; create it (with headers) if missing."""
-    gc = _gs_client()
-    sh = gc.open_by_key(st.secrets["GSHEET_ID"])
-    tab = st.secrets.get("GSHEET_TAB", DEFAULT_TAB)
-    headers = [
-        "timestamp_utc",
-        "clip_id",
-        "seg_index",
-        "seg_start",
-        "seg_end",
-        "model_label",
-        "model_score",
-        "polarity",
-        "user_rating",
-        "note",
-    ]
-    try:
-        ws = sh.worksheet(tab)
-    except gspread.WorksheetNotFound:
-        ws = sh.add_worksheet(title=tab, rows="1000", cols=str(len(headers) + 2))
-        ws.append_row(headers, value_input_option="RAW")
-        return ws
-
-    # Ensure header row exists/matches
-    first = ws.row_values(1)
-    if not first:
-        ws.append_row(headers, value_input_option="RAW")
-    elif first != headers:
-        ws.update("1:1", [headers])
-    return ws
-
-def append_feedback_to_sheet(row_dict: dict):
-    """Append one feedback row to Google Sheets."""
-    ws = _gs_worksheet()
-    values = [
-        datetime.now(timezone.utc).isoformat(),
-        row_dict.get("clip_id"),
-        int(row_dict.get("seg_index")),
-        float(row_dict.get("seg_start")),
-        float(row_dict.get("seg_end")),
-        row_dict.get("model_label"),
-        float(row_dict.get("model_score")),
-        float(row_dict.get("polarity")),
-        row_dict.get("user_rating"),
-        row_dict.get("note") or "",
-    ]
-    ws.append_row(values, value_input_option="USER_ENTERED")
 
 # ---------------- Helpers ----------------
 def list_ids_with_min() -> list[str]:
@@ -374,6 +305,7 @@ patterns  = read_patterns(vid)
 cooc_list, segs_list = read_cooccurrence(vid)
 
 # ---- derive pattern timeline base (seconds array) ----
+# Prefer OpenFace AU time; else head-pose; else fallback to a coarse grid using duration estimate.
 duration_hint = _estimate_duration(words, sents, of_bundle, of_raw)
 pat_time = None
 if of_bundle.get("time"):
@@ -393,9 +325,11 @@ if "time" not in patterns or not patterns.get("time"):
 gesture_idx_raw, gT = compute_gesture_bursts(of_raw)
 gesture_idx = []
 if gesture_idx_raw:
+    # If gesture time base != patterns.time, map via time
     if gT is not None:
         gTimes = [float(gT[i]) for i in gesture_idx_raw]
         pT = np.asarray(patterns["time"], dtype=float)
+        # map each time to nearest index in pT
         gesture_idx = [int(np.clip(np.searchsorted(pT, t, side="left"), 0, len(pT)-1)) for t in gTimes]
 
 prosody_times = compute_prosody_change_times(samples, window=500, dE_thresh=0.25, duration_hint=duration_hint)
@@ -432,6 +366,7 @@ if cooc_list:
     df = pd.DataFrame(cooc_list, columns=["Pattern", "Count"])
     st.dataframe(df, use_container_width=True, hide_index=True)
 
+    # ---- Clip insights (concise bullets)
     bullets = compute_clip_insights(words, sents, of_bundle, cooc_list, segs_list, of_raw)
     if bullets:
         st.markdown("#### Clip insights")
@@ -445,7 +380,7 @@ if show_segs and segs_list:
     page_size = st.selectbox(
         "Rows per page",
         [20, 30, 50, 100, 200, 500],
-        index=0,
+        index=0,  # default 20
         key=f"seg_ps_{vid}",
         help="How many segments to show per page"
     )
@@ -975,6 +910,7 @@ if sents:
         submitted = st.form_submit_button("Save feedback")
         if submitted:
             row = sents[seg_idx]
+            fb_path = FB_DIR / f"{vid}.csv"
             newrow = {
                 "clip_id": vid,
                 "seg_index": seg_idx,
@@ -986,26 +922,9 @@ if sents:
                 "user_rating": "correct" if rating.startswith("✔") else "incorrect",
                 "note": note,
             }
-
-            # Try Google Sheets first
-            saved_to_sheets = False
-            try:
-                append_feedback_to_sheet(newrow)
-                saved_to_sheets = True
-                st.success("Saved feedback to Google Sheets ✅")
-            except Exception as e:
-                st.warning("Could not write to Google Sheets; saving locally as fallback.")
-                st.caption(f"(Sheets error: {e})")
-
-            # Local CSV fallback (and optional backup even if Sheets worked)
-            try:
-                fb_path = FB_DIR / f"{vid}.csv"
-                write_header = not fb_path.exists()
-                with fb_path.open("a", newline="", encoding="utf-8") as f:
-                    w = csv.DictWriter(f, fieldnames=list(newrow.keys()))
-                    if write_header: w.writeheader()
-                    w.writerow(newrow)
-                if not saved_to_sheets:
-                    st.success(f"Saved feedback locally → {fb_path.name} ✅")
-            except Exception as e2:
-                st.error(f"Local CSV save failed: {e2}")
+            write_header = not fb_path.exists()
+            with fb_path.open("a", newline="", encoding="utf-8") as f:
+                w = csv.DictWriter(f, fieldnames=list(newrow.keys()))
+                if write_header: w.writeheader()
+                w.writerow(newrow)
+            st.success(f"Saved feedback → {fb_path.name}")
