@@ -1,0 +1,2 @@
+clip_id,seg_index,seg_start,seg_end,model_label,model_score,polarity,user_rating,note
+6Egk_28TtTM,0,0.37,4.29,POSITIVE,0.9976944327354432,0.9976944327354432,correct,good
