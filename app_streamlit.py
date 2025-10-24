@@ -8,20 +8,21 @@
 # - Auto-scroll transcript toggle
 # - Metrics
 # - Pattern timeline (Smile/Frown/Gaze/Gesture/Prosody; click-to-seek)
-# - Right-aligned pattern labels
+# - RIGHT column: Transcript + mini-graphs (Sentiment Donut, Signal coverage KPI, Agreement 2x2)
 # - Top co-occurring behaviours + optional segments list (PAGINATED)
 # - Clip insights panel (bullets)
 # - Feedback loop (Google Sheets + CSV fallback)
 #
-# Expects:
+# Data layout:
 #   data/mosi_videos/<id>.mp4
-#   data/transcripts/<id>.csv    (start,end,word)
-#   data/waveforms/<id>.json     (list[float] in [-1,1])
-#   data/sentiment/<id>.csv      (text,start,end,label,score,polarity) [optional]
-#   data/openface/<id>.json      (time[], aus{AUxx_r:[]})               [optional]
-#   data/openface_raw/<id>.json  (time[], pose_Rx, pose_Ry, pose_Rz)    [optional]
-#   data/patterns/<id>.json      (optional; will be augmented)
-#   data/patterns_cooc/<id>.json ({combos}, {segments})                 [optional]
+#   data/mosi_videos/<id>_overlay.mp4      (optional, created by merge step)
+#   data/transcripts/<id>.csv              (start,end,word)
+#   data/waveforms/<id>.json               (list[float] in [-1,1])
+#   data/sentiment/<id>.csv                (text,start,end,label,score,polarity) [optional]
+#   data/openface/<id>.json                (time[], aus{AUxx_r:[]})               [optional]
+#   data/openface_raw/<id>.json            (time[], pose_Rx, pose_Ry, pose_Rz)    [optional]
+#   data/patterns/<id>.json                (optional; will be augmented)
+#   data/patterns_cooc/<id>.json           ({combos}, {segments})                 [optional]
 #
 # Run: streamlit run app_streamlit.py
 
@@ -61,7 +62,6 @@ DEFAULT_TAB = "feedback"
 
 @st.cache_resource(show_spinner=False)
 def _gs_client():
-    # Build gspread client from Streamlit secrets
     creds = Credentials.from_service_account_info(
         dict(st.secrets["gcp_service_account"]),
         scopes=GS_SCOPES
@@ -119,12 +119,6 @@ def append_feedback_to_sheet(row_dict: dict):
     ws.append_row(values, value_input_option="USER_ENTERED")
 
 # ---------------- Helpers ----------------
-def list_ids_with_min() -> list[str]:
-    vids = {p.stem for p in VID_DIR.glob("*.mp4")}
-    trns = {p.stem for p in TRN_DIR.glob("*.csv")}
-    wvfs = {p.stem for p in WVF_DIR.glob("*.json")}
-    return sorted(list(vids & trns & wvfs))
-
 def read_transcript_records(vid_id: str):
     df = pd.read_csv(TRN_DIR / f"{vid_id}.csv")
     df = df[["start", "end", "word"]].copy()
@@ -185,8 +179,11 @@ def read_cooccurrence(vid_id: str):
     except Exception:
         return [], []
 
-def b64_video(vid_id: str) -> str:
-    b = (VID_DIR / f"{vid_id}.mp4").read_bytes()
+def b64_from_path(path: Path) -> str:
+    """Base64-encode a *full* video path (overlay/non-overlay)."""
+    if not path.exists():
+        raise FileNotFoundError(f"Video not found: {path}")
+    b = path.read_bytes()
     return f"data:video/mp4;base64,{base64.b64encode(b).decode('utf-8')}"
 
 # -------- Metrics (basic) ----------
@@ -257,32 +254,26 @@ def _sentiment_summary(sents):
         st = float(s.get("start") or 0.0)
         en = float(s.get("end")   or st)
         dur = max(0.0, en - st)
-        if dur <= 0:
-            continue
+        if dur <= 0: continue
         lab = s.get("label")
         pol = float(s.get("polarity") or 0.0)
         if not lab:
             lab = "POSITIVE" if pol >= 0 else "NEGATIVE"
-        if lab == "POSITIVE":
-            pos_t += dur
+        if lab == "POSITIVE": pos_t += dur
         tot_t += dur
-        if last is not None and lab != last:
-            flips += 1
+        if last is not None and lab != last: flips += 1
         last = lab
     pos_pct = (pos_t / tot_t * 100.0) if tot_t > 0 else 0.0
     return pos_pct, flips
 
 def _hotspot_windows(segs_list, duration, bins=24, topk=2):
-    """Find dense co-occurrence windows by binning segment midpoints."""
-    if not segs_list or not duration:
-        return []
+    if not segs_list or not duration: return []
     mids = []
     for s in segs_list:
         st = float(s.get("start") or 0.0)
         en = float(s.get("end")   or st)
         mids.append(max(0.0, min(duration, 0.5*(st+en))))
-    if not mids:
-        return []
+    if not mids: return []
     counts = [0]*bins
     for m in mids:
         idx = min(bins-1, int((m/duration)*bins))
@@ -326,45 +317,91 @@ def compute_gesture_bursts(of_raw: dict, z_thresh: float = 1.5):
         vel = np.sqrt(np.diff(rx)**2 + np.diff(ry)**2 + np.diff(rz)**2) / np.maximum(dt, 1e-6)
         vmu, vsd = float(vel.mean()), float(vel.std() + 1e-6)
         z = (vel - vmu) / vsd
-        idx = np.where(z > z_thresh)[0].tolist()  # indices refer to interval [i,i+1]
+        idx = np.where(z > z_thresh)[0].tolist()
         return idx, T
     except Exception:
         return [], None
 
 def compute_prosody_change_times(samples: list[float], window: int = 500, dE_thresh: float = 0.25, duration_hint: float | None = None):
-    """Energy change points (approx). Returns times in seconds if duration_hint provided, else fractional positions."""
+    """Energy change points (approx). Returns seconds if duration_hint provided."""
     if not samples or len(samples) < window*2:
         return []
     s = np.asarray(samples, dtype=float)
-    # Short-time energy (RMS)
     energy = np.sqrt(np.convolve(s**2, np.ones(window)/window, mode="valid"))
     energy = (energy - energy.min()) / (energy.ptp() + 1e-9)
     dE = np.abs(np.diff(energy))
-    peaks = np.where(dE > dE_thresh)[0]  # indices in energy/dE domain
+    peaks = np.where(dE > dE_thresh)[0]
     if duration_hint and duration_hint > 0:
-        # Map index -> time by linear proportion of the clip duration
         times = (peaks / max(1, len(dE))) * duration_hint
         return times.tolist()
     else:
-        # return fractional positions (0..1)
         return (peaks / max(1, len(dE))).tolist()
 
 # ---------------- App ----------------
-st.set_page_config(page_title="MOSI Sync Viewer", layout="wide")
+st.set_page_config(page_title="MOSI Sync Viewer", layout="wide", initial_sidebar_state="collapsed")
 st.title("MOSI Sync Viewer")
 
-ids = list_ids_with_min()
+# ---- Dataset info banner (top of page) ----
+st.markdown(
+    """
+<div style="border:1px solid #333;border-radius:10px;padding:10px 14px;
+            background:#111;margin-bottom:10px;">
+  <details open>
+    <summary style="cursor:pointer;font-weight:600">📘 Dataset info</summary>
+    <div style="font-size:14px;color:#cfcfcf;margin-top:8px;line-height:1.5">
+      <div><b>Dataset:</b> CMU-MOSI (public multimodal sentiment dataset)</div>
+      <div><b>Source:</b> YouTube monologue clips for research and teaching use</div>
+      <div><b>Selection logic:</b> Frontal-face visibility, clear smile/frown/gaze, 
+      and continuous speech ensuring synchronized audio–video–text alignment</div>
+    </div>
+  </details>
+</div>
+""",
+    unsafe_allow_html=True
+)
+
+
+# --- Controls (hamburger-style expander instead of sidebar) ---
+with st.expander("☰ Controls", expanded=False):
+    mode = st.radio(
+        "Select video type:",
+        ("with", "without"),
+        index=0,
+        format_func=lambda m: "🎥 With overlays (tracking)" if m == "with"
+                             else "📹 Without overlays (original video)"
+    )
+    show_sent = st.toggle("Show sentiment bar", value=True)
+    show_aus  = st.toggle("Show facial AUs (OpenFace)", value=True)
+
+# Build lists for each mode (only clips with transcript+waveform)
+trns = {p.stem for p in TRN_DIR.glob("*.csv")}
+wvfs = {p.stem for p in WVF_DIR.glob("*.json")}
+
+overlay_ids_all = [p.stem.replace("_overlay", "") for p in VID_DIR.glob("*_overlay.mp4")]
+normal_ids_all  = [p.stem for p in VID_DIR.glob("*.mp4") if not p.stem.endswith("_overlay")]
+
+overlay_ids = sorted([i for i in overlay_ids_all if i in trns and i in wvfs])
+normal_ids  = sorted([i for i in normal_ids_all  if i in trns and i in wvfs])
+
+ids = overlay_ids if mode == "with" else normal_ids
 if not ids:
-    st.info("Put files under data/ as described, then reload.")
+    st.info("No matching videos found — generate overlays or add normal videos with matching transcript & waveform.")
     st.stop()
 
-c1, c2, c3 = st.columns([2,1,1])
-with c1: vid = st.selectbox("Choose a clip", ids, index=0)
-with c2: show_sent = st.toggle("Show sentiment bar", value=True)
-with c3: show_aus  = st.toggle("Show facial AUs (OpenFace)", value=True)
+# UI selector (main row)
+c1, c2 = st.columns([3,1])
+with c1:
+    vid = st.selectbox("Choose a clip", ids, index=0)
+    
 
-# ---- load ----
-video_src = b64_video(vid)
+# ---- select video path per mode & load ----
+video_path = VID_DIR / (f"{vid}_overlay.mp4" if mode == "with" else f"{vid}.mp4")
+try:
+    video_src = b64_from_path(video_path)
+except FileNotFoundError as e:
+    st.error(str(e))
+    st.stop()
+
 words     = read_transcript_records(vid)
 samples   = read_waveform_samples(vid)
 sents     = read_sentences(vid) if show_sent else []
@@ -375,6 +412,42 @@ cooc_list, segs_list = read_cooccurrence(vid)
 
 # ---- derive pattern timeline base (seconds array) ----
 duration_hint = _estimate_duration(words, sents, of_bundle, of_raw)
+
+# ---- Signal coverage numbers (video/text/face/both) ----
+vid_dur = float(duration_hint or 0.0)
+
+text_seconds = 0.0
+for s in sents or []:
+    stt = float(s.get("start", 0.0)); enn = float(s.get("end", stt))
+    text_seconds += max(0.0, min(enn, vid_dur) - max(stt, 0.0))
+
+face_seconds = 0.0
+Tcov = (of_bundle or {}).get("time") or []
+if len(Tcov) > 1:
+    for i in range(len(Tcov)-1):
+        t0, t1 = max(0.0, Tcov[i]), max(0.0, Tcov[i+1])
+        if t1 <= 0 or t0 >= vid_dur: 
+            continue
+        face_seconds += max(0.0, min(t1, vid_dur) - max(t0, 0.0))
+
+both_seconds = 0.0
+if len(Tcov) > 1 and sents:
+    for i in range(len(Tcov)-1):
+        t0, t1 = Tcov[i], Tcov[i+1]
+        if t1 <= 0 or t0 >= vid_dur:
+            continue
+        mid = 0.5*(t0+t1)
+        seg = None
+        for s in sents:
+            if mid >= float(s.get("start",0.0)) and mid <= float(s.get("end",0.0)):
+                seg = s; break
+        if seg:
+            both_seconds += max(0.0, min(t1, vid_dur) - max(t0, 0.0))
+
+COVER_DICT = {"video": vid_dur, "text": text_seconds, "face": face_seconds, "both": both_seconds}
+COVER_JSON = json.dumps(COVER_DICT)
+
+# ---- pattern timeline base ----
 pat_time = None
 if of_bundle.get("time"):
     pat_time = np.asarray(of_bundle["time"], dtype=float)
@@ -383,20 +456,18 @@ elif of_raw.get("time"):
 elif duration_hint:
     pat_time = np.linspace(0.0, duration_hint, num=1001)
 else:
-    pat_time = np.linspace(0.0, 1.0, num=1001)  # last resort (normalized)
+    pat_time = np.linspace(0.0, 1.0, num=1001)
 
-# Ensure patterns.time exists for the JS mapping
 if "time" not in patterns or not patterns.get("time"):
     patterns["time"] = pat_time.tolist()
 
-# ---- compute Gesture & Prosody and align to pattern timeline indices ----
+# ---- compute Gesture & Prosody and align ----
 gesture_idx_raw, gT = compute_gesture_bursts(of_raw)
 gesture_idx = []
-if gesture_idx_raw:
-    if gT is not None:
-        gTimes = [float(gT[i]) for i in gesture_idx_raw]
-        pT = np.asarray(patterns["time"], dtype=float)
-        gesture_idx = [int(np.clip(np.searchsorted(pT, t, side="left"), 0, len(pT)-1)) for t in gTimes]
+if gesture_idx_raw and gT is not None:
+    gTimes = [float(gT[i]) for i in gesture_idx_raw]
+    pT = np.asarray(patterns["time"], dtype=float)
+    gesture_idx = [int(np.clip(np.searchsorted(pT, t, side="left"), 0, len(pT)-1)) for t in gTimes]
 
 prosody_times = compute_prosody_change_times(samples, window=500, dE_thresh=0.25, duration_hint=duration_hint)
 prosody_idx = []
@@ -419,12 +490,35 @@ if not au_to_plot and present_aus:
 
 # --- Metrics (basic)
 metrics = compute_basic_metrics(sents, of_bundle) if (sents or of_bundle) else None
+has_sent = bool(sents)
+
+def _au_band(val: float | None) -> str:
+    if val is None: return "—"
+    if val < 0.10:  return "Very low"
+    if val < 0.30:  return "Low"
+    if val < 0.60:  return "Moderate"
+    return "High"
+
 if metrics:
     mcol1, mcol2, mcol3, mcol4 = st.columns(4)
-    mcol1.metric("Positive time %", f"{metrics['pos_pct']:.1f}%")
-    mcol2.metric("Sentiment flips", f"{metrics['flips']}")
-    mcol3.metric("Mean AU12_r (smile)", "-" if metrics['mean_au12'] is None else f"{metrics['mean_au12']:.2f}")
-    mcol4.metric("Mean AU04_r (frown)", "-" if metrics['mean_au04'] is None else f"{metrics['mean_au04']:.2f}")
+    mcol1.metric(
+        "Positive time %",
+        "—" if not has_sent else f"{metrics['pos_pct']:.1f}%",
+        help="Share of the video duration predicted as positive sentiment."
+    )
+    mcol2.metric(
+        "Sentiment flips",
+        "—" if not has_sent else f"{metrics['flips']}",
+        help="Number of times the sentiment switched polarity."
+    )
+    smile_mean = metrics.get("mean_au12")
+    frown_mean = metrics.get("mean_au04")
+    mcol3.metric("Smiling intensity",  _au_band(smile_mean),
+                 ("—" if smile_mean is None else f"{smile_mean:.2f}"),
+                 help="Average activation of AU12 (smile).")
+    mcol4.metric("Frowning intensity", _au_band(frown_mean),
+                 ("—" if frown_mean is None else f"{frown_mean:.2f}"),
+                 help="Average activation of AU04 (frown).")
 
 # --- Top patterns (summary box)
 if cooc_list:
@@ -438,22 +532,15 @@ if cooc_list:
         for b in bullets:
             st.markdown(f"- {b}")
 
-# --- Optional: segments list (PAGINATED, shows ALL)
+# --- Optional: segments list (PAGINATED)
 show_segs = st.toggle("Show pattern segments (2s windows)", value=False) if segs_list else False
 if show_segs and segs_list:
     st.markdown("#### Pattern segments")
-    page_size = st.selectbox(
-        "Rows per page",
-        [20, 30, 50, 100, 200, 500],
-        index=0,
-        key=f"seg_ps_{vid}",
-        help="How many segments to show per page"
-    )
+    page_size = st.selectbox("Rows per page", [20, 30, 50, 100, 200, 500], index=0, key=f"seg_ps_{vid}")
     total = len(segs_list)
     total_pages = max(1, (total + page_size - 1) // page_size)
     pg_key = f"seg_pg_{vid}"
-    if pg_key not in st.session_state:
-        st.session_state[pg_key] = 1
+    if pg_key not in st.session_state: st.session_state[pg_key] = 1
 
     cA, cB, cC, cD, cE = st.columns([1,1,3,1,1])
     with cA:
@@ -469,24 +556,17 @@ if show_segs and segs_list:
         if st.button("Last ⏭", disabled=st.session_state[pg_key] >= total_pages, key=f"last_{vid}"):
             st.session_state[pg_key] = total_pages
     with cC:
-        st.markdown(
-            f"Page **{st.session_state[pg_key]}** / **{total_pages}** — "
-            f"showing **{page_size}** per page — **{total}** total segments"
-        )
+        st.markdown(f"Page **{st.session_state[pg_key]}** / **{total_pages}** — showing **{page_size}** per page — **{total}** total segments")
 
     start = (st.session_state[pg_key] - 1) * page_size
     end = min(start + page_size, total)
-
     for j in range(start, end):
         seg = segs_list[j]
         labels = ", ".join(seg.get("labels", []))
         st.write(f"**{j+1}.** {seg['start']:.2f}s → {seg['end']:.2f}s — {labels}")
 
     export_df = pd.DataFrame(
-        [{"index": i+1,
-          "start": s.get("start"),
-          "end": s.get("end"),
-          "labels": ", ".join(s.get("labels", []))}
+        [{"index": i+1, "start": s.get("start"), "end": s.get("end"), "labels": ", ".join(s.get("labels", []))}
          for i, s in enumerate(segs_list)]
     )
     st.download_button(
@@ -494,7 +574,6 @@ if show_segs and segs_list:
         export_df.to_csv(index=False).encode("utf-8"),
         file_name=f"{vid}_pattern_segments.csv",
         mime="text/csv",
-        help="Exports ALL segments for this video (not just current page)"
     )
 
 # canvases
@@ -503,109 +582,125 @@ SENT_H  = 12
 AGREE_H = 10
 EMO_H   = 10
 AU_H    = 120
-PAT_H   = 84  # slightly taller to fit 5 lanes nicely
+PAT_H   = 84  # 5 lanes
 
 # ----------------- Component (HTML+JS) -----------------
-component_html = f"""
+WORDS_JSON    = json.dumps(words)
+SAMPLES_JSON  = json.dumps(samples)
+SENTS_JSON    = json.dumps(sents)
+OFBUNDLE_JSON = json.dumps(of_bundle)
+AUPLOT_JSON   = json.dumps(au_to_plot)
+PAT_JSON      = json.dumps(patterns)
+
+HTML_TEMPLATE = """
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
 <style>
-  :root {{ color-scheme: dark; }}
-  body {{ font-family: system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:#0e1117; color:#e7e7e7; margin:0; }}
-  .wrap {{ display:flex; gap:24px; padding:10px; }}
-  video {{ width:640px; max-width:60vw; border-radius:8px; display:block; }}
-  .right {{ flex:1; min-width:260px; }}
-  .panel {{ display:flex; gap:16px; align-items:center; margin:8px 0 6px; font-size:14px; flex-wrap:wrap; }}
-  .lbl {{ font-size:12px; color:#bfbfbf; margin:6px 0 2px 2px; }}
-  .transcript {{ line-height:1.9; max-height:420px; overflow:auto; padding-right:8px; border-left:1px solid #222; padding-left:16px; }}
-  .word {{ padding:2px 4px; margin-right:2px; cursor:pointer; border-radius:4px; }}
-  .word.active {{ background:#ffeb3b; color:#000; }}
-  canvas {{ display:block; margin-top:6px; border:1px solid #444; background:#111; border-radius:4px; }}
-  #wave {{ cursor: pointer; }}
-  #au   {{ cursor: pointer; }}
+  :root { color-scheme: dark; }
+  body { font-family: system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:#0e1117; color:#e7e7e7; margin:0; }
+  .wrap { display:flex; gap:24px; padding:10px; }
+  video { width:640px; max-width:60vw; border-radius:8px; display:block; }
+  .right { flex:1; min-width:320px; }
+  .panel { display:flex; gap:16px; align-items:center; margin:8px 0 6px; font-size:14px; flex-wrap:wrap; }
+  .lbl { font-size:12px; color:#bfbfbf; margin:6px 0 2px 2px; }
+  .transcript { line-height:1.9; max-height:420px; overflow:auto; padding-right:8px; border-left:1px solid #222; padding-left:16px; }
+  .word { padding:2px 4px; margin-right:2px; cursor:pointer; border-radius:4px; }
+  .word.active { background:#ffeb3b; color:#000; }
+  canvas { display:block; margin-top:6px; border:1px solid #444; background:#111; border-radius:4px; }
+  #wave { cursor: pointer; }
+  #au   { cursor: pointer; }
 
-  /* Sentiment & Emotion badges */
-  #sentLabel, #emoLabel {{
-    margin-top:10px;
-    font-size:16px;
-    font-weight:700;
-    display:inline-block;
-    padding:4px 10px;
-    border-radius:999px;
-    line-height:1.25;
-    letter-spacing:.2px;
-    background:#1d1f26;
-    color:#e7e7e7;
-  }}
-  #emoLabel{{ margin-left:10px; }}
-  #sentLabel.pos {{ background:#15803d; color:#fff; }}
-  #sentLabel.neg {{ background:#b91c1c; color:#fff; }}
-  #emoLabel.joy    {{ background:#d4f542; color:#1a1a1a; }}
-  #emoLabel.anger  {{ background:#ef4444; color:#fff; }}
-  #emoLabel.sad    {{ background:#60a5fa; color:#0a1a2b; }}
-  #emoLabel.neutral{{ background:#6b7280; color:#fff; }}
+  #sentLabel, #emoLabel {
+    margin-top:10px; font-size:16px; font-weight:700; display:inline-block;
+    padding:4px 10px; border-radius:999px; line-height:1.25; letter-spacing:.2px;
+    background:#1d1f26; color:#e7e7e7;
+  }
+  #emoLabel{ margin-left:10px; }
+  #sentLabel.pos { background:#15803d; color:#fff; }
+  #sentLabel.neg { background:#b91c1c; color:#fff; }
+  #emoLabel.joy    { background:#d4f542; color:#1a1a1a; }
+  #emoLabel.anger  { background:#ef4444; color:#fff; }
+  #emoLabel.sad    { background:#60a5fa; color:#0a1a2b; }
+  #emoLabel.neutral{ background:#6b7280; color:#fff; }
 
-  /* Pattern labels in a right-side column */
-  .patrow {{ display:flex; align-items:center; gap:10px; }}
-  .patlabels {{
-    width:80px;
-    display:flex; flex-direction:column;
-    justify-content:space-between;
-    height:{PAT_H}px;
-    font-size:12px; color:#bfbfbf;
-    line-height:1; user-select:none; text-align:left;
-  }}
-  .patlabels div {{ display:flex; align-items:center; height:{PAT_H//5}px; }}
+  .patrow { display:flex; align-items:center; gap:10px; }
+  .patlabels {
+    width:80px; display:flex; flex-direction:column; justify-content:space-between;
+    height:__PAT_H__px; font-size:12px; color:#bfbfbf; line-height:1; user-select:none; text-align:left;
+  }
+  .patlabels div { display:flex; align-items:center; height:__PAT_H_DIV__px; }
+
+  /* Right column mini-graphs */
+  .mini { margin-top:14px; }
+  .mini h4 { margin:8px 0 4px; font-size:14px; color:#cfcfcf; font-weight:600; }
+  .row2 { display:flex; gap:10px; align-items:center; }
+  .cellnote { font-size:12px; color:#bfbfbf; margin-top:4px; }
+
+  .kpi.small { font-size:14px; font-weight:700; padding:6px 10px; border-radius:8px; display:inline-block; background:#1d1f26; }
+
+  .helpicon { font-weight:800; margin-left:6px; color:#9aa0a6; cursor:help; }
 </style></head>
 <body>
 <div class="wrap">
   <div>
-    <video id="v" controls src="{video_src}"></video>
+    <video id="v" controls src="__VIDEO_SRC__"></video>
 
     <div class="panel">
       <label><input type="checkbox" id="autos" checked> Auto-scroll transcript</label>
     </div>
 
     <div class="lbl">Waveform</div>
-    <canvas id="wave" width="{CANVAS_W}" height="{CANVAS_H}"></canvas>
+    <canvas id="wave" width="__CANVAS_W__" height="__CANVAS_H__"></canvas>
 
-    {"<div class='lbl'>Sentiment (text)</div>" if len(sents)>0 else ""}
-    {"<canvas id='sentbar'  width='"+str(CANVAS_W)+"' height='"+str(SENT_H)+"'></canvas>" if len(sents)>0 else ""}
-
-    {"<div class='lbl'>Text ↔ Face Agreement</div>" if (len(sents)>0 and len(of_bundle)>0) else ""}
-    {"<canvas id='agreebar' width='"+str(CANVAS_W)+"' height='"+str(AGREE_H)+"'></canvas>" if (len(sents)>0 and len(of_bundle)>0) else ""}
-
-    {"<div class='lbl'>Emotion (AUs)</div>" if len(of_bundle)>0 else ""}
-    {"<canvas id='emoband'  width='"+str(CANVAS_W)+"' height='"+str(EMO_H)+"'></canvas>" if len(of_bundle)>0 else ""}
-
-    {"<div class='lbl'>Patterns (click ticks to seek)</div>" if len(patterns)>0 else ""}
-    {(
-      "<div class='patrow'>"
-      + "<canvas id='pat' width='"+str(CANVAS_W)+"' height='"+str(PAT_H)+"' style='margin-top:2px;'></canvas>"
-      + "<div class='patlabels'><div>Smile</div><div>Frown</div><div>Gaze</div><div>Gesture</div><div>Prosody</div></div>"
-      + "</div>"
-      ) if len(patterns)>0 else ""}
+    __SENT_BLOCK__
+    __AGREE_BLOCK__
+    __EMO_BLOCK__
+    __PAT_BLOCK__
 
     <div id="sentLabel"></div>
     <div id="emoLabel"></div>
 
-    {"<div class='lbl'>Action Units</div>" if len(of_bundle)>0 else ""}
-    {"<canvas id='au' width='"+str(CANVAS_W)+"' height='"+str(AU_H)+"'></canvas>" if len(of_bundle)>0 else ""}
+    __AU_BLOCK__
   </div>
 
   <div class="right">
     <div class="transcript" id="tx"></div>
+
+    <!-- RIGHT: Mini-graphs -->
+    <div class="mini">
+      <h4>Sentiment time %</h4>
+      <div class="row2">
+        <canvas id="donut" width="140" height="140" style="border:none;background:transparent;"></canvas>
+        <div class="cellnote" id="donutTxt"></div>
+      </div>
+    </div>
+
+    <div class="mini">
+      <h4>Signal coverage</h4>
+      <div class="kpi small" id="covKPI"></div>
+    </div>
+
+    <div class="mini">
+      <h4>Text ↔ Face agreement (time-weighted)</h4>
+      <canvas id="mat" width="220" height="160" style="border:1px solid #444;"></canvas>
+      <div class="cellnote">Rows = Text (Pos/Neg), Columns = Face (Pos/Neg)</div>
+    </div>
+
   </div>
 </div>
 
 <script>
-const words    = {json.dumps(read_transcript_records(vid))};
-const samples  = {json.dumps(samples)};
-const sents    = {json.dumps(sents)};
-const ofBundle = {json.dumps(of_bundle)};
-const auToPlot = {json.dumps(au_to_plot)};
-const patterns = {json.dumps(patterns)};
+const words    = __WORDS_JSON__;
+const samples  = __SAMPLES_JSON__;
+const sents    = __SENTS_JSON__;
+const ofBundle = __OFBUNDLE_JSON__;
+const auToPlot = __AUPLOT_JSON__;
+const patterns = __PAT_JSON__;
 
+// coverage numbers passed from Python (video/text/face/both, in seconds)
+const COVER    = __COVER_JSON__;
+
+// DOM
 const v = document.getElementById("v");
 const box = document.getElementById("tx");
 const autos = document.getElementById("autos");
@@ -624,10 +719,17 @@ const emoLabel  = document.getElementById("emoLabel");
 const aucvs = document.getElementById("au");
 const auctx = aucvs ? aucvs.getContext("2d") : null;
 
+// Right-column canvases
+const donutCanvas = document.getElementById("donut");
+const donutCtx    = donutCanvas ? donutCanvas.getContext("2d") : null;
+const donutTxt    = document.getElementById("donutTxt");
+const matCanvas   = document.getElementById("mat");
+const matCtx      = matCanvas ? matCanvas.getContext("2d") : null;
+
 // ---------- Transcript ----------
-function renderTranscript() {{
+function renderTranscript() {
   const frag = document.createDocumentFragment();
-  for (let i=0;i<words.length;i++) {{
+  for (let i=0;i<words.length;i++) {
     const w = words[i];
     const span = document.createElement("span");
     span.className = "word";
@@ -637,66 +739,66 @@ function renderTranscript() {{
     span.textContent = w.word + " ";
     span.onclick = () => v.currentTime = w.start;
 
-    if (sents && sents.length) {{
+    if (sents && sents.length) {
       const s = sents.find(ss => w.start >= ss.start && w.end <= ss.end);
-      if (s) {{
+      if (s) {
         const sc = (typeof s.score === "number" ? s.score.toFixed(2) : s.score);
         const po = (typeof s.polarity === "number" ? s.polarity.toFixed(2) : s.polarity);
-        span.title = `Sentiment: ${{s.label}} | Score: ${{sc}} | Polarity: ${{po}}`;
-      }}
-    }}
+        span.title = `Sentiment: ${s.label} | Score: ${sc} | Polarity: ${po}`;
+      }
+    }
     frag.appendChild(span);
-  }}
+  }
   box.innerHTML = "";
   box.appendChild(frag);
-}}
+}
 renderTranscript();
-function spans() {{ return box.children; }}
+function spans() { return box.children; }
 
 // ---------- Waveform (click-to-seek) ----------
-function drawWaveform(time) {{
+function drawWaveform(time) {
   ctx.clearRect(0,0,cvs.width,cvs.height);
   const mid = cvs.height * 0.5;
   const L = samples.length || 1;
   ctx.beginPath(); ctx.moveTo(0, mid);
-  for (let i=0;i<L;i++) {{
+  for (let i=0;i<L;i++) {
     const x = i * (cvs.width / L);
     const y = mid - samples[i] * (cvs.height * 0.45);
     ctx.lineTo(x, y);
-  }}
+  }
   ctx.strokeStyle = "#0f0"; ctx.lineWidth = 1; ctx.stroke();
-  if (v.duration) {{
+  if (v.duration) {
     const x = (time / v.duration) * cvs.width;
     ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, cvs.height);
     ctx.strokeStyle = "red"; ctx.lineWidth = 1; ctx.stroke();
-  }}
-}}
-if (cvs) {{
-  cvs.addEventListener("click", (e) => {{
+  }
+}
+if (cvs) {
+  cvs.addEventListener("click", (e) => {
     if (!v.duration) return;
     const rect = cvs.getBoundingClientRect();
     const x = e.clientX - rect.left;
     v.currentTime = Math.min(Math.max(x / cvs.width, 0), 1) * v.duration;
-  }});
-}}
+  });
+}
 
 // ---------- Sentiment bar ----------
-function drawSentiment() {{
+function drawSentiment() {
   if (!sentCtx || !v.duration) return;
   sentCtx.clearRect(0,0,sentCanvas.width,sentCanvas.height);
-  for (const s of sents) {{
+  for (const s of sents) {
     const x0 = (s.start / v.duration) * sentCanvas.width;
     const x1 = (s.end   / v.duration) * sentCanvas.width;
     const pol = Math.max(-1, Math.min(1, Number(s.polarity||0)));
     const g = Math.round(200 * Math.max(0,  pol));
     const r = Math.round(200 * Math.max(0, -pol));
-    sentCtx.fillStyle = `rgb(${{r}},${{g}},0)`;
+    sentCtx.fillStyle = `rgb(${r},${g},0)`;
     sentCtx.fillRect(x0, 0, Math.max(1, x1-x0), sentCanvas.height);
-  }}
-}}
+  }
+}
 
 // ---------- Emotion mapping (rule-based from AUs) ----------
-function computeEmotionAt(i) {{
+function computeEmotionAt(i) {
   if (!ofBundle || !ofBundle.aus) return "NEUTRAL";
   const aus = ofBundle.aus;
   const get = (k) => (aus[k] && typeof aus[k][i] === "number") ? aus[k][i] : 0;
@@ -709,12 +811,12 @@ function computeEmotionAt(i) {{
   if ((AU04 > 1.2 && AU05 > 0.5) || AU07 > 1.0) return "ANGER";
   if ((AU01 + AU04) > 1.5 && AU15 > 0.5) return "SAD";
   return "NEUTRAL";
-}}
-function drawEmotionBand() {{
+}
+function drawEmotionBand() {
   if (!emoCtx || !ofBundle.time || !v.duration) return;
   const W = emoCanvas.width, H = emoCanvas.height, T = ofBundle.time;
   emoCtx.clearRect(0,0,W,H);
-  for (let i=0;i<T.length-1;i++) {{
+  for (let i=0;i<T.length-1;i++) {
     const x0 = (T[i]   / v.duration) * W;
     const x1 = (T[i+1] / v.duration) * W;
     const emo = computeEmotionAt(i);
@@ -724,43 +826,43 @@ function drawEmotionBand() {{
     else if (emo === "SAD") color = "#6aa0ff";
     emoCtx.fillStyle = color;
     emoCtx.fillRect(x0, 0, Math.max(1, x1-x0), H);
-  }}
-}}
+  }
+}
 
-// ---------- Agreement bar (text vs face valence) ----------
-function facialValenceAt(i) {{
-  const aus = ofBundle.aus || {{}};
+// ---------- Agreement bar ----------
+function facialValenceAt(i) {
+  const aus = ofBundle.aus || {};
   const get = (k) => (aus[k] && typeof aus[k][i] === "number") ? aus[k][i] : 0;
   return get("AU12_r") - 0.5*(get("AU04_r") + get("AU15_r")); // >0 => positive face
-}}
-function sentimentAtTime(t) {{
+}
+function sentimentAtTime(t) {
   if (!sents || !sents.length) return null;
   for (const s of sents) if (t >= s.start && t <= s.end) return s;
   return null;
-}}
-function drawAgreement() {{
+}
+function drawAgreement() {
   if (!agreeCtx || !ofBundle.time || !v.duration) return;
   const W = agreeCanvas.width, H = agreeCanvas.height, T = ofBundle.time;
   agreeCtx.clearRect(0,0,W,H);
-  for (let i=0;i<T.length-1;i++) {{
+  for (let i=0;i<T.length-1;i++) {
     const mid = (T[i] + T[i+1]) * 0.5;
     const seg = sentimentAtTime(mid);
     const x0 = (T[i]   / v.duration) * W;
     const x1 = (T[i+1] / v.duration) * W;
     let color = "#444";
-    if (seg) {{
+    if (seg) {
       const pol = Number(seg.polarity || 0);
       const fval = facialValenceAt(i);
       const agree = (pol >= 0 && fval >= 0) || (pol < 0 && fval < 0);
       color = agree ? "#19d17c" : "#ff8a65";
-    }}
+    }
     agreeCtx.fillStyle = color;
     agreeCtx.fillRect(x0, 0, Math.max(1, x1-x0), H);
-  }}
-}}
+  }
+}
 
-// ---------- Pattern ticks (Smile/Frown/Gaze/Gesture/Prosody) ----------
-function drawPatterns() {{
+// ---------- Pattern ticks ----------
+function drawPatterns() {
   if (!patCtx || !patterns || !patterns.time || !v.duration) return;
   const W = patCanvas.width, H = patCanvas.height;
   patCtx.clearRect(0,0,W,H);
@@ -769,69 +871,69 @@ function drawPatterns() {{
   const laneY = (rowIdx) => Math.round(((rowIdx + 0.5) / ROWS) * H);
 
   const lanes = [
-    {{key:"AU12_r_peaks",   color:"#7dd3fc", y: laneY(0)}},  // Smile
-    {{key:"AU04_r_peaks",   color:"#f472b6", y: laneY(1)}},  // Frown
-    {{key:"gaze_shifts",    color:"#facc15", y: laneY(2)}},  // Gaze
-    {{key:"gesture_bursts", color:"#34d399", y: laneY(3)}},  // Gesture
-    {{key:"prosody_changes",color:"#a78bfa", y: laneY(4)}},  // Prosody
+    {key:"AU12_r_peaks",   color:"#7dd3fc", y: laneY(0)},
+    {key:"AU04_r_peaks",   color:"#f472b6", y: laneY(1)},
+    {key:"gaze_shifts",    color:"#facc15", y: laneY(2)},
+    {key:"gesture_bursts", color:"#34d399", y: laneY(3)},
+    {key:"prosody_changes",color:"#a78bfa", y: laneY(4)},
   ];
 
-  function xOfIdx(i){{ return (patterns.time[Math.min(i, patterns.time.length-1)] / v.duration) * W; }}
+  function xOfIdx(i){ return (patterns.time[Math.min(i, patterns.time.length-1)] / v.duration) * W; }
 
   patCanvas._tickTimes = [];
 
-  lanes.forEach(l => {{
+  lanes.forEach(l => {
     const arr = patterns[l.key];
     if (!arr) return;
     patCtx.strokeStyle = l.color;
     patCtx.lineWidth = 2;
-    arr.forEach(i => {{
+    arr.forEach(i => {
       const x = xOfIdx(i);
       patCtx.beginPath(); patCtx.moveTo(x, l.y-6); patCtx.lineTo(x, l.y+6); patCtx.stroke();
       patCanvas._tickTimes.push(x / W * v.duration);
-    }});
-  }});
+    });
+  });
 
   const x = (v.currentTime / v.duration) * W;
   patCtx.beginPath(); patCtx.moveTo(x, 0); patCtx.lineTo(x, H);
   patCtx.strokeStyle = "red"; patCtx.lineWidth = 1; patCtx.stroke();
-}}
+}
 
-if (patCanvas) {{
-  patCanvas.addEventListener("click", (e) => {{
+if (patCanvas) {
+  patCanvas.addEventListener("click", (e) => {
     if (!v.duration || !patCanvas._tickTimes || !patCanvas._tickTimes.length) return;
     const rect = patCanvas.getBoundingClientRect();
     const x = e.clientX - rect.left;
     const t = Math.min(Math.max(x / patCanvas.width, 0), 1) * v.duration;
-    // snap to nearest tick (≤1s) if available; else jump to position
+    // snap to nearest tick (≤1s)
     let best = t, bestd = 1e9;
-    for (const tt of patCanvas._tickTimes) {{
+    for (const tt of patCanvas._tickTimes) {
       const d = Math.abs(t - tt);
-      if (d < bestd) {{ best = tt; bestd = d; }}
-    }}
+      if (d < bestd) { best = tt; bestd = d; }
+    }
     v.currentTime = (bestd < 1.0) ? best : t;
-  }});
-}}
+  });
+}
 
 // ---------- AUs (click-to-seek) ----------
 const AU_COLORS = ["#4da6ff", "#ffd24d", "#ff66cc", "#66ff99", "#ff8c66", "#b366ff"];
-function drawAUs(time) {{
+function drawAUs(time) {
   if (!auctx || !ofBundle.aus || !ofBundle.time || !v.duration) return;
   const W = aucvs.width, H = aucvs.height;
   auctx.clearRect(0,0,W,H);
   const xFromSec = s => (s / v.duration) * W;
 
   const T = ofBundle.time;
-  auToPlot.forEach((auName, k) => {{
-    const arr = (ofBundle.aus || {{}})[auName];
+  auToPlot.forEach((auName, k) => {
+    const arr = (ofBundle.aus || {})[auName];
     if (!arr) return;
     const maxV = 5.0;
     auctx.beginPath();
-    for (let i=0;i<arr.length;i++) {{
+    for (let i=0;i<arr.length;i++) {
       const x = xFromSec(T[i]);
       const y = H - (Math.max(0, Math.min(arr[i], maxV)) / maxV) * (H - 14) - 7;
       if (i===0) auctx.moveTo(x,y); else auctx.lineTo(x,y);
-    }}
+    }
     auctx.strokeStyle = AU_COLORS[k % AU_COLORS.length];
     auctx.lineWidth = 1.2; auctx.stroke();
 
@@ -840,59 +942,193 @@ function drawAUs(time) {{
     auctx.fillStyle = "#ddd";
     auctx.font = "12px system-ui, sans-serif";
     auctx.fillText(auName, 20 + k*90, 15);
-  }});
+  });
 
   const x = xFromSec(time);
   auctx.beginPath(); auctx.moveTo(x, 0); auctx.lineTo(x, H);
   auctx.strokeStyle = "red"; auctx.lineWidth = 1; auctx.stroke();
-}}
-if (aucvs) {{
-  aucvs.addEventListener("click", (e) => {{
+}
+if (aucvs) {
+  aucvs.addEventListener("click", (e) => {
     if (!v.duration) return;
     const rect = aucvs.getBoundingClientRect();
     const x = e.clientX - rect.left;
     v.currentTime = Math.min(Math.max(x / aucvs.width, 0), 1) * v.duration;
-  }});
-}}
+  });
+}
+
+// ---------- Right-column: mini-graphs data ----------
+function totalSentimentTime() {
+  if (!sents || !sents.length) return {pos:0, neg:0, tot:0};
+  let pos=0, neg=0, tot=0;
+  for (const s of sents) {
+    const st = +s.start || 0, en = Math.max(st, +s.end || st);
+    const d = Math.max(0, en - st);
+    tot += d;
+    const lab = (s.label && s.label.toUpperCase()) || ((+s.polarity||0)>=0 ? "POSITIVE":"NEGATIVE");
+    if (lab === "POSITIVE") pos += d; else neg += d;
+  }
+  return {pos, neg, tot};
+}
+function faceValenceAtTime(t) {
+  if (!ofBundle || !ofBundle.time || !ofBundle.aus) return 0;
+  const T = ofBundle.time;
+  // nearest index
+  let i=0;
+  while (i+1<T.length && Math.abs(T[i+1]-t) < Math.abs(T[i]-t)) i++;
+  const aus = ofBundle.aus;
+  const get=(k)=> (aus[k]&&typeof aus[k][i]==="number")? aus[k][i]:0;
+  const val = get("AU12_r") - 0.5*(get("AU04_r")+get("AU15_r"));
+  return val; // >0 positive, <0 negative
+}
+function agreementMatrix() {
+  // time-weighted confusion between text sign vs face sign
+  const bins = [[0,0],[0,0]];
+  if (!sents || !sents.length || !ofBundle || !ofBundle.time) return bins;
+  const T = ofBundle.time;
+  for (let i=0;i<T.length-1;i++){
+    const mid = (T[i]+T[i+1])*0.5;
+    const seg = sentimentAtTime(mid);
+    if (!seg) continue;
+    const textPos = ((seg.label && seg.label.toUpperCase()==="POSITIVE") || (+seg.polarity||0)>=0);
+    const facePos = faceValenceAtTime(mid) >= 0;
+    const dur = Math.max(0, T[i+1]-T[i]);
+    if (textPos && facePos) bins[0][0]+=dur;
+    else if (textPos && !facePos) bins[0][1]+=dur;
+    else if (!textPos && facePos) bins[1][0]+=dur;
+    else bins[1][1]+=dur;
+  }
+  return bins;
+}
+
+// ---------- Right-column: rendering ----------
+function drawDonut() {
+  if (!donutCtx) return;
+  donutCtx.clearRect(0,0,donutCanvas.width,donutCanvas.height);
+  const {pos,neg,tot} = totalSentimentTime();
+  const pct = tot>0 ? (pos/tot) : 0;
+  const cx = donutCanvas.width/2, cy = donutCanvas.height/2, r=56, t=18;
+  const start = -Math.PI/2;
+  const endPos = start + 2*Math.PI*pct;
+
+  // ring background
+  donutCtx.beginPath();
+  donutCtx.arc(cx,cy,r,0,2*Math.PI);
+  donutCtx.strokeStyle = "#333"; donutCtx.lineWidth = t; donutCtx.stroke();
+
+  // positive arc
+  donutCtx.beginPath();
+  donutCtx.arc(cx,cy,r,start,endPos);
+  donutCtx.strokeStyle = "#19d17c"; donutCtx.lineWidth = t; donutCtx.stroke();
+
+  // negative arc
+  donutCtx.beginPath();
+  donutCtx.arc(cx,cy,r,endPos,start+2*Math.PI);
+  donutCtx.strokeStyle = "#ff6b6b"; donutCtx.lineWidth = t; donutCtx.stroke();
+
+  donutCtx.fillStyle="#e7e7e7"; donutCtx.font="bold 16px system-ui, sans-serif";
+  donutCtx.textAlign="center"; donutCtx.textBaseline="middle";
+  donutCtx.fillText(`${(pct*100).toFixed(0)}%`, cx, cy);
+
+  if (donutTxt) {
+    donutTxt.innerHTML = `
+      <div><b>Positive time:</b> ${(pct*100).toFixed(1)}%</div>
+      <div><b>Negative time:</b> ${((1-pct)*100).toFixed(1)}%</div>
+    `;
+  }
+}
+
+// Coverage KPI only
+function setCoverageKPI() {
+  const el = document.getElementById("covKPI");
+  if (!el || !COVER) return;
+  const v = Number(COVER.video||0), tx = Number(COVER.text||0), fc = Number(COVER.face||0), bo = Number(COVER.both||0);
+  const pct = (x,den) => den>0 ? (100*x/den).toFixed(1) : "0.0";
+  el.textContent = `Text: ${tx.toFixed(1)}s (${pct(tx,v)}%) | Face: ${fc.toFixed(1)}s (${pct(fc,v)}%) | Both: ${bo.toFixed(1)}s (${pct(bo,v)}%) of ${v.toFixed(1)}s`;
+}
+
+function drawMatrix() {
+  if (!matCtx) return;
+  const bins = agreementMatrix();
+  matCtx.clearRect(0,0,matCanvas.width,matCanvas.height);
+  const W = matCanvas.width, H = matCanvas.height;
+  const pad = 30, cellW = (W - pad*1.5)/2, cellH = (H - pad*1.6)/2;
+  const baseX = pad*0.7, baseY = pad*0.6;
+
+  const max = Math.max(1, bins[0][0], bins[0][1], bins[1][0], bins[1][1]);
+
+  function cell(x,y,val,goodColor){
+    const ratio = val/max;
+    const col = goodColor ? `rgba(25,209,124,${0.25+0.65*ratio})`
+                          : `rgba(255,138,101,${0.25+0.65*ratio})`;
+    matCtx.fillStyle = col;
+    matCtx.fillRect(x,y,cellW,cellH);
+    matCtx.strokeStyle="#666"; matCtx.strokeRect(x,y,cellW,cellH);
+    matCtx.fillStyle="#e7e7e7"; matCtx.font="12px system-ui, sans-serif";
+    matCtx.textAlign="center"; matCtx.textBaseline="middle";
+    matCtx.fillText(val.toFixed(1)+"s", x+cellW/2, y+cellH/2);
+  }
+
+  // labels
+  matCtx.fillStyle="#bfbfbf"; matCtx.font="12px system-ui, sans-serif";
+  matCtx.fillText("Face +", baseX + cellW*0.5, baseY-10);
+  matCtx.fillText("Face −", baseX + cellW*1.5 + pad*0.3, baseY-10);
+  matCtx.save();
+  matCtx.translate(10, baseY + cellH*0.5);
+  matCtx.rotate(-Math.PI/2);
+  matCtx.fillText("Text +", 0, 0);
+  matCtx.restore();
+  matCtx.save();
+  matCtx.translate(10, baseY + cellH*1.5 + pad*0.3);
+  matCtx.rotate(-Math.PI/2);
+  matCtx.fillText("Text −", 0, 0);
+  matCtx.restore();
+
+  // cells (TP/TN diagonals are "good")
+  cell(baseX,                    baseY,                    bins[0][0], true ); // text+, face+
+  cell(baseX+cellW+pad*0.3,     baseY,                    bins[0][1], false); // text+, face-
+  cell(baseX,                    baseY+cellH+pad*0.3,     bins[1][0], false); // text-, face+
+  cell(baseX+cellW+pad*0.3,     baseY+cellH+pad*0.3,     bins[1][1], true ); // text-, face-
+}
 
 // ---------- Emotion label helper ----------
-function emotionAtTime(tSec) {{
+function emotionAtTime(tSec) {
   if (!ofBundle || !ofBundle.time || !ofBundle.time.length) return "NEUTRAL";
   const T = ofBundle.time;
   let i = 0;
   while (i+1 < T.length && Math.abs(T[i+1] - tSec) < Math.abs(T[i] - tSec)) i++;
   return computeEmotionAt(i);
-}}
+}
 
 // ---------- Scrub-safe highlighting ----------
 let active = -1;
-function clearActive() {{
+function clearActive() {
   if (!box) return;
   const cs = spans();
   for (let k = 0; k < cs.length; k++) cs[k].classList.remove("active");
   active = -1;
-}}
+}
 
 // ---------- Sync ----------
-function syncLoop() {{
+function syncLoop() {
   const t = Math.max(0, v.currentTime);
 
   // transcript pointer
   let i = active;
-  if (i<0 || i>=words.length || t<words[i].start || t>=words[i].end) {{
+  if (i<0 || i>=words.length || t<words[i].start || t>=words[i].end) {
     while (i+1<words.length && t>=words[i+1].start) i++;
     while (i>0 && t<words[i].start) i--;
-  }}
+  }
   const ok = i>=0 && i<words.length && t>=words[i].start && t<words[i].end;
-  if (ok && i!==active) {{
+  if (ok && i!==active) {
     if (active>=0) spans()[active].classList.remove("active");
     spans()[i].classList.add("active");
     active = i;
-    if (autos && autos.checked) {{
+    if (autos && autos.checked) {
       const el = spans()[i], pr = box.getBoundingClientRect(), er = el.getBoundingClientRect();
-      if (er.top < pr.top || er.bottom > pr.bottom) el.scrollIntoView({{block:"center", behavior:"smooth"}});
-    }}
-  }}
+      if (er.top < pr.top || er.bottom > pr.bottom) el.scrollIntoView({block:"center", behavior:"smooth"});
+    }
+  }
 
   drawWaveform(t);
   if (sentCtx)  drawSentiment();
@@ -902,37 +1138,42 @@ function syncLoop() {{
   if (auctx)    drawAUs(t);
 
   // dynamic badges
-  if (sents && sents.length && v.duration) {{
+  if (sents && sents.length && v.duration) {
     const seg = sents.find(ss => t >= ss.start && t <= ss.end);
-    if (seg) {{
+    if (seg) {
       const label = seg.label ? seg.label.toUpperCase() : (seg.polarity >= 0 ? "POSITIVE" : "NEGATIVE");
       const nice  = label.charAt(0) + label.slice(1).toLowerCase();
       sentLabel.textContent = "Sentiment: " + nice;
       sentLabel.className = (label === "POSITIVE") ? "pos" : "neg";
-    }} else {{
+    } else {
       sentLabel.textContent = ""; sentLabel.className = "";
-    }}
-  }}
+    }
+  }
 
-  if (ofBundle && ofBundle.time && ofBundle.time.length) {{
+  if (ofBundle && ofBundle.time && ofBundle.time.length) {
     const emo = emotionAtTime(t);
     let cls = "neutral", pretty = "Neutral";
-    if (emo === "JOY")    {{ cls = "joy";   pretty = "Joy"; }}
-    if (emo === "ANGER")  {{ cls = "anger"; pretty = "Anger"; }}
-    if (emo === "SAD")    {{ cls = "sad";   pretty = "Sad"; }}
+    if (emo === "JOY")    { cls = "joy";   pretty = "Joy"; }
+    if (emo === "ANGER")  { cls = "anger"; pretty = "Anger"; }
+    if (emo === "SAD")    { cls = "sad";   pretty = "Sad"; }
     emoLabel.textContent = "Emotion: " + pretty;
     emoLabel.className = cls;
-  }} else {{
+  } else {
     emoLabel.textContent = "";
     emoLabel.className = "";
-  }}
+  }
+
+  // Right mini-graphs refresh (cheap)
+  drawDonut();
+  setCoverageKPI();
+  drawMatrix();
 
   requestAnimationFrame(syncLoop);
-}}
+}
 v.addEventListener("play", () => requestAnimationFrame(syncLoop));
 v.addEventListener("pause", clearActive);
 v.addEventListener("seeking", clearActive);
-v.addEventListener("seeked", () => {{
+v.addEventListener("seeked", () => {
   const t = Math.max(0, v.currentTime);
   drawWaveform(t);
   if (sentCtx)  drawSentiment();
@@ -940,7 +1181,10 @@ v.addEventListener("seeked", () => {{
   if (emoCtx)   drawEmotionBand();
   if (patCtx)   drawPatterns();
   if (auctx)    drawAUs(t);
-}});
+  drawDonut();
+  setCoverageKPI();
+  drawMatrix();
+});
 
 // init
 drawWaveform(0);
@@ -949,13 +1193,68 @@ if (agreeCtx) drawAgreement();
 if (emoCtx)   drawEmotionBand();
 if (patCtx)   drawPatterns();
 if (auctx)    drawAUs(0);
+drawDonut();
+setCoverageKPI();
+drawMatrix();
 </script>
 </body></html>
 """
 
+SENT_BLOCK = (
+    f"<div class='lbl'>Sentiment (text)</div>"
+    f"<canvas id='sentbar' width='{CANVAS_W}' height='{SENT_H}'></canvas>"
+    if len(sents) > 0 else ""
+)
+AGREE_BLOCK = (
+    f"<div class='lbl'>Text ↔ Face Agreement</div>"
+    f"<canvas id='agreebar' width='{CANVAS_W}' height='{AGREE_H}'></canvas>"
+    if (len(sents) > 0 and len(of_bundle) > 0) else ""
+)
+EMO_BLOCK = (
+    f"<div class='lbl'>Emotion (AUs)</div>"
+    f"<canvas id='emoband' width='{CANVAS_W}' height='{EMO_H}'></canvas>"
+    if len(of_bundle) > 0 else ""
+)
+PAT_BLOCK = (
+    "<div class='lbl'>Patterns (click ticks to seek)</div>"
+    "<div class='patrow'>"
+    f"<canvas id='pat' width='{CANVAS_W}' height='{PAT_H}' style='margin-top:2px;'></canvas>"
+    "<div class='patlabels'><div>Smile</div><div>Frown</div><div>Gaze</div><div>Gesture</div><div>Prosody</div></div>"
+    "</div>"
+    if len(patterns) > 0 else ""
+)
+# Action Units label + tooltip
+AU_BLOCK = (
+    "<div class='lbl'>Action Units "
+    "<span class='helpicon' title='AU06_r: Cheek Raiser (Duchenne smile)\nAU12_r: Lip Corner Puller (smile)\nAU04_r: Brow Lowerer (frown)'> ( ? )</span></div>"
+    f"<canvas id='au' width='{CANVAS_W}' height='{AU_H}'></canvas>"
+    if len(of_bundle) > 0 else ""
+)
+
+component_html = (
+    HTML_TEMPLATE
+    .replace("__VIDEO_SRC__", video_src)
+    .replace("__CANVAS_W__", str(CANVAS_W))
+    .replace("__CANVAS_H__", str(CANVAS_H))
+    .replace("__SENT_BLOCK__", SENT_BLOCK)
+    .replace("__AGREE_BLOCK__", AGREE_BLOCK)
+    .replace("__EMO_BLOCK__", EMO_BLOCK)
+    .replace("__PAT_BLOCK__", PAT_BLOCK)
+    .replace("__AU_BLOCK__", AU_BLOCK)
+    .replace("__PAT_H__", str(PAT_H))
+    .replace("__PAT_H_DIV__", str(PAT_H//5))
+    .replace("__WORDS_JSON__", WORDS_JSON)
+    .replace("__SAMPLES_JSON__", SAMPLES_JSON)
+    .replace("__SENTS_JSON__", SENTS_JSON)
+    .replace("__OFBUNDLE_JSON__", OFBUNDLE_JSON)
+    .replace("__AUPLOT_JSON__", AUPLOT_JSON)
+    .replace("__PAT_JSON__", PAT_JSON)
+    .replace("__COVER_JSON__", json.dumps(COVER_DICT))
+)
+
 st_html(
     component_html,
-    height= 960 if (len(of_bundle)>0 or len(patterns)>0) else (800 if len(sents)>0 else 740),
+    height= 980 if (len(of_bundle)>0 or len(patterns)>0) else (860 if len(sents)>0 else 780),
     scrolling=True
 )
 
@@ -997,7 +1296,7 @@ if sents:
                 st.warning("Could not write to Google Sheets; saving locally as fallback.")
                 st.caption(f"(Sheets error: {e})")
 
-            # Local CSV fallback (and optional backup even if Sheets worked)
+            # Local CSV fallback
             try:
                 fb_path = FB_DIR / f"{vid}.csv"
                 write_header = not fb_path.exists()
